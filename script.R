@@ -77,7 +77,7 @@ scope <- df %>%
   ) %>%
   filter(!is.na(group) & scientificName != "Homo sapiens")
 
-site_names <- unique(scope$name_simplified)
+site_names <- unique(sites$name_simplified)
 
 for (site in site_names) {
   site_list <- scope %>%
