@@ -1,0 +1,70 @@
+{
+  "created": "2023-07-27T20:41:02",
+  "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Atheriniformes",
+      "family": "Atherinidae",
+      "genus": "Hypoatherina",
+      "species": "Hypoatherina barnesi",
+      "scientificName": "Hypoatherina barnesi",
+      "site_name": "East Rennell",
+      "records": 2,
+      "max_year": 1965,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Exocoetidae",
+      "genus": "Cypselurus",
+      "species": "Cypselurus opisthopus",
+      "scientificName": "Cypselurus opisthopus",
+      "site_name": "East Rennell",
+      "records": 2,
+      "max_year": 1933,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Xiphasia",
+      "species": "Xiphasia matsubarai",
+      "scientificName": "Xiphasia matsubarai",
+      "site_name": "East Rennell",
+      "records": 2,
+      "max_year": 1965,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Istiophoridae",
+      "genus": "Istiompax",
+      "species": "Istiompax indica",
+      "scientificName": "Istiompax indica",
+      "site_name": "East Rennell",
+      "records": 4,
+      "max_year": 2015,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Eleotridae",
+      "genus": "Eleotris",
+      "species": "Eleotris fusca",
+      "scientificName": "Eleotris fusca",
+      "site_name": "East Rennell",
+      "records": 1,
+      "max_year": 1953,
+      "group": "fish"
+    }
+  ]
+}

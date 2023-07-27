@@ -1,0 +1,73 @@
+{
+  "created": "2023-07-27T20:41:02",
+  "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Mobula",
+      "species": "Mobula mobular",
+      "scientificName": "Mobula mobular",
+      "redlist_category": "EN",
+      "site_name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "records": 1,
+      "max_year": 2009,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Molidae",
+      "genus": "Mola",
+      "species": "Mola mola",
+      "scientificName": "Mola mola",
+      "redlist_category": "VU",
+      "site_name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "records": 1,
+      "max_year": 2012,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "species": "Balaenoptera physalus",
+      "scientificName": "Balaenoptera physalus",
+      "redlist_category": "VU",
+      "site_name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "records": 2,
+      "max_year": 2018,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Grampus",
+      "species": "Grampus griseus",
+      "scientificName": "Grampus griseus",
+      "site_name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "records": 1,
+      "max_year": 1976,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Stenella",
+      "species": "Stenella coeruleoalba",
+      "scientificName": "Stenella coeruleoalba",
+      "site_name": "Gulf of Porto: Calanche of Piana, Gulf of Girolata, Scandola Reserve",
+      "records": 2,
+      "max_year": 2017,
+      "group": "mammal"
+    }
+  ]
+}

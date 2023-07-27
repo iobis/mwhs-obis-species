@@ -1,0 +1,44 @@
+{
+  "created": "2023-07-27T20:41:02",
+  "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Ziphiidae",
+      "genus": "Hyperoodon",
+      "species": "Hyperoodon ampullatus",
+      "scientificName": "Hyperoodon ampullatus",
+      "site_name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+      "records": 1,
+      "max_year": 2001,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Orcinus",
+      "species": "Orcinus orca",
+      "scientificName": "Orcinus orca",
+      "site_name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+      "records": 1,
+      "max_year": 2012,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Phocoenidae",
+      "genus": "Phocoena",
+      "species": "Phocoena phocoena",
+      "scientificName": "Phocoena phocoena",
+      "site_name": "West Norwegian Fjords – Geirangerfjord and Nærøyfjord",
+      "records": 8,
+      "max_year": 2012,
+      "group": "mammal"
+    }
+  ]
+}
