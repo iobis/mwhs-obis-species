@@ -11,7 +11,7 @@ library(glue)
 # configuration
 
 res <- 7
-export_file <- "obis_20230726.parquet"
+export_file <- "../temp/obis_20230726.parquet"
 shapefile <- "https://github.com/iobis/mwhs-shapes/raw/master/output/marine_world_heritage.gpkg"
 
 # index occurrences and load into sqlite
@@ -44,11 +44,14 @@ while (TRUE) {
 
 # index site shapes and load into sqlite
 
-sites <- read_sf(shapefile)
+sites <- read_sf(shapefile) %>%
+  mutate(
+    name_simplified = gsub("_+", "_", gsub("[^[:alnum:]]", "_", tolower(stri_trans_general(name, "latin-ascii"))))
+  )
 polys <- polygon_to_cells(sites, res)
 sites_h3 <- sites %>%
   st_drop_geometry() %>%
-  select(name) %>%
+  select(name_simplified) %>%
   mutate(h3 = polys) %>%
   tidyr::unnest(h3)
 
@@ -56,8 +59,8 @@ dbWriteTable(con, "sites", sites_h3, append = FALSE, overwrite = TRUE)
 
 # query sqlite
 
-df <- dbGetQuery(con, "select phylum, class, `order`, family, genus, species, scientificName, redlist_category, sites.name as site_name, sum(records) as records, max(max_year) as max_year from occurrence left join sites on sites.h3 = occurrence.h3 group by phylum, class, `order`, family, species, scientificName, redlist_category, sites.name") %>%
-  filter(!is.na(site_name) & !is.na(species) & !is.na(phylum)) %>%
+df <- dbGetQuery(con, "select phylum, class, `order`, family, genus, species, scientificName, redlist_category, sites.name_simplified, sum(records) as records, max(max_year) as max_year from occurrence left join sites on sites.h3 = occurrence.h3 group by phylum, class, `order`, family, species, scientificName, redlist_category, sites.name_simplified") %>%
+  filter(!is.na(name_simplified) & !is.na(species) & !is.na(phylum)) %>%
   mutate(max_year = ifelse(is.infinite(max_year), NA, max_year))
 
 fish_classes <- c("Actinopteri", "Cladistii", "Coelacanthi", "Elasmobranchii", "Holocephali", "Myxini", "Petromyzonti", "Teleostei")
@@ -72,17 +75,14 @@ scope <- df %>%
       class %in% mammal_classes ~ "mammal"
     )
   ) %>%
-  filter(!is.na(group) & scientificName != "Homo sapiens") %>%
-  mutate(
-    site_name_simple = gsub("_+", "_", gsub("[^[:alnum:]]", "_", tolower(stri_trans_general(site_name, "latin-ascii"))))
-  )
+  filter(!is.na(group) & scientificName != "Homo sapiens")
 
-sites <- unique(scope$site_name_simple)
+site_names <- unique(scope$name_simplified)
 
-for (site in sites) {
+for (site in site_names) {
   site_list <- scope %>%
-    filter(site_name_simple == site) %>%
-    select(-site_name_simple) %>%
+    filter(name_simplified == site) %>%
+    select(-name_simplified) %>%
     arrange(group, phylum, class, order, scientificName)
   json = toJSON(list(
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
