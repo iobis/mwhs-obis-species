@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:11",
+  "created": "2023-09-21T08:07:00",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Dasyatidae",
       "genus": "Bathytoshia",
       "species": "Bathytoshia centroura",
-      "scientificName": "Bathytoshia centroura",
+      "AphiaID": 1017389,
       "records": 6,
       "group": "fish"
     },
@@ -19,7 +19,7 @@
       "family": "Rhinobatidae",
       "genus": "Rhinobatos",
       "species": "Rhinobatos rhinobatos",
-      "scientificName": "Rhinobatos rhinobatos",
+      "AphiaID": 105898,
       "redlist_category": "EN",
       "records": 2,
       "group": "fish"
@@ -31,7 +31,7 @@
       "family": "Rhinobatidae",
       "genus": "Rhynchobatus",
       "species": "Rhynchobatus luebberti",
-      "scientificName": "Rhynchobatus luebberti",
+      "AphiaID": 278219,
       "redlist_category": "CR",
       "records": 1,
       "group": "fish"
@@ -43,7 +43,7 @@
       "family": "Polynemidae",
       "genus": "Galeoides",
       "species": "Galeoides decadactylus",
-      "scientificName": "Galeoides decadactylus",
+      "AphiaID": 126997,
       "redlist_category": "NT",
       "records": 3,
       "group": "fish"
@@ -55,7 +55,7 @@
       "family": "Sparidae",
       "genus": "Dentex",
       "species": "Dentex canariensis",
-      "scientificName": "Dentex canariensis",
+      "AphiaID": 273960,
       "records": 3,
       "max_year": 1973,
       "group": "fish"
@@ -67,7 +67,7 @@
       "family": "Sparidae",
       "genus": "Dentex",
       "species": "Dentex gibbosus",
-      "scientificName": "Dentex gibbosus",
+      "AphiaID": 273964,
       "records": 3,
       "group": "fish"
     },
@@ -78,7 +78,7 @@
       "family": "Sparidae",
       "genus": "Diplodus",
       "species": "Diplodus bellottii",
-      "scientificName": "Diplodus bellottii",
+      "AphiaID": 127050,
       "records": 3,
       "group": "fish"
     },
@@ -89,7 +89,7 @@
       "family": "Sparidae",
       "genus": "Diplodus",
       "species": "Diplodus cadenati",
-      "scientificName": "Diplodus cadenati",
+      "AphiaID": 998228,
       "records": 3,
       "group": "fish"
     },
@@ -100,7 +100,7 @@
       "family": "Sparidae",
       "genus": "Diplodus",
       "species": "Diplodus vulgaris",
-      "scientificName": "Diplodus vulgaris",
+      "AphiaID": 127054,
       "records": 3,
       "max_year": 1973,
       "group": "fish"
@@ -112,7 +112,7 @@
       "family": "Sparidae",
       "genus": "Pagrus",
       "species": "Pagrus caeruleostictus",
-      "scientificName": "Pagrus caeruleostictus",
+      "AphiaID": 127062,
       "records": 3,
       "group": "fish"
     },
@@ -123,7 +123,7 @@
       "family": "Haemulidae",
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus mediterraneus",
-      "scientificName": "Plectorhinchus mediterraneus",
+      "AphiaID": 126946,
       "records": 3,
       "max_year": 1973,
       "group": "fish"
@@ -135,7 +135,7 @@
       "family": "Haemulidae",
       "genus": "Pomadasys",
       "species": "Pomadasys incisus",
-      "scientificName": "Pomadasys incisus",
+      "AphiaID": 126947,
       "records": 3,
       "max_year": 1973,
       "group": "fish"
@@ -147,7 +147,7 @@
       "family": "Sparidae",
       "genus": "Spondyliosoma",
       "species": "Spondyliosoma cantharus",
-      "scientificName": "Spondyliosoma cantharus",
+      "AphiaID": 127066,
       "records": 3,
       "group": "fish"
     },
@@ -158,7 +158,7 @@
       "family": "Ophidiidae",
       "genus": "Dicrolene",
       "species": "Dicrolene introniger",
-      "scientificName": "Dicrolene introniger",
+      "AphiaID": 275895,
       "records": 21,
       "group": "fish"
     },
@@ -169,7 +169,7 @@
       "family": "Ophidiidae",
       "genus": "Monomitopus",
       "species": "Monomitopus metriostoma",
-      "scientificName": "Monomitopus metriostoma",
+      "AphiaID": 126674,
       "records": 2,
       "group": "fish"
     },
@@ -180,7 +180,7 @@
       "family": "Ophidiidae",
       "genus": "Porogadus",
       "species": "Porogadus nudus",
-      "scientificName": "Porogadus nudus",
+      "AphiaID": 275641,
       "records": 3,
       "group": "fish"
     },
@@ -191,7 +191,7 @@
       "family": "Serranidae",
       "genus": "Serranus",
       "species": "Serranus accraensis",
-      "scientificName": "Serranus accraensis",
+      "AphiaID": 273887,
       "records": 3,
       "max_year": 1973,
       "group": "fish"
@@ -203,7 +203,7 @@
       "family": "Cynoglossidae",
       "genus": "Cynoglossus",
       "species": "Cynoglossus senegalensis",
-      "scientificName": "Cynoglossus senegalensis",
+      "AphiaID": 274226,
       "redlist_category": "NT",
       "records": 3,
       "max_year": 1998,
@@ -216,7 +216,7 @@
       "family": "Soleidae",
       "genus": "Dicologlossa",
       "species": "Dicologlossa hexophthalma",
-      "scientificName": "Dicologlossa hexophthalma",
+      "AphiaID": 274298,
       "records": 3,
       "max_year": 1999,
       "group": "fish"
@@ -228,7 +228,7 @@
       "family": "Soleidae",
       "genus": "Monochirus",
       "species": "Monochirus atlanticus",
-      "scientificName": "Monochirus atlanticus",
+      "AphiaID": 1525242,
       "records": 1,
       "group": "fish"
     },
@@ -239,7 +239,7 @@
       "family": "Ariidae",
       "genus": "Carlarius",
       "species": "Carlarius heudelotii",
-      "scientificName": "Carlarius heudelotii",
+      "AphiaID": 712438,
       "records": 2,
       "group": "fish"
     },
@@ -250,7 +250,7 @@
       "family": "Monacanthidae",
       "genus": "Stephanolepis",
       "species": "Stephanolepis hispida",
-      "scientificName": "Stephanolepis hispida",
+      "AphiaID": 307126,
       "records": 3,
       "group": "fish"
     },
@@ -260,7 +260,7 @@
       "family": "Cheloniidae",
       "genus": "Caretta",
       "species": "Caretta caretta",
-      "scientificName": "Caretta caretta",
+      "AphiaID": 137205,
       "redlist_category": "VU",
       "records": 7,
       "max_year": 2019,

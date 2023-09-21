@@ -11,7 +11,7 @@ library(glue)
 # configuration
 
 res <- 7
-export_file <- "../temp/obis_20230726.parquet"
+export_file <- "~/Desktop/temp/obis_20230726.parquet"
 shapefile <- "https://github.com/iobis/mwhs-shapes/raw/master/output/marine_world_heritage.gpkg"
 
 # index occurrences and load into sqlite
@@ -21,7 +21,7 @@ row_to_geo <- function(row) {
 }
 
 reader <- open_dataset(export_file) %>%
-  select(decimalLongitude, decimalLatitude, phylum, class, order, family, genus, species, scientificName, date_year, redlist_category) %>%
+  select(decimalLongitude, decimalLatitude, phylum, class, order, family, genus, species, AphiaID, date_year, redlist_category) %>%
   as_record_batch_reader()
 
 if (file.exists("temp.db")) {
@@ -37,7 +37,7 @@ while (TRUE) {
   batch %>%
     as.data.frame() %>%
     mutate(h3 = row_to_geo(.)) %>%
-    group_by(h3, phylum, class, order, family, genus, species, scientificName, redlist_category) %>%
+    group_by(h3, phylum, class, order, family, genus, species, AphiaID, redlist_category) %>%
     summarize(records = n(), max_year = max(date_year, na.rm = TRUE)) %>%
     dbWriteTable(con, "occurrence", ., append = TRUE)
 }
@@ -59,7 +59,7 @@ dbWriteTable(con, "sites", sites_h3, append = FALSE, overwrite = TRUE)
 
 # query sqlite
 
-df <- dbGetQuery(con, "select phylum, class, `order`, family, genus, species, scientificName, redlist_category, sites.name_simplified, sum(records) as records, max(max_year) as max_year from occurrence left join sites on sites.h3 = occurrence.h3 group by phylum, class, `order`, family, species, scientificName, redlist_category, sites.name_simplified") %>%
+df <- dbGetQuery(con, "select phylum, class, `order`, family, genus, species, AphiaID, redlist_category, sites.name_simplified, sum(records) as records, max(max_year) as max_year from occurrence left join sites on sites.h3 = occurrence.h3 group by phylum, class, `order`, family, species, redlist_category, sites.name_simplified") %>%
   filter(!is.na(name_simplified) & !is.na(species) & !is.na(phylum)) %>%
   mutate(max_year = ifelse(is.infinite(max_year), NA, max_year))
 
@@ -75,7 +75,7 @@ scope <- df %>%
       class %in% mammal_classes ~ "mammal"
     )
   ) %>%
-  filter(!is.na(group) & scientificName != "Homo sapiens")
+  filter(!is.na(group) & species != "Homo sapiens")
 
 site_names <- unique(sites$name_simplified)
 
@@ -83,10 +83,12 @@ for (site in site_names) {
   site_list <- scope %>%
     filter(name_simplified == site) %>%
     select(-name_simplified) %>%
-    arrange(group, phylum, class, order, scientificName)
+    arrange(group, phylum, class, order, species)
   json = toJSON(list(
     created = unbox(strftime(as.POSIXlt(Sys.time(), "UTC"), "%Y-%m-%dT%H:%M:%S")),
     species = site_list
   ), pretty = TRUE)
   write(json, glue("lists/{site}.json"))
 }
+
+write(toJSON(site_names), "lists/sites.json")

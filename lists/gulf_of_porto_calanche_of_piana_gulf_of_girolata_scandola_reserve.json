@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:00",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Myliobatidae",
       "genus": "Mobula",
       "species": "Mobula mobular",
-      "scientificName": "Mobula mobular",
+      "AphiaID": 105858,
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2009,
@@ -21,7 +21,7 @@
       "family": "Molidae",
       "genus": "Mola",
       "species": "Mola mola",
-      "scientificName": "Mola mola",
+      "AphiaID": 127405,
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2012,
@@ -34,7 +34,7 @@
       "family": "Balaenopteridae",
       "genus": "Balaenoptera",
       "species": "Balaenoptera physalus",
-      "scientificName": "Balaenoptera physalus",
+      "AphiaID": 137091,
       "redlist_category": "VU",
       "records": 2,
       "max_year": 2018,
@@ -47,7 +47,7 @@
       "family": "Delphinidae",
       "genus": "Grampus",
       "species": "Grampus griseus",
-      "scientificName": "Grampus griseus",
+      "AphiaID": 137098,
       "records": 1,
       "max_year": 1976,
       "group": "mammal"
@@ -59,7 +59,7 @@
       "family": "Delphinidae",
       "genus": "Stenella",
       "species": "Stenella coeruleoalba",
-      "scientificName": "Stenella coeruleoalba",
+      "AphiaID": 137107,
       "records": 2,
       "max_year": 2017,
       "group": "mammal"

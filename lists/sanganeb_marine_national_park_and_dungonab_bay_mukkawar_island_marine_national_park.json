@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:01",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Rhincodontidae",
       "genus": "Rhincodon",
       "species": "Rhincodon typus",
-      "scientificName": "Rhincodon typus",
+      "AphiaID": 105847,
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2007,
@@ -21,7 +21,7 @@
       "family": "Tripterygiidae",
       "genus": "Enneapterygius",
       "species": "Enneapterygius abeli",
-      "scientificName": "Enneapterygius abeli",
+      "AphiaID": 219179,
       "records": 2,
       "max_year": 2009,
       "group": "fish"
@@ -33,7 +33,7 @@
       "family": "Tripterygiidae",
       "genus": "Enneapterygius",
       "species": "Enneapterygius altipinnis",
-      "scientificName": "Enneapterygius altipinnis",
+      "AphiaID": 277297,
       "records": 1,
       "max_year": 2009,
       "group": "fish"
@@ -45,7 +45,7 @@
       "family": "Tripterygiidae",
       "genus": "Enneapterygius",
       "species": "Enneapterygius obscurus",
-      "scientificName": "Enneapterygius obscurus",
+      "AphiaID": 277327,
       "records": 1,
       "max_year": 2009,
       "group": "fish"
@@ -57,7 +57,7 @@
       "family": "Tripterygiidae",
       "genus": "Enneapterygius",
       "species": "Enneapterygius qirmiz",
-      "scientificName": "Enneapterygius qirmiz",
+      "AphiaID": 712812,
       "records": 1,
       "max_year": 2009,
       "group": "fish"
@@ -69,7 +69,7 @@
       "family": "Gobiidae",
       "genus": "Feia",
       "species": "Feia nympha",
-      "scientificName": "Feia nympha",
+      "AphiaID": 219466,
       "records": 2,
       "max_year": 2009,
       "group": "fish"
@@ -81,7 +81,7 @@
       "family": "Gobiidae",
       "genus": "Gobiodon",
       "species": "Gobiodon prolixus",
-      "scientificName": "Gobiodon prolixus",
+      "AphiaID": 276932,
       "records": 3,
       "group": "fish"
     },
@@ -92,7 +92,7 @@
       "family": "Gobiidae",
       "genus": "Trimmatom",
       "species": "Trimmatom nanus",
-      "scientificName": "Trimmatom nanus",
+      "AphiaID": 219592,
       "records": 3,
       "group": "fish"
     }

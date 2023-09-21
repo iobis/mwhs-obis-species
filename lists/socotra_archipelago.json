@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:01",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Rajidae",
       "genus": "Okamejei",
       "species": "Okamejei ornata",
-      "scientificName": "Okamejei ornata",
+      "AphiaID": 1043460,
       "records": 2,
       "max_year": 1988,
       "group": "fish"
@@ -20,7 +20,7 @@
       "family": "Rhinochimaeridae",
       "genus": "Neoharriotta",
       "species": "Neoharriotta pumila",
-      "scientificName": "Neoharriotta pumila",
+      "AphiaID": 221462,
       "records": 5,
       "max_year": 1989,
       "group": "fish"
@@ -32,7 +32,7 @@
       "family": "Acanthuridae",
       "genus": "Acanthurus",
       "species": "Acanthurus leucosternon",
-      "scientificName": "Acanthurus leucosternon",
+      "AphiaID": 219628,
       "records": 7,
       "max_year": 2013,
       "group": "fish"
@@ -44,7 +44,7 @@
       "family": "Acanthuridae",
       "genus": "Acanthurus",
       "species": "Acanthurus lineatus",
-      "scientificName": "Acanthurus lineatus",
+      "AphiaID": 159582,
       "records": 17,
       "max_year": 2013,
       "group": "fish"
@@ -56,7 +56,7 @@
       "family": "Acanthuridae",
       "genus": "Acanthurus",
       "species": "Acanthurus nigrofuscus",
-      "scientificName": "Acanthurus nigrofuscus",
+      "AphiaID": 219640,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -68,7 +68,7 @@
       "family": "Acanthuridae",
       "genus": "Acanthurus",
       "species": "Acanthurus sohal",
-      "scientificName": "Acanthurus sohal",
+      "AphiaID": 219649,
       "records": 8,
       "max_year": 2013,
       "group": "fish"
@@ -80,7 +80,7 @@
       "family": "Acanthuridae",
       "genus": "Acanthurus",
       "species": "Acanthurus tennentii",
-      "scientificName": "Acanthurus tennentii",
+      "AphiaID": 219632,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -92,7 +92,7 @@
       "family": "Pomacanthidae",
       "genus": "Centropyge",
       "species": "Centropyge acanthops",
-      "scientificName": "Centropyge acanthops",
+      "AphiaID": 211775,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -104,7 +104,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon auriga",
-      "scientificName": "Chaetodon auriga",
+      "AphiaID": 218730,
       "records": 17,
       "max_year": 2013,
       "group": "fish"
@@ -116,7 +116,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon bennetti",
-      "scientificName": "Chaetodon bennetti",
+      "AphiaID": 218735,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -128,7 +128,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon collare",
-      "scientificName": "Chaetodon collare",
+      "AphiaID": 273330,
       "records": 7,
       "max_year": 2013,
       "group": "fish"
@@ -140,7 +140,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon gardineri",
-      "scientificName": "Chaetodon gardineri",
+      "AphiaID": 273340,
       "records": 3,
       "max_year": 2013,
       "group": "fish"
@@ -152,7 +152,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon guttatissimus",
-      "scientificName": "Chaetodon guttatissimus",
+      "AphiaID": 218722,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -164,7 +164,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon kleinii",
-      "scientificName": "Chaetodon kleinii",
+      "AphiaID": 218738,
       "records": 8,
       "max_year": 2013,
       "group": "fish"
@@ -176,7 +176,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon leucopleura",
-      "scientificName": "Chaetodon leucopleura",
+      "AphiaID": 218750,
       "records": 11,
       "max_year": 2013,
       "group": "fish"
@@ -188,7 +188,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon lunula",
-      "scientificName": "Chaetodon lunula",
+      "AphiaID": 218733,
       "records": 10,
       "max_year": 2013,
       "group": "fish"
@@ -200,7 +200,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon melannotus",
-      "scientificName": "Chaetodon melannotus",
+      "AphiaID": 218743,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -212,7 +212,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon melapterus",
-      "scientificName": "Chaetodon melapterus",
+      "AphiaID": 218751,
       "records": 29,
       "max_year": 2013,
       "group": "fish"
@@ -224,7 +224,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon pictus",
-      "scientificName": "Chaetodon pictus",
+      "AphiaID": 302747,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -236,7 +236,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon trifasciatus",
-      "scientificName": "Chaetodon trifasciatus",
+      "AphiaID": 218741,
       "records": 25,
       "max_year": 2013,
       "group": "fish"
@@ -248,7 +248,7 @@
       "family": "Chaetodontidae",
       "genus": "Chaetodon",
       "species": "Chaetodon zanzibarensis",
-      "scientificName": "Chaetodon zanzibarensis",
+      "AphiaID": 273368,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -260,7 +260,7 @@
       "family": "Acanthuridae",
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus binotatus",
-      "scientificName": "Ctenochaetus binotatus",
+      "AphiaID": 219655,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -272,7 +272,7 @@
       "family": "Acanthuridae",
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus truncatus",
-      "scientificName": "Ctenochaetus truncatus",
+      "AphiaID": 277563,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -284,7 +284,7 @@
       "family": "Chaetodontidae",
       "genus": "Forcipiger",
       "species": "Forcipiger flavissimus",
-      "scientificName": "Forcipiger flavissimus",
+      "AphiaID": 218760,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -296,7 +296,7 @@
       "family": "Chaetodontidae",
       "genus": "Heniochus",
       "species": "Heniochus acuminatus",
-      "scientificName": "Heniochus acuminatus",
+      "AphiaID": 218765,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -308,7 +308,7 @@
       "family": "Acanthuridae",
       "genus": "Naso",
       "species": "Naso fageni",
-      "scientificName": "Naso fageni",
+      "AphiaID": 219666,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -320,7 +320,7 @@
       "family": "Pomacanthidae",
       "genus": "Pomacanthus",
       "species": "Pomacanthus imperator",
-      "scientificName": "Pomacanthus imperator",
+      "AphiaID": 220001,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -332,7 +332,7 @@
       "family": "Acanthuridae",
       "genus": "Zebrasoma",
       "species": "Zebrasoma desjardinii",
-      "scientificName": "Zebrasoma desjardinii",
+      "AphiaID": 277555,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -344,7 +344,7 @@
       "family": "Acanthuridae",
       "genus": "Zebrasoma",
       "species": "Zebrasoma xanthurum",
-      "scientificName": "Zebrasoma xanthurum",
+      "AphiaID": 219681,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -356,7 +356,7 @@
       "family": "Bathyclupeidae",
       "genus": "Bathyclupea",
       "species": "Bathyclupea hoskynii",
-      "scientificName": "Bathyclupea hoskynii",
+      "AphiaID": 276304,
       "records": 4,
       "group": "fish"
     },
@@ -367,7 +367,7 @@
       "family": "Ostracoberycidae",
       "genus": "Ostracoberyx",
       "species": "Ostracoberyx dorygenys",
-      "scientificName": "Ostracoberyx dorygenys",
+      "AphiaID": 221428,
       "records": 2,
       "group": "fish"
     },
@@ -378,7 +378,7 @@
       "family": "Pempheridae",
       "genus": "Parapriacanthus",
       "species": "Parapriacanthus ransonneti",
-      "scientificName": "Parapriacanthus ransonneti",
+      "AphiaID": 218698,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -390,7 +390,7 @@
       "family": "Acropomatidae",
       "genus": "Synagrops",
       "species": "Synagrops japonicus",
-      "scientificName": "Synagrops japonicus",
+      "AphiaID": 367291,
       "records": 1,
       "group": "fish"
     },
@@ -401,7 +401,7 @@
       "family": "Congridae",
       "genus": "Ariosoma",
       "species": "Ariosoma sokotranum",
-      "scientificName": "Ariosoma sokotranum",
+      "AphiaID": 271739,
       "records": 1,
       "group": "fish"
     },
@@ -412,7 +412,7 @@
       "family": "Congridae",
       "genus": "Bathyuroconger",
       "species": "Bathyuroconger vicinus",
-      "scientificName": "Bathyuroconger vicinus",
+      "AphiaID": 126284,
       "records": 1,
       "group": "fish"
     },
@@ -423,7 +423,7 @@
       "family": "Muraenesocidae",
       "genus": "Gavialiceps",
       "species": "Gavialiceps arabicus",
-      "scientificName": "Gavialiceps arabicus",
+      "AphiaID": 280820,
       "records": 5,
       "group": "fish"
     },
@@ -434,7 +434,7 @@
       "family": "Nemichthyidae",
       "genus": "Nemichthys",
       "species": "Nemichthys scolopaceus",
-      "scientificName": "Nemichthys scolopaceus",
+      "AphiaID": 126306,
       "records": 4,
       "group": "fish"
     },
@@ -445,7 +445,7 @@
       "family": "Congridae",
       "genus": "Xenomystax",
       "species": "Xenomystax trucidans",
-      "scientificName": "Xenomystax trucidans",
+      "AphiaID": 283192,
       "records": 1,
       "group": "fish"
     },
@@ -456,7 +456,7 @@
       "family": "Ateleopodidae",
       "genus": "Ateleopus",
       "species": "Ateleopus indicus",
-      "scientificName": "Ateleopus indicus",
+      "AphiaID": 276689,
       "records": 3,
       "group": "fish"
     },
@@ -467,7 +467,7 @@
       "family": "Synodontidae",
       "genus": "Trachinocephalus",
       "species": "Trachinocephalus myops",
-      "scientificName": "Trachinocephalus myops",
+      "AphiaID": 158884,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -479,7 +479,7 @@
       "family": "Carangidae",
       "genus": "Decapterus",
       "species": "Decapterus macrosoma",
-      "scientificName": "Decapterus macrosoma",
+      "AphiaID": 218426,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -491,7 +491,7 @@
       "family": "Carangidae",
       "genus": "Decapterus",
       "species": "Decapterus russelli",
-      "scientificName": "Decapterus russelli",
+      "AphiaID": 218427,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -503,7 +503,7 @@
       "family": "Cirrhitidae",
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys calliurus",
-      "scientificName": "Cirrhitichthys calliurus",
+      "AphiaID": 277546,
       "records": 3,
       "max_year": 2013,
       "group": "fish"
@@ -515,7 +515,7 @@
       "family": "Cirrhitidae",
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys oxycephalus",
-      "scientificName": "Cirrhitichthys oxycephalus",
+      "AphiaID": 218853,
       "records": 1,
       "group": "fish"
     },
@@ -526,7 +526,7 @@
       "family": "Cyprinodontidae",
       "genus": "Aphaniops",
       "species": "Aphaniops dispar",
-      "scientificName": "Aphaniops dispar",
+      "AphiaID": 316333,
       "records": 2,
       "max_year": 1993,
       "group": "fish"
@@ -538,7 +538,7 @@
       "family": "Labridae",
       "genus": "Cheilinus",
       "species": "Cheilinus abudjubbe",
-      "scientificName": "Cheilinus abudjubbe",
+      "AphiaID": 218939,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -550,7 +550,7 @@
       "family": "Labridae",
       "genus": "Cheilinus",
       "species": "Cheilinus fasciatus",
-      "scientificName": "Cheilinus fasciatus",
+      "AphiaID": 218940,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -562,7 +562,7 @@
       "family": "Labridae",
       "genus": "Gomphosus",
       "species": "Gomphosus caeruleus",
-      "scientificName": "Gomphosus caeruleus",
+      "AphiaID": 218976,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -574,7 +574,7 @@
       "family": "Labridae",
       "genus": "Halichoeres",
       "species": "Halichoeres hortulanus",
-      "scientificName": "Halichoeres hortulanus",
+      "AphiaID": 218985,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -586,7 +586,7 @@
       "family": "Labridae",
       "genus": "Halichoeres",
       "species": "Halichoeres scapularis",
-      "scientificName": "Halichoeres scapularis",
+      "AphiaID": 218990,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -598,7 +598,7 @@
       "family": "Labridae",
       "genus": "Hemigymnus",
       "species": "Hemigymnus fasciatus",
-      "scientificName": "Hemigymnus fasciatus",
+      "AphiaID": 218999,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -610,7 +610,7 @@
       "family": "Lethrinidae",
       "genus": "Lethrinus",
       "species": "Lethrinus borbonicus",
-      "scientificName": "Lethrinus borbonicus",
+      "AphiaID": 212064,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -622,7 +622,7 @@
       "family": "Lethrinidae",
       "genus": "Lethrinus",
       "species": "Lethrinus variegatus",
-      "scientificName": "Lethrinus variegatus",
+      "AphiaID": 212076,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -634,7 +634,7 @@
       "family": "Lutjanidae",
       "genus": "Lutjanus",
       "species": "Lutjanus kasmira",
-      "scientificName": "Lutjanus kasmira",
+      "AphiaID": 218482,
       "records": 38,
       "group": "fish"
     },
@@ -645,7 +645,7 @@
       "family": "Labridae",
       "genus": "Macropharyngodon",
       "species": "Macropharyngodon bipartitus",
-      "scientificName": "Macropharyngodon bipartitus",
+      "AphiaID": 219032,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -657,7 +657,7 @@
       "family": "Scaridae",
       "genus": "Scarus",
       "species": "Scarus ghobban",
-      "scientificName": "Scarus ghobban",
+      "AphiaID": 219127,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -669,7 +669,7 @@
       "family": "Nemipteridae",
       "genus": "Scolopsis",
       "species": "Scolopsis bimaculata",
-      "scientificName": "Scolopsis bimaculata",
+      "AphiaID": 712733,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -681,7 +681,7 @@
       "family": "Nemipteridae",
       "genus": "Scolopsis",
       "species": "Scolopsis ghanam",
-      "scientificName": "Scolopsis ghanam",
+      "AphiaID": 209222,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -693,7 +693,7 @@
       "family": "Labridae",
       "genus": "Stethojulis",
       "species": "Stethojulis albovittata",
-      "scientificName": "Stethojulis albovittata",
+      "AphiaID": 219058,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -705,7 +705,7 @@
       "family": "Labridae",
       "genus": "Thalassoma",
       "species": "Thalassoma hebraicum",
-      "scientificName": "Thalassoma hebraicum",
+      "AphiaID": 212207,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -717,7 +717,7 @@
       "family": "Macrouridae",
       "genus": "Bathygadus",
       "species": "Bathygadus furvescens",
-      "scientificName": "Bathygadus furvescens",
+      "AphiaID": 272307,
       "records": 3,
       "group": "fish"
     },
@@ -728,7 +728,7 @@
       "family": "Macrouridae",
       "genus": "Coelorinchus",
       "species": "Coelorinchus flabellispinis",
-      "scientificName": "Coelorinchus flabellispinis",
+      "AphiaID": 400516,
       "records": 3,
       "max_year": 1989,
       "group": "fish"
@@ -740,7 +740,7 @@
       "family": "Macrouridae",
       "genus": "Malacocephalus",
       "species": "Malacocephalus laevis",
-      "scientificName": "Malacocephalus laevis",
+      "AphiaID": 272392,
       "records": 2,
       "group": "fish"
     },
@@ -751,7 +751,7 @@
       "family": "Macrouridae",
       "genus": "Nezumia",
       "species": "Nezumia investigatoris",
-      "scientificName": "Nezumia investigatoris",
+      "AphiaID": 272410,
       "records": 5,
       "group": "fish"
     },
@@ -762,7 +762,7 @@
       "family": "Macrouridae",
       "genus": "Nezumia",
       "species": "Nezumia semiquincunciata",
-      "scientificName": "Nezumia semiquincunciata",
+      "AphiaID": 217783,
       "records": 1,
       "group": "fish"
     },
@@ -773,7 +773,7 @@
       "family": "Moridae",
       "genus": "Physiculus",
       "species": "Physiculus argyropastus",
-      "scientificName": "Physiculus argyropastus",
+      "AphiaID": 272484,
       "records": 1,
       "group": "fish"
     },
@@ -784,7 +784,7 @@
       "family": "Gobiidae",
       "genus": "Gobiodon",
       "species": "Gobiodon axillaris",
-      "scientificName": "Gobiodon axillaris",
+      "AphiaID": 276924,
       "redlist_category": "VU",
       "records": 3,
       "max_year": 1996,
@@ -797,7 +797,7 @@
       "family": "Holocentridae",
       "genus": "Neoniphon",
       "species": "Neoniphon sammara",
-      "scientificName": "Neoniphon sammara",
+      "AphiaID": 159393,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -809,7 +809,7 @@
       "family": "Apogonidae",
       "genus": "Siphamia",
       "species": "Siphamia tubifer",
-      "scientificName": "Siphamia tubifer",
+      "AphiaID": 277708,
       "records": 4,
       "max_year": 2009,
       "group": "fish"
@@ -821,7 +821,7 @@
       "family": "Lophiidae",
       "genus": "Lophiodes",
       "species": "Lophiodes mutilus",
-      "scientificName": "Lophiodes mutilus",
+      "AphiaID": 217837,
       "records": 2,
       "group": "fish"
     },
@@ -832,7 +832,7 @@
       "family": "Ogcocephalidae",
       "genus": "Malthopsis",
       "species": "Malthopsis mitrigera",
-      "scientificName": "Malthopsis mitrigera",
+      "AphiaID": 220352,
       "records": 1,
       "group": "fish"
     },
@@ -843,7 +843,7 @@
       "family": "Ogcocephalidae",
       "genus": "Malthopsis",
       "species": "Malthopsis retifera",
-      "scientificName": "Malthopsis retifera",
+      "AphiaID": 712516,
       "records": 3,
       "max_year": 1989,
       "group": "fish"
@@ -855,7 +855,7 @@
       "family": "Mullidae",
       "genus": "Mulloidichthys",
       "species": "Mulloidichthys ayliffe",
-      "scientificName": "Mulloidichthys ayliffe",
+      "AphiaID": 712738,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -867,7 +867,7 @@
       "family": "Mullidae",
       "genus": "Parupeneus",
       "species": "Parupeneus rubescens",
-      "scientificName": "Parupeneus rubescens",
+      "AphiaID": 218664,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -879,7 +879,7 @@
       "family": "Myctophidae",
       "genus": "Benthosema",
       "species": "Benthosema fibulatum",
-      "scientificName": "Benthosema fibulatum",
+      "AphiaID": 217681,
       "records": 2,
       "group": "fish"
     },
@@ -890,7 +890,7 @@
       "family": "Myctophidae",
       "genus": "Diaphus",
       "species": "Diaphus lucidus",
-      "scientificName": "Diaphus lucidus",
+      "AphiaID": 126593,
       "records": 1,
       "group": "fish"
     },
@@ -901,7 +901,7 @@
       "family": "Myctophidae",
       "genus": "Diaphus",
       "species": "Diaphus mascarensis",
-      "scientificName": "Diaphus mascarensis",
+      "AphiaID": 272681,
       "records": 3,
       "group": "fish"
     },
@@ -912,7 +912,7 @@
       "family": "Myctophidae",
       "genus": "Diaphus",
       "species": "Diaphus watasei",
-      "scientificName": "Diaphus watasei",
+      "AphiaID": 217691,
       "records": 3,
       "group": "fish"
     },
@@ -923,7 +923,7 @@
       "family": "Pomacentridae",
       "genus": "Abudefduf",
       "species": "Abudefduf vaigiensis",
-      "scientificName": "Abudefduf vaigiensis",
+      "AphiaID": 212879,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -935,7 +935,7 @@
       "family": "Pomacentridae",
       "genus": "Amphiprion",
       "species": "Amphiprion bicinctus",
-      "scientificName": "Amphiprion bicinctus",
+      "AphiaID": 212778,
       "records": 6,
       "group": "fish"
     },
@@ -946,7 +946,7 @@
       "family": "Pomacentridae",
       "genus": "Chromis",
       "species": "Chromis flavaxilla",
-      "scientificName": "Chromis flavaxilla",
+      "AphiaID": 212816,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -958,7 +958,7 @@
       "family": "Pomacentridae",
       "genus": "Dascyllus",
       "species": "Dascyllus carneus",
-      "scientificName": "Dascyllus carneus",
+      "AphiaID": 212848,
       "records": 1,
       "group": "fish"
     },
@@ -969,7 +969,7 @@
       "family": "Pomacentridae",
       "genus": "Dascyllus",
       "species": "Dascyllus marginatus",
-      "scientificName": "Dascyllus marginatus",
+      "AphiaID": 212849,
       "records": 4,
       "group": "fish"
     },
@@ -980,7 +980,7 @@
       "family": "Pomacentridae",
       "genus": "Dascyllus",
       "species": "Dascyllus reticulatus",
-      "scientificName": "Dascyllus reticulatus",
+      "AphiaID": 212844,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -992,7 +992,7 @@
       "family": "Pomacentridae",
       "genus": "Dascyllus",
       "species": "Dascyllus trimaculatus",
-      "scientificName": "Dascyllus trimaculatus",
+      "AphiaID": 212846,
       "records": 3,
       "group": "fish"
     },
@@ -1003,7 +1003,7 @@
       "family": "Pseudochromidae",
       "genus": "Halidesmus",
       "species": "Halidesmus socotraensis",
-      "scientificName": "Halidesmus socotraensis",
+      "AphiaID": 277230,
       "records": 1,
       "max_year": 2000,
       "group": "fish"
@@ -1015,7 +1015,7 @@
       "family": "Pseudochromidae",
       "genus": "Haliophis",
       "species": "Haliophis guttatus",
-      "scientificName": "Haliophis guttatus",
+      "AphiaID": 218321,
       "records": 2,
       "max_year": 2000,
       "group": "fish"
@@ -1027,7 +1027,7 @@
       "family": "Pseudochromidae",
       "genus": "Pseudochromis",
       "species": "Pseudochromis chrysospilus",
-      "scientificName": "Pseudochromis chrysospilus",
+      "AphiaID": 712613,
       "records": 1,
       "max_year": 2000,
       "group": "fish"
@@ -1039,7 +1039,7 @@
       "family": "Pseudochromidae",
       "genus": "Pseudochromis",
       "species": "Pseudochromis linda",
-      "scientificName": "Pseudochromis linda",
+      "AphiaID": 278183,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -1051,7 +1051,7 @@
       "family": "Pseudochromidae",
       "genus": "Pseudochromis",
       "species": "Pseudochromis sankeyi",
-      "scientificName": "Pseudochromis sankeyi",
+      "AphiaID": 218334,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1063,7 +1063,7 @@
       "family": "Pseudochromidae",
       "genus": "Pseudochromis",
       "species": "Pseudochromis socotraensis",
-      "scientificName": "Pseudochromis socotraensis",
+      "AphiaID": 712618,
       "records": 1,
       "max_year": 2000,
       "group": "fish"
@@ -1075,7 +1075,7 @@
       "family": "Pomacentridae",
       "genus": "Teixeirichthys",
       "species": "Teixeirichthys jordani",
-      "scientificName": "Teixeirichthys jordani",
+      "AphiaID": 212792,
       "records": 2,
       "max_year": 1989,
       "group": "fish"
@@ -1087,7 +1087,7 @@
       "family": "Percophidae",
       "genus": "Bembrops",
       "species": "Bembrops platyrhynchus",
-      "scientificName": "Bembrops platyrhynchus",
+      "AphiaID": 219139,
       "records": 3,
       "group": "fish"
     },
@@ -1098,7 +1098,7 @@
       "family": "Serranidae",
       "genus": "Cephalopholis",
       "species": "Cephalopholis argus",
-      "scientificName": "Cephalopholis argus",
+      "AphiaID": 218174,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1110,7 +1110,7 @@
       "family": "Serranidae",
       "genus": "Cephalopholis",
       "species": "Cephalopholis hemistiktos",
-      "scientificName": "Cephalopholis hemistiktos",
+      "AphiaID": 218188,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1122,7 +1122,7 @@
       "family": "Serranidae",
       "genus": "Cephalopholis",
       "species": "Cephalopholis sonnerati",
-      "scientificName": "Cephalopholis sonnerati",
+      "AphiaID": 218183,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1134,7 +1134,7 @@
       "family": "Peristediidae",
       "genus": "Paraheminodus",
       "species": "Paraheminodus murrayi",
-      "scientificName": "Paraheminodus murrayi",
+      "AphiaID": 282045,
       "records": 1,
       "max_year": 1988,
       "group": "fish"
@@ -1146,7 +1146,7 @@
       "family": "Peristediidae",
       "genus": "Scalicus",
       "species": "Scalicus investigatoris",
-      "scientificName": "Scalicus investigatoris",
+      "AphiaID": 1019178,
       "records": 1,
       "max_year": 1989,
       "group": "fish"
@@ -1158,7 +1158,7 @@
       "family": "Bothidae",
       "genus": "Chascanopsetta",
       "species": "Chascanopsetta lugubris",
-      "scientificName": "Chascanopsetta lugubris",
+      "AphiaID": 219797,
       "records": 1,
       "max_year": 1988,
       "group": "fish"
@@ -1170,7 +1170,7 @@
       "family": "Centrolophidae",
       "genus": "Psenopsis",
       "species": "Psenopsis cyanea",
-      "scientificName": "Psenopsis cyanea",
+      "AphiaID": 219738,
       "records": 1,
       "group": "fish"
     },
@@ -1181,7 +1181,7 @@
       "family": "Scombridae",
       "genus": "Thunnus",
       "species": "Thunnus albacares",
-      "scientificName": "Thunnus albacares",
+      "AphiaID": 127027,
       "redlist_category": "NT",
       "records": 3,
       "group": "fish"
@@ -1193,7 +1193,7 @@
       "family": "Sternoptychidae",
       "genus": "Argyropelecus",
       "species": "Argyropelecus affinis",
-      "scientificName": "Argyropelecus affinis",
+      "AphiaID": 127307,
       "records": 2,
       "group": "fish"
     },
@@ -1204,7 +1204,7 @@
       "family": "Stomiidae",
       "genus": "Borostomias",
       "species": "Borostomias mononema",
-      "scientificName": "Borostomias mononema",
+      "AphiaID": 127336,
       "records": 1,
       "group": "fish"
     },
@@ -1215,7 +1215,7 @@
       "family": "Stomiidae",
       "genus": "Chauliodus",
       "species": "Chauliodus sloani",
-      "scientificName": "Chauliodus sloani",
+      "AphiaID": 127338,
       "records": 2,
       "group": "fish"
     },
@@ -1226,7 +1226,7 @@
       "family": "Gonostomatidae",
       "genus": "Cyclothone",
       "species": "Cyclothone pallida",
-      "scientificName": "Cyclothone pallida",
+      "AphiaID": 127288,
       "records": 1,
       "group": "fish"
     },
@@ -1237,7 +1237,7 @@
       "family": "Sternoptychidae",
       "genus": "Polyipnus",
       "species": "Polyipnus indicus",
-      "scientificName": "Polyipnus indicus",
+      "AphiaID": 217608,
       "records": 1,
       "group": "fish"
     },
@@ -1248,7 +1248,7 @@
       "family": "Phosichthyidae",
       "genus": "Polymetme",
       "species": "Polymetme corythaeola",
-      "scientificName": "Polymetme corythaeola",
+      "AphiaID": 127300,
       "records": 2,
       "group": "fish"
     },
@@ -1259,7 +1259,7 @@
       "family": "Gonostomatidae",
       "genus": "Sigmops",
       "species": "Sigmops elongatus",
-      "scientificName": "Sigmops elongatus",
+      "AphiaID": 221512,
       "records": 1,
       "group": "fish"
     },
@@ -1270,7 +1270,7 @@
       "family": "Stomiidae",
       "genus": "Stomias",
       "species": "Stomias affinis",
-      "scientificName": "Stomias affinis",
+      "AphiaID": 158736,
       "records": 1,
       "group": "fish"
     },
@@ -1281,7 +1281,7 @@
       "family": "Stomiidae",
       "genus": "Stomias",
       "species": "Stomias nebulosus",
-      "scientificName": "Stomias nebulosus",
+      "AphiaID": 217619,
       "records": 1,
       "group": "fish"
     },
@@ -1292,7 +1292,7 @@
       "family": "Balistidae",
       "genus": "Balistapus",
       "species": "Balistapus undulatus",
-      "scientificName": "Balistapus undulatus",
+      "AphiaID": 219874,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1304,7 +1304,7 @@
       "family": "Balistidae",
       "genus": "Balistoides",
       "species": "Balistoides viridescens",
-      "scientificName": "Balistoides viridescens",
+      "AphiaID": 219875,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1316,7 +1316,7 @@
       "family": "Tetraodontidae",
       "genus": "Canthigaster",
       "species": "Canthigaster amboinensis",
-      "scientificName": "Canthigaster amboinensis",
+      "AphiaID": 219935,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1328,7 +1328,7 @@
       "family": "Tetraodontidae",
       "genus": "Canthigaster",
       "species": "Canthigaster bennetti",
-      "scientificName": "Canthigaster bennetti",
+      "AphiaID": 219938,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1340,7 +1340,7 @@
       "family": "Tetraodontidae",
       "genus": "Canthigaster",
       "species": "Canthigaster cyanospilota",
-      "scientificName": "Canthigaster cyanospilota",
+      "AphiaID": 475043,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1352,7 +1352,7 @@
       "family": "Tetraodontidae",
       "genus": "Canthigaster",
       "species": "Canthigaster janthinoptera",
-      "scientificName": "Canthigaster janthinoptera",
+      "AphiaID": 219940,
       "records": 2,
       "max_year": 2013,
       "group": "fish"
@@ -1364,7 +1364,7 @@
       "family": "Monacanthidae",
       "genus": "Paraluteres",
       "species": "Paraluteres prionurus",
-      "scientificName": "Paraluteres prionurus",
+      "AphiaID": 220065,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -1376,7 +1376,7 @@
       "family": "Balistidae",
       "genus": "Sufflamen",
       "species": "Sufflamen chrysopterum",
-      "scientificName": "Sufflamen chrysopterum",
+      "AphiaID": 276851,
       "records": 4,
       "max_year": 2013,
       "group": "fish"
@@ -1388,7 +1388,7 @@
       "family": "Parazenidae",
       "genus": "Cyttopsis",
       "species": "Cyttopsis rosea",
-      "scientificName": "Cyttopsis rosea",
+      "AphiaID": 127425,
       "records": 3,
       "group": "fish"
     }

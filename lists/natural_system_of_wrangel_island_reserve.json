@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:01",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Gadidae",
       "genus": "Boreogadus",
       "species": "Boreogadus saida",
-      "scientificName": "Boreogadus saida",
+      "AphiaID": 126433,
       "records": 1,
       "max_year": 2009,
       "group": "fish"
@@ -20,7 +20,7 @@
       "family": "Stichaeidae",
       "genus": "Anisarchus",
       "species": "Anisarchus medius",
-      "scientificName": "Anisarchus medius",
+      "AphiaID": 127070,
       "records": 3,
       "max_year": 2009,
       "group": "fish"
@@ -32,7 +32,7 @@
       "family": "Cottidae",
       "genus": "Artediellus",
       "species": "Artediellus scaber",
-      "scientificName": "Artediellus scaber",
+      "AphiaID": 127194,
       "records": 2,
       "group": "fish"
     },
@@ -43,7 +43,7 @@
       "family": "Zoarcidae",
       "genus": "Gymnelus",
       "species": "Gymnelus hemifasciatus",
-      "scientificName": "Gymnelus hemifasciatus",
+      "AphiaID": 254583,
       "records": 2,
       "group": "fish"
     },
@@ -54,7 +54,7 @@
       "family": "Cottidae",
       "genus": "Icelus",
       "species": "Icelus spatula",
-      "scientificName": "Icelus spatula",
+      "AphiaID": 127200,
       "records": 2,
       "max_year": 2009,
       "group": "fish"
@@ -66,7 +66,7 @@
       "family": "Stichaeidae",
       "genus": "Leptoclinus",
       "species": "Leptoclinus maculatus",
-      "scientificName": "Leptoclinus maculatus",
+      "AphiaID": 127072,
       "records": 3,
       "max_year": 2009,
       "group": "fish"
@@ -78,7 +78,7 @@
       "family": "Liparidae",
       "genus": "Liparis",
       "species": "Liparis fabricii",
-      "scientificName": "Liparis fabricii",
+      "AphiaID": 127218,
       "records": 3,
       "max_year": 2009,
       "group": "fish"
@@ -90,7 +90,7 @@
       "family": "Liparidae",
       "genus": "Liparis",
       "species": "Liparis tunicatus",
-      "scientificName": "Liparis tunicatus",
+      "AphiaID": 154825,
       "records": 5,
       "max_year": 2009,
       "group": "fish"
@@ -102,7 +102,7 @@
       "family": "Zoarcidae",
       "genus": "Lycodes",
       "species": "Lycodes mucosus",
-      "scientificName": "Lycodes mucosus",
+      "AphiaID": 254584,
       "records": 1,
       "group": "fish"
     },
@@ -113,7 +113,7 @@
       "family": "Gasterosteidae",
       "genus": "Pungitius",
       "species": "Pungitius pungitius",
-      "scientificName": "Pungitius pungitius",
+      "AphiaID": 126507,
       "records": 1,
       "group": "fish"
     },
@@ -124,7 +124,7 @@
       "family": "Ursidae",
       "genus": "Ursus",
       "species": "Ursus maritimus",
-      "scientificName": "Ursus maritimus",
+      "AphiaID": 137085,
       "redlist_category": "VU",
       "records": 103,
       "max_year": 2012,
@@ -137,7 +137,7 @@
       "family": "Balaenidae",
       "genus": "Balaena",
       "species": "Balaena mysticetus",
-      "scientificName": "Balaena mysticetus",
+      "AphiaID": 137086,
       "records": 9,
       "max_year": 2019,
       "group": "mammal"
@@ -149,7 +149,7 @@
       "family": "Monodontidae",
       "genus": "Delphinapterus",
       "species": "Delphinapterus leucas",
-      "scientificName": "Delphinapterus leucas",
+      "AphiaID": 137115,
       "records": 1,
       "max_year": 2010,
       "group": "mammal"
@@ -161,7 +161,7 @@
       "family": "Balaenopteridae",
       "genus": "Megaptera",
       "species": "Megaptera novaeangliae",
-      "scientificName": "Megaptera novaeangliae",
+      "AphiaID": 137092,
       "records": 2,
       "max_year": 2018,
       "group": "mammal"

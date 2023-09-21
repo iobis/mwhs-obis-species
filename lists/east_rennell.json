@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:11",
+  "created": "2023-09-21T08:07:00",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Atherinidae",
       "genus": "Hypoatherina",
       "species": "Hypoatherina barnesi",
-      "scientificName": "Hypoatherina barnesi",
+      "AphiaID": 217884,
       "records": 2,
       "max_year": 1965,
       "group": "fish"
@@ -20,7 +20,7 @@
       "family": "Exocoetidae",
       "genus": "Cypselurus",
       "species": "Cypselurus opisthopus",
-      "scientificName": "Cypselurus opisthopus",
+      "AphiaID": 278734,
       "records": 2,
       "max_year": 1933,
       "group": "fish"
@@ -32,7 +32,7 @@
       "family": "Blenniidae",
       "genus": "Xiphasia",
       "species": "Xiphasia matsubarai",
-      "scientificName": "Xiphasia matsubarai",
+      "AphiaID": 219344,
       "records": 2,
       "max_year": 1965,
       "group": "fish"
@@ -44,7 +44,7 @@
       "family": "Istiophoridae",
       "genus": "Istiompax",
       "species": "Istiompax indica",
-      "scientificName": "Istiompax indica",
+      "AphiaID": 712905,
       "records": 4,
       "max_year": 2015,
       "group": "fish"
@@ -56,7 +56,7 @@
       "family": "Eleotridae",
       "genus": "Eleotris",
       "species": "Eleotris fusca",
-      "scientificName": "Eleotris fusca",
+      "AphiaID": 219356,
       "records": 1,
       "max_year": 1953,
       "group": "fish"

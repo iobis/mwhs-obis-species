@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:01",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Carcharhinidae",
       "genus": "Carcharhinus",
       "species": "Carcharhinus amblyrhynchos",
-      "scientificName": "Carcharhinus amblyrhynchos",
+      "AphiaID": 217337,
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2014,
@@ -21,7 +21,7 @@
       "family": "Carcharhinidae",
       "genus": "Carcharhinus",
       "species": "Carcharhinus brevipinna",
-      "scientificName": "Carcharhinus brevipinna",
+      "AphiaID": 105788,
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2014,
@@ -34,7 +34,7 @@
       "family": "Hexanchidae",
       "genus": "Hexanchus",
       "species": "Hexanchus nakamurai",
-      "scientificName": "Hexanchus nakamurai",
+      "AphiaID": 105834,
       "redlist_category": "NT",
       "records": 1,
       "max_year": 2014,
@@ -47,7 +47,7 @@
       "family": "Rhincodontidae",
       "genus": "Rhincodon",
       "species": "Rhincodon typus",
-      "scientificName": "Rhincodon typus",
+      "AphiaID": 105847,
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2014,
@@ -60,7 +60,7 @@
       "family": "Istiophoridae",
       "genus": "Istiophorus",
       "species": "Istiophorus platypterus",
-      "scientificName": "Istiophorus platypterus",
+      "AphiaID": 158812,
       "records": 1,
       "group": "fish"
     },
@@ -71,7 +71,7 @@
       "family": "Holocentridae",
       "genus": "Sargocentron",
       "species": "Sargocentron rubrum",
-      "scientificName": "Sargocentron rubrum",
+      "AphiaID": 126400,
       "records": 2,
       "max_year": 1947,
       "group": "fish"
@@ -83,7 +83,7 @@
       "family": "Myctophidae",
       "genus": "Myctophum",
       "species": "Myctophum aurolaternatum",
-      "scientificName": "Myctophum aurolaternatum",
+      "AphiaID": 217715,
       "records": 1,
       "max_year": 1948,
       "group": "fish"
@@ -95,7 +95,7 @@
       "family": "Pomacentridae",
       "genus": "Dascyllus",
       "species": "Dascyllus trimaculatus",
-      "scientificName": "Dascyllus trimaculatus",
+      "AphiaID": 212846,
       "records": 2,
       "max_year": 1995,
       "group": "fish"
@@ -106,7 +106,7 @@
       "family": "Cheloniidae",
       "genus": "Chelonia",
       "species": "Chelonia mydas",
-      "scientificName": "Chelonia mydas",
+      "AphiaID": 137206,
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2014,

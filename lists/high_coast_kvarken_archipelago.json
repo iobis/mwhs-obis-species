@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:00",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Clupeidae",
       "genus": "Clupea",
       "species": "Clupea harengus",
-      "scientificName": "Clupea harengus",
+      "AphiaID": 126417,
       "records": 11,
       "max_year": 2009,
       "group": "fish"
@@ -20,7 +20,7 @@
       "family": "Cyprinidae",
       "genus": "Pelecus",
       "species": "Pelecus cultratus",
-      "scientificName": "Pelecus cultratus",
+      "AphiaID": 282185,
       "records": 1,
       "group": "fish"
     },
@@ -31,7 +31,7 @@
       "family": "Cyprinidae",
       "genus": "Phoxinus",
       "species": "Phoxinus phoxinus",
-      "scientificName": "Phoxinus phoxinus",
+      "AphiaID": 154326,
       "records": 2,
       "max_year": 2008,
       "group": "fish"
@@ -43,7 +43,7 @@
       "family": "Esocidae",
       "genus": "Esox",
       "species": "Esox lucius",
-      "scientificName": "Esox lucius",
+      "AphiaID": 154210,
       "records": 1,
       "max_year": 2009,
       "group": "fish"
@@ -55,7 +55,7 @@
       "family": "Gadidae",
       "genus": "Gadus",
       "species": "Gadus morhua",
-      "scientificName": "Gadus morhua",
+      "AphiaID": 126436,
       "redlist_category": "VU",
       "records": 1,
       "group": "fish"
@@ -67,7 +67,7 @@
       "family": "Gobiidae",
       "genus": "Gobius",
       "species": "Gobius niger",
-      "scientificName": "Gobius niger",
+      "AphiaID": 126892,
       "records": 5,
       "max_year": 2009,
       "group": "fish"
@@ -79,7 +79,7 @@
       "family": "Gobiidae",
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus flavescens",
-      "scientificName": "Pomatoschistus flavescens",
+      "AphiaID": 1526389,
       "records": 1,
       "max_year": 2007,
       "group": "fish"
@@ -91,7 +91,7 @@
       "family": "Gobiidae",
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus minutus",
-      "scientificName": "Pomatoschistus minutus",
+      "AphiaID": 126928,
       "records": 154,
       "max_year": 2014,
       "group": "fish"
@@ -103,7 +103,7 @@
       "family": "Gasterosteidae",
       "genus": "Gasterosteus",
       "species": "Gasterosteus aculeatus",
-      "scientificName": "Gasterosteus aculeatus",
+      "AphiaID": 126505,
       "records": 165,
       "max_year": 2020,
       "group": "fish"
@@ -115,7 +115,7 @@
       "family": "Stichaeidae",
       "genus": "Lumpenus",
       "species": "Lumpenus lampretaeformis",
-      "scientificName": "Lumpenus lampretaeformis",
+      "AphiaID": 154675,
       "records": 1,
       "max_year": 1891,
       "group": "fish"
@@ -127,7 +127,7 @@
       "family": "Cottidae",
       "genus": "Myoxocephalus",
       "species": "Myoxocephalus quadricornis",
-      "scientificName": "Myoxocephalus quadricornis",
+      "AphiaID": 254529,
       "records": 1,
       "group": "fish"
     },
@@ -138,7 +138,7 @@
       "family": "Cottidae",
       "genus": "Myoxocephalus",
       "species": "Myoxocephalus scorpius",
-      "scientificName": "Myoxocephalus scorpius",
+      "AphiaID": 127203,
       "records": 1,
       "max_year": 2014,
       "group": "fish"
@@ -150,7 +150,7 @@
       "family": "Percidae",
       "genus": "Perca",
       "species": "Perca fluviatilis",
-      "scientificName": "Perca fluviatilis",
+      "AphiaID": 151353,
       "records": 8,
       "max_year": 2013,
       "group": "fish"
@@ -162,7 +162,7 @@
       "family": "Pholidae",
       "genus": "Pholis",
       "species": "Pholis gunnellus",
-      "scientificName": "Pholis gunnellus",
+      "AphiaID": 126996,
       "records": 1,
       "max_year": 2007,
       "group": "fish"
@@ -174,7 +174,7 @@
       "family": "Gasterosteidae",
       "genus": "Pungitius",
       "species": "Pungitius pungitius",
-      "scientificName": "Pungitius pungitius",
+      "AphiaID": 126507,
       "records": 9,
       "max_year": 2020,
       "group": "fish"
@@ -186,7 +186,7 @@
       "family": "Zoarcidae",
       "genus": "Zoarces",
       "species": "Zoarces viviparus",
-      "scientificName": "Zoarces viviparus",
+      "AphiaID": 127123,
       "records": 42,
       "max_year": 2021,
       "group": "fish"
@@ -198,7 +198,7 @@
       "family": "Syngnathidae",
       "genus": "Nerophis",
       "species": "Nerophis ophidion",
-      "scientificName": "Nerophis ophidion",
+      "AphiaID": 127385,
       "records": 12,
       "max_year": 2015,
       "group": "fish"
@@ -210,7 +210,7 @@
       "family": "Syngnathidae",
       "genus": "Syngnathus",
       "species": "Syngnathus typhle",
-      "scientificName": "Syngnathus typhle",
+      "AphiaID": 127393,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -222,7 +222,7 @@
       "family": "Phocidae",
       "genus": "Halichoerus",
       "species": "Halichoerus grypus",
-      "scientificName": "Halichoerus grypus",
+      "AphiaID": 137080,
       "records": 57,
       "max_year": 2020,
       "group": "mammal"
@@ -234,20 +234,8 @@
       "family": "Phocidae",
       "genus": "Pusa",
       "species": "Pusa hispida",
-      "scientificName": "Pusa hispida",
-      "records": 7,
-      "max_year": 2018,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Pusa",
-      "species": "Pusa hispida",
-      "scientificName": "Pusa hispida botnica",
-      "records": 1,
+      "AphiaID": 255029,
+      "records": 8,
       "max_year": 2019,
       "group": "mammal"
     }

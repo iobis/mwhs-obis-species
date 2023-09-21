@@ -1,5 +1,5 @@
 {
-  "created": "2023-07-27T22:35:12",
+  "created": "2023-09-21T08:07:00",
   "species": [
     {
       "phylum": "Chordata",
@@ -8,7 +8,7 @@
       "family": "Dasyatidae",
       "genus": "Pteroplatytrygon",
       "species": "Pteroplatytrygon violacea",
-      "scientificName": "Pteroplatytrygon violacea",
+      "AphiaID": 158540,
       "records": 2,
       "max_year": 2018,
       "group": "fish"
@@ -20,7 +20,7 @@
       "family": "Muraenidae",
       "genus": "Muraena",
       "species": "Muraena helena",
-      "scientificName": "Muraena helena",
+      "AphiaID": 126303,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -32,7 +32,7 @@
       "family": "Sparidae",
       "genus": "Diplodus",
       "species": "Diplodus sargus",
-      "scientificName": "Diplodus sargus",
+      "AphiaID": 127053,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -44,7 +44,7 @@
       "family": "Sparidae",
       "genus": "Diplodus",
       "species": "Diplodus vulgaris",
-      "scientificName": "Diplodus vulgaris",
+      "AphiaID": 127054,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -56,7 +56,7 @@
       "family": "Labridae",
       "genus": "Labrus",
       "species": "Labrus merula",
-      "scientificName": "Labrus merula",
+      "AphiaID": 126967,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -68,7 +68,7 @@
       "family": "Sparidae",
       "genus": "Lithognathus",
       "species": "Lithognathus mormyrus",
-      "scientificName": "Lithognathus mormyrus",
+      "AphiaID": 127055,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -80,7 +80,7 @@
       "family": "Sparidae",
       "genus": "Sarpa",
       "species": "Sarpa salpa",
-      "scientificName": "Sarpa salpa",
+      "AphiaID": 127064,
       "records": 1,
       "max_year": 2020,
       "group": "fish"
@@ -92,7 +92,7 @@
       "family": "Labridae",
       "genus": "Thalassoma",
       "species": "Thalassoma pavo",
-      "scientificName": "Thalassoma pavo",
+      "AphiaID": 126970,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -104,7 +104,7 @@
       "family": "Ophidiidae",
       "genus": "Lepophidium",
       "species": "Lepophidium negropinna",
-      "scientificName": "Lepophidium negropinna",
+      "AphiaID": 275623,
       "records": 1,
       "max_year": 2010,
       "group": "fish"
@@ -116,7 +116,7 @@
       "family": "Pomacentridae",
       "genus": "Chromis",
       "species": "Chromis chromis",
-      "scientificName": "Chromis chromis",
+      "AphiaID": 127000,
       "records": 1,
       "max_year": 2013,
       "group": "fish"
@@ -128,7 +128,7 @@
       "family": "Serranidae",
       "genus": "Epinephelus",
       "species": "Epinephelus marginatus",
-      "scientificName": "Epinephelus marginatus",
+      "AphiaID": 127036,
       "redlist_category": "VU",
       "records": 1,
       "max_year": 2013,
@@ -141,7 +141,7 @@
       "family": "Syngnathidae",
       "genus": "Hippocampus",
       "species": "Hippocampus guttulatus",
-      "scientificName": "Hippocampus guttulatus",
+      "AphiaID": 154776,
       "records": 1,
       "max_year": 2018,
       "group": "fish"
@@ -153,7 +153,7 @@
       "family": "Syngnathidae",
       "genus": "Syngnathus",
       "species": "Syngnathus typhle",
-      "scientificName": "Syngnathus typhle",
+      "AphiaID": 127393,
       "records": 2,
       "max_year": 2020,
       "group": "fish"
