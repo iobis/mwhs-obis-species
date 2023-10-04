@@ -1,6 +1,31 @@
 {
-  "created": "2023-09-21T08:07:01",
+  "created": "2023-10-04T08:04:30",
   "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
+      "genus": "Urogymnus",
+      "species": "Urogymnus granulatus",
+      "AphiaID": 989371,
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 2013,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Rhinoptera",
+      "species": "Rhinoptera jayakari",
+      "AphiaID": 271496,
+      "records": 1,
+      "max_year": 2013,
+      "group": "fish"
+    },
     {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
@@ -12,6 +37,28 @@
       "redlist_category": "EN",
       "records": 1,
       "max_year": 2007,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Siganidae",
+      "genus": "Siganus",
+      "species": "Siganus luridus",
+      "AphiaID": 127044,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Siganidae",
+      "genus": "Siganus",
+      "species": "Siganus rivulatus",
+      "AphiaID": 127045,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -65,6 +112,72 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Kyphosus",
+      "species": "Kyphosus bigibbus",
+      "AphiaID": 218707,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Kyphosus",
+      "species": "Kyphosus cinerascens",
+      "AphiaID": 218708,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Terapontidae",
+      "genus": "Terapon",
+      "species": "Terapon jarbua",
+      "AphiaID": 218350,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Gerres",
+      "species": "Gerres oyena",
+      "AphiaID": 218535,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus lentjan",
+      "AphiaID": 212061,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus fulviflamma",
+      "AphiaID": 218490,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Gobiiformes",
       "family": "Gobiidae",
       "genus": "Feia",
@@ -95,6 +208,73 @@
       "AphiaID": 219592,
       "records": 3,
       "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mugiliformes",
+      "family": "Mugilidae",
+      "genus": "Crenimugil",
+      "species": "Crenimugil crenilabis",
+      "AphiaID": 151498,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mugiliformes",
+      "family": "Mugilidae",
+      "genus": "Mugil",
+      "species": "Mugil cephalus",
+      "AphiaID": 126983,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Cephalopholis",
+      "species": "Cephalopholis argus",
+      "AphiaID": 218174,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Cephalopholis",
+      "species": "Cephalopholis hemistiktos",
+      "AphiaID": 218188,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Bothidae",
+      "genus": "Bothus",
+      "species": "Bothus pantherinus",
+      "AphiaID": 219795,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Eretmochelys",
+      "species": "Eretmochelys imbricata",
+      "AphiaID": 137207,
+      "redlist_category": "CR",
+      "records": 1,
+      "max_year": 2011,
+      "group": "turtle"
     }
   ]
 }

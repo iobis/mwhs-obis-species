@@ -1,4 +1,295 @@
 {
-  "created": "2023-09-21T08:07:01",
-  "species": []
+  "created": "2023-10-04T08:04:30",
+  "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
+      "genus": "Himantura",
+      "species": "Himantura leoparda",
+      "AphiaID": 398328,
+      "redlist_category": "VU",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
+      "genus": "Himantura",
+      "species": "Himantura tutul",
+      "AphiaID": 835151,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Leiognathidae",
+      "genus": "Eubleekeria",
+      "species": "Eubleekeria splendens",
+      "AphiaID": 398527,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Siganidae",
+      "genus": "Siganus",
+      "species": "Siganus guttatus",
+      "AphiaID": 273913,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anabantiformes",
+      "family": "Osphronemidae",
+      "genus": "Pseudosphromenus",
+      "species": "Pseudosphromenus cupanus",
+      "AphiaID": 282476,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Anguillidae",
+      "genus": "Anguilla",
+      "species": "Anguilla australis",
+      "AphiaID": 293541,
+      "redlist_category": "NT",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Praealticus",
+      "species": "Praealticus natalis",
+      "AphiaID": 282335,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Polynemidae",
+      "genus": "Filimanus",
+      "species": "Filimanus perplexa",
+      "AphiaID": 280782,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Megalaspis",
+      "species": "Megalaspis cordyla",
+      "AphiaID": 218430,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Scomberoides",
+      "species": "Scomberoides tol",
+      "AphiaID": 218433,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Dorosomatidae",
+      "genus": "Sardinella",
+      "species": "Sardinella albella",
+      "AphiaID": 212268,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Dussumieriidae",
+      "genus": "Dussumieria",
+      "species": "Dussumieria acuta",
+      "AphiaID": 126419,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Caesionidae",
+      "genus": "Caesio",
+      "species": "Caesio cuning",
+      "AphiaID": 278536,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus rivulatus",
+      "AphiaID": 367210,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius macropterus",
+      "AphiaID": 276116,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gonorynchiformes",
+      "family": "Chanidae",
+      "genus": "Chanos",
+      "species": "Chanos chanos",
+      "AphiaID": 217625,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus bleekeri",
+      "AphiaID": 273838,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus ongus",
+      "AphiaID": 218217,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Cynoglossidae",
+      "genus": "Cynoglossus",
+      "species": "Cynoglossus lingua",
+      "AphiaID": 154722,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Euthynnus",
+      "species": "Euthynnus affinis",
+      "AphiaID": 219708,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Siluriformes",
+      "family": "Ariidae",
+      "genus": "Netuma",
+      "species": "Netuma bilineata",
+      "AphiaID": 281743,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Siluriformes",
+      "family": "Ariidae",
+      "genus": "Plicofollis",
+      "species": "Plicofollis argyropleuron",
+      "AphiaID": 282296,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Syngnathiformes",
+      "family": "Syngnathidae",
+      "genus": "Hippocampus",
+      "species": "Hippocampus trimaculatus",
+      "AphiaID": 212232,
+      "redlist_category": "VU",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Chelonodontops",
+      "species": "Chelonodontops patoca",
+      "AphiaID": 1591143,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Takifugu",
+      "species": "Takifugu oblongus",
+      "AphiaID": 219959,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Lepidochelys",
+      "species": "Lepidochelys olivacea",
+      "AphiaID": 220293,
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 2009,
+      "group": "turtle"
+    }
+  ]
 }

@@ -1,6 +1,43 @@
 {
-  "created": "2023-09-21T08:07:01",
+  "created": "2023-10-04T08:04:30",
   "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Ursidae",
+      "genus": "Ursus",
+      "species": "Ursus maritimus",
+      "AphiaID": 137085,
+      "redlist_category": "VU",
+      "records": 75,
+      "max_year": 2011,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenidae",
+      "genus": "Balaena",
+      "species": "Balaena mysticetus",
+      "AphiaID": 137086,
+      "records": 1,
+      "max_year": 2019,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Megaptera",
+      "species": "Megaptera novaeangliae",
+      "AphiaID": 137092,
+      "records": 2,
+      "max_year": 2018,
+      "group": "mammal"
+    },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -11,40 +48,6 @@
       "AphiaID": 126433,
       "records": 1,
       "max_year": 2009,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Stichaeidae",
-      "genus": "Anisarchus",
-      "species": "Anisarchus medius",
-      "AphiaID": 127070,
-      "records": 3,
-      "max_year": 2009,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Cottidae",
-      "genus": "Artediellus",
-      "species": "Artediellus scaber",
-      "AphiaID": 127194,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Zoarcidae",
-      "genus": "Gymnelus",
-      "species": "Gymnelus hemifasciatus",
-      "AphiaID": 254583,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -63,12 +66,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Stichaeidae",
-      "genus": "Leptoclinus",
-      "species": "Leptoclinus maculatus",
-      "AphiaID": 127072,
-      "records": 3,
-      "max_year": 2009,
+      "family": "Gasterosteidae",
+      "genus": "Pungitius",
+      "species": "Pungitius pungitius",
+      "AphiaID": 126507,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -91,7 +93,31 @@
       "genus": "Liparis",
       "species": "Liparis tunicatus",
       "AphiaID": 154825,
-      "records": 5,
+      "records": 4,
+      "max_year": 2009,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Stichaeidae",
+      "genus": "Anisarchus",
+      "species": "Anisarchus medius",
+      "AphiaID": 127070,
+      "records": 3,
+      "max_year": 2009,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Stichaeidae",
+      "genus": "Leptoclinus",
+      "species": "Leptoclinus maculatus",
+      "AphiaID": 127072,
+      "records": 3,
       "max_year": 2009,
       "group": "fish"
     },
@@ -100,71 +126,11 @@
       "class": "Teleostei",
       "order": "Perciformes",
       "family": "Zoarcidae",
-      "genus": "Lycodes",
-      "species": "Lycodes mucosus",
-      "AphiaID": 254584,
+      "genus": "Gymnelus",
+      "species": "Gymnelus hemifasciatus",
+      "AphiaID": 254583,
       "records": 1,
       "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Gasterosteidae",
-      "genus": "Pungitius",
-      "species": "Pungitius pungitius",
-      "AphiaID": 126507,
-      "records": 1,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Ursidae",
-      "genus": "Ursus",
-      "species": "Ursus maritimus",
-      "AphiaID": 137085,
-      "redlist_category": "VU",
-      "records": 103,
-      "max_year": 2012,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Balaenidae",
-      "genus": "Balaena",
-      "species": "Balaena mysticetus",
-      "AphiaID": 137086,
-      "records": 9,
-      "max_year": 2019,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Monodontidae",
-      "genus": "Delphinapterus",
-      "species": "Delphinapterus leucas",
-      "AphiaID": 137115,
-      "records": 1,
-      "max_year": 2010,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Balaenopteridae",
-      "genus": "Megaptera",
-      "species": "Megaptera novaeangliae",
-      "AphiaID": 137092,
-      "records": 2,
-      "max_year": 2018,
-      "group": "mammal"
     }
   ]
 }

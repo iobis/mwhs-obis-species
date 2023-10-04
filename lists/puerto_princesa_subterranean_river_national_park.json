@@ -1,4 +1,88 @@
 {
-  "created": "2023-09-21T08:07:01",
-  "species": []
+  "created": "2023-10-04T08:04:30",
+  "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena barracuda",
+      "AphiaID": 345843,
+      "records": 2,
+      "max_year": 1948,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Caesionidae",
+      "genus": "Pterocaesio",
+      "species": "Pterocaesio pisang",
+      "AphiaID": 213658,
+      "records": 1,
+      "max_year": 1979,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus decussatus",
+      "AphiaID": 276530,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Nemipteridae",
+      "genus": "Scolopsis",
+      "species": "Scolopsis bilineata",
+      "AphiaID": 209219,
+      "records": 1,
+      "max_year": 1979,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Chromis",
+      "species": "Chromis analis",
+      "AphiaID": 212814,
+      "records": 1,
+      "max_year": 1979,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Pomacentrus",
+      "species": "Pomacentrus moluccensis",
+      "AphiaID": 277159,
+      "records": 1,
+      "max_year": 1979,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Chelonia",
+      "species": "Chelonia mydas",
+      "AphiaID": 137206,
+      "redlist_category": "EN",
+      "records": 6,
+      "max_year": 2015,
+      "group": "turtle"
+    }
+  ]
 }

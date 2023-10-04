@@ -1,6 +1,42 @@
 {
-  "created": "2023-09-21T08:07:00",
+  "created": "2023-10-04T08:04:30",
   "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Halichoerus",
+      "species": "Halichoerus grypus",
+      "AphiaID": 137080,
+      "records": 100,
+      "max_year": 2020,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Pusa",
+      "species": "Pusa hispida",
+      "AphiaID": 159021,
+      "records": 7,
+      "max_year": 2018,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Pusa",
+      "species": "Pusa hispida",
+      "AphiaID": 255029,
+      "records": 1,
+      "max_year": 2019,
+      "group": "mammal"
+    },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
@@ -92,32 +128,8 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus minutus",
       "AphiaID": 126928,
-      "records": 154,
+      "records": 155,
       "max_year": 2014,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Gasterosteidae",
-      "genus": "Gasterosteus",
-      "species": "Gasterosteus aculeatus",
-      "AphiaID": 126505,
-      "records": 165,
-      "max_year": 2020,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Stichaeidae",
-      "genus": "Lumpenus",
-      "species": "Lumpenus lampretaeformis",
-      "AphiaID": 154675,
-      "records": 1,
-      "max_year": 1891,
       "group": "fish"
     },
     {
@@ -141,6 +153,30 @@
       "AphiaID": 127203,
       "records": 1,
       "max_year": 2014,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Gasterosteidae",
+      "genus": "Gasterosteus",
+      "species": "Gasterosteus aculeatus",
+      "AphiaID": 126505,
+      "records": 165,
+      "max_year": 2020,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Gasterosteidae",
+      "genus": "Pungitius",
+      "species": "Pungitius pungitius",
+      "AphiaID": 126507,
+      "records": 9,
+      "max_year": 2020,
       "group": "fish"
     },
     {
@@ -171,12 +207,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Gasterosteidae",
-      "genus": "Pungitius",
-      "species": "Pungitius pungitius",
-      "AphiaID": 126507,
-      "records": 9,
-      "max_year": 2020,
+      "family": "Stichaeidae",
+      "genus": "Lumpenus",
+      "species": "Lumpenus lampretaeformis",
+      "AphiaID": 154675,
+      "records": 1,
+      "max_year": 1891,
       "group": "fish"
     },
     {
@@ -214,30 +250,6 @@
       "records": 1,
       "max_year": 2013,
       "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Halichoerus",
-      "species": "Halichoerus grypus",
-      "AphiaID": 137080,
-      "records": 57,
-      "max_year": 2020,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Pusa",
-      "species": "Pusa hispida",
-      "AphiaID": 255029,
-      "records": 8,
-      "max_year": 2019,
-      "group": "mammal"
     }
   ]
 }

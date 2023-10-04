@@ -1,6 +1,18 @@
 {
-  "created": "2023-09-21T08:07:00",
+  "created": "2023-10-04T08:04:30",
   "species": [
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "species": "Carcharhinus amblyrhynchos",
+      "AphiaID": 217337,
+      "redlist_category": "EN",
+      "records": 1,
+      "group": "fish"
+    },
     {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
@@ -21,7 +33,7 @@
       "genus": "Carcharhinus",
       "species": "Carcharhinus galapagensis",
       "AphiaID": 105790,
-      "records": 609,
+      "records": 540,
       "max_year": 2019,
       "group": "fish"
     },
@@ -60,7 +72,7 @@
       "species": "Galeocerdo cuvier",
       "AphiaID": 105799,
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -121,7 +133,7 @@
       "genus": "Bathytoshia",
       "species": "Bathytoshia lata",
       "AphiaID": 1018707,
-      "records": 2,
+      "records": 3,
       "max_year": 2004,
       "group": "fish"
     },
@@ -147,7 +159,7 @@
       "species": "Taeniurops meyeni",
       "AphiaID": 712972,
       "redlist_category": "VU",
-      "records": 8,
+      "records": 9,
       "max_year": 2004,
       "group": "fish"
     },
@@ -193,23 +205,23 @@
       "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Squaliformes",
-      "family": "Etmopteridae",
-      "genus": "Etmopterus",
-      "species": "Etmopterus molleri",
-      "AphiaID": 215603,
-      "records": 2,
-      "max_year": 2003,
+      "family": "Dalatiidae",
+      "genus": "Isistius",
+      "species": "Isistius brasiliensis",
+      "AphiaID": 215612,
+      "records": 20,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Squaliformes",
-      "family": "Dalatiidae",
-      "genus": "Isistius",
-      "species": "Isistius brasiliensis",
-      "AphiaID": 215612,
-      "records": 20,
+      "family": "Etmopteridae",
+      "genus": "Etmopterus",
+      "species": "Etmopterus molleri",
+      "AphiaID": 215603,
+      "records": 2,
+      "max_year": 2003,
       "group": "fish"
     },
     {
@@ -238,6 +250,62 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Megaptera",
+      "species": "Megaptera novaeangliae",
+      "AphiaID": 137092,
+      "records": 1,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Globicephala",
+      "species": "Globicephala melas",
+      "AphiaID": 137097,
+      "records": 3,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Ziphiidae",
+      "genus": "Mesoplodon",
+      "species": "Mesoplodon densirostris",
+      "AphiaID": 137122,
+      "records": 17,
+      "max_year": 2011,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Acanthurus",
+      "species": "Acanthurus blochii",
+      "AphiaID": 219639,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Acanthurus",
+      "species": "Acanthurus dussumieri",
+      "AphiaID": 219641,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Acanthuriformes",
       "family": "Acanthuridae",
@@ -253,10 +321,124 @@
       "order": "Acanthuriformes",
       "family": "Acanthuridae",
       "genus": "Acanthurus",
+      "species": "Acanthurus nigrofuscus",
+      "AphiaID": 219640,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Acanthurus",
+      "species": "Acanthurus olivaceus",
+      "AphiaID": 219625,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Acanthurus",
       "species": "Acanthurus triostegus",
       "AphiaID": 219630,
-      "records": 4,
+      "records": 6,
       "max_year": 1898,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Naso",
+      "species": "Naso annulatus",
+      "AphiaID": 219673,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Naso",
+      "species": "Naso brevirostris",
+      "AphiaID": 219671,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Naso",
+      "species": "Naso hexacanthus",
+      "AphiaID": 219667,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Naso",
+      "species": "Naso maculatus",
+      "AphiaID": 278007,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Naso",
+      "species": "Naso unicornis",
+      "AphiaID": 219668,
+      "records": 7,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Prionurus",
+      "species": "Prionurus maculatus",
+      "AphiaID": 282347,
+      "records": 29,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Prionurus",
+      "species": "Prionurus microlepidotus",
+      "AphiaID": 282348,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Zebrasoma",
+      "species": "Zebrasoma scopas",
+      "AphiaID": 219679,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -267,19 +449,8 @@
       "genus": "Amphichaetodon",
       "species": "Amphichaetodon howensis",
       "AphiaID": 279588,
-      "records": 19,
+      "records": 20,
       "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Pomacanthidae",
-      "genus": "Centropyge",
-      "species": "Centropyge tibicen",
-      "AphiaID": 278851,
-      "records": 26,
       "group": "fish"
     },
     {
@@ -290,7 +461,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon auriga",
       "AphiaID": 218730,
-      "records": 4,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -301,7 +472,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon bennetti",
       "AphiaID": 218735,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -312,7 +483,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon citrinellus",
       "AphiaID": 218744,
-      "records": 6,
+      "records": 7,
       "max_year": 1973,
       "group": "fish"
     },
@@ -324,7 +495,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon flavirostris",
       "AphiaID": 273337,
-      "records": 22,
+      "records": 24,
       "max_year": 1973,
       "group": "fish"
     },
@@ -336,8 +507,19 @@
       "genus": "Chaetodon",
       "species": "Chaetodon guentheri",
       "AphiaID": 273341,
-      "records": 12,
+      "records": 13,
       "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon kleinii",
+      "AphiaID": 218738,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -348,7 +530,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon lineolatus",
       "AphiaID": 218734,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -359,7 +541,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon lunula",
       "AphiaID": 218733,
-      "records": 6,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -370,7 +552,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon melannotus",
       "AphiaID": 218743,
-      "records": 6,
+      "records": 7,
       "max_year": 1973,
       "group": "fish"
     },
@@ -382,8 +564,19 @@
       "genus": "Chaetodon",
       "species": "Chaetodon mertensii",
       "AphiaID": 273347,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon ornatissimus",
+      "AphiaID": 273352,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -394,7 +587,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon pelewensis",
       "AphiaID": 273353,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -405,7 +598,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon plebeius",
       "AphiaID": 273354,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
       "group": "fish"
     },
@@ -418,7 +611,7 @@
       "species": "Chaetodon rainfordi",
       "AphiaID": 273358,
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -429,7 +622,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon speculum",
       "AphiaID": 218740,
-      "records": 4,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -440,8 +633,20 @@
       "genus": "Chaetodon",
       "species": "Chaetodon tricinctus",
       "AphiaID": 273365,
-      "records": 28,
+      "records": 29,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon trifascialis",
+      "AphiaID": 218719,
+      "redlist_category": "NT",
+      "records": 1,
       "group": "fish"
     },
     {
@@ -452,7 +657,29 @@
       "genus": "Chaetodon",
       "species": "Chaetodon trifasciatus",
       "AphiaID": 218741,
-      "records": 6,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon ulietensis",
+      "AphiaID": 218717,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon unimaculatus",
+      "AphiaID": 218753,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -463,7 +690,63 @@
       "genus": "Chaetodon",
       "species": "Chaetodon vagabundus",
       "AphiaID": 218754,
-      "records": 4,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Forcipiger",
+      "species": "Forcipiger flavissimus",
+      "AphiaID": 218760,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Heniochus",
+      "species": "Heniochus acuminatus",
+      "AphiaID": 218765,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Centropyge",
+      "species": "Centropyge bispinosa",
+      "AphiaID": 278830,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Centropyge",
+      "species": "Centropyge tibicen",
+      "AphiaID": 278851,
+      "records": 27,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Centropyge",
+      "species": "Centropyge vrolikii",
+      "AphiaID": 278853,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -486,7 +769,7 @@
       "genus": "Chaetodontoplus",
       "species": "Chaetodontoplus conspicillatus",
       "AphiaID": 280116,
-      "records": 18,
+      "records": 19,
       "max_year": 2004,
       "group": "fish"
     },
@@ -494,12 +777,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Acanthuriformes",
-      "family": "Chaetodontidae",
-      "genus": "Forcipiger",
-      "species": "Forcipiger flavissimus",
-      "AphiaID": 218760,
-      "records": 2,
-      "max_year": 1973,
+      "family": "Pomacanthidae",
+      "genus": "Chaetodontoplus",
+      "species": "Chaetodontoplus meredithi",
+      "AphiaID": 280120,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -510,7 +792,7 @@
       "genus": "Genicanthus",
       "species": "Genicanthus semicinctus",
       "AphiaID": 279095,
-      "records": 13,
+      "records": 14,
       "max_year": 2004,
       "group": "fish"
     },
@@ -518,47 +800,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Acanthuriformes",
-      "family": "Chaetodontidae",
-      "genus": "Heniochus",
-      "species": "Heniochus acuminatus",
-      "AphiaID": 218765,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Naso",
-      "species": "Naso annulatus",
-      "AphiaID": 219673,
-      "records": 2,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Naso",
-      "species": "Naso brevirostris",
-      "AphiaID": 219671,
-      "records": 2,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Naso",
-      "species": "Naso unicornis",
-      "AphiaID": 219668,
-      "records": 6,
-      "max_year": 1973,
+      "family": "Pomacanthidae",
+      "genus": "Pomacanthus",
+      "species": "Pomacanthus imperator",
+      "AphiaID": 220001,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -569,20 +815,8 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus semicirculatus",
       "AphiaID": 220003,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Prionurus",
-      "species": "Prionurus maculatus",
-      "AphiaID": 282347,
-      "records": 28,
-      "max_year": 2004,
       "group": "fish"
     },
     {
@@ -593,7 +827,7 @@
       "genus": "Siganus",
       "species": "Siganus fuscescens",
       "AphiaID": 273912,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -604,31 +838,20 @@
       "genus": "Zanclus",
       "species": "Zanclus cornutus",
       "AphiaID": 220083,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Zebrasoma",
-      "species": "Zebrasoma scopas",
-      "AphiaID": 219679,
-      "records": 2,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Acropomatiformes",
-      "family": "Pentacerotidae",
-      "genus": "Evistias",
-      "species": "Evistias acutirostris",
-      "AphiaID": 280765,
-      "records": 4,
-      "max_year": 1973,
+      "family": "Creediidae",
+      "genus": "Limnichthys",
+      "species": "Limnichthys fasciatus",
+      "AphiaID": 277886,
+      "records": 27,
+      "max_year": 1977,
       "group": "fish"
     },
     {
@@ -640,18 +863,6 @@
       "species": "Howella brodiei",
       "AphiaID": 126994,
       "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acropomatiformes",
-      "family": "Creediidae",
-      "genus": "Limnichthys",
-      "species": "Limnichthys fasciatus",
-      "AphiaID": 277886,
-      "records": 26,
-      "max_year": 1977,
       "group": "fish"
     },
     {
@@ -686,7 +897,7 @@
       "genus": "Parapriacanthus",
       "species": "Parapriacanthus ransonneti",
       "AphiaID": 218698,
-      "records": 12,
+      "records": 13,
       "max_year": 1980,
       "group": "fish"
     },
@@ -698,7 +909,7 @@
       "genus": "Pempheris",
       "species": "Pempheris analis",
       "AphiaID": 277057,
-      "records": 21,
+      "records": 22,
       "max_year": 1973,
       "group": "fish"
     },
@@ -710,7 +921,7 @@
       "genus": "Pempheris",
       "species": "Pempheris oualensis",
       "AphiaID": 218700,
-      "records": 1,
+      "records": 2,
       "max_year": 1973,
       "group": "fish"
     },
@@ -723,6 +934,29 @@
       "species": "Pempheris schwenkii",
       "AphiaID": 218699,
       "records": 2,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acropomatiformes",
+      "family": "Pempheridae",
+      "genus": "Pempheris",
+      "species": "Pempheris vanicolensis",
+      "AphiaID": 218701,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acropomatiformes",
+      "family": "Pentacerotidae",
+      "genus": "Evistias",
+      "species": "Evistias acutirostris",
+      "AphiaID": 280765,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -745,7 +979,7 @@
       "genus": "Albula",
       "species": "Albula argentea",
       "AphiaID": 275407,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -800,22 +1034,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Callechelys",
-      "species": "Callechelys catostoma",
-      "AphiaID": 217563,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Callechelys",
-      "species": "Callechelys marmorata",
-      "AphiaID": 217565,
-      "records": 2,
+      "family": "Congridae",
+      "genus": "Ariosoma",
+      "species": "Ariosoma mauritianum",
+      "AphiaID": 217540,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -826,7 +1049,7 @@
       "genus": "Conger",
       "species": "Conger cinereus",
       "AphiaID": 217545,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -837,30 +1060,8 @@
       "genus": "Conger",
       "species": "Conger wilsoni",
       "AphiaID": 217546,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Muraenidae",
-      "genus": "Echidna",
-      "species": "Echidna nebulosa",
-      "AphiaID": 217469,
-      "records": 12,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Muraenidae",
-      "genus": "Enchelycore",
-      "species": "Enchelycore ramosa",
-      "AphiaID": 271811,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -905,7 +1106,29 @@
       "genus": "Gnathophis",
       "species": "Gnathophis umbrellabius",
       "AphiaID": 271771,
-      "records": 4,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Echidna",
+      "species": "Echidna nebulosa",
+      "AphiaID": 217469,
+      "records": 13,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Enchelycore",
+      "species": "Enchelycore ramosa",
+      "AphiaID": 271811,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -916,8 +1139,19 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax annasona",
       "AphiaID": 271817,
-      "records": 21,
+      "records": 23,
       "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax australicola",
+      "AphiaID": 271820,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -940,7 +1174,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax chilospilus",
       "AphiaID": 217490,
-      "records": 4,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -951,7 +1185,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax eurostus",
       "AphiaID": 217496,
-      "records": 22,
+      "records": 23,
       "max_year": 1973,
       "group": "fish"
     },
@@ -973,9 +1207,20 @@
       "order": "Anguilliformes",
       "family": "Muraenidae",
       "genus": "Gymnothorax",
+      "species": "Gymnothorax flavimarginatus",
+      "AphiaID": 217495,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
       "species": "Gymnothorax meleagris",
       "AphiaID": 217503,
-      "records": 8,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -986,7 +1231,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax nubilus",
       "AphiaID": 271862,
-      "records": 18,
+      "records": 19,
       "max_year": 1973,
       "group": "fish"
     },
@@ -998,7 +1243,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax porphyreus",
       "AphiaID": 271872,
-      "records": 28,
+      "records": 29,
       "group": "fish"
     },
     {
@@ -1020,52 +1265,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax thyrsoideus",
       "AphiaID": 271889,
-      "records": 8,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Leiuranus",
-      "species": "Leiuranus semicinctus",
-      "AphiaID": 217572,
-      "records": 1,
-      "max_year": 2017,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Leiuranus",
-      "species": "Leiuranus versicolor",
-      "AphiaID": 310967,
-      "records": 8,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Malvoliophis",
-      "species": "Malvoliophis pinguis",
-      "AphiaID": 281516,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Myrichthys",
-      "species": "Myrichthys maculosus",
-      "AphiaID": 217578,
-      "records": 2,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -1085,10 +1285,88 @@
       "class": "Teleostei",
       "order": "Anguilliformes",
       "family": "Ophichthidae",
+      "genus": "Callechelys",
+      "species": "Callechelys catostoma",
+      "AphiaID": 217563,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Callechelys",
+      "species": "Callechelys marmorata",
+      "AphiaID": 217565,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Leiuranus",
+      "species": "Leiuranus semicinctus",
+      "AphiaID": 217572,
+      "records": 2,
+      "max_year": 2017,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Leiuranus",
+      "species": "Leiuranus versicolor",
+      "AphiaID": 310967,
+      "records": 9,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Malvoliophis",
+      "species": "Malvoliophis pinguis",
+      "AphiaID": 281516,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrichthys",
+      "species": "Myrichthys maculosus",
+      "AphiaID": 217578,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Scolecenchelys",
+      "species": "Scolecenchelys laticaudata",
+      "AphiaID": 282717,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
       "genus": "Scolecenchelys",
       "species": "Scolecenchelys nicholsarum",
       "AphiaID": 282719,
-      "records": 14,
+      "records": 15,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1110,9 +1388,21 @@
       "order": "Atheriniformes",
       "family": "Atherinidae",
       "genus": "Atherion",
+      "species": "Atherion elymus",
+      "AphiaID": 277641,
+      "records": 1,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Atheriniformes",
+      "family": "Atherinidae",
+      "genus": "Atherion",
       "species": "Atherion maccullochi",
       "AphiaID": 277642,
-      "records": 28,
+      "records": 29,
       "group": "fish"
     },
     {
@@ -1134,7 +1424,7 @@
       "genus": "Hypoatherina",
       "species": "Hypoatherina tropicalis",
       "AphiaID": 277724,
-      "records": 34,
+      "records": 35,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1146,7 +1436,7 @@
       "genus": "Iso",
       "species": "Iso rhothophilus",
       "AphiaID": 276754,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1166,6 +1456,17 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Aulopiformes",
+      "family": "Aulopidae",
+      "genus": "Hime",
+      "species": "Hime pyrhistion",
+      "AphiaID": 1007215,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Aulopiformes",
       "family": "Ipnopidae",
       "genus": "Bathypterois",
       "species": "Bathypterois longifilis",
@@ -1178,11 +1479,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Aulopiformes",
-      "family": "Aulopidae",
-      "genus": "Hime",
-      "species": "Hime pyrhistion",
-      "AphiaID": 1007215,
+      "family": "Notosudidae",
+      "genus": "Scopelosaurus",
+      "species": "Scopelosaurus ahlstromi",
+      "AphiaID": 272079,
       "records": 2,
+      "max_year": 2012,
       "group": "fish"
     },
     {
@@ -1204,19 +1506,7 @@
       "genus": "Saurida",
       "species": "Saurida gracilis",
       "AphiaID": 217662,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Aulopiformes",
-      "family": "Notosudidae",
-      "genus": "Scopelosaurus",
-      "species": "Scopelosaurus ahlstromi",
-      "AphiaID": 272079,
-      "records": 2,
-      "max_year": 2012,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1237,9 +1527,20 @@
       "order": "Aulopiformes",
       "family": "Synodontidae",
       "genus": "Synodus",
+      "species": "Synodus dermatogenys",
+      "AphiaID": 217667,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Aulopiformes",
+      "family": "Synodontidae",
+      "genus": "Synodus",
       "species": "Synodus doaki",
       "AphiaID": 217672,
-      "records": 1,
+      "records": 2,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1251,7 +1552,7 @@
       "genus": "Synodus",
       "species": "Synodus similis",
       "AphiaID": 272141,
-      "records": 1,
+      "records": 2,
       "max_year": 2004,
       "group": "fish"
     },
@@ -1263,7 +1564,7 @@
       "genus": "Synodus",
       "species": "Synodus variegatus",
       "AphiaID": 217670,
-      "records": 30,
+      "records": 32,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1275,7 +1576,19 @@
       "genus": "Trachinocephalus",
       "species": "Trachinocephalus myops",
       "AphiaID": 158884,
-      "records": 8,
+      "records": 9,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Belonidae",
+      "genus": "Platybelone",
+      "species": "Platybelone argalus",
+      "AphiaID": 126377,
+      "records": 17,
+      "max_year": 1973,
       "group": "fish"
     },
     {
@@ -1287,18 +1600,6 @@
       "species": "Cheilopogon heterurus",
       "AphiaID": 126382,
       "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Beloniformes",
-      "family": "Hemiramphidae",
-      "genus": "Euleptorhamphus",
-      "species": "Euleptorhamphus viridis",
-      "AphiaID": 220012,
-      "records": 4,
-      "max_year": 1973,
       "group": "fish"
     },
     {
@@ -1340,10 +1641,10 @@
       "class": "Teleostei",
       "order": "Beloniformes",
       "family": "Hemiramphidae",
-      "genus": "Hyporhamphus",
-      "species": "Hyporhamphus australis",
-      "AphiaID": 272179,
-      "records": 61,
+      "genus": "Euleptorhamphus",
+      "species": "Euleptorhamphus viridis",
+      "AphiaID": 220012,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1351,11 +1652,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Beloniformes",
-      "family": "Belonidae",
-      "genus": "Platybelone",
-      "species": "Platybelone argalus",
-      "AphiaID": 126377,
-      "records": 16,
+      "family": "Hemiramphidae",
+      "genus": "Hyporhamphus",
+      "species": "Hyporhamphus australis",
+      "AphiaID": 272179,
+      "records": 62,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1379,7 +1680,7 @@
       "genus": "Cirripectes",
       "species": "Cirripectes alboapicalis",
       "AphiaID": 276716,
-      "records": 38,
+      "records": 40,
       "max_year": 1979,
       "group": "fish"
     },
@@ -1391,7 +1692,7 @@
       "genus": "Cirripectes",
       "species": "Cirripectes castaneus",
       "AphiaID": 219266,
-      "records": 2,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1402,18 +1703,7 @@
       "genus": "Cirripectes",
       "species": "Cirripectes chelomatus",
       "AphiaID": 276718,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Clinidae",
-      "genus": "Cristiceps",
-      "species": "Cristiceps aurantiacus",
-      "AphiaID": 276603,
-      "records": 6,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1424,7 +1714,134 @@
       "genus": "Enchelyurus",
       "species": "Enchelyurus ater",
       "AphiaID": 276882,
-      "records": 16,
+      "records": 17,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Entomacrodus",
+      "species": "Entomacrodus striatus",
+      "AphiaID": 219282,
+      "records": 21,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Istiblennius",
+      "species": "Istiblennius edentulus",
+      "AphiaID": 219294,
+      "records": 77,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Petroscirtes",
+      "species": "Petroscirtes lupus",
+      "AphiaID": 279038,
+      "records": 21,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Plagiotremus",
+      "species": "Plagiotremus laudandus",
+      "AphiaID": 293706,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Plagiotremus",
+      "species": "Plagiotremus rhinorhynchos",
+      "AphiaID": 219334,
+      "records": 13,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Plagiotremus",
+      "species": "Plagiotremus tapeinosoma",
+      "AphiaID": 219335,
+      "records": 22,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Stanulus",
+      "species": "Stanulus talboti",
+      "AphiaID": 277937,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Xiphasia",
+      "species": "Xiphasia matsubarai",
+      "AphiaID": 219344,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Xiphasia",
+      "species": "Xiphasia setifer",
+      "AphiaID": 219345,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Clinidae",
+      "genus": "Cristiceps",
+      "species": "Cristiceps aurantiacus",
+      "AphiaID": 276603,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Clinidae",
+      "genus": "Heteroclinus",
+      "species": "Heteroclinus roseus",
+      "AphiaID": 281066,
+      "records": 31,
       "max_year": 1973,
       "group": "fish"
     },
@@ -1459,7 +1876,7 @@
       "genus": "Enneapterygius",
       "species": "Enneapterygius howensis",
       "AphiaID": 277314,
-      "records": 8,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -1482,43 +1899,8 @@
       "genus": "Enneapterygius",
       "species": "Enneapterygius rufopileus",
       "AphiaID": 277337,
-      "records": 132,
+      "records": 135,
       "max_year": 2005,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Entomacrodus",
-      "species": "Entomacrodus striatus",
-      "AphiaID": 219282,
-      "records": 20,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Clinidae",
-      "genus": "Heteroclinus",
-      "species": "Heteroclinus roseus",
-      "AphiaID": 281066,
-      "records": 30,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Istiblennius",
-      "species": "Istiblennius edentulus",
-      "AphiaID": 219294,
-      "records": 76,
       "group": "fish"
     },
     {
@@ -1529,78 +1911,8 @@
       "genus": "Norfolkia",
       "species": "Norfolkia squamiceps",
       "AphiaID": 276728,
-      "records": 24,
+      "records": 25,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Petroscirtes",
-      "species": "Petroscirtes lupus",
-      "AphiaID": 279038,
-      "records": 20,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Plagiotremus",
-      "species": "Plagiotremus rhinorhynchos",
-      "AphiaID": 219334,
-      "records": 12,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Plagiotremus",
-      "species": "Plagiotremus tapeinosoma",
-      "AphiaID": 219335,
-      "records": 20,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Stanulus",
-      "species": "Stanulus talboti",
-      "AphiaID": 277937,
-      "records": 2,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Xiphasia",
-      "species": "Xiphasia matsubarai",
-      "AphiaID": 219344,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Xiphasia",
-      "species": "Xiphasia setifer",
-      "AphiaID": 219345,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -1612,6 +1924,29 @@
       "species": "Callionymus scaber",
       "AphiaID": 1016262,
       "records": 6,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Callionymiformes",
+      "family": "Callionymidae",
+      "genus": "Repomucenus",
+      "species": "Repomucenus calcaratus",
+      "AphiaID": 282559,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Latidae",
+      "genus": "Lates",
+      "species": "Lates calcarifer",
+      "AphiaID": 278957,
+      "records": 175,
+      "max_year": 2009,
       "group": "fish"
     },
     {
@@ -1630,12 +1965,22 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Carangaria incertae sedis",
-      "family": "Latidae",
-      "genus": "Lates",
-      "species": "Lates calcarifer",
-      "AphiaID": 278957,
-      "records": 175,
-      "max_year": 2009,
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena acutipinnis",
+      "AphiaID": 212044,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangaria incertae sedis",
+      "family": "Sphyraenidae",
+      "genus": "Sphyraena",
+      "species": "Sphyraena barracuda",
+      "AphiaID": 345843,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1669,7 +2014,18 @@
       "genus": "Alectis",
       "species": "Alectis ciliaris",
       "AphiaID": 159629,
-      "records": 4,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Carangoides",
+      "species": "Carangoides ferdau",
+      "AphiaID": 218395,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1681,6 +2037,154 @@
       "species": "Caranx sexfasciatus",
       "AphiaID": 218404,
       "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Decapterus",
+      "species": "Decapterus muroadsi",
+      "AphiaID": 273279,
+      "records": 11,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Elagatis",
+      "species": "Elagatis bipinnulata",
+      "AphiaID": 126809,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Ferdauia",
+      "species": "Ferdauia orthogrammus",
+      "AphiaID": 1605280,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Gnathanodon",
+      "species": "Gnathanodon speciosus",
+      "AphiaID": 218429,
+      "records": 4,
+      "max_year": 2012,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Pseudocaranx",
+      "species": "Pseudocaranx dentex",
+      "AphiaID": 126812,
+      "records": 57,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Selar",
+      "species": "Selar crumenophthalmus",
+      "AphiaID": 159646,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Seriola",
+      "species": "Seriola dumerili",
+      "AphiaID": 126816,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Seriola",
+      "species": "Seriola lalandi",
+      "AphiaID": 218436,
+      "records": 18,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Seriola",
+      "species": "Seriola rivoliana",
+      "AphiaID": 126818,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachinotus",
+      "species": "Trachinotus baillonii",
+      "AphiaID": 218440,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachinotus",
+      "species": "Trachinotus coppingeri",
+      "AphiaID": 273290,
+      "records": 21,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachurus",
+      "species": "Trachurus declivis",
+      "AphiaID": 273301,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachurus",
+      "species": "Trachurus novaezelandiae",
+      "AphiaID": 273304,
+      "records": 7,
+      "max_year": 2000,
       "group": "fish"
     },
     {
@@ -1710,12 +2214,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Decapterus",
-      "species": "Decapterus muroadsi",
-      "AphiaID": 273279,
-      "records": 10,
-      "max_year": 1973,
+      "family": "Echeneidae",
+      "genus": "Echeneis",
+      "species": "Echeneis naucrates",
+      "AphiaID": 126848,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1723,33 +2226,10 @@
       "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Echeneidae",
-      "genus": "Echeneis",
-      "species": "Echeneis naucrates",
-      "AphiaID": 126848,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Ferdauia",
-      "species": "Ferdauia orthogrammus",
-      "AphiaID": 1605280,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Gnathanodon",
-      "species": "Gnathanodon speciosus",
-      "AphiaID": 218429,
-      "records": 4,
-      "max_year": 2012,
+      "genus": "Remora",
+      "species": "Remora remora",
+      "AphiaID": 126853,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -1778,102 +2258,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Pseudocaranx",
-      "species": "Pseudocaranx dentex",
-      "AphiaID": 126812,
-      "records": 56,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Echeneidae",
-      "genus": "Remora",
-      "species": "Remora remora",
-      "AphiaID": 126853,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Selar",
-      "species": "Selar crumenophthalmus",
-      "AphiaID": 159646,
+      "family": "Xiphiidae",
+      "genus": "Xiphias",
+      "species": "Xiphias gladius",
+      "AphiaID": 127094,
       "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Seriola",
-      "species": "Seriola dumerili",
-      "AphiaID": 126816,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Seriola",
-      "species": "Seriola lalandi",
-      "AphiaID": 218436,
-      "records": 17,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Trachinotus",
-      "species": "Trachinotus baillonii",
-      "AphiaID": 218440,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Trachinotus",
-      "species": "Trachinotus coppingeri",
-      "AphiaID": 273290,
-      "records": 20,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Trachurus",
-      "species": "Trachurus declivis",
-      "AphiaID": 273301,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Trachurus",
-      "species": "Trachurus novaezelandiae",
-      "AphiaID": 273304,
-      "records": 6,
-      "max_year": 2000,
       "group": "fish"
     },
     {
@@ -1884,89 +2273,8 @@
       "genus": "Aplodactylus",
       "species": "Aplodactylus etheridgii",
       "AphiaID": 279657,
-      "records": 18,
+      "records": 19,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Kyphosidae",
-      "genus": "Atypichthys",
-      "species": "Atypichthys latus",
-      "AphiaID": 279826,
-      "records": 20,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Kyphosidae",
-      "genus": "Atypichthys",
-      "species": "Atypichthys strigatus",
-      "AphiaID": 279827,
-      "records": 12,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Kyphosidae",
-      "genus": "Bathystethus",
-      "species": "Bathystethus cultratus",
-      "AphiaID": 279876,
-      "records": 8,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Chironemidae",
-      "genus": "Chironemus",
-      "species": "Chironemus marmoratus",
-      "AphiaID": 280158,
-      "records": 10,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Chironemidae",
-      "genus": "Chironemus",
-      "species": "Chironemus microlepis",
-      "AphiaID": 280159,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Kyphosidae",
-      "genus": "Girella",
-      "species": "Girella cyanea",
-      "AphiaID": 280857,
-      "records": 73,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Kyphosidae",
-      "genus": "Girella",
-      "species": "Girella elevata",
-      "AphiaID": 280858,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -1988,7 +2296,7 @@
       "genus": "Goniistius",
       "species": "Goniistius vestitus",
       "AphiaID": 280920,
-      "records": 16,
+      "records": 18,
       "group": "fish"
     },
     {
@@ -1999,6 +2307,51 @@
       "genus": "Goniistius",
       "species": "Goniistius vittatus",
       "AphiaID": 280921,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Chironemidae",
+      "genus": "Chironemus",
+      "species": "Chironemus marmoratus",
+      "AphiaID": 280158,
+      "records": 11,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Chironemidae",
+      "genus": "Chironemus",
+      "species": "Chironemus microlepis",
+      "AphiaID": 280159,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Cirrhitidae",
+      "genus": "Notocirrhitus",
+      "species": "Notocirrhitus splendens",
+      "AphiaID": 281776,
+      "records": 31,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Cirrhitidae",
+      "genus": "Paracirrhites",
+      "species": "Paracirrhites forsteri",
+      "AphiaID": 218867,
       "records": 1,
       "group": "fish"
     },
@@ -2010,8 +2363,67 @@
       "genus": "Kuhlia",
       "species": "Kuhlia mugil",
       "AphiaID": 218355,
-      "records": 28,
+      "records": 30,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Atypichthys",
+      "species": "Atypichthys latus",
+      "AphiaID": 279826,
+      "records": 21,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Atypichthys",
+      "species": "Atypichthys strigatus",
+      "AphiaID": 279827,
+      "records": 13,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Bathystethus",
+      "species": "Bathystethus cultratus",
+      "AphiaID": 279876,
+      "records": 10,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Girella",
+      "species": "Girella cyanea",
+      "AphiaID": 280857,
+      "records": 75,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Girella",
+      "species": "Girella elevata",
+      "AphiaID": 280858,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2022,7 +2434,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus bigibbus",
       "AphiaID": 218707,
-      "records": 10,
+      "records": 11,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2034,7 +2446,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus cinerascens",
       "AphiaID": 218708,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2057,7 +2469,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus sydneyanus",
       "AphiaID": 273525,
-      "records": 2,
+      "records": 3,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2069,7 +2481,7 @@
       "genus": "Labracoglossa",
       "species": "Labracoglossa nitida",
       "AphiaID": 281246,
-      "records": 13,
+      "records": 14,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2081,31 +2493,7 @@
       "genus": "Microcanthus",
       "species": "Microcanthus strigatus",
       "AphiaID": 281558,
-      "records": 20,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Latridae",
-      "genus": "Morwong",
-      "species": "Morwong ephippium",
-      "AphiaID": 1525793,
-      "records": 14,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Cirrhitidae",
-      "genus": "Notocirrhitus",
-      "species": "Notocirrhitus splendens",
-      "AphiaID": 281776,
-      "records": 30,
+      "records": 22,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2126,10 +2514,44 @@
       "order": "Centrarchiformes",
       "family": "Kyphosidae",
       "genus": "Scorpis",
+      "species": "Scorpis lineolata",
+      "AphiaID": 282731,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Scorpis",
       "species": "Scorpis violacea",
       "AphiaID": 282732,
-      "records": 22,
+      "records": 23,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Latridae",
+      "genus": "Morwong",
+      "species": "Morwong ephippium",
+      "AphiaID": 1525793,
+      "records": 15,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Latridae",
+      "genus": "Morwong",
+      "species": "Morwong fuscus",
+      "AphiaID": 1526241,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2140,19 +2562,7 @@
       "genus": "Terapon",
       "species": "Terapon jarbua",
       "AphiaID": 218350,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Clupeiformes",
-      "family": "Engraulidae",
-      "genus": "Engraulis",
-      "species": "Engraulis australis",
-      "AphiaID": 272285,
-      "records": 2,
-      "max_year": 1973,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2170,11 +2580,23 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Clupeiformes",
+      "family": "Engraulidae",
+      "genus": "Engraulis",
+      "species": "Engraulis australis",
+      "AphiaID": 272285,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
       "family": "Spratelloididae",
       "genus": "Spratelloides",
       "species": "Spratelloides gracilis",
       "AphiaID": 212263,
-      "records": 20,
+      "records": 21,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2187,6 +2609,17 @@
       "species": "Carassius auratus",
       "AphiaID": 154298,
       "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Dactylopteriformes",
+      "family": "Dactylopteridae",
+      "genus": "Dactyloptena",
+      "species": "Dactyloptena orientalis",
+      "AphiaID": 218158,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2209,8 +2642,55 @@
       "genus": "Eurypegasus",
       "species": "Eurypegasus draconis",
       "AphiaID": 218161,
-      "records": 2,
+      "records": 3,
       "max_year": 1980,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Emmelichthyidae",
+      "genus": "Erythrocles",
+      "species": "Erythrocles schlegelii",
+      "AphiaID": 218466,
+      "records": 6,
+      "max_year": 2012,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Diagramma",
+      "species": "Diagramma pictum",
+      "AphiaID": 218536,
+      "records": 4,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Plectorhinchus",
+      "species": "Plectorhinchus flavomaculatus",
+      "AphiaID": 218549,
+      "records": 2,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Plectorhinchus",
+      "species": "Plectorhinchus picus",
+      "AphiaID": 218555,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2221,7 +2701,7 @@
       "genus": "Anampses",
       "species": "Anampses caeruleopunctatus",
       "AphiaID": 218920,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2233,7 +2713,7 @@
       "genus": "Anampses",
       "species": "Anampses elegans",
       "AphiaID": 279170,
-      "records": 35,
+      "records": 37,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2255,10 +2735,32 @@
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
       "genus": "Anampses",
+      "species": "Anampses geographicus",
+      "AphiaID": 218916,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Anampses",
       "species": "Anampses neoguinaicus",
       "AphiaID": 279174,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Bodianus",
+      "species": "Bodianus axillaris",
+      "AphiaID": 218933,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2280,7 +2782,7 @@
       "genus": "Bodianus",
       "species": "Bodianus perditio",
       "AphiaID": 218934,
-      "records": 10,
+      "records": 11,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2292,7 +2794,7 @@
       "genus": "Bodianus",
       "species": "Bodianus unimaculatus",
       "AphiaID": 273545,
-      "records": 16,
+      "records": 17,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2311,10 +2813,10 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Chlorurus",
-      "species": "Chlorurus microrhinos",
-      "AphiaID": 277507,
+      "family": "Labridae",
+      "genus": "Cheilio",
+      "species": "Cheilio inermis",
+      "AphiaID": 218948,
       "records": 2,
       "group": "fish"
     },
@@ -2322,12 +2824,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Chlorurus",
-      "species": "Chlorurus sordidus",
-      "AphiaID": 219082,
-      "records": 6,
-      "max_year": 1973,
+      "family": "Labridae",
+      "genus": "Choerodon",
+      "species": "Choerodon fasciatus",
+      "AphiaID": 277268,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2338,7 +2839,7 @@
       "genus": "Cirrhilabrus",
       "species": "Cirrhilabrus punctatus",
       "AphiaID": 277860,
-      "records": 5,
+      "records": 6,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2350,7 +2851,7 @@
       "genus": "Coris",
       "species": "Coris aygula",
       "AphiaID": 218957,
-      "records": 6,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2362,7 +2863,7 @@
       "species": "Coris bulbifrons",
       "AphiaID": 273551,
       "redlist_category": "VU",
-      "records": 41,
+      "records": 43,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2374,7 +2875,7 @@
       "genus": "Coris",
       "species": "Coris gaimard",
       "AphiaID": 218960,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2386,7 +2887,7 @@
       "genus": "Coris",
       "species": "Coris picta",
       "AphiaID": 273560,
-      "records": 50,
+      "records": 51,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2398,7 +2899,7 @@
       "genus": "Coris",
       "species": "Coris sandeyeri",
       "AphiaID": 273563,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2409,31 +2910,7 @@
       "genus": "Cymolutes",
       "species": "Cymolutes torquatus",
       "AphiaID": 218966,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Haemulidae",
-      "genus": "Diagramma",
-      "species": "Diagramma pictum",
-      "AphiaID": 218536,
-      "records": 4,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Emmelichthyidae",
-      "genus": "Erythrocles",
-      "species": "Erythrocles schlegelii",
-      "AphiaID": 218466,
-      "records": 6,
-      "max_year": 2012,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2444,20 +2921,8 @@
       "genus": "Gomphosus",
       "species": "Gomphosus varius",
       "AphiaID": 218975,
-      "records": 6,
+      "records": 7,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lethrinidae",
-      "genus": "Gymnocranius",
-      "species": "Gymnocranius euanus",
-      "AphiaID": 278870,
-      "records": 1,
-      "max_year": 2004,
       "group": "fish"
     },
     {
@@ -2468,8 +2933,19 @@
       "genus": "Halichoeres",
       "species": "Halichoeres margaritaceus",
       "AphiaID": 218987,
-      "records": 32,
+      "records": 33,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Halichoeres",
+      "species": "Halichoeres nebulosus",
+      "AphiaID": 218986,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2480,7 +2956,18 @@
       "genus": "Halichoeres",
       "species": "Halichoeres trimaculatus",
       "AphiaID": 275804,
-      "records": 14,
+      "records": 16,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Hemigymnus",
+      "species": "Hemigymnus fasciatus",
+      "AphiaID": 218999,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2491,19 +2978,7 @@
       "genus": "Hemigymnus",
       "species": "Hemigymnus melapterus",
       "AphiaID": 218998,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Priacanthidae",
-      "genus": "Heteropriacanthus",
-      "species": "Heteropriacanthus cruentatus",
-      "AphiaID": 127004,
-      "records": 16,
-      "max_year": 1973,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2514,7 +2989,7 @@
       "genus": "Hologymnosus",
       "species": "Hologymnosus doliatus",
       "AphiaID": 219001,
-      "records": 1,
+      "records": 2,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2536,9 +3011,20 @@
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
       "genus": "Iniistius",
+      "species": "Iniistius aneitensis",
+      "AphiaID": 278794,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Iniistius",
       "species": "Iniistius jacksonensis",
       "AphiaID": 344731,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2549,7 +3035,7 @@
       "genus": "Iniistius",
       "species": "Iniistius pavo",
       "AphiaID": 219004,
-      "records": 8,
+      "records": 9,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2561,7 +3047,18 @@
       "genus": "Labrichthys",
       "species": "Labrichthys unilineatus",
       "AphiaID": 219013,
-      "records": 2,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Labroides",
+      "species": "Labroides bicolor",
+      "AphiaID": 219015,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2572,7 +3069,7 @@
       "genus": "Labroides",
       "species": "Labroides dimidiatus",
       "AphiaID": 219014,
-      "records": 7,
+      "records": 8,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2580,92 +3077,22 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Leptoscarus",
-      "species": "Leptoscarus vaigiensis",
-      "AphiaID": 219091,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lethrinidae",
-      "genus": "Lethrinus",
-      "species": "Lethrinus genivittatus",
-      "AphiaID": 212078,
+      "family": "Labridae",
+      "genus": "Labropsis",
+      "species": "Labropsis australis",
+      "AphiaID": 278464,
       "records": 1,
-      "max_year": 2004,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Lethrinidae",
-      "genus": "Lethrinus",
-      "species": "Lethrinus lentjan",
-      "AphiaID": 212061,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lethrinidae",
-      "genus": "Lethrinus",
-      "species": "Lethrinus nebulosus",
-      "AphiaID": 212081,
-      "records": 6,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lethrinidae",
-      "genus": "Lethrinus",
-      "species": "Lethrinus olivaceus",
-      "AphiaID": 212069,
-      "records": 2,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Lutjanus",
-      "species": "Lutjanus fulviflamma",
-      "AphiaID": 218490,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Lutjanus",
-      "species": "Lutjanus kasmira",
-      "AphiaID": 218482,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Malacanthidae",
-      "genus": "Malacanthus",
-      "species": "Malacanthus brevirostris",
-      "AphiaID": 218378,
-      "records": 11,
-      "max_year": 2004,
+      "family": "Labridae",
+      "genus": "Macropharyngodon",
+      "species": "Macropharyngodon meleagris",
+      "AphiaID": 219028,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2687,7 +3114,7 @@
       "genus": "Notolabrus",
       "species": "Notolabrus gymnogenis",
       "AphiaID": 281789,
-      "records": 8,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -2698,7 +3125,7 @@
       "genus": "Notolabrus",
       "species": "Notolabrus inscriptus",
       "AphiaID": 281790,
-      "records": 78,
+      "records": 79,
       "max_year": 1973,
       "group": "fish"
     },
@@ -2710,7 +3137,7 @@
       "genus": "Novaculichthys",
       "species": "Novaculichthys taeniourus",
       "AphiaID": 219035,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2721,7 +3148,7 @@
       "genus": "Novaculoides",
       "species": "Novaculoides macrolepidotus",
       "AphiaID": 593553,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2740,34 +3167,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Sparidae",
-      "genus": "Pagrus",
-      "species": "Pagrus auratus",
-      "AphiaID": 398546,
-      "records": 3,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Paracaesio",
-      "species": "Paracaesio gonzalesi",
-      "AphiaID": 278685,
-      "records": 10,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Paracaesio",
-      "species": "Paracaesio xanthura",
-      "AphiaID": 218502,
-      "records": 17,
-      "max_year": 2004,
+      "family": "Labridae",
+      "genus": "Oxycheilinus",
+      "species": "Oxycheilinus bimaculatus",
+      "AphiaID": 219039,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2785,45 +3189,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
-      "family": "Haemulidae",
-      "genus": "Plectorhinchus",
-      "species": "Plectorhinchus flavomaculatus",
-      "AphiaID": 218549,
-      "records": 2,
+      "family": "Labridae",
+      "genus": "Pseudocheilinus",
+      "species": "Pseudocheilinus hexataenia",
+      "AphiaID": 208915,
+      "records": 5,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Priacanthidae",
-      "genus": "Priacanthus",
-      "species": "Priacanthus blochii",
-      "AphiaID": 218361,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Priacanthidae",
-      "genus": "Priacanthus",
-      "species": "Priacanthus hamrur",
-      "AphiaID": 218360,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Pristipomoides",
-      "species": "Pristipomoides argyrogrammicus",
-      "AphiaID": 218510,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -2831,11 +3202,10 @@
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
-      "genus": "Pseudocheilinus",
-      "species": "Pseudocheilinus hexataenia",
-      "AphiaID": 208915,
-      "records": 4,
-      "max_year": 1973,
+      "genus": "Pseudojuloides",
+      "species": "Pseudojuloides cerasinus",
+      "AphiaID": 219048,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2858,88 +3228,8 @@
       "genus": "Pseudolabrus",
       "species": "Pseudolabrus luculentus",
       "AphiaID": 282438,
-      "records": 103,
+      "records": 105,
       "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Scarus",
-      "species": "Scarus altipinnis",
-      "AphiaID": 276039,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Scarus",
-      "species": "Scarus forsteni",
-      "AphiaID": 276046,
-      "records": 2,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Scarus",
-      "species": "Scarus ghobban",
-      "AphiaID": 219127,
-      "records": 8,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Scarus",
-      "species": "Scarus globiceps",
-      "AphiaID": 219104,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Scaridae",
-      "genus": "Scarus",
-      "species": "Scarus psittacus",
-      "AphiaID": 219125,
-      "records": 4,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Nemipteridae",
-      "genus": "Scolopsis",
-      "species": "Scolopsis bilineata",
-      "AphiaID": 209219,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Sillaginidae",
-      "genus": "Sillago",
-      "species": "Sillago ciliata",
-      "AphiaID": 273939,
-      "records": 8,
       "group": "fish"
     },
     {
@@ -2950,8 +3240,30 @@
       "genus": "Stethojulis",
       "species": "Stethojulis bandanensis",
       "AphiaID": 277106,
-      "records": 22,
+      "records": 24,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Stethojulis",
+      "species": "Stethojulis interrupta",
+      "AphiaID": 219063,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Stethojulis",
+      "species": "Stethojulis strigiventer",
+      "AphiaID": 219061,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -2962,7 +3274,7 @@
       "genus": "Suezichthys",
       "species": "Suezichthys arquatus",
       "AphiaID": 278736,
-      "records": 14,
+      "records": 15,
       "max_year": 2004,
       "group": "fish"
     },
@@ -2996,7 +3308,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma amblycephalum",
       "AphiaID": 212216,
-      "records": 4,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -3007,7 +3319,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma hardwicke",
       "AphiaID": 212217,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3019,7 +3331,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma jansenii",
       "AphiaID": 273582,
-      "records": 4,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -3030,7 +3342,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lunare",
       "AphiaID": 212209,
-      "records": 19,
+      "records": 21,
       "max_year": 2004,
       "group": "fish"
     },
@@ -3042,7 +3354,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lutescens",
       "AphiaID": 273585,
-      "records": 50,
+      "records": 52,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3054,7 +3366,18 @@
       "genus": "Thalassoma",
       "species": "Thalassoma purpureum",
       "AphiaID": 212213,
-      "records": 34,
+      "records": 36,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Thalassoma",
+      "species": "Thalassoma quinquevittatum",
+      "AphiaID": 212211,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3065,6 +3388,435 @@
       "genus": "Thalassoma",
       "species": "Thalassoma trilobatum",
       "AphiaID": 212212,
+      "records": 6,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Gymnocranius",
+      "species": "Gymnocranius euanus",
+      "AphiaID": 278870,
+      "records": 2,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus atkinsoni",
+      "AphiaID": 278632,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus genivittatus",
+      "AphiaID": 212078,
+      "records": 1,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus lentjan",
+      "AphiaID": 212061,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus miniatus",
+      "AphiaID": 212062,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus nebulosus",
+      "AphiaID": 212081,
+      "records": 7,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus olivaceus",
+      "AphiaID": 212069,
+      "records": 2,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Aprion",
+      "species": "Aprion virescens",
+      "AphiaID": 212546,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus adetii",
+      "AphiaID": 276519,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus bohar",
+      "AphiaID": 218479,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus fulviflamma",
+      "AphiaID": 218490,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus kasmira",
+      "AphiaID": 218482,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus quinquelineatus",
+      "AphiaID": 218497,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Paracaesio",
+      "species": "Paracaesio gonzalesi",
+      "AphiaID": 278685,
+      "records": 10,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Paracaesio",
+      "species": "Paracaesio xanthura",
+      "AphiaID": 218502,
+      "records": 18,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Pristipomoides",
+      "species": "Pristipomoides argyrogrammicus",
+      "AphiaID": 218510,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Malacanthidae",
+      "genus": "Malacanthus",
+      "species": "Malacanthus brevirostris",
+      "AphiaID": 218378,
+      "records": 12,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Nemipteridae",
+      "genus": "Scolopsis",
+      "species": "Scolopsis bilineata",
+      "AphiaID": 209219,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Priacanthidae",
+      "genus": "Heteropriacanthus",
+      "species": "Heteropriacanthus cruentatus",
+      "AphiaID": 127004,
+      "records": 17,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Priacanthidae",
+      "genus": "Priacanthus",
+      "species": "Priacanthus blochii",
+      "AphiaID": 218361,
+      "records": 6,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Priacanthidae",
+      "genus": "Priacanthus",
+      "species": "Priacanthus hamrur",
+      "AphiaID": 218360,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Chlorurus",
+      "species": "Chlorurus microrhinos",
+      "AphiaID": 277507,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Chlorurus",
+      "species": "Chlorurus sordidus",
+      "AphiaID": 219082,
+      "records": 8,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Leptoscarus",
+      "species": "Leptoscarus vaigiensis",
+      "AphiaID": 219091,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus altipinnis",
+      "AphiaID": 276039,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus chameleon",
+      "AphiaID": 276040,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus flavipectoralis",
+      "AphiaID": 276045,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus forsteni",
+      "AphiaID": 276046,
+      "records": 2,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus frenatus",
+      "AphiaID": 219113,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus ghobban",
+      "AphiaID": 219127,
+      "records": 9,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus globiceps",
+      "AphiaID": 219104,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus longipinnis",
+      "AphiaID": 276054,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus niger",
+      "AphiaID": 219129,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus psittacus",
+      "AphiaID": 219125,
+      "records": 5,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus rivulatus",
+      "AphiaID": 367210,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Scarus",
+      "species": "Scarus schlegeli",
+      "AphiaID": 276060,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sillaginidae",
+      "genus": "Sillago",
+      "species": "Sillago ciliata",
+      "AphiaID": 273939,
+      "records": 9,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sparidae",
+      "genus": "Pagrus",
+      "species": "Pagrus auratus",
+      "AphiaID": 398546,
       "records": 4,
       "group": "fish"
     },
@@ -3089,6 +3841,30 @@
       "species": "Coelorinchus supernasutus",
       "AphiaID": 280346,
       "records": 5,
+      "max_year": 2003,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
+      "family": "Macrouridae",
+      "genus": "Malacocephalus",
+      "species": "Malacocephalus laevis",
+      "AphiaID": 272392,
+      "records": 15,
+      "max_year": 2003,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
+      "family": "Macrouridae",
+      "genus": "Ventrifossa",
+      "species": "Ventrifossa johnboborum",
+      "AphiaID": 275595,
+      "records": 3,
       "max_year": 2003,
       "group": "fish"
     },
@@ -3136,7 +3912,7 @@
       "genus": "Lotella",
       "species": "Lotella phycis",
       "AphiaID": 281402,
-      "records": 18,
+      "records": 19,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3148,32 +3924,8 @@
       "genus": "Lotella",
       "species": "Lotella rhacina",
       "AphiaID": 281403,
-      "records": 27,
+      "records": 28,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gadiformes",
-      "family": "Macrouridae",
-      "genus": "Malacocephalus",
-      "species": "Malacocephalus laevis",
-      "AphiaID": 272392,
-      "records": 15,
-      "max_year": 2003,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gadiformes",
-      "family": "Macrouridae",
-      "genus": "Ventrifossa",
-      "species": "Ventrifossa johnboborum",
-      "AphiaID": 275595,
-      "records": 3,
-      "max_year": 2003,
       "group": "fish"
     },
     {
@@ -3217,10 +3969,21 @@
       "class": "Teleostei",
       "order": "Gobiesociformes",
       "family": "Gobiesocidae",
+      "genus": "Conidens",
+      "species": "Conidens samoensis",
+      "AphiaID": 280383,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiesociformes",
+      "family": "Gobiesocidae",
       "genus": "Lepadichthys",
       "species": "Lepadichthys caritus",
       "AphiaID": 219761,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3232,8 +3995,19 @@
       "genus": "Lepadichthys",
       "species": "Lepadichthys frenatus",
       "AphiaID": 279218,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Amblygobius",
+      "species": "Amblygobius nocturnus",
+      "AphiaID": 219377,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3244,7 +4018,7 @@
       "genus": "Amblygobius",
       "species": "Amblygobius phalaena",
       "AphiaID": 278655,
-      "records": 4,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -3255,7 +4029,18 @@
       "genus": "Asterropteryx",
       "species": "Asterropteryx semipunctata",
       "AphiaID": 277497,
-      "records": 2,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Bathygobius",
+      "species": "Bathygobius aeolosoma",
+      "AphiaID": 277619,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3278,7 +4063,7 @@
       "genus": "Bryaninops",
       "species": "Bryaninops loki",
       "AphiaID": 278861,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3300,9 +4085,20 @@
       "order": "Gobiiformes",
       "family": "Gobiidae",
       "genus": "Eviota",
+      "species": "Eviota albolineata",
+      "AphiaID": 219455,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Eviota",
       "species": "Eviota guttata",
       "AphiaID": 219452,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3314,7 +4110,7 @@
       "genus": "Eviota",
       "species": "Eviota hoesei",
       "AphiaID": 388749,
-      "records": 31,
+      "records": 32,
       "max_year": 2005,
       "group": "fish"
     },
@@ -3326,7 +4122,7 @@
       "genus": "Eviota",
       "species": "Eviota prasina",
       "AphiaID": 219463,
-      "records": 42,
+      "records": 43,
       "group": "fish"
     },
     {
@@ -3361,8 +4157,19 @@
       "genus": "Favonigobius",
       "species": "Favonigobius lateralis",
       "AphiaID": 280773,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Favonigobius",
+      "species": "Favonigobius lentiginosus",
+      "AphiaID": 280774,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3373,7 +4180,7 @@
       "genus": "Fusigobius",
       "species": "Fusigobius neophytus",
       "AphiaID": 219467,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3384,7 +4191,7 @@
       "genus": "Gnatholepis",
       "species": "Gnatholepis cauerensis",
       "AphiaID": 219476,
-      "records": 4,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -3406,7 +4213,18 @@
       "genus": "Istigobius",
       "species": "Istigobius decoratus",
       "AphiaID": 219504,
-      "records": 2,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Macrodontogobius",
+      "species": "Macrodontogobius wilburi",
+      "AphiaID": 219511,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3429,8 +4247,19 @@
       "genus": "Paragobiodon",
       "species": "Paragobiodon lacunicolus",
       "AphiaID": 219536,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Paragobiodon",
+      "species": "Paragobiodon modestus",
+      "AphiaID": 219538,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3441,7 +4270,7 @@
       "genus": "Paragobiodon",
       "species": "Paragobiodon xanthosoma",
       "AphiaID": 219539,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3453,7 +4282,7 @@
       "genus": "Pleurosicya",
       "species": "Pleurosicya mossambica",
       "AphiaID": 219540,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3485,11 +4314,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Gobiiformes",
-      "family": "Microdesmidae",
-      "genus": "Ptereleotris",
-      "species": "Ptereleotris evides",
-      "AphiaID": 219622,
-      "records": 8,
+      "family": "Gobiidae",
+      "genus": "Valenciennea",
+      "species": "Valenciennea strigata",
+      "AphiaID": 219599,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3498,11 +4327,33 @@
       "class": "Teleostei",
       "order": "Gobiiformes",
       "family": "Gobiidae",
-      "genus": "Valenciennea",
-      "species": "Valenciennea strigata",
-      "AphiaID": 219599,
-      "records": 2,
+      "genus": "Vanderhorstia",
+      "species": "Vanderhorstia ornatissima",
+      "AphiaID": 219600,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Microdesmidae",
+      "genus": "Ptereleotris",
+      "species": "Ptereleotris evides",
+      "AphiaID": 219622,
+      "records": 9,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Microdesmidae",
+      "genus": "Ptereleotris",
+      "species": "Ptereleotris zebra",
+      "AphiaID": 219618,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3513,8 +4364,19 @@
       "genus": "Gonorynchus",
       "species": "Gonorynchus greyi",
       "AphiaID": 277930,
-      "records": 62,
+      "records": 63,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Holocentriformes",
+      "family": "Holocentridae",
+      "genus": "Myripristis",
+      "species": "Myripristis berndti",
+      "AphiaID": 217927,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3525,8 +4387,52 @@
       "genus": "Myripristis",
       "species": "Myripristis kuntee",
       "AphiaID": 217915,
-      "records": 1,
+      "records": 2,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Holocentriformes",
+      "family": "Holocentridae",
+      "genus": "Neoniphon",
+      "species": "Neoniphon sammara",
+      "AphiaID": 159393,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Holocentriformes",
+      "family": "Holocentridae",
+      "genus": "Plectrypops",
+      "species": "Plectrypops lima",
+      "AphiaID": 217937,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Holocentriformes",
+      "family": "Holocentridae",
+      "genus": "Pristilepis",
+      "species": "Pristilepis oligolepis",
+      "AphiaID": 217938,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Holocentriformes",
+      "family": "Holocentridae",
+      "genus": "Sargocentron",
+      "species": "Sargocentron rubrum",
+      "AphiaID": 126400,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3537,7 +4443,7 @@
       "genus": "Apogon",
       "species": "Apogon crassiceps",
       "AphiaID": 209308,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3549,7 +4455,7 @@
       "genus": "Apogonichthyoides",
       "species": "Apogonichthyoides chrysurus",
       "AphiaID": 475069,
-      "records": 24,
+      "records": 25,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3561,7 +4467,7 @@
       "genus": "Cheilodipterus",
       "species": "Cheilodipterus macrodon",
       "AphiaID": 209373,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3573,7 +4479,18 @@
       "genus": "Cheilodipterus",
       "species": "Cheilodipterus quinquelineatus",
       "AphiaID": 209371,
-      "records": 2,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Kurtiformes",
+      "family": "Apogonidae",
+      "genus": "Fowleria",
+      "species": "Fowleria marmorata",
+      "AphiaID": 277514,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3584,7 +4501,7 @@
       "genus": "Ostorhinchus",
       "species": "Ostorhinchus doederleini",
       "AphiaID": 713303,
-      "records": 33,
+      "records": 35,
       "max_year": 2004,
       "group": "fish"
     },
@@ -3608,7 +4525,7 @@
       "genus": "Ostorhinchus",
       "species": "Ostorhinchus norfolcensis",
       "AphiaID": 1019769,
-      "records": 163,
+      "records": 165,
       "max_year": 2004,
       "group": "fish"
     },
@@ -3627,13 +4544,12 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Lampriformes",
-      "family": "Veliferidae",
-      "genus": "Metavelifer",
-      "species": "Metavelifer multiradiatus",
-      "AphiaID": 217885,
-      "records": 2,
-      "max_year": 1973,
+      "order": "Kurtiformes",
+      "family": "Apogonidae",
+      "genus": "Pristiapogon",
+      "species": "Pristiapogon kallopterus",
+      "AphiaID": 712696,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -3651,12 +4567,24 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Lampriformes",
+      "family": "Veliferidae",
+      "genus": "Metavelifer",
+      "species": "Metavelifer multiradiatus",
+      "AphiaID": 217885,
+      "records": 2,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Lophiiformes",
       "family": "Antennariidae",
       "genus": "Abantennarius",
       "species": "Abantennarius coccineus",
       "AphiaID": 1605256,
-      "records": 8,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -3667,7 +4595,7 @@
       "genus": "Abantennarius",
       "species": "Abantennarius nummifer",
       "AphiaID": 1605260,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3678,7 +4606,7 @@
       "genus": "Abantennarius",
       "species": "Abantennarius rosaceus",
       "AphiaID": 1592359,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3689,7 +4617,7 @@
       "genus": "Antennarius",
       "species": "Antennarius commerson",
       "AphiaID": 217852,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3700,7 +4628,7 @@
       "genus": "Antennarius",
       "species": "Antennarius pictus",
       "AphiaID": 217851,
-      "records": 4,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -3711,7 +4639,7 @@
       "genus": "Antennarius",
       "species": "Antennarius striatus",
       "AphiaID": 158790,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3746,7 +4674,7 @@
       "genus": "Crenimugil",
       "species": "Crenimugil crenilabis",
       "AphiaID": 151498,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3757,7 +4685,7 @@
       "genus": "Myxus",
       "species": "Myxus elongatus",
       "AphiaID": 276971,
-      "records": 70,
+      "records": 72,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3769,7 +4697,7 @@
       "genus": "Mulloidichthys",
       "species": "Mulloidichthys flavolineatus",
       "AphiaID": 218647,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3781,7 +4709,7 @@
       "genus": "Mulloidichthys",
       "species": "Mulloidichthys vanicolensis",
       "AphiaID": 218648,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -3802,9 +4730,42 @@
       "order": "Mulliformes",
       "family": "Mullidae",
       "genus": "Parupeneus",
+      "species": "Parupeneus barberinus",
+      "AphiaID": 218660,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mulliformes",
+      "family": "Mullidae",
+      "genus": "Parupeneus",
+      "species": "Parupeneus ciliatus",
+      "AphiaID": 218661,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mulliformes",
+      "family": "Mullidae",
+      "genus": "Parupeneus",
+      "species": "Parupeneus heptacanthus",
+      "AphiaID": 218657,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mulliformes",
+      "family": "Mullidae",
+      "genus": "Parupeneus",
       "species": "Parupeneus multifasciatus",
       "AphiaID": 277820,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3815,7 +4776,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus pleurostigma",
       "AphiaID": 218656,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3826,7 +4787,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus spilurus",
       "AphiaID": 277825,
-      "records": 48,
+      "records": 50,
       "max_year": 2004,
       "group": "fish"
     },
@@ -4039,18 +5000,6 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Myctophiformes",
-      "family": "Neoscopelidae",
-      "genus": "Neoscopelus",
-      "species": "Neoscopelus macrolepidotus",
-      "AphiaID": 126634,
-      "records": 3,
-      "max_year": 2003,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Myctophiformes",
       "family": "Myctophidae",
       "genus": "Notoscopelus",
       "species": "Notoscopelus resplendens",
@@ -4083,12 +5032,13 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Ophidiiformes",
-      "family": "Ophidiidae",
-      "genus": "Brotula",
-      "species": "Brotula multibarbata",
-      "AphiaID": 217797,
-      "records": 2,
+      "order": "Myctophiformes",
+      "family": "Neoscopelidae",
+      "genus": "Neoscopelus",
+      "species": "Neoscopelus macrolepidotus",
+      "AphiaID": 126634,
+      "records": 3,
+      "max_year": 2003,
       "group": "fish"
     },
     {
@@ -4099,8 +5049,65 @@
       "genus": "Diancistrus",
       "species": "Diancistrus longifilis",
       "AphiaID": 280534,
-      "records": 12,
+      "records": 13,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ophidiiformes",
+      "family": "Ophidiidae",
+      "genus": "Brotula",
+      "species": "Brotula multibarbata",
+      "AphiaID": 217797,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Plesiopidae",
+      "genus": "Acanthoclinus",
+      "species": "Acanthoclinus littoreus",
+      "AphiaID": 279471,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Plesiopidae",
+      "genus": "Belonepterygion",
+      "species": "Belonepterygion fasciolatum",
+      "AphiaID": 279890,
+      "records": 53,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Plesiopidae",
+      "genus": "Plesiops",
+      "species": "Plesiops insularis",
+      "AphiaID": 276816,
+      "records": 38,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Abudefduf",
+      "species": "Abudefduf bengalensis",
+      "AphiaID": 212885,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4111,7 +5118,7 @@
       "genus": "Abudefduf",
       "species": "Abudefduf sexfasciatus",
       "AphiaID": 159289,
-      "records": 7,
+      "records": 9,
       "max_year": 2004,
       "group": "fish"
     },
@@ -4123,7 +5130,7 @@
       "genus": "Abudefduf",
       "species": "Abudefduf sordidus",
       "AphiaID": 212888,
-      "records": 4,
+      "records": 6,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4135,7 +5142,7 @@
       "genus": "Abudefduf",
       "species": "Abudefduf vaigiensis",
       "AphiaID": 212879,
-      "records": 6,
+      "records": 8,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4147,7 +5154,7 @@
       "genus": "Abudefduf",
       "species": "Abudefduf whitleyi",
       "AphiaID": 273703,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4166,22 +5173,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
-      "family": "Plesiopidae",
-      "genus": "Acanthoclinus",
-      "species": "Acanthoclinus littoreus",
-      "AphiaID": 279471,
-      "records": 5,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
       "genus": "Amphiprion",
       "species": "Amphiprion latezonatus",
       "AphiaID": 278395,
-      "records": 21,
+      "records": 22,
       "max_year": 2005,
       "group": "fish"
     },
@@ -4193,7 +5189,19 @@
       "genus": "Amphiprion",
       "species": "Amphiprion mccullochi",
       "AphiaID": 278397,
-      "records": 134,
+      "redlist_category": "VU",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Amphiprion",
+      "species": "Amphiprion mccullochi",
+      "AphiaID": 278397,
+      "records": 135,
       "max_year": 2005,
       "group": "fish"
     },
@@ -4212,23 +5220,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
-      "family": "Plesiopidae",
-      "genus": "Belonepterygion",
-      "species": "Belonepterygion fasciolatum",
-      "AphiaID": 279890,
-      "records": 52,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
       "genus": "Chromis",
       "species": "Chromis atripectoralis",
       "AphiaID": 212812,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4240,7 +5236,7 @@
       "genus": "Chromis",
       "species": "Chromis flavomaculata",
       "AphiaID": 273727,
-      "records": 6,
+      "records": 7,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4252,8 +5248,19 @@
       "genus": "Chromis",
       "species": "Chromis hypsilepis",
       "AphiaID": 273730,
-      "records": 38,
+      "records": 40,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Chromis",
+      "species": "Chromis nitida",
+      "AphiaID": 273744,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4264,7 +5271,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera glauca",
       "AphiaID": 218783,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4276,7 +5283,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera notialis",
       "AphiaID": 276835,
-      "records": 29,
+      "records": 30,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4288,8 +5295,19 @@
       "genus": "Dascyllus",
       "species": "Dascyllus aruanus",
       "AphiaID": 212843,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Dascyllus",
+      "species": "Dascyllus reticulatus",
+      "AphiaID": 212844,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4300,7 +5318,7 @@
       "genus": "Dascyllus",
       "species": "Dascyllus trimaculatus",
       "AphiaID": 212846,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4311,7 +5329,7 @@
       "genus": "Neoglyphidodon",
       "species": "Neoglyphidodon polyacanthus",
       "AphiaID": 278815,
-      "records": 96,
+      "records": 98,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4323,7 +5341,7 @@
       "genus": "Parma",
       "species": "Parma alboscapularis",
       "AphiaID": 282152,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4346,7 +5364,7 @@
       "genus": "Parma",
       "species": "Parma polylepis",
       "AphiaID": 282159,
-      "records": 112,
+      "records": 114,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4358,7 +5376,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon dickii",
       "AphiaID": 212855,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4370,7 +5388,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon fasciolatus",
       "AphiaID": 1592381,
-      "records": 166,
+      "records": 168,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4382,7 +5400,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon gascoynei",
       "AphiaID": 1605252,
-      "records": 20,
+      "records": 22,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4394,7 +5412,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon johnstonianus",
       "AphiaID": 212859,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4402,12 +5420,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
-      "family": "Plesiopidae",
-      "genus": "Plesiops",
-      "species": "Plesiops insularis",
-      "AphiaID": 276816,
-      "records": 37,
-      "max_year": 1973,
+      "family": "Pomacentridae",
+      "genus": "Plectroglyphidodon",
+      "species": "Plectroglyphidodon leucozonus",
+      "AphiaID": 212854,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4418,8 +5435,19 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus coelestis",
       "AphiaID": 277145,
-      "records": 33,
+      "records": 34,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Pomacentrus",
+      "species": "Pomacentrus moluccensis",
+      "AphiaID": 277159,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4430,7 +5458,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus pavo",
       "AphiaID": 212990,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4449,23 +5477,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
-      "family": "Pseudochromidae",
-      "genus": "Pseudoplesiops",
-      "species": "Pseudoplesiops howensis",
-      "AphiaID": 276902,
-      "records": 11,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
       "genus": "Pycnochromis",
       "species": "Pycnochromis margaritifer",
       "AphiaID": 1605310,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4477,7 +5493,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis vanderbilti",
       "AphiaID": 320883,
-      "records": 4,
+      "records": 5,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4489,7 +5505,19 @@
       "genus": "Stegastes",
       "species": "Stegastes lacrymatus",
       "AphiaID": 1551095,
-      "records": 2,
+      "records": 3,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pseudochromidae",
+      "genus": "Pseudoplesiops",
+      "species": "Pseudoplesiops howensis",
+      "AphiaID": 276902,
+      "records": 12,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4497,12 +5525,169 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Tetrarogidae",
-      "genus": "Ablabys",
-      "species": "Ablabys taenianotus",
-      "AphiaID": 221449,
-      "records": 4,
-      "max_year": 1980,
+      "family": "Ammodytidae",
+      "genus": "Ammodytoides",
+      "species": "Ammodytoides vagus",
+      "AphiaID": 276860,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Aploactinidae",
+      "genus": "Cocotropus",
+      "species": "Cocotropus altipinnis",
+      "AphiaID": 277961,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Pinguipedidae",
+      "genus": "Parapercis",
+      "species": "Parapercis cylindrica",
+      "AphiaID": 219155,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Pinguipedidae",
+      "genus": "Parapercis",
+      "species": "Parapercis hexophtalma",
+      "AphiaID": 219159,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Pinguipedidae",
+      "genus": "Parapercis",
+      "species": "Parapercis nebulosa",
+      "AphiaID": 219154,
+      "records": 1,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Platycephalidae",
+      "genus": "Platycephalus",
+      "species": "Platycephalus caeruleopunctatus",
+      "AphiaID": 274653,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Dendrochirus",
+      "species": "Dendrochirus brachypterus",
+      "AphiaID": 218052,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Dendrochirus",
+      "species": "Dendrochirus zebra",
+      "AphiaID": 218053,
+      "records": 13,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Pterois",
+      "species": "Pterois volitans",
+      "AphiaID": 159559,
+      "records": 34,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaena",
+      "species": "Scorpaena bulacephala",
+      "AphiaID": 389371,
+      "records": 2,
+      "max_year": 2003,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaena",
+      "species": "Scorpaena cardinalis",
+      "AphiaID": 274702,
+      "records": 82,
+      "max_year": 2015,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaenodes",
+      "species": "Scorpaenodes evides",
+      "AphiaID": 712541,
+      "records": 11,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaenodes",
+      "species": "Scorpaenodes guamensis",
+      "AphiaID": 218094,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaenodes",
+      "species": "Scorpaenodes parvipinnis",
+      "AphiaID": 218100,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaenodes",
+      "species": "Scorpaenodes scaber",
+      "AphiaID": 218092,
+      "records": 14,
       "group": "fish"
     },
     {
@@ -4513,7 +5698,7 @@
       "genus": "Acanthistius",
       "species": "Acanthistius cinctus",
       "AphiaID": 278721,
-      "records": 60,
+      "records": 62,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4525,18 +5710,7 @@
       "genus": "Acanthistius",
       "species": "Acanthistius ocellatus",
       "AphiaID": 278723,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Ammodytidae",
-      "genus": "Ammodytoides",
-      "species": "Ammodytoides vagus",
-      "AphiaID": 276860,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4570,8 +5744,30 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis argus",
       "AphiaID": 218174,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Cephalopholis",
+      "species": "Cephalopholis miniata",
+      "AphiaID": 218184,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Cephalopholis",
+      "species": "Cephalopholis sexmaculata",
+      "AphiaID": 218189,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4590,44 +5786,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Triglidae",
-      "genus": "Chelidonichthys",
-      "species": "Chelidonichthys kumu",
-      "AphiaID": 218122,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Aploactinidae",
-      "genus": "Cocotropus",
-      "species": "Cocotropus altipinnis",
-      "AphiaID": 277961,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Dendrochirus",
-      "species": "Dendrochirus brachypterus",
-      "AphiaID": 218052,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Dendrochirus",
-      "species": "Dendrochirus zebra",
-      "AphiaID": 218053,
-      "records": 12,
+      "family": "Serranidae",
+      "genus": "Diploprion",
+      "species": "Diploprion bifasciatum",
+      "AphiaID": 277235,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4638,7 +5801,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus cyanopodus",
       "AphiaID": 273845,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4650,7 +5813,7 @@
       "species": "Epinephelus daemelii",
       "AphiaID": 273846,
       "redlist_category": "NT",
-      "records": 69,
+      "records": 71,
       "max_year": 2004,
       "group": "fish"
     },
@@ -4662,7 +5825,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus fasciatus",
       "AphiaID": 218207,
-      "records": 20,
+      "records": 21,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4674,7 +5837,18 @@
       "genus": "Epinephelus",
       "species": "Epinephelus howlandi",
       "AphiaID": 273856,
-      "records": 2,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus maculatus",
+      "AphiaID": 273860,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4685,7 +5859,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus merra",
       "AphiaID": 218228,
-      "records": 28,
+      "records": 29,
       "group": "fish"
     },
     {
@@ -4697,7 +5871,7 @@
       "species": "Epinephelus polyphekadion",
       "AphiaID": 218197,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4708,7 +5882,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus rivulatus",
       "AphiaID": 218216,
-      "records": 10,
+      "records": 11,
       "max_year": 2004,
       "group": "fish"
     },
@@ -4720,7 +5894,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus tauvina",
       "AphiaID": 218205,
-      "records": 4,
+      "records": 5,
       "max_year": 1981,
       "group": "fish"
     },
@@ -4740,6 +5914,17 @@
       "class": "Teleostei",
       "order": "Perciformes",
       "family": "Serranidae",
+      "genus": "Grammistes",
+      "species": "Grammistes sexlineatus",
+      "AphiaID": 211864,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
       "genus": "Hypoplectrodes",
       "species": "Hypoplectrodes huntii",
       "AphiaID": 281106,
@@ -4751,45 +5936,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Pinguipedidae",
-      "genus": "Parapercis",
-      "species": "Parapercis hexophtalma",
-      "AphiaID": 219159,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Pinguipedidae",
-      "genus": "Parapercis",
-      "species": "Parapercis nebulosa",
-      "AphiaID": 219154,
-      "records": 1,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Platycephalidae",
-      "genus": "Platycephalus",
-      "species": "Platycephalus caeruleopunctatus",
-      "AphiaID": 274653,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
       "family": "Serranidae",
       "genus": "Pseudanthias",
       "species": "Pseudanthias pictilis",
       "AphiaID": 277472,
-      "records": 17,
+      "records": 18,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4801,7 +5952,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias squamipinnis",
       "AphiaID": 218278,
-      "records": 8,
+      "records": 9,
       "max_year": 1973,
       "group": "fish"
     },
@@ -4813,65 +5964,8 @@
       "genus": "Pseudogramma",
       "species": "Pseudogramma polyacantha",
       "AphiaID": 218282,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Pterois",
-      "species": "Pterois volitans",
-      "AphiaID": 159559,
-      "records": 33,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Scorpaena",
-      "species": "Scorpaena cardinalis",
-      "AphiaID": 274702,
-      "records": 80,
-      "max_year": 2015,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Scorpaenodes",
-      "species": "Scorpaenodes evides",
-      "AphiaID": 712541,
-      "records": 11,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Scorpaenodes",
-      "species": "Scorpaenodes guamensis",
-      "AphiaID": 218094,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Scorpaenidae",
-      "genus": "Scorpaenodes",
-      "species": "Scorpaenodes scaber",
-      "AphiaID": 218092,
-      "records": 13,
       "group": "fish"
     },
     {
@@ -4882,30 +5976,53 @@
       "genus": "Trachypoma",
       "species": "Trachypoma macracanthus",
       "AphiaID": 283033,
-      "records": 103,
+      "records": 105,
       "max_year": 1973,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Pleuronectiformes",
-      "family": "Soleidae",
-      "genus": "Aseraggodes",
-      "species": "Aseraggodes bahamondei",
-      "AphiaID": 279708,
-      "records": 2,
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Variola",
+      "species": "Variola louti",
+      "AphiaID": 218304,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Tetrarogidae",
+      "genus": "Ablabys",
+      "species": "Ablabys taenianotus",
+      "AphiaID": 221449,
+      "records": 5,
+      "max_year": 1980,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Triglidae",
+      "genus": "Chelidonichthys",
+      "species": "Chelidonichthys kumu",
+      "AphiaID": 218122,
+      "records": 3,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Pleuronectiformes",
-      "family": "Soleidae",
-      "genus": "Aseraggodes",
-      "species": "Aseraggodes ramsaii",
-      "AphiaID": 279738,
-      "records": 6,
+      "family": "Bothidae",
+      "genus": "Bothus",
+      "species": "Bothus mancus",
+      "AphiaID": 219796,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -4916,7 +6033,7 @@
       "genus": "Bothus",
       "species": "Bothus myriaster",
       "AphiaID": 219794,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4927,7 +6044,7 @@
       "genus": "Bothus",
       "species": "Bothus pantherinus",
       "AphiaID": 219795,
-      "records": 10,
+      "records": 11,
       "max_year": 1979,
       "group": "fish"
     },
@@ -4958,10 +6075,32 @@
       "class": "Teleostei",
       "order": "Pleuronectiformes",
       "family": "Soleidae",
+      "genus": "Aseraggodes",
+      "species": "Aseraggodes bahamondei",
+      "AphiaID": 279708,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Soleidae",
+      "genus": "Aseraggodes",
+      "species": "Aseraggodes ramsaii",
+      "AphiaID": 279738,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Soleidae",
       "genus": "Synclidopus",
       "species": "Synclidopus macleayanus",
       "AphiaID": 712918,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4972,7 +6111,7 @@
       "genus": "Arripis",
       "species": "Arripis trutta",
       "AphiaID": 279693,
-      "records": 18,
+      "records": 19,
       "max_year": 1903,
       "group": "fish"
     },
@@ -5014,22 +6153,22 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Scombriformes",
-      "family": "Nomeidae",
-      "genus": "Cubiceps",
-      "species": "Cubiceps baxteri",
-      "AphiaID": 219745,
-      "records": 4,
+      "family": "Centrolophidae",
+      "genus": "Schedophilus",
+      "species": "Schedophilus maculatus",
+      "AphiaID": 273315,
+      "records": 12,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Scombriformes",
-      "family": "Nomeidae",
-      "genus": "Cubiceps",
-      "species": "Cubiceps caeruleus",
-      "AphiaID": 273675,
-      "records": 4,
+      "family": "Centrolophidae",
+      "genus": "Schedophilus",
+      "species": "Schedophilus velaini",
+      "AphiaID": 219742,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5041,17 +6180,6 @@
       "species": "Gempylus serpens",
       "AphiaID": 126862,
       "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
-      "family": "Scombridae",
-      "genus": "Katsuwonus",
-      "species": "Katsuwonus pelamis",
-      "AphiaID": 127018,
-      "records": 2,
       "group": "fish"
     },
     {
@@ -5074,6 +6202,28 @@
       "species": "Nealotus tripes",
       "AphiaID": 126864,
       "records": 60,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Nomeidae",
+      "genus": "Cubiceps",
+      "species": "Cubiceps baxteri",
+      "AphiaID": 219745,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Nomeidae",
+      "genus": "Cubiceps",
+      "species": "Cubiceps caeruleus",
+      "AphiaID": 273675,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -5104,6 +6254,28 @@
       "class": "Teleostei",
       "order": "Scombriformes",
       "family": "Scombridae",
+      "genus": "Katsuwonus",
+      "species": "Katsuwonus pelamis",
+      "AphiaID": 127018,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Sarda",
+      "species": "Sarda australis",
+      "AphiaID": 273809,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
       "genus": "Sarda",
       "species": "Sarda orientalis",
       "AphiaID": 219713,
@@ -5114,22 +6286,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Scombriformes",
-      "family": "Centrolophidae",
-      "genus": "Schedophilus",
-      "species": "Schedophilus maculatus",
-      "AphiaID": 273315,
-      "records": 12,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
-      "family": "Centrolophidae",
-      "genus": "Schedophilus",
-      "species": "Schedophilus velaini",
-      "AphiaID": 219742,
-      "records": 2,
+      "family": "Scombridae",
+      "genus": "Scomber",
+      "species": "Scomber australasicus",
+      "AphiaID": 219715,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -5151,7 +6312,8 @@
       "genus": "Tetragonurus",
       "species": "Tetragonurus cuvieri",
       "AphiaID": 127080,
-      "records": 2,
+      "records": 4,
+      "max_year": 2010,
       "group": "fish"
     },
     {
@@ -5162,8 +6324,20 @@
       "genus": "Plotosus",
       "species": "Plotosus lineatus",
       "AphiaID": 217659,
-      "records": 101,
+      "records": 102,
       "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Stomiiformes",
+      "family": "Gonostomatidae",
+      "genus": "Sigmops",
+      "species": "Sigmops elongatus",
+      "AphiaID": 221512,
+      "records": 3,
+      "max_year": 2003,
       "group": "fish"
     },
     {
@@ -5204,24 +6378,12 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Stomiiformes",
-      "family": "Gonostomatidae",
-      "genus": "Sigmops",
-      "species": "Sigmops elongatus",
-      "AphiaID": 221512,
-      "records": 3,
-      "max_year": 2003,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
       "order": "Syngnathiformes",
       "family": "Aulostomidae",
       "genus": "Aulostomus",
       "species": "Aulostomus chinensis",
       "AphiaID": 217964,
-      "records": 12,
+      "records": 13,
       "max_year": 1973,
       "group": "fish"
     },
@@ -5229,12 +6391,23 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Syngnathiformes",
-      "family": "Syngnathidae",
-      "genus": "Cosmocampus",
-      "species": "Cosmocampus howensis",
-      "AphiaID": 278061,
-      "records": 10,
-      "max_year": 1973,
+      "family": "Centriscidae",
+      "genus": "Macroramphosus",
+      "species": "Macroramphosus gracilis",
+      "AphiaID": 275181,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Syngnathiformes",
+      "family": "Centriscidae",
+      "genus": "Macroramphosus",
+      "species": "Macroramphosus scolopax",
+      "AphiaID": 127378,
+      "records": 2,
+      "max_year": 2000,
       "group": "fish"
     },
     {
@@ -5245,7 +6418,7 @@
       "genus": "Fistularia",
       "species": "Fistularia commersonii",
       "AphiaID": 217966,
-      "records": 10,
+      "records": 11,
       "max_year": 1973,
       "group": "fish"
     },
@@ -5265,10 +6438,22 @@
       "class": "Teleostei",
       "order": "Syngnathiformes",
       "family": "Syngnathidae",
+      "genus": "Cosmocampus",
+      "species": "Cosmocampus howensis",
+      "AphiaID": 278061,
+      "records": 11,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Syngnathiformes",
+      "family": "Syngnathidae",
       "genus": "Halicampus",
       "species": "Halicampus boothae",
       "AphiaID": 218009,
-      "records": 10,
+      "records": 11,
       "max_year": 2002,
       "group": "fish"
     },
@@ -5299,23 +6484,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Syngnathiformes",
-      "family": "Centriscidae",
-      "genus": "Macroramphosus",
-      "species": "Macroramphosus gracilis",
-      "AphiaID": 275181,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Syngnathiformes",
-      "family": "Centriscidae",
-      "genus": "Macroramphosus",
-      "species": "Macroramphosus scolopax",
-      "AphiaID": 127378,
-      "records": 2,
-      "max_year": 2000,
+      "family": "Syngnathidae",
+      "genus": "Hippocampus",
+      "species": "Hippocampus planifrons",
+      "AphiaID": 306811,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -5326,7 +6499,7 @@
       "genus": "Solegnathus",
       "species": "Solegnathus dunckeri",
       "AphiaID": 278075,
-      "records": 12,
+      "records": 13,
       "max_year": 2001,
       "group": "fish"
     },
@@ -5346,44 +6519,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Aluterus",
-      "species": "Aluterus monoceros",
-      "AphiaID": 127407,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Arothron",
-      "species": "Arothron hispidus",
-      "AphiaID": 219925,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Arothron",
-      "species": "Arothron meleagris",
-      "AphiaID": 219926,
-      "records": 2,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Arothron",
-      "species": "Arothron stellatus",
-      "AphiaID": 219928,
-      "records": 10,
+      "family": "Aracanidae",
+      "genus": "Kentrocapros",
+      "species": "Kentrocapros aculeatus",
+      "AphiaID": 278931,
+      "records": 16,
+      "max_year": 1973,
       "group": "fish"
     },
     {
@@ -5394,7 +6535,7 @@
       "genus": "Balistoides",
       "species": "Balistoides conspicillum",
       "AphiaID": 219876,
-      "records": 2,
+      "records": 3,
       "max_year": 1973,
       "group": "fish"
     },
@@ -5402,55 +6543,44 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Brachaluteres",
-      "species": "Brachaluteres jacksonianus",
-      "AphiaID": 279951,
-      "records": 10,
+      "family": "Balistidae",
+      "genus": "Rhinecanthus",
+      "species": "Rhinecanthus aculeatus",
+      "AphiaID": 219890,
+      "records": 1,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Cantherhines",
-      "species": "Cantherhines dumerilii",
-      "AphiaID": 276248,
-      "records": 4,
+      "family": "Balistidae",
+      "genus": "Rhinecanthus",
+      "species": "Rhinecanthus rectangulus",
+      "AphiaID": 219886,
+      "records": 7,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Cantherhines",
-      "species": "Cantherhines pardalis",
-      "AphiaID": 220058,
-      "records": 4,
+      "family": "Balistidae",
+      "genus": "Sufflamen",
+      "species": "Sufflamen chrysopterum",
+      "AphiaID": 276851,
+      "records": 1,
       "group": "fish"
     },
     {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Cantheschenia",
-      "species": "Cantheschenia longipinnis",
-      "AphiaID": 280027,
-      "records": 10,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Canthigaster",
-      "species": "Canthigaster callisterna",
-      "AphiaID": 275248,
-      "records": 49,
+      "family": "Balistidae",
+      "genus": "Sufflamen",
+      "species": "Sufflamen fraenatum",
+      "AphiaID": 276852,
+      "records": 20,
       "max_year": 2004,
       "group": "fish"
     },
@@ -5458,12 +6588,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Canthigaster",
-      "species": "Canthigaster valentini",
-      "AphiaID": 219947,
-      "records": 12,
-      "max_year": 1973,
+      "family": "Balistidae",
+      "genus": "Xanthichthys",
+      "species": "Xanthichthys auromarginatus",
+      "AphiaID": 219897,
+      "records": 1,
+      "max_year": 2004,
       "group": "fish"
     },
     {
@@ -5485,7 +6615,7 @@
       "genus": "Cyclichthys",
       "species": "Cyclichthys orbicularis",
       "AphiaID": 219968,
-      "records": 2,
+      "records": 3,
       "max_year": 2008,
       "group": "fish"
     },
@@ -5497,7 +6627,7 @@
       "genus": "Diodon",
       "species": "Diodon holocanthus",
       "AphiaID": 127402,
-      "records": 10,
+      "records": 11,
       "group": "fish"
     },
     {
@@ -5508,75 +6638,7 @@
       "genus": "Diodon",
       "species": "Diodon hystrix",
       "AphiaID": 127403,
-      "records": 12,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Aracanidae",
-      "genus": "Kentrocapros",
-      "species": "Kentrocapros aculeatus",
-      "AphiaID": 278931,
-      "records": 16,
-      "max_year": 1973,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Ostraciidae",
-      "genus": "Lactoria",
-      "species": "Lactoria cornuta",
-      "AphiaID": 219904,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Ostraciidae",
-      "genus": "Lactoria",
-      "species": "Lactoria diaphana",
-      "AphiaID": 219903,
-      "records": 4,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Ostraciidae",
-      "genus": "Lactoria",
-      "species": "Lactoria fornasini",
-      "AphiaID": 219902,
-      "records": 8,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Lagocephalus",
-      "species": "Lagocephalus sceleratus",
-      "AphiaID": 219954,
-      "records": 11,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Meuschenia",
-      "species": "Meuschenia freycineti",
-      "AphiaID": 220060,
-      "records": 2,
+      "records": 13,
       "group": "fish"
     },
     {
@@ -5595,6 +6657,94 @@
       "class": "Teleostei",
       "order": "Tetraodontiformes",
       "family": "Monacanthidae",
+      "genus": "Aluterus",
+      "species": "Aluterus monoceros",
+      "AphiaID": 127407,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Brachaluteres",
+      "species": "Brachaluteres jacksonianus",
+      "AphiaID": 279951,
+      "records": 10,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Brachaluteres",
+      "species": "Brachaluteres taylori",
+      "AphiaID": 279952,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Cantherhines",
+      "species": "Cantherhines dumerilii",
+      "AphiaID": 276248,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Cantherhines",
+      "species": "Cantherhines fronticinctus",
+      "AphiaID": 220055,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Cantherhines",
+      "species": "Cantherhines pardalis",
+      "AphiaID": 220058,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Cantheschenia",
+      "species": "Cantheschenia longipinnis",
+      "AphiaID": 280027,
+      "records": 11,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
+      "genus": "Meuschenia",
+      "species": "Meuschenia freycineti",
+      "AphiaID": 220060,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Monacanthidae",
       "genus": "Nelusetta",
       "species": "Nelusetta ayraud",
       "AphiaID": 281648,
@@ -5605,12 +6755,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Ostraciidae",
-      "genus": "Ostracion",
-      "species": "Ostracion cubicum",
-      "AphiaID": 403462,
-      "records": 16,
-      "max_year": 1973,
+      "family": "Monacanthidae",
+      "genus": "Oxymonacanthus",
+      "species": "Oxymonacanthus longirostris",
+      "AphiaID": 220063,
+      "redlist_category": "VU",
+      "records": 1,
       "group": "fish"
     },
     {
@@ -5621,7 +6771,7 @@
       "genus": "Pervagor",
       "species": "Pervagor alternans",
       "AphiaID": 279221,
-      "records": 6,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -5639,22 +6789,11 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Rhinecanthus",
-      "species": "Rhinecanthus rectangulus",
-      "AphiaID": 219886,
-      "records": 6,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Sufflamen",
-      "species": "Sufflamen fraenatum",
-      "AphiaID": 276852,
-      "records": 19,
+      "family": "Monacanthidae",
+      "genus": "Thamnaconus",
+      "species": "Thamnaconus analis",
+      "AphiaID": 277205,
+      "records": 18,
       "max_year": 2004,
       "group": "fish"
     },
@@ -5662,11 +6801,67 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Tetractenos",
-      "species": "Tetractenos hamiltoni",
-      "AphiaID": 282945,
-      "records": 4,
+      "family": "Ostraciidae",
+      "genus": "Lactoria",
+      "species": "Lactoria cornuta",
+      "AphiaID": 219904,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Ostraciidae",
+      "genus": "Lactoria",
+      "species": "Lactoria diaphana",
+      "AphiaID": 219903,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Ostraciidae",
+      "genus": "Lactoria",
+      "species": "Lactoria fornasini",
+      "AphiaID": 219902,
+      "records": 9,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Ostraciidae",
+      "genus": "Ostracion",
+      "species": "Ostracion cubicum",
+      "AphiaID": 403462,
+      "records": 17,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Ostraciidae",
+      "genus": "Ostracion",
+      "species": "Ostracion meleagris",
+      "AphiaID": 219905,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Ostraciidae",
+      "genus": "Tetrosomus",
+      "species": "Tetrosomus concatenatus",
+      "AphiaID": 219916,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -5684,12 +6879,102 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
-      "family": "Monacanthidae",
-      "genus": "Thamnaconus",
-      "species": "Thamnaconus analis",
-      "AphiaID": 277205,
-      "records": 17,
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron hispidus",
+      "AphiaID": 219925,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron meleagris",
+      "AphiaID": 219926,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron stellatus",
+      "AphiaID": 219928,
+      "records": 11,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Canthigaster",
+      "species": "Canthigaster bennetti",
+      "AphiaID": 219938,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Canthigaster",
+      "species": "Canthigaster callisterna",
+      "AphiaID": 275248,
+      "records": 50,
       "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Canthigaster",
+      "species": "Canthigaster janthinoptera",
+      "AphiaID": 219940,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Canthigaster",
+      "species": "Canthigaster valentini",
+      "AphiaID": 219947,
+      "records": 13,
+      "max_year": 1973,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Lagocephalus",
+      "species": "Lagocephalus sceleratus",
+      "AphiaID": 219954,
+      "records": 11,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Tetractenos",
+      "species": "Tetractenos hamiltoni",
+      "AphiaID": 282945,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5700,7 +6985,7 @@
       "genus": "Torquigener",
       "species": "Torquigener altipinnis",
       "AphiaID": 278263,
-      "records": 8,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -5711,19 +6996,7 @@
       "genus": "Torquigener",
       "species": "Torquigener pleurogramma",
       "AphiaID": 278273,
-      "records": 13,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Xanthichthys",
-      "species": "Xanthichthys auromarginatus",
-      "AphiaID": 219897,
-      "records": 1,
+      "records": 14,
       "max_year": 2004,
       "group": "fish"
     },
@@ -5741,6 +7014,17 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Trachichthyiformes",
+      "family": "Trachichthyidae",
+      "genus": "Optivus",
+      "species": "Optivus elongatus",
+      "AphiaID": 281927,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Zeiformes",
       "family": "Zeidae",
       "genus": "Zenopsis",
@@ -5751,48 +7035,14 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Delphinidae",
-      "genus": "Globicephala",
-      "species": "Globicephala melas",
-      "AphiaID": 137097,
-      "records": 3,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Balaenopteridae",
-      "genus": "Megaptera",
-      "species": "Megaptera novaeangliae",
-      "AphiaID": 137092,
-      "records": 1,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Ziphiidae",
-      "genus": "Mesoplodon",
-      "species": "Mesoplodon densirostris",
-      "AphiaID": 137122,
-      "records": 17,
-      "max_year": 2011,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
       "order": "Testudines",
       "family": "Cheloniidae",
       "genus": "Chelonia",
       "species": "Chelonia mydas",
       "AphiaID": 137206,
       "redlist_category": "EN",
-      "records": 145,
-      "max_year": 2015,
+      "records": 150,
+      "max_year": 2019,
       "group": "turtle"
     }
   ]

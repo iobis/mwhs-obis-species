@@ -1,30 +1,6 @@
 {
-  "created": "2023-09-21T08:07:01",
+  "created": "2023-10-04T08:04:30",
   "species": [
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Ziphiidae",
-      "genus": "Hyperoodon",
-      "species": "Hyperoodon ampullatus",
-      "AphiaID": 343899,
-      "records": 1,
-      "max_year": 2001,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Delphinidae",
-      "genus": "Orcinus",
-      "species": "Orcinus orca",
-      "AphiaID": 137102,
-      "records": 1,
-      "max_year": 2012,
-      "group": "mammal"
-    },
     {
       "phylum": "Chordata",
       "class": "Mammalia",
@@ -35,6 +11,18 @@
       "AphiaID": 137117,
       "records": 8,
       "max_year": 2012,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Ziphiidae",
+      "genus": "Hyperoodon",
+      "species": "Hyperoodon ampullatus",
+      "AphiaID": 343899,
+      "records": 1,
+      "max_year": 2001,
       "group": "mammal"
     }
   ]

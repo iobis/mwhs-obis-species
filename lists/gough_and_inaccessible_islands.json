@@ -1,5 +1,5 @@
 {
-  "created": "2023-09-21T08:07:00",
+  "created": "2023-10-04T08:04:30",
   "species": [
     {
       "phylum": "Chordata",
@@ -63,6 +63,42 @@
       "AphiaID": 321911,
       "records": 1,
       "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Otariidae",
+      "genus": "Arctocephalus",
+      "species": "Arctocephalus tropicalis",
+      "AphiaID": 231432,
+      "records": 21,
+      "max_year": 1989,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Mirounga",
+      "species": "Mirounga leonina",
+      "AphiaID": 231413,
+      "records": 4,
+      "max_year": 1987,
+      "group": "mammal"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenidae",
+      "genus": "Eubalaena",
+      "species": "Eubalaena australis",
+      "AphiaID": 220222,
+      "records": 3,
+      "max_year": 1849,
+      "group": "mammal"
     },
     {
       "phylum": "Chordata",
@@ -148,10 +184,10 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Beloniformes",
-      "family": "Scomberesocidae",
-      "genus": "Cololabis",
-      "species": "Cololabis saira",
-      "AphiaID": 280366,
+      "family": "Exocoetidae",
+      "genus": "Hirundichthys",
+      "species": "Hirundichthys rondeletii",
+      "AphiaID": 126386,
       "records": 1,
       "group": "fish"
     },
@@ -159,10 +195,10 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Beloniformes",
-      "family": "Exocoetidae",
-      "genus": "Hirundichthys",
-      "species": "Hirundichthys rondeletii",
-      "AphiaID": 126386,
+      "family": "Scomberesocidae",
+      "genus": "Cololabis",
+      "species": "Cololabis saira",
+      "AphiaID": 280366,
       "records": 1,
       "group": "fish"
     },
@@ -176,17 +212,6 @@
       "AphiaID": 1013882,
       "records": 1,
       "max_year": 1990,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Echeneidae",
-      "genus": "Remora",
-      "species": "Remora remora",
-      "AphiaID": 126853,
-      "records": 1,
       "group": "fish"
     },
     {
@@ -227,6 +252,29 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Remora",
+      "species": "Remora remora",
+      "AphiaID": 126853,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Cheilodactylidae",
+      "genus": "Nemadactylus",
+      "species": "Nemadactylus monodactylus",
+      "AphiaID": 281654,
+      "records": 29,
+      "max_year": 1994,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Centrarchiformes",
       "family": "Latridae",
       "genus": "Latris",
@@ -245,18 +293,6 @@
       "AphiaID": 281549,
       "records": 9,
       "max_year": 1989,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Centrarchiformes",
-      "family": "Cheilodactylidae",
-      "genus": "Nemadactylus",
-      "species": "Nemadactylus monodactylus",
-      "AphiaID": 281654,
-      "records": 29,
-      "max_year": 1994,
       "group": "fish"
     },
     {
@@ -358,24 +394,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Sebastidae",
-      "genus": "Helicolenus",
-      "species": "Helicolenus mouchezi",
-      "AphiaID": 274769,
-      "records": 18,
-      "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Serranidae",
-      "genus": "Lepidoperca",
-      "species": "Lepidoperca coatsii",
-      "AphiaID": 281298,
-      "records": 6,
-      "max_year": 2004,
+      "family": "Nototheniidae",
+      "genus": "Trematomus",
+      "species": "Trematomus bernacchii",
+      "AphiaID": 234802,
+      "records": 1,
+      "max_year": 1978,
       "group": "fish"
     },
     {
@@ -394,6 +418,18 @@
       "class": "Teleostei",
       "order": "Perciformes",
       "family": "Sebastidae",
+      "genus": "Helicolenus",
+      "species": "Helicolenus mouchezi",
+      "AphiaID": 274769,
+      "records": 18,
+      "max_year": 2004,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Sebastidae",
       "genus": "Sebastes",
       "species": "Sebastes capensis",
       "AphiaID": 221446,
@@ -405,12 +441,12 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
-      "family": "Nototheniidae",
-      "genus": "Trematomus",
-      "species": "Trematomus bernacchii",
-      "AphiaID": 234802,
-      "records": 1,
-      "max_year": 1978,
+      "family": "Serranidae",
+      "genus": "Lepidoperca",
+      "species": "Lepidoperca coatsii",
+      "AphiaID": 281298,
+      "records": 6,
+      "max_year": 2004,
       "group": "fish"
     },
     {
@@ -423,18 +459,6 @@
       "AphiaID": 219791,
       "records": 3,
       "max_year": 2004,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
-      "family": "Scombridae",
-      "genus": "Allothunnus",
-      "species": "Allothunnus fallai",
-      "AphiaID": 219707,
-      "records": 1,
-      "max_year": 1989,
       "group": "fish"
     },
     {
@@ -465,18 +489,6 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Scombriformes",
-      "family": "Trichiuridae",
-      "genus": "Lepidopus",
-      "species": "Lepidopus caudatus",
-      "AphiaID": 127088,
-      "records": 1,
-      "max_year": 1989,
-      "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
       "family": "Centrolophidae",
       "genus": "Schedophilus",
       "species": "Schedophilus ovalis",
@@ -494,6 +506,30 @@
       "species": "Thyrsites atun",
       "AphiaID": 219697,
       "records": 4,
+      "max_year": 1989,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Allothunnus",
+      "species": "Allothunnus fallai",
+      "AphiaID": 219707,
+      "records": 1,
+      "max_year": 1989,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Trichiuridae",
+      "genus": "Lepidopus",
+      "species": "Lepidopus caudatus",
+      "AphiaID": 127088,
+      "records": 1,
       "max_year": 1989,
       "group": "fish"
     },
@@ -542,42 +578,6 @@
       "AphiaID": 217975,
       "records": 2,
       "group": "fish"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Otariidae",
-      "genus": "Arctocephalus",
-      "species": "Arctocephalus tropicalis",
-      "AphiaID": 231432,
-      "records": 21,
-      "max_year": 1989,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Carnivora",
-      "family": "Phocidae",
-      "genus": "Mirounga",
-      "species": "Mirounga leonina",
-      "AphiaID": 231413,
-      "records": 4,
-      "max_year": 1987,
-      "group": "mammal"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Balaenidae",
-      "genus": "Eubalaena",
-      "species": "Eubalaena australis",
-      "AphiaID": 220222,
-      "records": 3,
-      "max_year": 1849,
-      "group": "mammal"
     }
   ]
 }
