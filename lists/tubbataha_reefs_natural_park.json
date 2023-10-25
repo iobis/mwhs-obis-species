@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:04:30",
+  "created": "2023-10-25T09:00:27",
   "species": [
     {
       "phylum": "Chordata",
@@ -10,7 +10,7 @@
       "species": "Carcharhinus albimarginatus",
       "AphiaID": 217352,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -34,7 +34,7 @@
       "species": "Carcharhinus amblyrhynchos",
       "AphiaID": 217337,
       "redlist_category": "EN",
-      "records": 3,
+      "records": 5,
       "max_year": 2014,
       "group": "fish"
     },
@@ -84,7 +84,7 @@
       "species": "Carcharhinus melanopterus",
       "AphiaID": 105795,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -108,7 +108,7 @@
       "species": "Triaenodon obesus",
       "AphiaID": 214557,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -132,7 +132,7 @@
       "species": "Sphyrna mokarran",
       "AphiaID": 105817,
       "redlist_category": "CR",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -165,10 +165,22 @@
       "class": "Elasmobranchii",
       "order": "Myliobatiformes",
       "family": "Dasyatidae",
+      "genus": "Himantura",
+      "species": "Himantura uarnak",
+      "AphiaID": 105854,
+      "redlist_category": "EN",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
       "genus": "Neotrygon",
       "species": "Neotrygon kuhlii",
       "AphiaID": 398330,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -203,7 +215,7 @@
       "genus": "Taeniura",
       "species": "Taeniura lymma",
       "AphiaID": 217422,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -215,7 +227,7 @@
       "species": "Taeniurops meyeni",
       "AphiaID": 712972,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -228,6 +240,18 @@
       "AphiaID": 217424,
       "redlist_category": "VU",
       "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Aetobatus",
+      "species": "Aetobatus narinari",
+      "AphiaID": 217426,
+      "redlist_category": "EN",
+      "records": 2,
       "group": "fish"
     },
     {
@@ -263,7 +287,7 @@
       "species": "Mobula birostris",
       "AphiaID": 1026118,
       "redlist_category": "EN",
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -311,7 +335,7 @@
       "species": "Nebrius ferrugineus",
       "AphiaID": 220030,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -323,7 +347,7 @@
       "species": "Rhincodon typus",
       "AphiaID": 105847,
       "redlist_category": "EN",
-      "records": 6,
+      "records": 7,
       "max_year": 2014,
       "group": "fish"
     },
@@ -336,7 +360,7 @@
       "species": "Stegostoma tigrinum",
       "AphiaID": 313100,
       "redlist_category": "EN",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -548,7 +572,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus auranticavus",
       "AphiaID": 219633,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -593,7 +617,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus dussumieri",
       "AphiaID": 219641,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -637,7 +661,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus japonicus",
       "AphiaID": 272962,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -648,7 +672,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus leucocheilus",
       "AphiaID": 219629,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -670,7 +694,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus lineatus",
       "AphiaID": 159582,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -681,7 +705,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus mata",
       "AphiaID": 219651,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -692,7 +716,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus nigricans",
       "AphiaID": 219638,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -703,7 +727,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus nigricauda",
       "AphiaID": 219626,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -714,7 +738,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus nigrofuscus",
       "AphiaID": 219640,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -747,7 +771,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus olivaceus",
       "AphiaID": 219625,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -758,7 +782,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus pyroferus",
       "AphiaID": 219648,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -769,7 +793,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus thompsoni",
       "AphiaID": 219646,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -780,7 +804,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus triostegus",
       "AphiaID": 219630,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -791,7 +815,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus xanthopterus",
       "AphiaID": 219634,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -802,7 +826,18 @@
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus binotatus",
       "AphiaID": 219655,
-      "records": 1,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Ctenochaetus",
+      "species": "Ctenochaetus cyanocheilus",
+      "AphiaID": 277559,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -813,6 +848,17 @@
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus striatus",
       "AphiaID": 219659,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Ctenochaetus",
+      "species": "Ctenochaetus strigosus",
+      "AphiaID": 219658,
       "records": 1,
       "group": "fish"
     },
@@ -824,7 +870,7 @@
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus tominiensis",
       "AphiaID": 277562,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -835,7 +881,7 @@
       "genus": "Naso",
       "species": "Naso annulatus",
       "AphiaID": 219673,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -846,7 +892,7 @@
       "genus": "Naso",
       "species": "Naso brachycentron",
       "AphiaID": 219664,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -857,7 +903,7 @@
       "genus": "Naso",
       "species": "Naso brevirostris",
       "AphiaID": 219671,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -868,7 +914,7 @@
       "genus": "Naso",
       "species": "Naso caeruleacauda",
       "AphiaID": 278003,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -890,7 +936,7 @@
       "genus": "Naso",
       "species": "Naso hexacanthus",
       "AphiaID": 219667,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -901,7 +947,7 @@
       "genus": "Naso",
       "species": "Naso lituratus",
       "AphiaID": 219665,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -912,7 +958,7 @@
       "genus": "Naso",
       "species": "Naso lopezi",
       "AphiaID": 278006,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -923,7 +969,7 @@
       "genus": "Naso",
       "species": "Naso minor",
       "AphiaID": 219674,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -934,7 +980,7 @@
       "genus": "Naso",
       "species": "Naso thynnoides",
       "AphiaID": 219670,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -945,7 +991,7 @@
       "genus": "Naso",
       "species": "Naso tuberosus",
       "AphiaID": 219675,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -956,7 +1002,7 @@
       "genus": "Naso",
       "species": "Naso unicornis",
       "AphiaID": 219668,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -967,7 +1013,7 @@
       "genus": "Naso",
       "species": "Naso vlamingii",
       "AphiaID": 219672,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -978,7 +1024,7 @@
       "genus": "Paracanthurus",
       "species": "Paracanthurus hepatus",
       "AphiaID": 219676,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1000,7 +1046,7 @@
       "genus": "Zebrasoma",
       "species": "Zebrasoma scopas",
       "AphiaID": 219679,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1011,7 +1057,7 @@
       "genus": "Zebrasoma",
       "species": "Zebrasoma velifer",
       "AphiaID": 712902,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1022,7 +1068,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon adiergastos",
       "AphiaID": 273322,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1044,7 +1090,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon auriga",
       "AphiaID": 218730,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1077,7 +1123,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon baronessa",
       "AphiaID": 273328,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1088,7 +1134,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon bennetti",
       "AphiaID": 218735,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1110,7 +1156,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon citrinellus",
       "AphiaID": 218744,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1143,7 +1189,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon ephippium",
       "AphiaID": 273335,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1187,7 +1233,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon kleinii",
       "AphiaID": 218738,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1198,7 +1244,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon lineolatus",
       "AphiaID": 218734,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1209,7 +1255,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon lunula",
       "AphiaID": 218733,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1220,7 +1266,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon lunulatus",
       "AphiaID": 398549,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1231,7 +1277,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon melannotus",
       "AphiaID": 218743,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1253,7 +1299,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon mertensii",
       "AphiaID": 273347,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1275,7 +1321,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon meyeri",
       "AphiaID": 218752,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1297,7 +1343,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon ocellicaudus",
       "AphiaID": 218756,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1308,7 +1354,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon octofasciatus",
       "AphiaID": 218746,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1319,7 +1365,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon ornatissimus",
       "AphiaID": 273352,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1330,7 +1376,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon oxycephalus",
       "AphiaID": 218725,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1341,7 +1387,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon plebeius",
       "AphiaID": 273354,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1352,7 +1398,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon punctatofasciatus",
       "AphiaID": 273355,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1363,7 +1409,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon rafflesii",
       "AphiaID": 273357,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1374,7 +1420,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon reticulatus",
       "AphiaID": 273359,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1385,7 +1431,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon selene",
       "AphiaID": 218749,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1396,7 +1442,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon semeion",
       "AphiaID": 273361,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -1407,7 +1453,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon speculum",
       "AphiaID": 218740,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1430,7 +1476,7 @@
       "species": "Chaetodon trifascialis",
       "AphiaID": 218719,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1441,7 +1487,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon ulietensis",
       "AphiaID": 218717,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1452,7 +1498,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon unimaculatus",
       "AphiaID": 218753,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1463,7 +1509,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon vagabundus",
       "AphiaID": 218754,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1485,7 +1531,7 @@
       "genus": "Chaetodon",
       "species": "Chaetodon xanthurus",
       "AphiaID": 273367,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1496,6 +1542,17 @@
       "genus": "Chelmon",
       "species": "Chelmon rostratus",
       "AphiaID": 218758,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Coradion",
+      "species": "Coradion chrysozonus",
+      "AphiaID": 280391,
       "records": 1,
       "group": "fish"
     },
@@ -1507,7 +1564,7 @@
       "genus": "Forcipiger",
       "species": "Forcipiger flavissimus",
       "AphiaID": 218760,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1518,7 +1575,7 @@
       "genus": "Forcipiger",
       "species": "Forcipiger longirostris",
       "AphiaID": 218759,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1529,7 +1586,7 @@
       "genus": "Hemitaurichthys",
       "species": "Hemitaurichthys polylepis",
       "AphiaID": 277575,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1551,7 +1608,7 @@
       "genus": "Heniochus",
       "species": "Heniochus acuminatus",
       "AphiaID": 218765,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1562,7 +1619,7 @@
       "genus": "Heniochus",
       "species": "Heniochus chrysostomus",
       "AphiaID": 276748,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1573,7 +1630,7 @@
       "genus": "Heniochus",
       "species": "Heniochus diphreutes",
       "AphiaID": 218763,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1584,7 +1641,7 @@
       "genus": "Heniochus",
       "species": "Heniochus monoceros",
       "AphiaID": 218764,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1595,7 +1652,7 @@
       "genus": "Heniochus",
       "species": "Heniochus pleurotaenia",
       "AphiaID": 276749,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1606,7 +1663,7 @@
       "genus": "Heniochus",
       "species": "Heniochus singularius",
       "AphiaID": 218766,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1617,7 +1674,7 @@
       "genus": "Heniochus",
       "species": "Heniochus varius",
       "AphiaID": 276750,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1628,7 +1685,7 @@
       "genus": "Platax",
       "species": "Platax boersii",
       "AphiaID": 276801,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1639,7 +1696,7 @@
       "genus": "Platax",
       "species": "Platax orbicularis",
       "AphiaID": 218711,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1650,7 +1707,7 @@
       "genus": "Platax",
       "species": "Platax pinnatus",
       "AphiaID": 218712,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1661,7 +1718,7 @@
       "genus": "Platax",
       "species": "Platax teira",
       "AphiaID": 218710,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -1672,7 +1729,7 @@
       "genus": "Apolemichthys",
       "species": "Apolemichthys trimaculatus",
       "AphiaID": 211787,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1683,7 +1740,7 @@
       "genus": "Centropyge",
       "species": "Centropyge bicolor",
       "AphiaID": 211780,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1694,7 +1751,7 @@
       "genus": "Centropyge",
       "species": "Centropyge bispinosa",
       "AphiaID": 278830,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -1716,6 +1773,17 @@
       "genus": "Centropyge",
       "species": "Centropyge fisheri",
       "AphiaID": 211778,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Centropyge",
+      "species": "Centropyge flavissima",
+      "AphiaID": 278836,
       "records": 1,
       "group": "fish"
     },
@@ -1727,7 +1795,7 @@
       "genus": "Centropyge",
       "species": "Centropyge heraldi",
       "AphiaID": 278837,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1738,7 +1806,7 @@
       "genus": "Centropyge",
       "species": "Centropyge nox",
       "AphiaID": 278847,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1749,7 +1817,7 @@
       "genus": "Centropyge",
       "species": "Centropyge tibicen",
       "AphiaID": 278851,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1760,7 +1828,7 @@
       "genus": "Centropyge",
       "species": "Centropyge vrolikii",
       "AphiaID": 278853,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1771,7 +1839,7 @@
       "genus": "Chaetodontoplus",
       "species": "Chaetodontoplus mesoleucus",
       "AphiaID": 280121,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1782,7 +1850,7 @@
       "genus": "Paracentropyge",
       "species": "Paracentropyge multifasciata",
       "AphiaID": 320012,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -1793,7 +1861,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus imperator",
       "AphiaID": 220001,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1804,7 +1872,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus navarchus",
       "AphiaID": 276024,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1815,7 +1883,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus semicirculatus",
       "AphiaID": 220003,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1826,7 +1894,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus sexstriatus",
       "AphiaID": 276026,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -1837,7 +1905,7 @@
       "genus": "Pomacanthus",
       "species": "Pomacanthus xanthometopon",
       "AphiaID": 276027,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1848,7 +1916,7 @@
       "genus": "Pygoplites",
       "species": "Pygoplites diacanthus",
       "AphiaID": 211773,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1859,7 +1927,7 @@
       "genus": "Siganus",
       "species": "Siganus argenteus",
       "AphiaID": 219686,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1870,7 +1938,7 @@
       "genus": "Siganus",
       "species": "Siganus corallinus",
       "AphiaID": 219690,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -1881,7 +1949,7 @@
       "genus": "Siganus",
       "species": "Siganus doliatus",
       "AphiaID": 273911,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1903,7 +1971,7 @@
       "genus": "Siganus",
       "species": "Siganus puellus",
       "AphiaID": 273920,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -1914,7 +1982,7 @@
       "genus": "Siganus",
       "species": "Siganus punctatissimus",
       "AphiaID": 273921,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -1925,7 +1993,7 @@
       "genus": "Siganus",
       "species": "Siganus punctatus",
       "AphiaID": 273922,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1947,7 +2015,29 @@
       "genus": "Siganus",
       "species": "Siganus stellatus",
       "AphiaID": 219692,
-      "records": 1,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Siganidae",
+      "genus": "Siganus",
+      "species": "Siganus unimaculatus",
+      "AphiaID": 273925,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Siganidae",
+      "genus": "Siganus",
+      "species": "Siganus virgatus",
+      "AphiaID": 273928,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -1958,7 +2048,7 @@
       "genus": "Siganus",
       "species": "Siganus vulpinus",
       "AphiaID": 273929,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -1969,6 +2059,17 @@
       "genus": "Zanclus",
       "species": "Zanclus cornutus",
       "AphiaID": 220083,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acropomatiformes",
+      "family": "Pempheridae",
+      "genus": "Pempheris",
+      "species": "Pempheris oualensis",
+      "AphiaID": 218700,
       "records": 1,
       "group": "fish"
     },
@@ -2002,7 +2103,7 @@
       "genus": "Heteroconger",
       "species": "Heteroconger hassi",
       "AphiaID": 217552,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2022,9 +2123,31 @@
       "order": "Anguilliformes",
       "family": "Muraenidae",
       "genus": "Gymnothorax",
+      "species": "Gymnothorax isingteena",
+      "AphiaID": 271842,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
       "species": "Gymnothorax javanicus",
       "AphiaID": 217502,
-      "records": 1,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax meleagris",
+      "AphiaID": 217503,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2035,7 +2158,7 @@
       "genus": "Saurida",
       "species": "Saurida gracilis",
       "AphiaID": 217662,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -2057,7 +2180,18 @@
       "genus": "Strongylura",
       "species": "Strongylura incisa",
       "AphiaID": 275981,
-      "records": 1,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Belonidae",
+      "genus": "Tylosurus",
+      "species": "Tylosurus crocodilus",
+      "AphiaID": 159259,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2080,7 +2214,7 @@
       "genus": "Aspidontus",
       "species": "Aspidontus taeniatus",
       "AphiaID": 219242,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2102,6 +2236,17 @@
       "genus": "Cirripectes",
       "species": "Cirripectes castaneus",
       "AphiaID": 219266,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Cirripectes",
+      "species": "Cirripectes chelomatus",
+      "AphiaID": 276718,
       "records": 1,
       "group": "fish"
     },
@@ -2135,7 +2280,7 @@
       "genus": "Ecsenius",
       "species": "Ecsenius dilemma",
       "AphiaID": 277657,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2202,7 +2347,7 @@
       "genus": "Meiacanthus",
       "species": "Meiacanthus atrodorsalis",
       "AphiaID": 279304,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2246,7 +2391,7 @@
       "genus": "Plagiotremus",
       "species": "Plagiotremus rhinorhynchos",
       "AphiaID": 219334,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -2258,6 +2403,17 @@
       "species": "Plagiotremus tapeinosoma",
       "AphiaID": 219335,
       "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Salarias",
+      "species": "Salarias fasciatus",
+      "AphiaID": 219340,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2279,7 +2435,7 @@
       "genus": "Sphyraena",
       "species": "Sphyraena barracuda",
       "AphiaID": 345843,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -2301,6 +2457,17 @@
       "genus": "Sphyraena",
       "species": "Sphyraena qenie",
       "AphiaID": 212049,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Alectis",
+      "species": "Alectis indica",
+      "AphiaID": 401562,
       "records": 1,
       "group": "fish"
     },
@@ -2323,7 +2490,7 @@
       "genus": "Carangoides",
       "species": "Carangoides bajad",
       "AphiaID": 218391,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2345,7 +2512,7 @@
       "genus": "Carangoides",
       "species": "Carangoides ferdau",
       "AphiaID": 218395,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2378,7 +2545,7 @@
       "genus": "Carangoides",
       "species": "Carangoides oblongus",
       "AphiaID": 218388,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2389,7 +2556,7 @@
       "genus": "Carangoides",
       "species": "Carangoides plagiotaenia",
       "AphiaID": 218399,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2400,7 +2567,7 @@
       "genus": "Caranx",
       "species": "Caranx ignobilis",
       "AphiaID": 218414,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2411,7 +2578,7 @@
       "genus": "Caranx",
       "species": "Caranx lugubris",
       "AphiaID": 126805,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2422,7 +2589,7 @@
       "genus": "Caranx",
       "species": "Caranx melampygus",
       "AphiaID": 218419,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2444,7 +2611,7 @@
       "genus": "Caranx",
       "species": "Caranx sexfasciatus",
       "AphiaID": 218404,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2466,7 +2633,7 @@
       "genus": "Elagatis",
       "species": "Elagatis bipinnulata",
       "AphiaID": 126809,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2477,7 +2644,7 @@
       "genus": "Ferdauia",
       "species": "Ferdauia orthogrammus",
       "AphiaID": 1605280,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2488,7 +2655,7 @@
       "genus": "Gnathanodon",
       "species": "Gnathanodon speciosus",
       "AphiaID": 218429,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2499,7 +2666,7 @@
       "genus": "Scomberoides",
       "species": "Scomberoides lysan",
       "AphiaID": 218434,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2510,6 +2677,28 @@
       "genus": "Seriola",
       "species": "Seriola lalandi",
       "AphiaID": 218436,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachinotus",
+      "species": "Trachinotus blochii",
+      "AphiaID": 151169,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Echeneis",
+      "species": "Echeneis naucrates",
+      "AphiaID": 126848,
       "records": 1,
       "group": "fish"
     },
@@ -2543,7 +2732,7 @@
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys aprinus",
       "AphiaID": 218855,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2554,7 +2743,7 @@
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys falco",
       "AphiaID": 218854,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2565,7 +2754,7 @@
       "genus": "Cirrhitichthys",
       "species": "Cirrhitichthys oxycephalus",
       "AphiaID": 218853,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -2576,7 +2765,7 @@
       "genus": "Cirrhitus",
       "species": "Cirrhitus pinnulatus",
       "AphiaID": 218862,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2587,7 +2776,7 @@
       "genus": "Oxycirrhites",
       "species": "Oxycirrhites typus",
       "AphiaID": 218865,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2598,7 +2787,7 @@
       "genus": "Paracirrhites",
       "species": "Paracirrhites arcatus",
       "AphiaID": 218866,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2609,7 +2798,7 @@
       "genus": "Paracirrhites",
       "species": "Paracirrhites forsteri",
       "AphiaID": 218867,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2629,9 +2818,20 @@
       "order": "Centrarchiformes",
       "family": "Kyphosidae",
       "genus": "Kyphosus",
+      "species": "Kyphosus bigibbus",
+      "AphiaID": 218707,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Kyphosus",
       "species": "Kyphosus cinerascens",
       "AphiaID": 218708,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2642,6 +2842,17 @@
       "genus": "Kyphosus",
       "species": "Kyphosus vaigiensis",
       "AphiaID": 218706,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Spratelloididae",
+      "genus": "Spratelloides",
+      "species": "Spratelloides delicatulus",
+      "AphiaID": 126424,
       "records": 1,
       "group": "fish"
     },
@@ -2653,7 +2864,7 @@
       "genus": "Caesio",
       "species": "Caesio caerulaurea",
       "AphiaID": 219995,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2675,7 +2886,7 @@
       "genus": "Caesio",
       "species": "Caesio lunaris",
       "AphiaID": 219991,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2686,7 +2897,7 @@
       "genus": "Caesio",
       "species": "Caesio teres",
       "AphiaID": 219996,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2730,7 +2941,7 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio marri",
       "AphiaID": 213661,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2741,7 +2952,7 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio pisang",
       "AphiaID": 213658,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2752,7 +2963,7 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio randalli",
       "AphiaID": 278944,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -2763,7 +2974,7 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio tessellata",
       "AphiaID": 278945,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2774,7 +2985,7 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio tile",
       "AphiaID": 213656,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2785,6 +2996,17 @@
       "genus": "Pterocaesio",
       "species": "Pterocaesio trilineata",
       "AphiaID": 278946,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Diagramma",
+      "species": "Diagramma melanacrum",
+      "AphiaID": 279262,
       "records": 1,
       "group": "fish"
     },
@@ -2807,7 +3029,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus albovittatus",
       "AphiaID": 218548,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2818,7 +3040,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus chaetodonoides",
       "AphiaID": 273483,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2873,7 +3095,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus lessonii",
       "AphiaID": 273488,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2884,7 +3106,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus lineatus",
       "AphiaID": 273489,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -2895,7 +3117,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus picus",
       "AphiaID": 218555,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2906,7 +3128,7 @@
       "genus": "Plectorhinchus",
       "species": "Plectorhinchus vittatus",
       "AphiaID": 218545,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2950,7 +3172,7 @@
       "genus": "Anampses",
       "species": "Anampses melanurus",
       "AphiaID": 279173,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -2961,7 +3183,7 @@
       "genus": "Anampses",
       "species": "Anampses meleagrides",
       "AphiaID": 218923,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -2983,7 +3205,7 @@
       "genus": "Anampses",
       "species": "Anampses twistii",
       "AphiaID": 218918,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3005,7 +3227,7 @@
       "genus": "Bodianus",
       "species": "Bodianus axillaris",
       "AphiaID": 218933,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3016,7 +3238,7 @@
       "genus": "Bodianus",
       "species": "Bodianus diana",
       "AphiaID": 218931,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3027,7 +3249,7 @@
       "genus": "Bodianus",
       "species": "Bodianus mesothorax",
       "AphiaID": 273536,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3038,7 +3260,7 @@
       "genus": "Cheilinus",
       "species": "Cheilinus chlorourus",
       "AphiaID": 218941,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -3049,7 +3271,7 @@
       "genus": "Cheilinus",
       "species": "Cheilinus fasciatus",
       "AphiaID": 218940,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3083,7 +3305,7 @@
       "species": "Cheilinus undulatus",
       "AphiaID": 218945,
       "redlist_category": "EN",
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3094,7 +3316,7 @@
       "genus": "Cheilio",
       "species": "Cheilio inermis",
       "AphiaID": 218948,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3105,6 +3327,17 @@
       "genus": "Choerodon",
       "species": "Choerodon anchorago",
       "AphiaID": 277262,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Choerodon",
+      "species": "Choerodon fasciatus",
+      "AphiaID": 277268,
       "records": 1,
       "group": "fish"
     },
@@ -3136,6 +3369,17 @@
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
       "genus": "Choerodon",
+      "species": "Choerodon oligacanthus",
+      "AphiaID": 277276,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Choerodon",
       "species": "Choerodon venustus",
       "AphiaID": 277280,
       "records": 1,
@@ -3149,7 +3393,7 @@
       "genus": "Cirrhilabrus",
       "species": "Cirrhilabrus cyanopleura",
       "AphiaID": 277842,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3160,7 +3404,7 @@
       "genus": "Cirrhilabrus",
       "species": "Cirrhilabrus exquisitus",
       "AphiaID": 218954,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -3171,7 +3415,7 @@
       "genus": "Cirrhilabrus",
       "species": "Cirrhilabrus lubbocki",
       "AphiaID": 277854,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3215,7 +3459,7 @@
       "genus": "Coris",
       "species": "Coris aygula",
       "AphiaID": 218957,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3226,7 +3470,7 @@
       "genus": "Coris",
       "species": "Coris batuensis",
       "AphiaID": 218956,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3248,7 +3492,7 @@
       "genus": "Coris",
       "species": "Coris gaimard",
       "AphiaID": 218960,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3259,7 +3503,7 @@
       "genus": "Coris",
       "species": "Coris pictoides",
       "AphiaID": 273561,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3270,7 +3514,7 @@
       "genus": "Diproctacanthus",
       "species": "Diproctacanthus xanthurus",
       "AphiaID": 218970,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3292,7 +3536,7 @@
       "genus": "Epibulus",
       "species": "Epibulus insidiator",
       "AphiaID": 218972,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3314,7 +3558,7 @@
       "genus": "Gomphosus",
       "species": "Gomphosus varius",
       "AphiaID": 218975,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3325,7 +3569,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres argus",
       "AphiaID": 275749,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3358,7 +3602,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres chrysus",
       "AphiaID": 275759,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3369,7 +3613,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres hortulanus",
       "AphiaID": 218985,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3391,7 +3635,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres margaritaceus",
       "AphiaID": 218987,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3424,7 +3668,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres melanurus",
       "AphiaID": 275776,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3457,7 +3701,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres nebulosus",
       "AphiaID": 218986,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -3512,7 +3756,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres prosopeion",
       "AphiaID": 275791,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3523,7 +3767,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres richmondi",
       "AphiaID": 275795,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3534,7 +3778,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres scapularis",
       "AphiaID": 218990,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3545,7 +3789,7 @@
       "genus": "Halichoeres",
       "species": "Halichoeres trimaculatus",
       "AphiaID": 275804,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3567,7 +3811,7 @@
       "genus": "Hemigymnus",
       "species": "Hemigymnus fasciatus",
       "AphiaID": 218999,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3578,7 +3822,7 @@
       "genus": "Hemigymnus",
       "species": "Hemigymnus melapterus",
       "AphiaID": 218998,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3589,7 +3833,7 @@
       "genus": "Hologymnosus",
       "species": "Hologymnosus annulatus",
       "AphiaID": 219003,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3600,6 +3844,17 @@
       "genus": "Hologymnosus",
       "species": "Hologymnosus doliatus",
       "AphiaID": 219001,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Iniistius",
+      "species": "Iniistius pavo",
+      "AphiaID": 219004,
       "records": 1,
       "group": "fish"
     },
@@ -3611,7 +3866,7 @@
       "genus": "Labrichthys",
       "species": "Labrichthys unilineatus",
       "AphiaID": 219013,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3622,7 +3877,7 @@
       "genus": "Labroides",
       "species": "Labroides bicolor",
       "AphiaID": 219015,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3633,7 +3888,7 @@
       "genus": "Labroides",
       "species": "Labroides dimidiatus",
       "AphiaID": 219014,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3644,7 +3899,7 @@
       "genus": "Labroides",
       "species": "Labroides pectoralis",
       "AphiaID": 278689,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3699,7 +3954,7 @@
       "genus": "Leptojulis",
       "species": "Leptojulis cyanopleura",
       "AphiaID": 281319,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3710,7 +3965,7 @@
       "genus": "Macropharyngodon",
       "species": "Macropharyngodon meleagris",
       "AphiaID": 219028,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3721,7 +3976,7 @@
       "genus": "Macropharyngodon",
       "species": "Macropharyngodon negrosensis",
       "AphiaID": 278215,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -3732,7 +3987,7 @@
       "genus": "Novaculichthys",
       "species": "Novaculichthys taeniourus",
       "AphiaID": 219035,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3765,7 +4020,7 @@
       "genus": "Oxycheilinus",
       "species": "Oxycheilinus celebicus",
       "AphiaID": 277995,
-      "records": 1,
+      "records": 9,
       "group": "fish"
     },
     {
@@ -3776,7 +4031,7 @@
       "genus": "Oxycheilinus",
       "species": "Oxycheilinus digramma",
       "AphiaID": 277996,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3798,7 +4053,7 @@
       "genus": "Oxycheilinus",
       "species": "Oxycheilinus orientalis",
       "AphiaID": 278000,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -3809,7 +4064,7 @@
       "genus": "Oxycheilinus",
       "species": "Oxycheilinus unifasciatus",
       "AphiaID": 278002,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -3820,7 +4075,7 @@
       "genus": "Pseudocheilinus",
       "species": "Pseudocheilinus evanidus",
       "AphiaID": 208917,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3831,7 +4086,7 @@
       "genus": "Pseudocheilinus",
       "species": "Pseudocheilinus hexataenia",
       "AphiaID": 208915,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3842,7 +4097,7 @@
       "genus": "Pseudocheilinus",
       "species": "Pseudocheilinus octotaenia",
       "AphiaID": 208914,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3886,7 +4141,7 @@
       "genus": "Pseudodax",
       "species": "Pseudodax moluccanus",
       "AphiaID": 219046,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3930,7 +4185,7 @@
       "genus": "Stethojulis",
       "species": "Stethojulis bandanensis",
       "AphiaID": 277106,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3941,7 +4196,7 @@
       "genus": "Stethojulis",
       "species": "Stethojulis strigiventer",
       "AphiaID": 219061,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -3952,7 +4207,7 @@
       "genus": "Stethojulis",
       "species": "Stethojulis trilineata",
       "AphiaID": 219057,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3963,7 +4218,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma amblycephalum",
       "AphiaID": 212216,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3974,7 +4229,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma hardwicke",
       "AphiaID": 212217,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -3985,7 +4240,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma jansenii",
       "AphiaID": 273582,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -3996,7 +4251,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lunare",
       "AphiaID": 212209,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4007,7 +4262,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lutescens",
       "AphiaID": 273585,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4018,7 +4273,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma purpureum",
       "AphiaID": 212213,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4029,7 +4284,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma quinquevittatum",
       "AphiaID": 212211,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -4040,6 +4295,17 @@
       "genus": "Thalassoma",
       "species": "Thalassoma trilobatum",
       "AphiaID": 212212,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Wetmorella",
+      "species": "Wetmorella albofasciata",
+      "AphiaID": 219069,
       "records": 1,
       "group": "fish"
     },
@@ -4062,7 +4328,7 @@
       "genus": "Gnathodentex",
       "species": "Gnathodentex aureolineatus",
       "AphiaID": 218574,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4093,9 +4359,20 @@
       "order": "Eupercaria incertae sedis",
       "family": "Lethrinidae",
       "genus": "Lethrinus",
+      "species": "Lethrinus atkinsoni",
+      "AphiaID": 278632,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
       "species": "Lethrinus erythracanthus",
       "AphiaID": 212066,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4106,7 +4383,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus erythropterus",
       "AphiaID": 212074,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4128,7 +4405,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus harak",
       "AphiaID": 212063,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4151,7 +4428,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus microdon",
       "AphiaID": 212071,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4173,7 +4450,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus nebulosus",
       "AphiaID": 212081,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4184,7 +4461,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus obsoletus",
       "AphiaID": 212085,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4195,7 +4472,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus olivaceus",
       "AphiaID": 212069,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4206,7 +4483,18 @@
       "genus": "Lethrinus",
       "species": "Lethrinus ornatus",
       "AphiaID": 278636,
-      "records": 1,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lethrinidae",
+      "genus": "Lethrinus",
+      "species": "Lethrinus semicinctus",
+      "AphiaID": 278639,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4217,7 +4505,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus xanthochilus",
       "AphiaID": 212079,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4228,7 +4516,7 @@
       "genus": "Monotaxis",
       "species": "Monotaxis grandoculis",
       "AphiaID": 218584,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4250,7 +4538,7 @@
       "genus": "Aphareus",
       "species": "Aphareus furca",
       "AphiaID": 218470,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4272,7 +4560,7 @@
       "genus": "Aprion",
       "species": "Aprion virescens",
       "AphiaID": 212546,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4283,7 +4571,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus argentimaculatus",
       "AphiaID": 218498,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4305,7 +4593,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus biguttatus",
       "AphiaID": 276525,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4316,7 +4604,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus bohar",
       "AphiaID": 218479,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4338,6 +4626,17 @@
       "genus": "Lutjanus",
       "species": "Lutjanus decussatus",
       "AphiaID": 276530,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus ehrenbergii",
+      "AphiaID": 218489,
       "records": 1,
       "group": "fish"
     },
@@ -4349,7 +4648,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus fulviflamma",
       "AphiaID": 218490,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4360,7 +4659,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus fulvus",
       "AphiaID": 218475,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4371,7 +4670,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus gibbus",
       "AphiaID": 218480,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4382,7 +4681,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus kasmira",
       "AphiaID": 218482,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4404,7 +4703,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus lutjanus",
       "AphiaID": 218495,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4415,7 +4714,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus monostigma",
       "AphiaID": 218474,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4427,6 +4726,17 @@
       "species": "Lutjanus quinquelineatus",
       "AphiaID": 218497,
       "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus rivulatus",
+      "AphiaID": 218494,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4448,7 +4758,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus russellii",
       "AphiaID": 218473,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4459,7 +4769,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus semicinctus",
       "AphiaID": 276549,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4492,7 +4802,7 @@
       "genus": "Macolor",
       "species": "Macolor macularis",
       "AphiaID": 218500,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4503,7 +4813,7 @@
       "genus": "Macolor",
       "species": "Macolor niger",
       "AphiaID": 218501,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4533,10 +4843,21 @@
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Lutjanidae",
+      "genus": "Symphorichthys",
+      "species": "Symphorichthys spilurus",
+      "AphiaID": 282914,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
       "genus": "Symphorus",
       "species": "Symphorus nematophorus",
       "AphiaID": 282915,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4547,7 +4868,7 @@
       "genus": "Hoplolatilus",
       "species": "Hoplolatilus starcki",
       "AphiaID": 278094,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -4558,7 +4879,7 @@
       "genus": "Malacanthus",
       "species": "Malacanthus brevirostris",
       "AphiaID": 218378,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -4569,7 +4890,7 @@
       "genus": "Malacanthus",
       "species": "Malacanthus latovittatus",
       "AphiaID": 218377,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4624,7 +4945,7 @@
       "genus": "Scolopsis",
       "species": "Scolopsis bilineata",
       "AphiaID": 209219,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4657,7 +4978,7 @@
       "genus": "Scolopsis",
       "species": "Scolopsis lineata",
       "AphiaID": 276786,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4668,6 +4989,17 @@
       "genus": "Scolopsis",
       "species": "Scolopsis margaritifera",
       "AphiaID": 276787,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Nemipteridae",
+      "genus": "Scolopsis",
+      "species": "Scolopsis monogramma",
+      "AphiaID": 276788,
       "records": 1,
       "group": "fish"
     },
@@ -4679,7 +5011,7 @@
       "genus": "Scolopsis",
       "species": "Scolopsis trilineata",
       "AphiaID": 276791,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4701,7 +5033,7 @@
       "genus": "Priacanthus",
       "species": "Priacanthus hamrur",
       "AphiaID": 218360,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4713,7 +5045,7 @@
       "species": "Bolbometopon muricatum",
       "AphiaID": 219074,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -4735,7 +5067,7 @@
       "genus": "Cetoscarus",
       "species": "Cetoscarus bicolor",
       "AphiaID": 219078,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4746,7 +5078,7 @@
       "genus": "Chlorurus",
       "species": "Chlorurus bleekeri",
       "AphiaID": 277504,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4758,7 +5090,7 @@
       "species": "Chlorurus bowersi",
       "AphiaID": 277505,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4791,7 +5123,7 @@
       "genus": "Chlorurus",
       "species": "Chlorurus japanensis",
       "AphiaID": 219081,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4802,7 +5134,7 @@
       "genus": "Chlorurus",
       "species": "Chlorurus microrhinos",
       "AphiaID": 277507,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4824,7 +5156,7 @@
       "genus": "Chlorurus",
       "species": "Chlorurus sordidus",
       "AphiaID": 219082,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4857,7 +5189,7 @@
       "genus": "Chlorurus",
       "species": "Chlorurus troschelii",
       "AphiaID": 277511,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4868,7 +5200,7 @@
       "genus": "Hipposcarus",
       "species": "Hipposcarus longiceps",
       "AphiaID": 278899,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -4890,7 +5222,7 @@
       "genus": "Scarus",
       "species": "Scarus altipinnis",
       "AphiaID": 276039,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -4901,7 +5233,7 @@
       "genus": "Scarus",
       "species": "Scarus chameleon",
       "AphiaID": 276040,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4912,7 +5244,7 @@
       "genus": "Scarus",
       "species": "Scarus dimidiatus",
       "AphiaID": 276044,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4956,7 +5288,7 @@
       "genus": "Scarus",
       "species": "Scarus flavipectoralis",
       "AphiaID": 276045,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -4967,7 +5299,7 @@
       "genus": "Scarus",
       "species": "Scarus forsteni",
       "AphiaID": 276046,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4978,7 +5310,7 @@
       "genus": "Scarus",
       "species": "Scarus frenatus",
       "AphiaID": 219113,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -4989,7 +5321,7 @@
       "genus": "Scarus",
       "species": "Scarus ghobban",
       "AphiaID": 219127,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5000,7 +5332,7 @@
       "genus": "Scarus",
       "species": "Scarus globiceps",
       "AphiaID": 219104,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5012,7 +5344,7 @@
       "species": "Scarus hypselopterus",
       "AphiaID": 276051,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -5023,7 +5355,7 @@
       "genus": "Scarus",
       "species": "Scarus niger",
       "AphiaID": 219129,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5034,7 +5366,7 @@
       "genus": "Scarus",
       "species": "Scarus oviceps",
       "AphiaID": 219111,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5045,7 +5377,7 @@
       "genus": "Scarus",
       "species": "Scarus prasiognathos",
       "AphiaID": 219093,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5056,7 +5388,7 @@
       "genus": "Scarus",
       "species": "Scarus psittacus",
       "AphiaID": 219125,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -5078,7 +5410,7 @@
       "genus": "Scarus",
       "species": "Scarus rivulatus",
       "AphiaID": 367210,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -5089,7 +5421,7 @@
       "genus": "Scarus",
       "species": "Scarus rubroviolaceus",
       "AphiaID": 219124,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5100,7 +5432,7 @@
       "genus": "Scarus",
       "species": "Scarus russelii",
       "AphiaID": 219135,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5122,7 +5454,7 @@
       "genus": "Scarus",
       "species": "Scarus schlegeli",
       "AphiaID": 276060,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -5133,7 +5465,7 @@
       "genus": "Scarus",
       "species": "Scarus spinus",
       "AphiaID": 276061,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5144,7 +5476,7 @@
       "genus": "Scarus",
       "species": "Scarus tricolor",
       "AphiaID": 219098,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5199,6 +5531,17 @@
       "genus": "Amblygobius",
       "species": "Amblygobius decussatus",
       "AphiaID": 278651,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Amblygobius",
+      "species": "Amblygobius phalaena",
+      "AphiaID": 278655,
       "records": 1,
       "group": "fish"
     },
@@ -5329,6 +5672,17 @@
       "order": "Gobiiformes",
       "family": "Gobiidae",
       "genus": "Eviota",
+      "species": "Eviota pellucida",
+      "AphiaID": 278600,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Eviota",
       "species": "Eviota sebreei",
       "AphiaID": 219461,
       "records": 1,
@@ -5361,6 +5715,17 @@
       "class": "Teleostei",
       "order": "Gobiiformes",
       "family": "Gobiidae",
+      "genus": "Istigobius",
+      "species": "Istigobius rigilius",
+      "AphiaID": 278039,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
       "genus": "Pleurosicya",
       "species": "Pleurosicya micheli",
       "AphiaID": 219544,
@@ -5375,6 +5740,17 @@
       "genus": "Valenciennea",
       "species": "Valenciennea randalli",
       "AphiaID": 277035,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Valenciennea",
+      "species": "Valenciennea sexguttata",
+      "AphiaID": 219598,
       "records": 1,
       "group": "fish"
     },
@@ -5386,7 +5762,7 @@
       "genus": "Valenciennea",
       "species": "Valenciennea strigata",
       "AphiaID": 219599,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5408,7 +5784,7 @@
       "genus": "Nemateleotris",
       "species": "Nemateleotris magnifica",
       "AphiaID": 219611,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -5419,7 +5795,7 @@
       "genus": "Ptereleotris",
       "species": "Ptereleotris evides",
       "AphiaID": 219622,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -5430,6 +5806,17 @@
       "genus": "Ptereleotris",
       "species": "Ptereleotris heteroptera",
       "AphiaID": 219617,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Microdesmidae",
+      "genus": "Ptereleotris",
+      "species": "Ptereleotris zebra",
+      "AphiaID": 219618,
       "records": 1,
       "group": "fish"
     },
@@ -5441,7 +5828,7 @@
       "genus": "Chanos",
       "species": "Chanos chanos",
       "AphiaID": 217625,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5452,7 +5839,7 @@
       "genus": "Myripristis",
       "species": "Myripristis adusta",
       "AphiaID": 217926,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -5474,7 +5861,7 @@
       "genus": "Myripristis",
       "species": "Myripristis berndti",
       "AphiaID": 217927,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5518,7 +5905,7 @@
       "genus": "Myripristis",
       "species": "Myripristis kuntee",
       "AphiaID": 217915,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5529,7 +5916,7 @@
       "genus": "Myripristis",
       "species": "Myripristis murdjan",
       "AphiaID": 217925,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5551,7 +5938,7 @@
       "genus": "Myripristis",
       "species": "Myripristis violacea",
       "AphiaID": 217914,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -5584,7 +5971,7 @@
       "genus": "Neoniphon",
       "species": "Neoniphon argenteus",
       "AphiaID": 217931,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5606,7 +5993,7 @@
       "genus": "Neoniphon",
       "species": "Neoniphon sammara",
       "AphiaID": 159393,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -5628,7 +6015,7 @@
       "genus": "Sargocentron",
       "species": "Sargocentron caudimaculatum",
       "AphiaID": 217940,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5661,7 +6048,7 @@
       "genus": "Sargocentron",
       "species": "Sargocentron ittodai",
       "AphiaID": 217939,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5717,7 +6104,7 @@
       "genus": "Sargocentron",
       "species": "Sargocentron spiniferum",
       "AphiaID": 217950,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5783,7 +6170,7 @@
       "genus": "Cheilodipterus",
       "species": "Cheilodipterus macrodon",
       "AphiaID": 209373,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -5924,9 +6311,20 @@
       "order": "Mulliformes",
       "family": "Mullidae",
       "genus": "Mulloidichthys",
+      "species": "Mulloidichthys flavolineatus",
+      "AphiaID": 218647,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mulliformes",
+      "family": "Mullidae",
+      "genus": "Mulloidichthys",
       "species": "Mulloidichthys vanicolensis",
       "AphiaID": 218648,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -5937,7 +6335,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus barberinoides",
       "AphiaID": 277810,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -5948,7 +6346,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus barberinus",
       "AphiaID": 218660,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -5970,7 +6368,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus cyclostomus",
       "AphiaID": 218665,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -5981,7 +6379,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus indicus",
       "AphiaID": 218658,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6003,7 +6401,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus multifasciatus",
       "AphiaID": 277820,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6014,7 +6412,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus pleurostigma",
       "AphiaID": 218656,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6036,7 +6434,7 @@
       "genus": "Parupeneus",
       "species": "Parupeneus trifasciatus",
       "AphiaID": 277826,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6047,6 +6445,17 @@
       "genus": "Upeneus",
       "species": "Upeneus moluccensis",
       "AphiaID": 126989,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mulliformes",
+      "family": "Mullidae",
+      "genus": "Upeneus",
+      "species": "Upeneus tragula",
+      "AphiaID": 218689,
       "records": 1,
       "group": "fish"
     },
@@ -6080,9 +6489,20 @@
       "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
       "genus": "Abudefduf",
+      "species": "Abudefduf septemfasciatus",
+      "AphiaID": 212878,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Abudefduf",
       "species": "Abudefduf sexfasciatus",
       "AphiaID": 159289,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6093,7 +6513,7 @@
       "genus": "Abudefduf",
       "species": "Abudefduf vaigiensis",
       "AphiaID": 212879,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -6104,7 +6524,7 @@
       "genus": "Acanthochromis",
       "species": "Acanthochromis polyacanthus",
       "AphiaID": 279469,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6115,7 +6535,7 @@
       "genus": "Amblyglyphidodon",
       "species": "Amblyglyphidodon aureus",
       "AphiaID": 277595,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6126,7 +6546,7 @@
       "genus": "Amblyglyphidodon",
       "species": "Amblyglyphidodon curacao",
       "AphiaID": 277597,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -6137,7 +6557,7 @@
       "genus": "Amblyglyphidodon",
       "species": "Amblyglyphidodon leucogaster",
       "AphiaID": 218779,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -6181,7 +6601,7 @@
       "genus": "Amphiprion",
       "species": "Amphiprion clarkii",
       "AphiaID": 212783,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -6192,7 +6612,7 @@
       "genus": "Amphiprion",
       "species": "Amphiprion frenatus",
       "AphiaID": 278394,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6214,7 +6634,7 @@
       "genus": "Amphiprion",
       "species": "Amphiprion ocellaris",
       "AphiaID": 278400,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6225,7 +6645,7 @@
       "genus": "Amphiprion",
       "species": "Amphiprion perideraion",
       "AphiaID": 278403,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6291,7 +6711,7 @@
       "genus": "Chromis",
       "species": "Chromis analis",
       "AphiaID": 212814,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6302,7 +6722,7 @@
       "genus": "Chromis",
       "species": "Chromis atripectoralis",
       "AphiaID": 212812,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6379,7 +6799,7 @@
       "genus": "Chromis",
       "species": "Chromis ternatensis",
       "AphiaID": 212810,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6390,7 +6810,7 @@
       "genus": "Chromis",
       "species": "Chromis viridis",
       "AphiaID": 212811,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6401,7 +6821,7 @@
       "genus": "Chromis",
       "species": "Chromis weberi",
       "AphiaID": 212817,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6412,7 +6832,7 @@
       "genus": "Chromis",
       "species": "Chromis xanthochira",
       "AphiaID": 273761,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6423,7 +6843,7 @@
       "genus": "Chromis",
       "species": "Chromis xanthura",
       "AphiaID": 212819,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6434,6 +6854,17 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera biocellata",
       "AphiaID": 218784,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Chrysiptera",
+      "species": "Chrysiptera brownriggii",
+      "AphiaID": 276827,
       "records": 1,
       "group": "fish"
     },
@@ -6445,7 +6876,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera cyanea",
       "AphiaID": 218781,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6478,7 +6909,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera parasema",
       "AphiaID": 276836,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6489,7 +6920,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera rex",
       "AphiaID": 276839,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6500,7 +6931,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera rollandi",
       "AphiaID": 276840,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6511,7 +6942,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera springeri",
       "AphiaID": 276843,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6522,7 +6953,7 @@
       "genus": "Chrysiptera",
       "species": "Chrysiptera talboti",
       "AphiaID": 276845,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -6555,7 +6986,7 @@
       "genus": "Dascyllus",
       "species": "Dascyllus aruanus",
       "AphiaID": 212843,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6577,7 +7008,7 @@
       "genus": "Dascyllus",
       "species": "Dascyllus reticulatus",
       "AphiaID": 212844,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6588,7 +7019,7 @@
       "genus": "Dascyllus",
       "species": "Dascyllus trimaculatus",
       "AphiaID": 212846,
-      "records": 3,
+      "records": 10,
       "max_year": 1995,
       "group": "fish"
     },
@@ -6600,7 +7031,7 @@
       "genus": "Dischistodus",
       "species": "Dischistodus chrysopoecilus",
       "AphiaID": 280559,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6611,6 +7042,28 @@
       "genus": "Dischistodus",
       "species": "Dischistodus melanotus",
       "AphiaID": 280562,
+      "records": 4,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Dischistodus",
+      "species": "Dischistodus perspicillatus",
+      "AphiaID": 280563,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Hemiglyphidodon",
+      "species": "Hemiglyphidodon plagiometopon",
+      "AphiaID": 212961,
       "records": 1,
       "group": "fish"
     },
@@ -6633,7 +7086,7 @@
       "genus": "Neoglyphidodon",
       "species": "Neoglyphidodon melas",
       "AphiaID": 218833,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -6644,7 +7097,7 @@
       "genus": "Neoglyphidodon",
       "species": "Neoglyphidodon nigroris",
       "AphiaID": 278813,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -6677,7 +7130,7 @@
       "genus": "Neoglyphidodon",
       "species": "Neoglyphidodon thoracotaeniatus",
       "AphiaID": 278816,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6743,7 +7196,7 @@
       "genus": "Neopomacentrus",
       "species": "Neopomacentrus violascens",
       "AphiaID": 278916,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6777,7 +7230,7 @@
       "species": "Plectroglyphidodon dickii",
       "AphiaID": 212855,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -6799,7 +7252,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon johnstonianus",
       "AphiaID": 212859,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6810,7 +7263,7 @@
       "genus": "Plectroglyphidodon",
       "species": "Plectroglyphidodon leucozonus",
       "AphiaID": 212854,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6832,7 +7285,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus adelus",
       "AphiaID": 277127,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6843,6 +7296,17 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus alexanderae",
       "AphiaID": 277130,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Pomacentrus",
+      "species": "Pomacentrus alleni",
+      "AphiaID": 277131,
       "records": 1,
       "group": "fish"
     },
@@ -6854,7 +7318,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus amboinensis",
       "AphiaID": 277132,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6865,7 +7329,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus armillatus",
       "AphiaID": 277134,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -6876,7 +7340,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus auriventris",
       "AphiaID": 277137,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6887,7 +7351,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus bankanensis",
       "AphiaID": 212966,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -6898,7 +7362,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus brachialis",
       "AphiaID": 212977,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -6920,7 +7384,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus caeruleus",
       "AphiaID": 212993,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -6942,7 +7406,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus coelestis",
       "AphiaID": 277145,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -6976,7 +7440,7 @@
       "species": "Pomacentrus lepidogenys",
       "AphiaID": 277155,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -6987,7 +7451,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus moluccensis",
       "AphiaID": 277159,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7009,7 +7473,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus nigromanus",
       "AphiaID": 277161,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7029,9 +7493,20 @@
       "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
       "genus": "Pomacentrus",
+      "species": "Pomacentrus pavo",
+      "AphiaID": 212990,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Pomacentrus",
       "species": "Pomacentrus philippinus",
       "AphiaID": 277164,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7097,7 +7572,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus tripunctatus",
       "AphiaID": 212968,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7108,7 +7583,7 @@
       "genus": "Pomacentrus",
       "species": "Pomacentrus vaiuli",
       "AphiaID": 277176,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7152,7 +7627,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis agilis",
       "AphiaID": 1592293,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7163,7 +7638,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis amboinensis",
       "AphiaID": 1605305,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7174,7 +7649,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis atripes",
       "AphiaID": 1605306,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7185,7 +7660,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis caudalis",
       "AphiaID": 1593660,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7251,7 +7726,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis margaritifer",
       "AphiaID": 1605310,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7273,7 +7748,7 @@
       "genus": "Pycnochromis",
       "species": "Pycnochromis retrofasciatus",
       "AphiaID": 1592353,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7295,6 +7770,17 @@
       "genus": "Stegastes",
       "species": "Stegastes lacrymatus",
       "AphiaID": 1551095,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Stegastes",
+      "species": "Stegastes leucostictus",
+      "AphiaID": 159291,
       "records": 1,
       "group": "fish"
     },
@@ -7306,7 +7792,18 @@
       "genus": "Stegastes",
       "species": "Stegastes lividus",
       "AphiaID": 218848,
-      "records": 1,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Stegastes",
+      "species": "Stegastes xanthurus",
+      "AphiaID": 1021260,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -7361,7 +7858,7 @@
       "genus": "Parapercis",
       "species": "Parapercis clathrata",
       "AphiaID": 276987,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -7394,7 +7891,7 @@
       "genus": "Parapercis",
       "species": "Parapercis millepunctata",
       "AphiaID": 219147,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7425,6 +7922,17 @@
       "order": "Perciformes",
       "family": "Scorpaenidae",
       "genus": "Dendrochirus",
+      "species": "Dendrochirus biocellatus",
+      "AphiaID": 218051,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Dendrochirus",
       "species": "Dendrochirus zebra",
       "AphiaID": 218053,
       "records": 1,
@@ -7438,7 +7946,7 @@
       "genus": "Pterois",
       "species": "Pterois antennata",
       "AphiaID": 218081,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7460,7 +7968,7 @@
       "genus": "Pterois",
       "species": "Pterois volitans",
       "AphiaID": 159559,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -7482,7 +7990,7 @@
       "genus": "Scorpaenopsis",
       "species": "Scorpaenopsis oxycephalus",
       "AphiaID": 218105,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7493,7 +8001,7 @@
       "genus": "Aethaloperca",
       "species": "Aethaloperca rogaa",
       "AphiaID": 218168,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7504,7 +8012,7 @@
       "genus": "Anyperodon",
       "species": "Anyperodon leucogrammicus",
       "AphiaID": 212549,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -7526,7 +8034,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis argus",
       "AphiaID": 218174,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7537,7 +8045,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis boenak",
       "AphiaID": 218182,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -7548,7 +8056,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis cyanostigma",
       "AphiaID": 279147,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7559,7 +8067,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis leopardus",
       "AphiaID": 218185,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {
@@ -7581,6 +8089,17 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis miniata",
       "AphiaID": 218184,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Cephalopholis",
+      "species": "Cephalopholis polleni",
+      "AphiaID": 218175,
       "records": 1,
       "group": "fish"
     },
@@ -7592,7 +8111,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis sexmaculata",
       "AphiaID": 218189,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7603,7 +8122,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis sonnerati",
       "AphiaID": 218183,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7625,7 +8144,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis urodeta",
       "AphiaID": 218181,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7691,7 +8210,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus fasciatus",
       "AphiaID": 218207,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7703,7 +8222,7 @@
       "species": "Epinephelus fuscoguttatus",
       "AphiaID": 218218,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7747,7 +8266,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus merra",
       "AphiaID": 218228,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -7758,7 +8277,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus ongus",
       "AphiaID": 218217,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7770,7 +8289,7 @@
       "species": "Epinephelus polyphekadion",
       "AphiaID": 218197,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -7792,7 +8311,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus sexfasciatus",
       "AphiaID": 273867,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -7814,6 +8333,17 @@
       "genus": "Gracila",
       "species": "Gracila albomarginata",
       "AphiaID": 218255,
+      "records": 7,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Grammistes",
+      "species": "Grammistes sexlineatus",
+      "AphiaID": 211864,
       "records": 1,
       "group": "fish"
     },
@@ -7837,7 +8367,7 @@
       "species": "Plectropomus areolatus",
       "AphiaID": 218263,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7848,7 +8378,7 @@
       "genus": "Plectropomus",
       "species": "Plectropomus laevis",
       "AphiaID": 218260,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -7859,7 +8389,7 @@
       "genus": "Plectropomus",
       "species": "Plectropomus leopardus",
       "AphiaID": 218261,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -7881,7 +8411,7 @@
       "genus": "Plectropomus",
       "species": "Plectropomus oligacanthus",
       "AphiaID": 277891,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -7892,6 +8422,17 @@
       "genus": "Plectropomus",
       "species": "Plectropomus pessuliferus",
       "AphiaID": 218265,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Pogonoperca",
+      "species": "Pogonoperca punctata",
+      "AphiaID": 218270,
       "records": 1,
       "group": "fish"
     },
@@ -7936,7 +8477,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias dispar",
       "AphiaID": 277448,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -7958,7 +8499,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias huchtii",
       "AphiaID": 277458,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8024,7 +8565,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias pleurotaenia",
       "AphiaID": 277473,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8046,7 +8587,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias smithvanizi",
       "AphiaID": 277480,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8057,7 +8598,7 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias squamipinnis",
       "AphiaID": 218278,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8068,6 +8609,17 @@
       "genus": "Pseudanthias",
       "species": "Pseudanthias tuka",
       "AphiaID": 218272,
+      "records": 8,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Variola",
+      "species": "Variola albimarginata",
+      "AphiaID": 218305,
       "records": 1,
       "group": "fish"
     },
@@ -8079,6 +8631,17 @@
       "genus": "Variola",
       "species": "Variola louti",
       "AphiaID": 218304,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Soleidae",
+      "genus": "Pardachirus",
+      "species": "Pardachirus pavoninus",
+      "AphiaID": 278364,
       "records": 1,
       "group": "fish"
     },
@@ -8101,7 +8664,7 @@
       "genus": "Gymnosarda",
       "species": "Gymnosarda unicolor",
       "AphiaID": 219712,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8135,7 +8698,7 @@
       "genus": "Aulostomus",
       "species": "Aulostomus chinensis",
       "AphiaID": 217964,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -8146,7 +8709,7 @@
       "genus": "Fistularia",
       "species": "Fistularia commersonii",
       "AphiaID": 217966,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -8168,7 +8731,7 @@
       "genus": "Balistapus",
       "species": "Balistapus undulatus",
       "AphiaID": 219874,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8191,7 +8754,7 @@
       "genus": "Balistoides",
       "species": "Balistoides conspicillum",
       "AphiaID": 219876,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8202,7 +8765,7 @@
       "genus": "Balistoides",
       "species": "Balistoides viridescens",
       "AphiaID": 219875,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8224,7 +8787,7 @@
       "genus": "Melichthys",
       "species": "Melichthys indicus",
       "AphiaID": 219882,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8235,7 +8798,7 @@
       "genus": "Melichthys",
       "species": "Melichthys niger",
       "AphiaID": 219881,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8246,7 +8809,7 @@
       "genus": "Melichthys",
       "species": "Melichthys vidua",
       "AphiaID": 219879,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8257,7 +8820,7 @@
       "genus": "Odonus",
       "species": "Odonus niger",
       "AphiaID": 219883,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8268,7 +8831,7 @@
       "genus": "Pseudobalistes",
       "species": "Pseudobalistes flavimarginatus",
       "AphiaID": 219884,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8290,7 +8853,29 @@
       "genus": "Rhinecanthus",
       "species": "Rhinecanthus aculeatus",
       "AphiaID": 219890,
-      "records": 1,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Rhinecanthus",
+      "species": "Rhinecanthus rectangulus",
+      "AphiaID": 219886,
+      "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Rhinecanthus",
+      "species": "Rhinecanthus verrucosus",
+      "AphiaID": 219888,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -8301,7 +8886,7 @@
       "genus": "Sufflamen",
       "species": "Sufflamen bursa",
       "AphiaID": 219894,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8312,7 +8897,7 @@
       "genus": "Sufflamen",
       "species": "Sufflamen chrysopterum",
       "AphiaID": 276851,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8342,10 +8927,21 @@
       "class": "Teleostei",
       "order": "Tetraodontiformes",
       "family": "Diodontidae",
+      "genus": "Chilomycterus",
+      "species": "Chilomycterus reticulatus",
+      "AphiaID": 219964,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Diodontidae",
       "genus": "Diodon",
       "species": "Diodon hystrix",
       "AphiaID": 127403,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -8356,7 +8952,7 @@
       "genus": "Diodon",
       "species": "Diodon liturosus",
       "AphiaID": 219970,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8378,7 +8974,7 @@
       "genus": "Aluterus",
       "species": "Aluterus scriptus",
       "AphiaID": 159491,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8389,7 +8985,7 @@
       "genus": "Amanses",
       "species": "Amanses scopas",
       "AphiaID": 212242,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -8400,7 +8996,7 @@
       "genus": "Cantherhines",
       "species": "Cantherhines dumerilii",
       "AphiaID": 276248,
-      "records": 1,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -8422,7 +9018,7 @@
       "genus": "Cantherhines",
       "species": "Cantherhines pardalis",
       "AphiaID": 220058,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8433,7 +9029,7 @@
       "genus": "Paraluteres",
       "species": "Paraluteres prionurus",
       "AphiaID": 220065,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8455,7 +9051,7 @@
       "genus": "Pervagor",
       "species": "Pervagor janthinosoma",
       "AphiaID": 220072,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8466,7 +9062,7 @@
       "genus": "Ostracion",
       "species": "Ostracion cubicum",
       "AphiaID": 403462,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8477,7 +9073,7 @@
       "genus": "Ostracion",
       "species": "Ostracion meleagris",
       "AphiaID": 219905,
-      "records": 1,
+      "records": 7,
       "group": "fish"
     },
     {
@@ -8488,7 +9084,7 @@
       "genus": "Ostracion",
       "species": "Ostracion solorense",
       "AphiaID": 278936,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8521,7 +9117,7 @@
       "genus": "Arothron",
       "species": "Arothron hispidus",
       "AphiaID": 219925,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8532,7 +9128,7 @@
       "genus": "Arothron",
       "species": "Arothron mappa",
       "AphiaID": 219930,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8543,7 +9139,7 @@
       "genus": "Arothron",
       "species": "Arothron meleagris",
       "AphiaID": 219926,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8554,7 +9150,7 @@
       "genus": "Arothron",
       "species": "Arothron nigropunctatus",
       "AphiaID": 219921,
-      "records": 1,
+      "records": 8,
       "group": "fish"
     },
     {
@@ -8565,7 +9161,7 @@
       "genus": "Arothron",
       "species": "Arothron stellatus",
       "AphiaID": 219928,
-      "records": 1,
+      "records": 6,
       "group": "fish"
     },
     {
@@ -8598,7 +9194,7 @@
       "genus": "Canthigaster",
       "species": "Canthigaster compressa",
       "AphiaID": 275249,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8642,7 +9238,7 @@
       "genus": "Canthigaster",
       "species": "Canthigaster papua",
       "AphiaID": 275262,
-      "records": 1,
+      "records": 4,
       "group": "fish"
     },
     {
@@ -8653,7 +9249,7 @@
       "genus": "Canthigaster",
       "species": "Canthigaster solandri",
       "AphiaID": 219945,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -8664,7 +9260,7 @@
       "genus": "Canthigaster",
       "species": "Canthigaster valentini",
       "AphiaID": 219947,
-      "records": 1,
+      "records": 5,
       "group": "fish"
     },
     {

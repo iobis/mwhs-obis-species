@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:04:30",
+  "created": "2023-10-25T09:00:27",
   "species": [
     {
       "phylum": "Chordata",
@@ -20,7 +20,7 @@
       "genus": "Scyliorhinus",
       "species": "Scyliorhinus canicula",
       "AphiaID": 105814,
-      "records": 6,
+      "records": 7,
       "max_year": 2011,
       "group": "fish"
     },
@@ -40,13 +40,37 @@
       "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Carcharhiniformes",
+      "family": "Scyliorhinidae",
+      "genus": "Scyliorhinus",
+      "species": "Scyliorhinus stellaris",
+      "AphiaID": 105815,
+      "redlist_category": "VU",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
       "family": "Triakidae",
       "genus": "Galeorhinus",
       "species": "Galeorhinus galeus",
       "AphiaID": 105820,
       "redlist_category": "CR",
-      "records": 6,
+      "records": 7,
       "max_year": 1995,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Triakidae",
+      "genus": "Mustelus",
+      "species": "Mustelus asterias",
+      "AphiaID": 105821,
+      "redlist_category": "NT",
+      "records": 1,
       "group": "fish"
     },
     {
@@ -58,7 +82,7 @@
       "species": "Mustelus mustelus",
       "AphiaID": 105822,
       "redlist_category": "EN",
-      "records": 4,
+      "records": 5,
       "max_year": 1961,
       "group": "fish"
     },
@@ -95,7 +119,7 @@
       "species": "Alopias vulpinus",
       "AphiaID": 105836,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -107,7 +131,7 @@
       "species": "Cetorhinus maximus",
       "AphiaID": 105837,
       "redlist_category": "EN",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -119,7 +143,7 @@
       "species": "Lamna nasus",
       "AphiaID": 105841,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -131,7 +155,7 @@
       "species": "Dasyatis pastinaca",
       "AphiaID": 105851,
       "redlist_category": "VU",
-      "records": 52,
+      "records": 53,
       "max_year": 1985,
       "group": "fish"
     },
@@ -164,12 +188,47 @@
       "class": "Elasmobranchii",
       "order": "Rajiformes",
       "family": "Rajidae",
+      "genus": "Dipturus",
+      "species": "Dipturus batis",
+      "AphiaID": 105869,
+      "redlist_category": "CR",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Rajiformes",
+      "family": "Rajidae",
+      "genus": "Raja",
+      "species": "Raja brachyura",
+      "AphiaID": 367297,
+      "redlist_category": "NT",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Rajiformes",
+      "family": "Rajidae",
       "genus": "Raja",
       "species": "Raja clavata",
       "AphiaID": 105883,
       "redlist_category": "NT",
-      "records": 3,
+      "records": 4,
       "max_year": 1906,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Rajiformes",
+      "family": "Rajidae",
+      "genus": "Raja",
+      "species": "Raja montagui",
+      "AphiaID": 105887,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -181,7 +240,7 @@
       "species": "Squalus acanthias",
       "AphiaID": 105923,
       "redlist_category": "VU",
-      "records": 9,
+      "records": 10,
       "max_year": 1982,
       "group": "fish"
     },
@@ -194,7 +253,7 @@
       "species": "Squatina squatina",
       "AphiaID": 105928,
       "redlist_category": "CR",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -205,7 +264,7 @@
       "genus": "Halichoerus",
       "species": "Halichoerus grypus",
       "AphiaID": 137080,
-      "records": 1179,
+      "records": 1180,
       "max_year": 2013,
       "group": "mammal"
     },
@@ -217,7 +276,7 @@
       "genus": "Phoca",
       "species": "Phoca vitulina",
       "AphiaID": 137084,
-      "records": 711,
+      "records": 712,
       "max_year": 2016,
       "group": "mammal"
     },
@@ -241,7 +300,7 @@
       "species": "Balaenoptera borealis",
       "AphiaID": 137088,
       "redlist_category": "EN",
-      "records": 1,
+      "records": 2,
       "group": "mammal"
     },
     {
@@ -253,7 +312,7 @@
       "species": "Balaenoptera physalus",
       "AphiaID": 137091,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "max_year": 1833,
       "group": "mammal"
     },
@@ -289,7 +348,7 @@
       "species": "Sousa teuszii",
       "AphiaID": 254970,
       "redlist_category": "CR",
-      "records": 1,
+      "records": 2,
       "max_year": 2004,
       "group": "mammal"
     },
@@ -301,7 +360,7 @@
       "genus": "Phocoena",
       "species": "Phocoena phocoena",
       "AphiaID": 137117,
-      "records": 378,
+      "records": 379,
       "max_year": 2018,
       "group": "mammal"
     },
@@ -313,7 +372,7 @@
       "genus": "Lampetra",
       "species": "Lampetra fluviatilis",
       "AphiaID": 101172,
-      "records": 11,
+      "records": 12,
       "max_year": 1999,
       "group": "fish"
     },
@@ -325,7 +384,7 @@
       "genus": "Petromyzon",
       "species": "Petromyzon marinus",
       "AphiaID": 101174,
-      "records": 48,
+      "records": 49,
       "max_year": 2013,
       "group": "fish"
     },
@@ -338,7 +397,7 @@
       "species": "Anguilla anguilla",
       "AphiaID": 126281,
       "redlist_category": "CR",
-      "records": 8690,
+      "records": 8691,
       "max_year": 2013,
       "group": "fish"
     },
@@ -350,7 +409,7 @@
       "genus": "Conger",
       "species": "Conger conger",
       "AphiaID": 126285,
-      "records": 2,
+      "records": 3,
       "max_year": 1995,
       "group": "fish"
     },
@@ -362,7 +421,7 @@
       "genus": "Atherina",
       "species": "Atherina boyeri",
       "AphiaID": 272027,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -373,7 +432,7 @@
       "genus": "Atherina",
       "species": "Atherina presbyter",
       "AphiaID": 272030,
-      "records": 3366,
+      "records": 3367,
       "max_year": 2013,
       "group": "fish"
     },
@@ -385,7 +444,7 @@
       "genus": "Belone",
       "species": "Belone belone",
       "AphiaID": 126375,
-      "records": 12898,
+      "records": 12899,
       "max_year": 2013,
       "group": "fish"
     },
@@ -419,7 +478,7 @@
       "genus": "Lipophrys",
       "species": "Lipophrys pholis",
       "AphiaID": 126768,
-      "records": 4,
+      "records": 5,
       "max_year": 2012,
       "group": "fish"
     },
@@ -431,7 +490,7 @@
       "genus": "Parablennius",
       "species": "Parablennius gattorugine",
       "AphiaID": 126770,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -442,7 +501,7 @@
       "genus": "Callionymus",
       "species": "Callionymus lyra",
       "AphiaID": 126792,
-      "records": 553,
+      "records": 554,
       "max_year": 2012,
       "group": "fish"
     },
@@ -454,7 +513,7 @@
       "genus": "Callionymus",
       "species": "Callionymus maculatus",
       "AphiaID": 126793,
-      "records": 4,
+      "records": 5,
       "max_year": 2005,
       "group": "fish"
     },
@@ -466,7 +525,7 @@
       "genus": "Callionymus",
       "species": "Callionymus reticulatus",
       "AphiaID": 126795,
-      "records": 16,
+      "records": 17,
       "max_year": 2004,
       "group": "fish"
     },
@@ -490,7 +549,7 @@
       "species": "Trachurus trachurus",
       "AphiaID": 126822,
       "redlist_category": "VU",
-      "records": 7332,
+      "records": 7333,
       "max_year": 2021,
       "group": "fish"
     },
@@ -524,7 +583,7 @@
       "genus": "Alosa",
       "species": "Alosa alosa",
       "AphiaID": 126413,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -535,7 +594,7 @@
       "genus": "Alosa",
       "species": "Alosa chrysochloris",
       "AphiaID": 272250,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -546,7 +605,7 @@
       "genus": "Alosa",
       "species": "Alosa fallax",
       "AphiaID": 126415,
-      "records": 16017,
+      "records": 16018,
       "max_year": 2013,
       "group": "fish"
     },
@@ -558,7 +617,7 @@
       "genus": "Sardina",
       "species": "Sardina pilchardus",
       "AphiaID": 126421,
-      "records": 497,
+      "records": 498,
       "max_year": 2013,
       "group": "fish"
     },
@@ -570,7 +629,7 @@
       "genus": "Clupea",
       "species": "Clupea harengus",
       "AphiaID": 126417,
-      "records": 25382,
+      "records": 25383,
       "max_year": 2013,
       "group": "fish"
     },
@@ -582,7 +641,7 @@
       "genus": "Sprattus",
       "species": "Sprattus sprattus",
       "AphiaID": 126425,
-      "records": 5901,
+      "records": 5902,
       "max_year": 2021,
       "group": "fish"
     },
@@ -594,7 +653,7 @@
       "genus": "Engraulis",
       "species": "Engraulis encrasicolus",
       "AphiaID": 126426,
-      "records": 494,
+      "records": 495,
       "max_year": 2012,
       "group": "fish"
     },
@@ -606,7 +665,7 @@
       "genus": "Misgurnus",
       "species": "Misgurnus fossilis",
       "AphiaID": 154352,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -617,7 +676,7 @@
       "genus": "Abramis",
       "species": "Abramis brama",
       "AphiaID": 154281,
-      "records": 2,
+      "records": 3,
       "max_year": 2010,
       "group": "fish"
     },
@@ -629,7 +688,7 @@
       "genus": "Alburnus",
       "species": "Alburnus alburnus",
       "AphiaID": 154285,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -640,7 +699,7 @@
       "genus": "Blicca",
       "species": "Blicca bjoerkna",
       "AphiaID": 154274,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -651,6 +710,17 @@
       "genus": "Carassius",
       "species": "Carassius carassius",
       "AphiaID": 154297,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Carassius",
+      "species": "Carassius gibelio",
+      "AphiaID": 234033,
       "records": 1,
       "group": "fish"
     },
@@ -663,7 +733,7 @@
       "species": "Cyprinus carpio",
       "AphiaID": 154582,
       "redlist_category": "VU",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -674,7 +744,7 @@
       "genus": "Leucaspius",
       "species": "Leucaspius delineatus",
       "AphiaID": 154321,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -685,7 +755,7 @@
       "genus": "Leuciscus",
       "species": "Leuciscus aspius",
       "AphiaID": 1015724,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -696,6 +766,17 @@
       "genus": "Leuciscus",
       "species": "Leuciscus idus",
       "AphiaID": 154324,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Leuciscus",
+      "species": "Leuciscus leuciscus",
+      "AphiaID": 154599,
       "records": 1,
       "group": "fish"
     },
@@ -707,6 +788,61 @@
       "genus": "Rutilus",
       "species": "Rutilus rutilus",
       "AphiaID": 154333,
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Scardinius",
+      "species": "Scardinius erythrophthalmus",
+      "AphiaID": 154165,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Squalius",
+      "species": "Squalius cephalus",
+      "AphiaID": 282855,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Cypriniformes",
+      "family": "Cyprinidae",
+      "genus": "Tinca",
+      "species": "Tinca tinca",
+      "AphiaID": 154343,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Esociformes",
+      "family": "Esocidae",
+      "genus": "Esox",
+      "species": "Esox lucius",
+      "AphiaID": 154210,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Conodon",
+      "species": "Conodon nobilis",
+      "AphiaID": 280386,
       "records": 1,
       "group": "fish"
     },
@@ -718,7 +854,7 @@
       "genus": "Ctenolabrus",
       "species": "Ctenolabrus rupestris",
       "AphiaID": 126964,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -729,7 +865,7 @@
       "genus": "Labrus",
       "species": "Labrus bergylta",
       "AphiaID": 126965,
-      "records": 3,
+      "records": 4,
       "max_year": 1980,
       "group": "fish"
     },
@@ -752,7 +888,7 @@
       "genus": "Symphodus",
       "species": "Symphodus melops",
       "AphiaID": 273571,
-      "records": 9,
+      "records": 10,
       "max_year": 1983,
       "group": "fish"
     },
@@ -764,7 +900,7 @@
       "genus": "Dicentrarchus",
       "species": "Dicentrarchus labrax",
       "AphiaID": 126975,
-      "records": 6893,
+      "records": 6894,
       "max_year": 2013,
       "group": "fish"
     },
@@ -776,6 +912,17 @@
       "genus": "Argyrosomus",
       "species": "Argyrosomus regius",
       "AphiaID": 127007,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Micropogonias",
+      "species": "Micropogonias undulatus",
+      "AphiaID": 151158,
       "records": 1,
       "group": "fish"
     },
@@ -821,7 +968,7 @@
       "species": "Pagellus bogaraveo",
       "AphiaID": 127059,
       "redlist_category": "NT",
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -843,7 +990,7 @@
       "genus": "Sparus",
       "species": "Sparus aurata",
       "AphiaID": 151523,
-      "records": 28,
+      "records": 29,
       "max_year": 2009,
       "group": "fish"
     },
@@ -855,7 +1002,7 @@
       "genus": "Spondyliosoma",
       "species": "Spondyliosoma cantharus",
       "AphiaID": 127066,
-      "records": 13,
+      "records": 14,
       "max_year": 1998,
       "group": "fish"
     },
@@ -868,7 +1015,7 @@
       "species": "Gadus morhua",
       "AphiaID": 126436,
       "redlist_category": "VU",
-      "records": 7979,
+      "records": 7980,
       "max_year": 2013,
       "group": "fish"
     },
@@ -881,7 +1028,7 @@
       "species": "Melanogrammus aeglefinus",
       "AphiaID": 126437,
       "redlist_category": "VU",
-      "records": 9,
+      "records": 10,
       "max_year": 1981,
       "group": "fish"
     },
@@ -893,7 +1040,7 @@
       "genus": "Merlangius",
       "species": "Merlangius merlangus",
       "AphiaID": 126438,
-      "records": 9093,
+      "records": 9094,
       "max_year": 2013,
       "group": "fish"
     },
@@ -905,7 +1052,7 @@
       "genus": "Micromesistius",
       "species": "Micromesistius poutassou",
       "AphiaID": 126439,
-      "records": 85,
+      "records": 86,
       "max_year": 1981,
       "group": "fish"
     },
@@ -917,7 +1064,7 @@
       "genus": "Pollachius",
       "species": "Pollachius pollachius",
       "AphiaID": 126440,
-      "records": 4533,
+      "records": 4534,
       "max_year": 2013,
       "group": "fish"
     },
@@ -929,7 +1076,7 @@
       "genus": "Pollachius",
       "species": "Pollachius virens",
       "AphiaID": 126441,
-      "records": 1144,
+      "records": 1145,
       "max_year": 2013,
       "group": "fish"
     },
@@ -941,7 +1088,7 @@
       "genus": "Raniceps",
       "species": "Raniceps raninus",
       "AphiaID": 126442,
-      "records": 2,
+      "records": 3,
       "max_year": 1963,
       "group": "fish"
     },
@@ -964,7 +1111,7 @@
       "genus": "Trisopterus",
       "species": "Trisopterus luscus",
       "AphiaID": 126445,
-      "records": 2105,
+      "records": 2106,
       "max_year": 2013,
       "group": "fish"
     },
@@ -976,7 +1123,7 @@
       "genus": "Trisopterus",
       "species": "Trisopterus minutus",
       "AphiaID": 126446,
-      "records": 1009,
+      "records": 1010,
       "max_year": 2008,
       "group": "fish"
     },
@@ -988,7 +1135,7 @@
       "genus": "Ciliata",
       "species": "Ciliata mustela",
       "AphiaID": 126448,
-      "records": 11901,
+      "records": 11902,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1000,7 +1147,7 @@
       "genus": "Enchelyopus",
       "species": "Enchelyopus cimbrius",
       "AphiaID": 126450,
-      "records": 15,
+      "records": 16,
       "max_year": 1995,
       "group": "fish"
     },
@@ -1023,8 +1170,19 @@
       "genus": "Gaidropsarus",
       "species": "Gaidropsarus vulgaris",
       "AphiaID": 126458,
-      "records": 2,
+      "records": 3,
       "max_year": 1992,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
+      "family": "Lotidae",
+      "genus": "Lota",
+      "species": "Lota lota",
+      "AphiaID": 154388,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1035,7 +1193,7 @@
       "genus": "Molva",
       "species": "Molva molva",
       "AphiaID": 126461,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1046,7 +1204,7 @@
       "genus": "Merluccius",
       "species": "Merluccius merluccius",
       "AphiaID": 126484,
-      "records": 4,
+      "records": 5,
       "max_year": 2011,
       "group": "fish"
     },
@@ -1058,7 +1216,7 @@
       "genus": "Aphia",
       "species": "Aphia minuta",
       "AphiaID": 126868,
-      "records": 4,
+      "records": 5,
       "max_year": 2009,
       "group": "fish"
     },
@@ -1078,10 +1236,32 @@
       "class": "Teleostei",
       "order": "Gobiiformes",
       "family": "Gobiidae",
+      "genus": "Gobiosoma",
+      "species": "Gobiosoma bosc",
+      "AphiaID": 159767,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
       "genus": "Gobius",
       "species": "Gobius niger",
       "AphiaID": 126892,
-      "records": 2,
+      "records": 3,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Neogobius",
+      "species": "Neogobius fluviatilis",
+      "AphiaID": 126913,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1092,7 +1272,7 @@
       "genus": "Neogobius",
       "species": "Neogobius melanostomus",
       "AphiaID": 126916,
-      "records": 1,
+      "records": 2,
       "max_year": 2004,
       "group": "fish"
     },
@@ -1115,7 +1295,7 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus lozanoi",
       "AphiaID": 126925,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1126,7 +1306,7 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus microps",
       "AphiaID": 126927,
-      "records": 4,
+      "records": 5,
       "max_year": 1987,
       "group": "fish"
     },
@@ -1138,7 +1318,7 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus minutus",
       "AphiaID": 126928,
-      "records": 1118,
+      "records": 1119,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1150,8 +1330,30 @@
       "genus": "Pomatoschistus",
       "species": "Pomatoschistus pictus",
       "AphiaID": 126930,
-      "records": 2,
+      "records": 3,
       "max_year": 1987,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Ponticola",
+      "species": "Ponticola kessleri",
+      "AphiaID": 1021174,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Proterorhinus",
+      "species": "Proterorhinus semilunaris",
+      "AphiaID": 1022561,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1162,7 +1364,7 @@
       "genus": "Lophius",
       "species": "Lophius piscatorius",
       "AphiaID": 126555,
-      "records": 2,
+      "records": 3,
       "max_year": 1980,
       "group": "fish"
     },
@@ -1174,7 +1376,7 @@
       "genus": "Chelon",
       "species": "Chelon auratus",
       "AphiaID": 1044127,
-      "records": 1050,
+      "records": 1051,
       "max_year": 2012,
       "group": "fish"
     },
@@ -1186,7 +1388,7 @@
       "genus": "Chelon",
       "species": "Chelon labrosus",
       "AphiaID": 126977,
-      "records": 10489,
+      "records": 10490,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1198,7 +1400,7 @@
       "genus": "Chelon",
       "species": "Chelon ramada",
       "AphiaID": 1042830,
-      "records": 200,
+      "records": 201,
       "max_year": 2012,
       "group": "fish"
     },
@@ -1221,7 +1423,7 @@
       "genus": "Mullus",
       "species": "Mullus surmuletus",
       "AphiaID": 126986,
-      "records": 54,
+      "records": 55,
       "max_year": 2012,
       "group": "fish"
     },
@@ -1233,7 +1435,7 @@
       "genus": "Osmerus",
       "species": "Osmerus eperlanus",
       "AphiaID": 126736,
-      "records": 2462,
+      "records": 2463,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1245,7 +1447,7 @@
       "genus": "Agonus",
       "species": "Agonus cataphractus",
       "AphiaID": 127190,
-      "records": 1325,
+      "records": 1326,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1257,7 +1459,7 @@
       "genus": "Ammodytes",
       "species": "Ammodytes marinus",
       "AphiaID": 126751,
-      "records": 52,
+      "records": 53,
       "max_year": 2011,
       "group": "fish"
     },
@@ -1269,7 +1471,7 @@
       "genus": "Ammodytes",
       "species": "Ammodytes tobianus",
       "AphiaID": 126752,
-      "records": 485,
+      "records": 486,
       "max_year": 2011,
       "group": "fish"
     },
@@ -1281,7 +1483,7 @@
       "genus": "Hyperoplus",
       "species": "Hyperoplus immaculatus",
       "AphiaID": 126755,
-      "records": 11,
+      "records": 12,
       "max_year": 1996,
       "group": "fish"
     },
@@ -1293,7 +1495,7 @@
       "genus": "Hyperoplus",
       "species": "Hyperoplus lanceolatus",
       "AphiaID": 126756,
-      "records": 891,
+      "records": 892,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1327,7 +1529,7 @@
       "genus": "Myoxocephalus",
       "species": "Myoxocephalus scorpius",
       "AphiaID": 127203,
-      "records": 11345,
+      "records": 11346,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1339,7 +1541,7 @@
       "genus": "Taurulus",
       "species": "Taurulus bubalis",
       "AphiaID": 127204,
-      "records": 111,
+      "records": 112,
       "max_year": 2012,
       "group": "fish"
     },
@@ -1351,7 +1553,7 @@
       "genus": "Cyclopterus",
       "species": "Cyclopterus lumpus",
       "AphiaID": 127214,
-      "records": 1329,
+      "records": 1330,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1363,7 +1565,7 @@
       "genus": "Gasterosteus",
       "species": "Gasterosteus aculeatus",
       "AphiaID": 126505,
-      "records": 1396,
+      "records": 1397,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1375,7 +1577,7 @@
       "genus": "Pungitius",
       "species": "Pungitius pungitius",
       "AphiaID": 126507,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1386,7 +1588,7 @@
       "genus": "Spinachia",
       "species": "Spinachia spinachia",
       "AphiaID": 126508,
-      "records": 14,
+      "records": 15,
       "max_year": 2005,
       "group": "fish"
     },
@@ -1398,7 +1600,7 @@
       "genus": "Liparis",
       "species": "Liparis liparis",
       "AphiaID": 127219,
-      "records": 461,
+      "records": 462,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1410,7 +1612,7 @@
       "genus": "Liparis",
       "species": "Liparis montagui",
       "AphiaID": 127220,
-      "records": 2,
+      "records": 3,
       "max_year": 2009,
       "group": "fish"
     },
@@ -1422,7 +1624,7 @@
       "genus": "Gymnocephalus",
       "species": "Gymnocephalus cernua",
       "AphiaID": 405451,
-      "records": 31,
+      "records": 32,
       "max_year": 2010,
       "group": "fish"
     },
@@ -1434,7 +1636,7 @@
       "genus": "Perca",
       "species": "Perca fluviatilis",
       "AphiaID": 151353,
-      "records": 51,
+      "records": 52,
       "max_year": 2004,
       "group": "fish"
     },
@@ -1446,7 +1648,7 @@
       "genus": "Sander",
       "species": "Sander lucioperca",
       "AphiaID": 151308,
-      "records": 3,
+      "records": 4,
       "max_year": 2010,
       "group": "fish"
     },
@@ -1458,7 +1660,7 @@
       "genus": "Pholis",
       "species": "Pholis gunnellus",
       "AphiaID": 126996,
-      "records": 521,
+      "records": 522,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1482,6 +1684,17 @@
       "species": "Scorpaena porcus",
       "AphiaID": 127247,
       "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Sebastidae",
+      "genus": "Helicolenus",
+      "species": "Helicolenus dactylopterus",
+      "AphiaID": 127251,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1522,10 +1735,21 @@
       "class": "Teleostei",
       "order": "Perciformes",
       "family": "Stichaeidae",
+      "genus": "Chirolophis",
+      "species": "Chirolophis ascanii",
+      "AphiaID": 127071,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Stichaeidae",
       "genus": "Lumpenus",
       "species": "Lumpenus lampretaeformis",
       "AphiaID": 154675,
-      "records": 1,
+      "records": 2,
       "max_year": 1998,
       "group": "fish"
     },
@@ -1537,7 +1761,7 @@
       "genus": "Echiichthys",
       "species": "Echiichthys vipera",
       "AphiaID": 150630,
-      "records": 342,
+      "records": 343,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1549,7 +1773,7 @@
       "genus": "Trachinus",
       "species": "Trachinus draco",
       "AphiaID": 127082,
-      "records": 6,
+      "records": 7,
       "max_year": 1984,
       "group": "fish"
     },
@@ -1561,7 +1785,7 @@
       "genus": "Chelidonichthys",
       "species": "Chelidonichthys cuculus",
       "AphiaID": 127259,
-      "records": 3,
+      "records": 4,
       "max_year": 1965,
       "group": "fish"
     },
@@ -1573,7 +1797,7 @@
       "genus": "Chelidonichthys",
       "species": "Chelidonichthys lastoviza",
       "AphiaID": 127261,
-      "records": 1,
+      "records": 2,
       "max_year": 1963,
       "group": "fish"
     },
@@ -1585,7 +1809,7 @@
       "genus": "Chelidonichthys",
       "species": "Chelidonichthys lucerna",
       "AphiaID": 127262,
-      "records": 1176,
+      "records": 1177,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1597,7 +1821,7 @@
       "genus": "Eutrigla",
       "species": "Eutrigla gurnardus",
       "AphiaID": 150637,
-      "records": 84,
+      "records": 85,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1609,7 +1833,7 @@
       "genus": "Lycodes",
       "species": "Lycodes vahlii",
       "AphiaID": 127118,
-      "records": 6,
+      "records": 7,
       "max_year": 2005,
       "group": "fish"
     },
@@ -1621,7 +1845,7 @@
       "genus": "Zoarces",
       "species": "Zoarces viviparus",
       "AphiaID": 127123,
-      "records": 6956,
+      "records": 6957,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1633,7 +1857,7 @@
       "genus": "Arnoglossus",
       "species": "Arnoglossus laterna",
       "AphiaID": 127126,
-      "records": 267,
+      "records": 268,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1667,6 +1891,18 @@
       "genus": "Hippoglossoides",
       "species": "Hippoglossoides platessoides",
       "AphiaID": 127137,
+      "redlist_category": "EN",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Pleuronectidae",
+      "genus": "Hippoglossoides",
+      "species": "Hippoglossoides platessoides",
+      "AphiaID": 127137,
       "records": 29,
       "max_year": 2011,
       "group": "fish"
@@ -1679,7 +1915,7 @@
       "genus": "Limanda",
       "species": "Limanda limanda",
       "AphiaID": 127139,
-      "records": 12241,
+      "records": 12242,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1691,7 +1927,7 @@
       "genus": "Microstomus",
       "species": "Microstomus kitt",
       "AphiaID": 127140,
-      "records": 24,
+      "records": 25,
       "max_year": 2012,
       "group": "fish"
     },
@@ -1703,7 +1939,7 @@
       "genus": "Platichthys",
       "species": "Platichthys flesus",
       "AphiaID": 127141,
-      "records": 40827,
+      "records": 40828,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1715,7 +1951,7 @@
       "genus": "Pleuronectes",
       "species": "Pleuronectes platessa",
       "AphiaID": 127143,
-      "records": 28618,
+      "records": 28619,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1727,7 +1963,7 @@
       "genus": "Scophthalmus",
       "species": "Scophthalmus maximus",
       "AphiaID": 127149,
-      "records": 1495,
+      "records": 1496,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1739,7 +1975,7 @@
       "genus": "Scophthalmus",
       "species": "Scophthalmus rhombus",
       "AphiaID": 127150,
-      "records": 2146,
+      "records": 2147,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1751,7 +1987,7 @@
       "genus": "Zeugopterus",
       "species": "Zeugopterus norvegicus",
       "AphiaID": 293018,
-      "records": 2,
+      "records": 3,
       "max_year": 2010,
       "group": "fish"
     },
@@ -1774,7 +2010,7 @@
       "genus": "Buglossidium",
       "species": "Buglossidium luteum",
       "AphiaID": 127153,
-      "records": 253,
+      "records": 254,
       "max_year": 2021,
       "group": "fish"
     },
@@ -1786,8 +2022,31 @@
       "genus": "Solea",
       "species": "Solea solea",
       "AphiaID": 127160,
-      "records": 5339,
+      "records": 5340,
       "max_year": 2013,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Coregonus",
+      "species": "Coregonus albula",
+      "AphiaID": 127178,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Coregonus",
+      "species": "Coregonus lavaretus",
+      "AphiaID": 127180,
+      "redlist_category": "VU",
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1799,6 +2058,28 @@
       "species": "Coregonus oxyrinchus",
       "AphiaID": 154238,
       "redlist_category": "EX",
+      "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Coregonus",
+      "species": "Coregonus peled",
+      "AphiaID": 274344,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Oncorhynchus",
+      "species": "Oncorhynchus gorbuscha",
+      "AphiaID": 127182,
       "records": 1,
       "group": "fish"
     },
@@ -1810,7 +2091,7 @@
       "genus": "Oncorhynchus",
       "species": "Oncorhynchus mykiss",
       "AphiaID": 127185,
-      "records": 27,
+      "records": 28,
       "max_year": 2001,
       "group": "fish"
     },
@@ -1822,7 +2103,7 @@
       "genus": "Salmo",
       "species": "Salmo salar",
       "AphiaID": 127186,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "group": "fish"
     },
@@ -1834,7 +2115,7 @@
       "genus": "Salmo",
       "species": "Salmo trutta",
       "AphiaID": 127187,
-      "records": 4193,
+      "records": 4194,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1901,8 +2182,19 @@
       "genus": "Scomber",
       "species": "Scomber scombrus",
       "AphiaID": 127023,
-      "records": 1550,
+      "records": 1551,
       "max_year": 2021,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Siluriformes",
+      "family": "Siluridae",
+      "genus": "Silurus",
+      "species": "Silurus glanis",
+      "AphiaID": 154677,
+      "records": 1,
       "group": "fish"
     },
     {
@@ -1913,7 +2205,7 @@
       "genus": "Maurolicus",
       "species": "Maurolicus muelleri",
       "AphiaID": 127312,
-      "records": 3,
+      "records": 4,
       "max_year": 1981,
       "group": "fish"
     },
@@ -1925,7 +2217,7 @@
       "genus": "Entelurus",
       "species": "Entelurus aequoreus",
       "AphiaID": 127379,
-      "records": 29,
+      "records": 30,
       "max_year": 2011,
       "group": "fish"
     },
@@ -1937,7 +2229,7 @@
       "genus": "Hippocampus",
       "species": "Hippocampus hippocampus",
       "AphiaID": 127380,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1959,7 +2251,7 @@
       "genus": "Syngnathus",
       "species": "Syngnathus acus",
       "AphiaID": 127387,
-      "records": 1644,
+      "records": 1645,
       "max_year": 2013,
       "group": "fish"
     },
@@ -1971,7 +2263,7 @@
       "genus": "Syngnathus",
       "species": "Syngnathus rostellatus",
       "AphiaID": 127389,
-      "records": 39,
+      "records": 40,
       "max_year": 2006,
       "group": "fish"
     },
@@ -1983,7 +2275,7 @@
       "genus": "Syngnathus",
       "species": "Syngnathus typhle",
       "AphiaID": 127393,
-      "records": 7,
+      "records": 8,
       "max_year": 1906,
       "group": "fish"
     },
@@ -2030,7 +2322,7 @@
       "species": "Caretta caretta",
       "AphiaID": 137205,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "max_year": 2011,
       "group": "turtle"
     }

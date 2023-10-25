@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:04:30",
+  "created": "2023-10-25T09:00:26",
   "species": [
     {
       "phylum": "Chordata",
@@ -10,8 +10,8 @@
       "species": "Carcharhinus albimarginatus",
       "AphiaID": 217352,
       "redlist_category": "VU",
-      "records": 31,
-      "max_year": 2015,
+      "records": 43,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -48,8 +48,8 @@
       "species": "Carcharhinus falciformis",
       "AphiaID": 105789,
       "redlist_category": "VU",
-      "records": 14,
-      "max_year": 2015,
+      "records": 26,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -60,8 +60,8 @@
       "genus": "Carcharhinus",
       "species": "Carcharhinus galapagensis",
       "AphiaID": 105790,
-      "records": 39,
-      "max_year": 1973,
+      "records": 43,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -172,7 +172,8 @@
       "species": "Triaenodon obesus",
       "AphiaID": 214557,
       "redlist_category": "VU",
-      "records": 8,
+      "records": 16,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -376,8 +377,8 @@
       "species": "Hypanus longus",
       "AphiaID": 1042860,
       "redlist_category": "VU",
-      "records": 16,
-      "max_year": 1974,
+      "records": 18,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -510,7 +511,7 @@
       "genus": "Megaptera",
       "species": "Megaptera novaeangliae",
       "AphiaID": 137092,
-      "records": 3019,
+      "records": 2828,
       "max_year": 2023,
       "group": "mammal"
     },
@@ -665,8 +666,8 @@
       "genus": "Acanthurus",
       "species": "Acanthurus nigricans",
       "AphiaID": 219638,
-      "records": 58,
-      "max_year": 1971,
+      "records": 64,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -689,7 +690,8 @@
       "genus": "Acanthurus",
       "species": "Acanthurus xanthopterus",
       "AphiaID": 219634,
-      "records": 7,
+      "records": 8,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -757,8 +759,8 @@
       "genus": "Forcipiger",
       "species": "Forcipiger flavissimus",
       "AphiaID": 218760,
-      "records": 41,
-      "max_year": 1997,
+      "records": 50,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -793,7 +795,8 @@
       "genus": "Prognathodes",
       "species": "Prognathodes falcifer",
       "AphiaID": 273374,
-      "records": 4,
+      "records": 16,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -839,8 +842,8 @@
       "species": "Holacanthus clarionensis",
       "AphiaID": 276013,
       "redlist_category": "VU",
-      "records": 103,
-      "max_year": 1974,
+      "records": 129,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -874,8 +877,8 @@
       "genus": "Zanclus",
       "species": "Zanclus cornutus",
       "AphiaID": 220083,
-      "records": 44,
-      "max_year": 1974,
+      "records": 47,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -1001,8 +1004,8 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax castaneus",
       "AphiaID": 271825,
-      "records": 10,
-      "max_year": 1988,
+      "records": 11,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -1233,6 +1236,19 @@
       "AphiaID": 282061,
       "redlist_category": "VU",
       "records": 5,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Quassiremus",
+      "species": "Quassiremus evionthas",
+      "AphiaID": 282533,
+      "redlist_category": "VU",
+      "records": 2,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -1851,7 +1867,20 @@
       "genus": "Dactyloscopus",
       "species": "Dactyloscopus insulatus",
       "AphiaID": 712828,
-      "records": 8,
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 1940,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Blenniiformes",
+      "family": "Dactyloscopidae",
+      "genus": "Dactyloscopus",
+      "species": "Dactyloscopus insulatus",
+      "AphiaID": 712828,
+      "records": 7,
       "max_year": 1970,
       "group": "fish"
     },
@@ -2039,8 +2068,8 @@
       "genus": "Caranx",
       "species": "Caranx lugubris",
       "AphiaID": 126805,
-      "records": 81,
-      "max_year": 1976,
+      "records": 105,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2051,8 +2080,8 @@
       "genus": "Caranx",
       "species": "Caranx melampygus",
       "AphiaID": 218419,
-      "records": 49,
-      "max_year": 1979,
+      "records": 64,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2122,8 +2151,8 @@
       "genus": "Elagatis",
       "species": "Elagatis bipinnulata",
       "AphiaID": 126809,
-      "records": 11,
-      "max_year": 1958,
+      "records": 12,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2227,8 +2256,8 @@
       "genus": "Seriola",
       "species": "Seriola rivoliana",
       "AphiaID": 126818,
-      "records": 23,
-      "max_year": 1979,
+      "records": 35,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2654,8 +2683,8 @@
       "genus": "Anisotremus",
       "species": "Anisotremus interruptus",
       "AphiaID": 279619,
-      "records": 24,
-      "max_year": 1980,
+      "records": 35,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2699,8 +2728,8 @@
       "genus": "Bodianus",
       "species": "Bodianus diplotaenia",
       "AphiaID": 273527,
-      "records": 92,
-      "max_year": 1989,
+      "records": 120,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2838,8 +2867,8 @@
       "genus": "Thalassoma",
       "species": "Thalassoma grammaticum",
       "AphiaID": 273580,
-      "records": 44,
-      "max_year": 1970,
+      "records": 45,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2850,8 +2879,8 @@
       "genus": "Thalassoma",
       "species": "Thalassoma lucasanum",
       "AphiaID": 273584,
-      "records": 52,
-      "max_year": 1971,
+      "records": 53,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2898,7 +2927,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus argentiventris",
       "AphiaID": 276524,
-      "records": 4,
+      "records": 5,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2910,6 +2940,18 @@
       "species": "Lutjanus inermis",
       "AphiaID": 276540,
       "records": 2,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus novemfasciatus",
+      "AphiaID": 276544,
+      "records": 1,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2932,8 +2974,8 @@
       "genus": "Lutjanus",
       "species": "Lutjanus viridis",
       "AphiaID": 276552,
-      "records": 102,
-      "max_year": 1974,
+      "records": 110,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -2977,8 +3019,8 @@
       "genus": "Heteropriacanthus",
       "species": "Heteropriacanthus cruentatus",
       "AphiaID": 127004,
-      "records": 74,
-      "max_year": 1980,
+      "records": 82,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -3001,7 +3043,8 @@
       "genus": "Pristigenys",
       "species": "Pristigenys serrula",
       "AphiaID": 276037,
-      "records": 4,
+      "records": 7,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -3943,7 +3986,8 @@
       "genus": "Chromis",
       "species": "Chromis alta",
       "AphiaID": 273710,
-      "records": 5,
+      "records": 15,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4024,8 +4068,8 @@
       "species": "Stegastes leucorus",
       "AphiaID": 276673,
       "redlist_category": "VU",
-      "records": 121,
-      "max_year": 1990,
+      "records": 129,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4167,8 +4211,8 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis panamensis",
       "AphiaID": 279152,
-      "records": 13,
-      "max_year": 1980,
+      "records": 16,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4179,8 +4223,8 @@
       "genus": "Dermatolepis",
       "species": "Dermatolepis dermatolepis",
       "AphiaID": 276919,
-      "records": 48,
-      "max_year": 1971,
+      "records": 58,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4214,7 +4258,8 @@
       "genus": "Epinephelus",
       "species": "Epinephelus clippertonensis",
       "AphiaID": 273843,
-      "records": 4,
+      "records": 12,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4225,7 +4270,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus labriformis",
       "AphiaID": 273858,
-      "records": 110,
+      "records": 124,
       "max_year": 2019,
       "group": "fish"
     },
@@ -4249,8 +4294,8 @@
       "genus": "Hyporthodus",
       "species": "Hyporthodus cifuentesi",
       "AphiaID": 1605279,
-      "records": 10,
-      "max_year": 1978,
+      "records": 18,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4295,8 +4340,8 @@
       "genus": "Paranthias",
       "species": "Paranthias colonus",
       "AphiaID": 282083,
-      "records": 35,
-      "max_year": 1979,
+      "records": 74,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4401,8 +4446,8 @@
       "species": "Serranus socorroensis",
       "AphiaID": 273906,
       "redlist_category": "VU",
-      "records": 11,
-      "max_year": 1991,
+      "records": 13,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4943,8 +4988,8 @@
       "genus": "Aulostomus",
       "species": "Aulostomus chinensis",
       "AphiaID": 217964,
-      "records": 12,
-      "max_year": 1974,
+      "records": 20,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -4967,8 +5012,8 @@
       "genus": "Fistularia",
       "species": "Fistularia commersonii",
       "AphiaID": 217966,
-      "records": 15,
-      "max_year": 1985,
+      "records": 19,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5049,8 +5094,8 @@
       "genus": "Balistes",
       "species": "Balistes polylepis",
       "AphiaID": 275234,
-      "records": 35,
-      "max_year": 1975,
+      "records": 41,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5106,8 +5151,8 @@
       "genus": "Sufflamen",
       "species": "Sufflamen verres",
       "AphiaID": 276853,
-      "records": 27,
-      "max_year": 1971,
+      "records": 30,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5130,8 +5175,8 @@
       "genus": "Xanthichthys",
       "species": "Xanthichthys mento",
       "AphiaID": 276247,
-      "records": 138,
-      "max_year": 1975,
+      "records": 167,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5154,7 +5199,8 @@
       "genus": "Chilomycterus",
       "species": "Chilomycterus reticulatus",
       "AphiaID": 219964,
-      "records": 6,
+      "records": 10,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5176,8 +5222,8 @@
       "genus": "Diodon",
       "species": "Diodon holocanthus",
       "AphiaID": 127402,
-      "records": 31,
-      "max_year": 1980,
+      "records": 44,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5246,8 +5292,8 @@
       "genus": "Cantherhines",
       "species": "Cantherhines dumerilii",
       "AphiaID": 276248,
-      "records": 36,
-      "max_year": 1974,
+      "records": 40,
+      "max_year": 2018,
       "group": "fish"
     },
     {
@@ -5305,8 +5351,8 @@
       "genus": "Arothron",
       "species": "Arothron meleagris",
       "AphiaID": 219926,
-      "records": 79,
-      "max_year": 1989,
+      "records": 82,
+      "max_year": 2018,
       "group": "fish"
     },
     {

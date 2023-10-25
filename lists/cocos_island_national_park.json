@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:04:30",
+  "created": "2023-10-25T09:00:27",
   "species": [
     {
       "phylum": "Chordata",
@@ -3609,7 +3609,20 @@
       "genus": "Tigrigobius",
       "species": "Tigrigobius nesiotes",
       "AphiaID": 1043431,
-      "records": 18,
+      "redlist_category": "VU",
+      "records": 1,
+      "max_year": 1998,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Tigrigobius",
+      "species": "Tigrigobius nesiotes",
+      "AphiaID": 1043431,
+      "records": 17,
       "max_year": 1998,
       "group": "fish"
     },

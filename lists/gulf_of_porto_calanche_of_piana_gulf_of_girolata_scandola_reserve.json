@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-04T08:04:30",
+  "created": "2023-10-25T09:00:27",
   "species": [
     {
       "phylum": "Chordata",
@@ -743,7 +743,7 @@
       "genus": "Gymnothorax",
       "species": "Gymnothorax unicolor",
       "AphiaID": 126301,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -754,7 +754,7 @@
       "genus": "Muraena",
       "species": "Muraena helena",
       "AphiaID": 126303,
-      "records": 3,
+      "records": 4,
       "max_year": 2012,
       "group": "fish"
     },
@@ -942,7 +942,7 @@
       "genus": "Aidablennius",
       "species": "Aidablennius sphynx",
       "AphiaID": 126760,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -997,7 +997,7 @@
       "genus": "Lipophrys",
       "species": "Lipophrys trigloides",
       "AphiaID": 302165,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1019,7 +1019,7 @@
       "genus": "Microlipophrys",
       "species": "Microlipophrys canevae",
       "AphiaID": 1011877,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1052,7 +1052,7 @@
       "genus": "Parablennius",
       "species": "Parablennius gattorugine",
       "AphiaID": 126770,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1074,7 +1074,7 @@
       "genus": "Parablennius",
       "species": "Parablennius pilicornis",
       "AphiaID": 126773,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1085,7 +1085,7 @@
       "genus": "Parablennius",
       "species": "Parablennius rouxi",
       "AphiaID": 273134,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1096,7 +1096,7 @@
       "genus": "Parablennius",
       "species": "Parablennius sanguinolentus",
       "AphiaID": 126776,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1173,7 +1173,7 @@
       "genus": "Tripterygion",
       "species": "Tripterygion delaisi",
       "AphiaID": 127090,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1184,7 +1184,7 @@
       "genus": "Tripterygion",
       "species": "Tripterygion melanurus",
       "AphiaID": 127091,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1195,7 +1195,7 @@
       "genus": "Tripterygion",
       "species": "Tripterygion tripteronotum",
       "AphiaID": 712817,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1261,7 +1261,7 @@
       "genus": "Sphyraena",
       "species": "Sphyraena sphyraena",
       "AphiaID": 127068,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1538,7 +1538,7 @@
       "genus": "Engraulis",
       "species": "Engraulis encrasicolus",
       "AphiaID": 126426,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1604,7 +1604,7 @@
       "genus": "Centrolabrus",
       "species": "Centrolabrus melanocercus",
       "AphiaID": 1022907,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1615,7 +1615,7 @@
       "genus": "Coris",
       "species": "Coris julis",
       "AphiaID": 126963,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -1638,7 +1638,7 @@
       "genus": "Labrus",
       "species": "Labrus merula",
       "AphiaID": 126967,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1681,9 +1681,20 @@
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
       "genus": "Symphodus",
+      "species": "Symphodus bailloni",
+      "AphiaID": 273566,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Symphodus",
       "species": "Symphodus cinereus",
       "AphiaID": 273567,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1705,7 +1716,7 @@
       "genus": "Symphodus",
       "species": "Symphodus mediterraneus",
       "AphiaID": 273569,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1727,7 +1738,7 @@
       "genus": "Symphodus",
       "species": "Symphodus ocellatus",
       "AphiaID": 273572,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -1739,7 +1750,7 @@
       "genus": "Symphodus",
       "species": "Symphodus roissali",
       "AphiaID": 273573,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1750,7 +1761,7 @@
       "genus": "Symphodus",
       "species": "Symphodus rostratus",
       "AphiaID": 273574,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1761,7 +1772,7 @@
       "genus": "Symphodus",
       "species": "Symphodus tinca",
       "AphiaID": 273575,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1772,7 +1783,7 @@
       "genus": "Thalassoma",
       "species": "Thalassoma pavo",
       "AphiaID": 126970,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1828,7 +1839,7 @@
       "species": "Sciaena umbra",
       "AphiaID": 127010,
       "redlist_category": "NT",
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1862,7 +1873,7 @@
       "genus": "Boops",
       "species": "Boops boops",
       "AphiaID": 127047,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -1875,7 +1886,7 @@
       "species": "Dentex dentex",
       "AphiaID": 273962,
       "redlist_category": "VU",
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1897,7 +1908,7 @@
       "genus": "Diplodus",
       "species": "Diplodus annularis",
       "AphiaID": 127049,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1908,7 +1919,7 @@
       "genus": "Diplodus",
       "species": "Diplodus cervinus",
       "AphiaID": 127051,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -1919,7 +1930,7 @@
       "genus": "Diplodus",
       "species": "Diplodus puntazzo",
       "AphiaID": 127052,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -1930,7 +1941,7 @@
       "genus": "Diplodus",
       "species": "Diplodus sargus",
       "AphiaID": 127053,
-      "records": 3,
+      "records": 5,
       "max_year": 1999,
       "group": "fish"
     },
@@ -1942,7 +1953,7 @@
       "genus": "Diplodus",
       "species": "Diplodus vulgaris",
       "AphiaID": 127054,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -1965,7 +1976,7 @@
       "genus": "Oblada",
       "species": "Oblada melanurus",
       "AphiaID": 1577363,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2043,7 +2054,7 @@
       "genus": "Sarpa",
       "species": "Sarpa salpa",
       "AphiaID": 127064,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2054,7 +2065,7 @@
       "genus": "Sparus",
       "species": "Sparus aurata",
       "AphiaID": 151523,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2076,7 +2087,7 @@
       "genus": "Spicara",
       "species": "Spicara maena",
       "AphiaID": 126828,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2098,7 +2109,7 @@
       "genus": "Spondyliosoma",
       "species": "Spondyliosoma cantharus",
       "AphiaID": 127066,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2197,7 +2208,7 @@
       "genus": "Phycis",
       "species": "Phycis phycis",
       "AphiaID": 126502,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -2263,7 +2274,7 @@
       "genus": "Lepadogaster",
       "species": "Lepadogaster lepadogaster",
       "AphiaID": 126518,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2373,7 +2384,7 @@
       "genus": "Didogobius",
       "species": "Didogobius splechtnai",
       "AphiaID": 273434,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2470,9 +2481,20 @@
       "order": "Gobiiformes",
       "family": "Gobiidae",
       "genus": "Gobius",
+      "species": "Gobius incognitus",
+      "AphiaID": 883016,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Gobius",
       "species": "Gobius kolombatovici",
       "AphiaID": 273436,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2516,7 +2538,7 @@
       "genus": "Gobius",
       "species": "Gobius vittatus",
       "AphiaID": 126896,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2714,7 +2736,7 @@
       "genus": "Vanneaugobius",
       "species": "Vanneaugobius dollfusi",
       "AphiaID": 273478,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
@@ -2758,7 +2780,7 @@
       "genus": "Apogon",
       "species": "Apogon imberbis",
       "AphiaID": 273021,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -2869,7 +2891,7 @@
       "genus": "Oedalechilus",
       "species": "Oedalechilus labeo",
       "AphiaID": 126984,
-      "records": 2,
+      "records": 3,
       "max_year": 1999,
       "group": "fish"
     },
@@ -2892,7 +2914,7 @@
       "genus": "Mullus",
       "species": "Mullus surmuletus",
       "AphiaID": 126986,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3079,7 +3101,7 @@
       "genus": "Chromis",
       "species": "Chromis chromis",
       "AphiaID": 127000,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -3135,7 +3157,7 @@
       "genus": "Scorpaena",
       "species": "Scorpaena notata",
       "AphiaID": 127246,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3146,7 +3168,7 @@
       "genus": "Scorpaena",
       "species": "Scorpaena porcus",
       "AphiaID": 127247,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -3181,7 +3203,7 @@
       "genus": "Anthias",
       "species": "Anthias anthias",
       "AphiaID": 127031,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3246,6 +3268,17 @@
       "class": "Teleostei",
       "order": "Perciformes",
       "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus marginatus",
+      "AphiaID": 127036,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
       "genus": "Mycteroperca",
       "species": "Mycteroperca rubra",
       "AphiaID": 127039,
@@ -3271,7 +3304,7 @@
       "genus": "Serranus",
       "species": "Serranus cabrilla",
       "AphiaID": 127041,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3293,7 +3326,7 @@
       "genus": "Serranus",
       "species": "Serranus scriba",
       "AphiaID": 127043,
-      "records": 3,
+      "records": 4,
       "max_year": 1999,
       "group": "fish"
     },
@@ -3481,7 +3514,7 @@
       "genus": "Bothus",
       "species": "Bothus podas",
       "AphiaID": 127129,
-      "records": 2,
+      "records": 3,
       "group": "fish"
     },
     {
@@ -3778,9 +3811,31 @@
       "order": "Scombriformes",
       "family": "Scombridae",
       "genus": "Thunnus",
+      "species": "Thunnus alalunga",
+      "AphiaID": 127026,
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
       "species": "Thunnus thynnus",
       "AphiaID": 127029,
       "redlist_category": "EN",
+      "records": 1,
+      "group": "fish"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus thynnus",
+      "AphiaID": 127029,
       "records": 1,
       "group": "fish"
     },
@@ -3913,7 +3968,7 @@
       "genus": "Hippocampus",
       "species": "Hippocampus guttulatus",
       "AphiaID": 154776,
-      "records": 1,
+      "records": 2,
       "group": "fish"
     },
     {
