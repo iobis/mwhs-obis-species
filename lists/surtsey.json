@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-25T09:00:27",
+  "created": "2023-11-20T17:40:28",
   "species": [
     {
       "phylum": "Chordata",
@@ -9,10 +9,12 @@
       "genus": "Cetorhinus",
       "species": "Cetorhinus maximus",
       "AphiaID": 105837,
-      "redlist_category": "EN",
       "records": 2,
       "max_year": 2018,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "EN"
     },
     {
       "phylum": "Chordata",
@@ -24,7 +26,9 @@
       "AphiaID": 137092,
       "records": 28,
       "max_year": 2023,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -36,7 +40,9 @@
       "AphiaID": 137097,
       "records": 2,
       "max_year": 2021,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -48,7 +54,9 @@
       "AphiaID": 137102,
       "records": 14,
       "max_year": 2022,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -58,10 +66,74 @@
       "genus": "Physeter",
       "species": "Physeter macrocephalus",
       "AphiaID": 137119,
-      "redlist_category": "VU",
       "records": 1,
       "max_year": 2019,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Sciaenidae",
+      "genus": "Johnius",
+      "species": "Johnius amblycephalus",
+      "AphiaID": 218638,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Orcaella",
+      "species": "Orcaella brevirostris",
+      "AphiaID": 148732,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Orectolobiformes",
+      "family": "Hemiscylliidae",
+      "genus": "Chiloscyllium",
+      "species": "Chiloscyllium punctatum",
+      "AphiaID": 277833,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Mustelidae",
+      "genus": "Aonyx",
+      "species": "Aonyx cinerea",
+      "AphiaID": 404124,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Gerres",
+      "species": "Gerres methueni",
+      "AphiaID": 218532,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
     }
   ]
 }

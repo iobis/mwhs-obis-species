@@ -1,5 +1,5 @@
 {
-  "created": "2023-10-25T09:00:27",
+  "created": "2023-11-20T17:40:28",
   "species": [
     {
       "phylum": "Chordata",
@@ -11,7 +11,9 @@
       "AphiaID": 137092,
       "records": 2,
       "max_year": 2023,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -21,10 +23,12 @@
       "genus": "Physeter",
       "species": "Physeter macrocephalus",
       "AphiaID": 137119,
-      "redlist_category": "VU",
       "records": 19,
       "max_year": 2023,
-      "group": "mammal"
+      "group": "mammal",
+      "obis": true,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -36,7 +40,9 @@
       "AphiaID": 254537,
       "records": 2,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -48,7 +54,9 @@
       "AphiaID": 1509599,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -60,7 +68,9 @@
       "AphiaID": 279421,
       "records": 2,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -72,7 +82,9 @@
       "AphiaID": 279946,
       "records": 3,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -84,7 +96,9 @@
       "AphiaID": 254396,
       "records": 4,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -95,7 +109,9 @@
       "species": "Podothecus sturioides",
       "AphiaID": 279435,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -106,7 +122,9 @@
       "species": "Sarritor leptorhynchus",
       "AphiaID": 254376,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -118,7 +136,9 @@
       "AphiaID": 279416,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -130,7 +150,9 @@
       "AphiaID": 279545,
       "records": 1,
       "max_year": 2008,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -142,7 +164,9 @@
       "AphiaID": 279689,
       "records": 3,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -154,7 +178,9 @@
       "AphiaID": 279905,
       "records": 29,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -166,7 +192,9 @@
       "AphiaID": 154784,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -178,7 +206,9 @@
       "AphiaID": 274374,
       "records": 8,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -190,7 +220,9 @@
       "AphiaID": 281140,
       "records": 2,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -201,7 +233,9 @@
       "species": "Icelus cataphractus",
       "AphiaID": 274377,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -213,7 +247,9 @@
       "AphiaID": 274389,
       "records": 4,
       "max_year": 2008,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -225,7 +261,9 @@
       "AphiaID": 154570,
       "records": 26,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -237,7 +275,9 @@
       "AphiaID": 279425,
       "records": 13,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -249,7 +289,9 @@
       "AphiaID": 279432,
       "records": 5,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -261,7 +303,9 @@
       "AphiaID": 282539,
       "records": 6,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -272,7 +316,9 @@
       "species": "Ricuzenius nudithorax",
       "AphiaID": 282612,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -284,7 +330,9 @@
       "AphiaID": 279417,
       "records": 8,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -296,7 +344,9 @@
       "AphiaID": 254544,
       "records": 7,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -308,7 +358,9 @@
       "AphiaID": 274499,
       "records": 8,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -320,7 +372,9 @@
       "AphiaID": 274514,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -332,7 +386,9 @@
       "AphiaID": 274526,
       "records": 2,
       "max_year": 2008,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -344,7 +400,9 @@
       "AphiaID": 273687,
       "records": 1,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -356,7 +414,9 @@
       "AphiaID": 254560,
       "records": 6,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -368,7 +428,9 @@
       "AphiaID": 282599,
       "records": 13,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -379,7 +441,9 @@
       "species": "Eurymen gyrinus",
       "AphiaID": 254565,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -391,7 +455,9 @@
       "AphiaID": 274849,
       "records": 12,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -403,7 +469,9 @@
       "AphiaID": 274859,
       "records": 2,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -415,7 +483,9 @@
       "AphiaID": 279547,
       "records": 5,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -427,7 +497,9 @@
       "AphiaID": 279548,
       "records": 4,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -439,7 +511,9 @@
       "AphiaID": 279549,
       "records": 2,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -451,7 +525,9 @@
       "AphiaID": 273989,
       "records": 9,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -463,7 +539,9 @@
       "AphiaID": 273990,
       "records": 4,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -475,7 +553,9 @@
       "AphiaID": 280705,
       "records": 9,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -487,7 +567,9 @@
       "AphiaID": 280960,
       "records": 1,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -499,7 +581,9 @@
       "AphiaID": 254580,
       "records": 12,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -511,7 +595,9 @@
       "AphiaID": 281916,
       "records": 10,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -523,7 +609,9 @@
       "AphiaID": 281918,
       "records": 4,
       "max_year": 2008,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -535,7 +623,9 @@
       "AphiaID": 282240,
       "records": 4,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -547,7 +637,9 @@
       "AphiaID": 282397,
       "records": 4,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -559,7 +651,9 @@
       "AphiaID": 282887,
       "records": 3,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -571,7 +665,9 @@
       "AphiaID": 282888,
       "records": 14,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -583,7 +679,9 @@
       "AphiaID": 276559,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -594,7 +692,9 @@
       "species": "Bothrocara brunneum",
       "AphiaID": 279397,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -605,7 +705,9 @@
       "species": "Bothrocara hollandi",
       "AphiaID": 279399,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -617,7 +719,9 @@
       "AphiaID": 280970,
       "records": 1,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -629,7 +733,9 @@
       "AphiaID": 274153,
       "records": 2,
       "max_year": 2009,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -640,7 +746,9 @@
       "species": "Acanthopsetta nadeshnyi",
       "AphiaID": 279481,
       "records": 2,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -651,7 +759,9 @@
       "species": "Cleisthenes pinetorum",
       "AphiaID": 280211,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -662,7 +772,9 @@
       "species": "Glyptocephalus stelleri",
       "AphiaID": 274286,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -673,7 +785,9 @@
       "species": "Lepidopsetta mochigarei",
       "AphiaID": 281306,
       "records": 1,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -685,7 +799,9 @@
       "AphiaID": 275358,
       "records": 9,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -697,7 +813,9 @@
       "AphiaID": 275231,
       "records": 1,
       "max_year": 2007,
-      "group": "fish"
+      "group": "fish",
+      "obis": true,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -706,10 +824,268 @@
       "genus": "Caretta",
       "species": "Caretta caretta",
       "AphiaID": 137205,
-      "redlist_category": "VU",
       "records": 9,
       "max_year": 2011,
-      "group": "turtle"
+      "group": "turtle",
+      "obis": true,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Phocoenidae",
+      "genus": "Phocoenoides",
+      "species": "Phocoenoides dalli",
+      "AphiaID": 254987,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "species": "Balaenoptera acutorostrata",
+      "AphiaID": 137087,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Pleuronectidae",
+      "genus": "Myzopsetta",
+      "species": "Myzopsetta punctatissima",
+      "AphiaID": 1605262,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Ziphiidae",
+      "genus": "Berardius",
+      "species": "Berardius minimus",
+      "AphiaID": 1576136,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Stichaeidae",
+      "genus": "Stichaeus",
+      "species": "Stichaeus punctatus",
+      "AphiaID": 159819,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Hemitripteridae",
+      "genus": "Nautichthys",
+      "species": "Nautichthys pribilovius",
+      "AphiaID": 254543,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Pleuronectidae",
+      "genus": "Verasper",
+      "species": "Verasper moseri",
+      "AphiaID": 283141,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Otariidae",
+      "genus": "Eumetopias",
+      "species": "Eumetopias jubatus",
+      "AphiaID": 254999,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Phocidae",
+      "genus": "Histriophoca",
+      "species": "Histriophoca fasciata",
+      "AphiaID": 255017,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Orcinus",
+      "species": "Orcinus orca",
+      "AphiaID": 137102,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Phocoenidae",
+      "genus": "Phocoena",
+      "species": "Phocoena phocoena",
+      "AphiaID": 137117,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Salvelinus",
+      "species": "Salvelinus malma",
+      "AphiaID": 254570,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Cottidae",
+      "genus": "Icelus",
+      "species": "Icelus sekii",
+      "AphiaID": 274385,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Oncorhynchus",
+      "species": "Oncorhynchus keta",
+      "AphiaID": 127183,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Delphinidae",
+      "genus": "Sagmatias",
+      "species": "Sagmatias obliquidens",
+      "AphiaID": 1571909,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Salmoniformes",
+      "family": "Salmonidae",
+      "genus": "Oncorhynchus",
+      "species": "Oncorhynchus gorbuscha",
+      "AphiaID": 127182,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Ammodytidae",
+      "genus": "Ammodytes",
+      "species": "Ammodytes hexapterus",
+      "AphiaID": 254510,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Lamniformes",
+      "family": "Lamnidae",
+      "genus": "Lamna",
+      "species": "Lamna ditropis",
+      "AphiaID": 271421,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Ziphiidae",
+      "genus": "Berardius",
+      "species": "Berardius bairdii",
+      "AphiaID": 242608,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenidae",
+      "genus": "Eubalaena",
+      "species": "Eubalaena japonica",
+      "AphiaID": 254974,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Cottidae",
+      "genus": "Icelus",
+      "species": "Icelus mororanis",
+      "AphiaID": 1495546,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
     }
   ]
 }
