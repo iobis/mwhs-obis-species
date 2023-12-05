@@ -15,10 +15,13 @@ library(readr)
 library(purrr)
 library(rgbif)
 library(worrms)
+library(furrr)
 
 # WARNING: DELETE STORR CACHE IF NECESSARY
 
 # configuration
+
+limit_scope <- FALSE
 
 shapefile <- "https://github.com/iobis/mwhs-shapes/raw/master/output/marine_world_heritage.gpkg"
 sf_use_s2(FALSE)
@@ -46,15 +49,19 @@ obis_occ_for_geom <- function(geom) {
 # utilities
 
 check_scope <- function(df) {
-  df %>%
+  res <- df %>%
     mutate(
       group = case_when(
         class %in% fish_classes ~ "fish",
         order %in% turtle_orders ~ "turtle",
         class %in% mammal_classes ~ "mammal"
       )
-    ) %>%
-    filter(!is.na(group) & species != "Homo sapiens")
+    )
+  if (limit_scope) {
+    res <- res %>%
+      filter(!is.na(group) & species != "Homo sapiens")
+  }
+  res
 }
 
 # OBIS species for site

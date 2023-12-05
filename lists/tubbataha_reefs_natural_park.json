@@ -1,6 +1,45 @@
 {
-  "created": "2023-11-20T17:40:28",
+  "created": "2023-12-05T10:29:09",
   "species": [
+    {
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Candidae",
+      "genus": "Licornia",
+      "species": "Licornia ferox",
+      "AphiaID": 723641,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Ascidiacea",
+      "order": "Aplousobranchia",
+      "family": "Diazonidae",
+      "genus": "Rhopalaea",
+      "species": "Rhopalaea fusca",
+      "AphiaID": 251324,
+      "records": 2,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Ascidiacea",
+      "order": "Stolidobranchia",
+      "family": "Styelidae",
+      "genus": "Polycarpa",
+      "species": "Polycarpa tokiokai",
+      "AphiaID": 251075,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
     {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
@@ -26,7 +65,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -41,7 +80,7 @@
       "max_year": 2014,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -70,7 +109,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -84,7 +123,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "CR"
     },
     {
@@ -112,7 +151,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -126,7 +165,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -140,7 +179,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "CR"
     },
     {
@@ -154,7 +193,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "CR"
     },
     {
@@ -224,7 +263,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -238,7 +277,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -279,7 +318,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -377,7 +416,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -392,7 +431,7 @@
       "max_year": 2014,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -406,7 +445,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -420,7 +459,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -473,7 +512,7 @@
       "records": 1,
       "group": "mammal",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -539,7 +578,7 @@
       "records": 1,
       "group": "mammal",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -552,7 +591,7 @@
       "records": 1,
       "group": "mammal",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -591,7 +630,7 @@
       "records": 1,
       "group": "mammal",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -762,7 +801,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -814,7 +853,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -840,7 +879,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -944,7 +983,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -970,7 +1009,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -996,7 +1035,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1009,7 +1048,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1087,7 +1126,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1178,7 +1217,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1191,7 +1230,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1204,7 +1243,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1230,7 +1269,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1243,7 +1282,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1308,7 +1347,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1321,7 +1360,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1477,7 +1516,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1490,7 +1529,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1594,7 +1633,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1659,7 +1698,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1672,7 +1711,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1685,7 +1724,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1711,7 +1750,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1724,7 +1763,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -1790,7 +1829,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1803,7 +1842,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1829,7 +1868,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1855,7 +1894,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1894,7 +1933,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1907,7 +1946,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1946,7 +1985,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1972,7 +2011,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1985,7 +2024,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -1998,7 +2037,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2011,7 +2050,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2037,7 +2076,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2050,7 +2089,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2076,7 +2115,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2115,7 +2154,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2128,7 +2167,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2154,7 +2193,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2167,7 +2206,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2180,7 +2219,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2206,7 +2245,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2232,7 +2271,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2245,7 +2284,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2258,7 +2297,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2271,7 +2310,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2284,7 +2323,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2297,7 +2336,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2310,7 +2349,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2323,7 +2362,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2336,7 +2375,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2349,7 +2388,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2362,7 +2401,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2375,7 +2414,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2388,7 +2427,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2401,7 +2440,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2414,7 +2453,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2440,7 +2479,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2453,7 +2492,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2479,7 +2518,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2492,7 +2531,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2505,7 +2544,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2518,7 +2557,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2531,7 +2570,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2544,7 +2583,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2557,7 +2596,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2570,7 +2609,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2597,7 +2636,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2636,7 +2675,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2741,7 +2780,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2806,7 +2845,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2845,7 +2884,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2871,7 +2910,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2897,7 +2936,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2910,7 +2949,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2988,7 +3027,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3014,7 +3053,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3027,7 +3066,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3040,7 +3079,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3053,7 +3092,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3066,7 +3105,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3079,7 +3118,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3118,7 +3157,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3131,7 +3170,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3144,7 +3183,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3197,7 +3236,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3210,7 +3249,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3236,7 +3275,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3249,7 +3288,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3262,7 +3301,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3275,7 +3314,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3340,7 +3379,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3379,7 +3418,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3392,7 +3431,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3405,7 +3444,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3418,7 +3457,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3431,7 +3470,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3444,7 +3483,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3457,7 +3496,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3496,7 +3535,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3509,7 +3548,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3522,7 +3561,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3561,7 +3600,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3574,7 +3613,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3587,7 +3626,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3600,7 +3639,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3613,7 +3652,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3626,7 +3665,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3639,7 +3678,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3652,7 +3691,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3665,7 +3704,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3678,7 +3717,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3691,7 +3730,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3704,7 +3743,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3717,7 +3756,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3730,7 +3769,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3743,7 +3782,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3756,7 +3795,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3795,7 +3834,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3834,7 +3873,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3860,7 +3899,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3873,7 +3912,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3886,7 +3925,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -3900,7 +3939,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3913,7 +3952,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3926,7 +3965,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3939,7 +3978,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3952,7 +3991,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3978,7 +4017,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -3991,7 +4030,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4017,7 +4056,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4043,7 +4082,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4121,7 +4160,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4147,7 +4186,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4173,7 +4212,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4186,7 +4225,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4199,7 +4238,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4212,7 +4251,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4251,7 +4290,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4277,7 +4316,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4303,7 +4342,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4329,7 +4368,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4355,7 +4394,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4394,7 +4433,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4420,7 +4459,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4433,7 +4472,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4459,7 +4498,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4472,7 +4511,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4511,7 +4550,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4524,7 +4563,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4576,7 +4615,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4589,7 +4628,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4602,7 +4641,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4615,7 +4654,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4628,7 +4667,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4641,7 +4680,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4654,7 +4693,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4680,7 +4719,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4693,7 +4732,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4745,7 +4784,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4784,7 +4823,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4836,7 +4875,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4888,7 +4927,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4901,7 +4940,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4914,7 +4953,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4953,7 +4992,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -4979,7 +5018,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5031,7 +5070,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5044,7 +5083,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5083,7 +5122,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5096,7 +5135,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5109,7 +5148,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5122,7 +5161,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5135,7 +5174,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5148,7 +5187,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5174,7 +5213,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5187,7 +5226,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5200,7 +5239,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
@@ -5227,7 +5266,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5240,7 +5279,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5266,7 +5305,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5279,7 +5318,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5292,7 +5331,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5305,7 +5344,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5318,7 +5357,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5331,7 +5370,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5370,7 +5409,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5422,7 +5461,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5448,7 +5487,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5461,7 +5500,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5474,7 +5513,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5500,7 +5539,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5513,7 +5552,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5617,7 +5656,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5656,7 +5695,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5708,7 +5747,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5721,7 +5760,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5734,7 +5773,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5747,7 +5786,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5760,7 +5799,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5773,7 +5812,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5786,7 +5825,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5799,7 +5838,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5812,7 +5851,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5838,7 +5877,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5851,7 +5890,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5864,7 +5903,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5877,7 +5916,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5890,7 +5929,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5903,7 +5942,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5916,7 +5955,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5929,7 +5968,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5942,7 +5981,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -5956,7 +5995,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -5969,7 +6008,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6035,7 +6074,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6048,7 +6087,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6087,7 +6126,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6126,7 +6165,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6139,7 +6178,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6152,7 +6191,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6165,7 +6204,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6178,7 +6217,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6191,7 +6230,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6204,7 +6243,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6217,7 +6256,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6230,7 +6269,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6243,7 +6282,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6256,7 +6295,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6269,7 +6308,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6282,7 +6321,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6295,7 +6334,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -6309,7 +6348,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6322,7 +6361,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6335,7 +6374,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6361,7 +6400,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6374,7 +6413,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6387,7 +6426,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6400,7 +6439,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6413,7 +6452,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6426,7 +6465,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6439,7 +6478,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6452,7 +6491,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6465,7 +6504,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6478,7 +6517,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6491,7 +6530,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6517,7 +6556,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6530,7 +6569,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6543,7 +6582,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6556,7 +6595,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6595,7 +6634,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6608,7 +6647,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6621,7 +6660,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6634,7 +6673,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6647,7 +6686,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6660,7 +6699,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6673,7 +6712,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6712,7 +6751,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6751,7 +6790,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6764,7 +6803,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6777,7 +6816,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6790,7 +6829,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6816,7 +6855,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6829,7 +6868,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6842,7 +6881,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6855,7 +6894,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6868,7 +6907,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6894,7 +6933,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6907,7 +6946,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6920,7 +6959,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6933,7 +6972,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6946,7 +6985,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6959,7 +6998,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -6985,7 +7024,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7011,7 +7050,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7024,7 +7063,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7037,7 +7076,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7076,7 +7115,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7089,7 +7128,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7102,7 +7141,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7115,7 +7154,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7128,7 +7167,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7141,7 +7180,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7154,7 +7193,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7167,7 +7206,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7181,7 +7220,7 @@
       "max_year": 1947,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7194,7 +7233,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7207,7 +7246,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7220,7 +7259,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7233,7 +7272,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7311,7 +7350,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7324,7 +7363,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7337,7 +7376,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7350,7 +7389,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7363,7 +7402,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7389,7 +7428,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7402,7 +7441,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7415,7 +7454,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7428,7 +7467,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7441,7 +7480,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7454,7 +7493,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7467,7 +7506,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7480,7 +7519,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7493,7 +7532,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7506,7 +7545,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7519,7 +7558,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7545,7 +7584,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7558,7 +7597,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7584,7 +7623,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7624,7 +7663,7 @@
       "max_year": 1948,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7664,7 +7703,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7677,7 +7716,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7703,7 +7742,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7716,7 +7755,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7729,7 +7768,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7781,7 +7820,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7833,7 +7872,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7872,7 +7911,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7885,7 +7924,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7898,7 +7937,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7924,7 +7963,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7937,7 +7976,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7950,7 +7989,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7976,7 +8015,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -7989,7 +8028,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8002,7 +8041,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8054,7 +8093,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8067,7 +8106,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8080,7 +8119,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8093,7 +8132,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8106,7 +8145,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8119,7 +8158,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8132,7 +8171,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8145,7 +8184,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8158,7 +8197,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8171,7 +8210,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8184,7 +8223,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8197,7 +8236,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8210,7 +8249,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8223,7 +8262,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8262,7 +8301,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8276,7 +8315,7 @@
       "max_year": 1995,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8289,7 +8328,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8302,7 +8341,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8315,7 +8354,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8341,7 +8380,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8354,7 +8393,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8367,7 +8406,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8380,7 +8419,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8393,7 +8432,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8406,7 +8445,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8419,7 +8458,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8432,7 +8471,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8458,7 +8497,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8484,7 +8523,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8497,7 +8536,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8510,7 +8549,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8537,7 +8576,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8550,7 +8589,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8563,7 +8602,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8576,7 +8615,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8602,7 +8641,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8628,7 +8667,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8654,7 +8693,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8667,7 +8706,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8732,7 +8771,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8771,7 +8810,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -8785,7 +8824,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8850,7 +8889,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8941,7 +8980,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8980,7 +9019,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -8993,7 +9032,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9032,7 +9071,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9045,7 +9084,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9058,7 +9097,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9071,7 +9110,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9084,7 +9123,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9097,7 +9136,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9123,7 +9162,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9149,7 +9188,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9162,7 +9201,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9175,7 +9214,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9188,7 +9227,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9201,7 +9240,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9214,7 +9253,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9227,7 +9266,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9240,7 +9279,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9253,7 +9292,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9305,7 +9344,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9331,7 +9370,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9344,7 +9383,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9357,7 +9396,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9383,7 +9422,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9396,7 +9435,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9409,7 +9448,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9422,7 +9461,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9435,7 +9474,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9448,7 +9487,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9461,7 +9500,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9487,7 +9526,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9500,7 +9539,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9513,7 +9552,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9526,7 +9565,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9539,7 +9578,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9552,7 +9591,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9565,7 +9604,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9578,7 +9617,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9591,7 +9630,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9617,7 +9656,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9630,7 +9669,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9643,7 +9682,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9656,7 +9695,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9669,7 +9708,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9695,7 +9734,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -9709,7 +9748,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9722,7 +9761,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9735,7 +9774,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9761,7 +9800,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9774,7 +9813,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -9788,7 +9827,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9801,7 +9840,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9814,7 +9853,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9827,7 +9866,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9853,7 +9892,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9866,7 +9905,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "VU"
     },
     {
@@ -9893,7 +9932,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9919,7 +9958,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9945,7 +9984,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -9971,7 +10010,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10010,7 +10049,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10049,7 +10088,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10062,7 +10101,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10075,7 +10114,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10088,7 +10127,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10101,7 +10140,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10114,7 +10153,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10127,7 +10166,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10140,7 +10179,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10166,7 +10205,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10192,7 +10231,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10218,7 +10257,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10231,7 +10270,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -10245,7 +10284,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10258,7 +10297,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10271,7 +10310,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10310,7 +10349,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "NT"
     },
     {
@@ -10324,7 +10363,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10350,7 +10389,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10363,7 +10402,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10376,7 +10415,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10415,7 +10454,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10428,7 +10467,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10441,7 +10480,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10454,7 +10493,7 @@
       "records": 5,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10467,7 +10506,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10480,7 +10519,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10493,7 +10532,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10506,7 +10545,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10519,7 +10558,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10545,7 +10584,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10558,7 +10597,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10571,7 +10610,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10584,7 +10623,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10597,7 +10636,7 @@
       "records": 7,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10610,7 +10649,7 @@
       "records": 3,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10623,7 +10662,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10636,7 +10675,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10649,7 +10688,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10662,7 +10701,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10675,7 +10714,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10688,7 +10727,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10714,7 +10753,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10727,7 +10766,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10740,7 +10779,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10753,7 +10792,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10766,7 +10805,7 @@
       "records": 4,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10779,7 +10818,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10792,7 +10831,7 @@
       "records": 8,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10805,7 +10844,7 @@
       "records": 6,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10818,7 +10857,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10831,7 +10870,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10844,7 +10883,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10857,7 +10896,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10870,7 +10909,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10883,7 +10922,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10909,7 +10948,7 @@
       "records": 2,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -10935,20 +10974,1446 @@
       "max_year": 2016,
       "group": "turtle",
       "obis": true,
-      "gbif": true,
+      "gbif": false,
       "redlist_category": "EN"
     },
     {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Actiniaria",
+      "family": "Stichodactylidae",
+      "genus": "Stichodactyla",
+      "species": "Stichodactyla gigantea",
+      "AphiaID": 291133,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Sarcophytidae",
+      "genus": "Lobophytum",
+      "species": "Lobophytum hirsutum",
+      "AphiaID": 288786,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Subergorgiidae",
+      "genus": "Annella",
+      "species": "Annella mollis",
+      "AphiaID": 520669,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Subergorgiidae",
+      "genus": "Subergorgia",
+      "species": "Subergorgia thomsoni",
+      "AphiaID": 288011,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora acuminata",
+      "AphiaID": 207020,
+      "records": 3,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora austera",
+      "AphiaID": 207052,
+      "records": 18,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora cerealis",
+      "AphiaID": 207016,
+      "records": 15,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora cytherea",
+      "AphiaID": 207095,
+      "records": 3,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora digitifera",
+      "AphiaID": 207045,
+      "records": 9,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora divaricata",
+      "AphiaID": 207106,
+      "records": 6,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora elseyi",
+      "AphiaID": 207113,
+      "records": 3,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora florida",
+      "AphiaID": 207058,
+      "records": 6,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora horrida",
+      "AphiaID": 207006,
+      "records": 3,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora hyacinthus",
+      "AphiaID": 207044,
+      "records": 21,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora muricata",
+      "AphiaID": 207007,
+      "records": 14,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora nana",
+      "AphiaID": 207100,
+      "records": 3,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora nasuta",
+      "AphiaID": 207009,
+      "records": 15,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora secale",
+      "AphiaID": 207080,
+      "records": 6,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora subulata",
+      "AphiaID": 368478,
+      "records": 3,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora valida",
+      "AphiaID": 207072,
+      "records": 12,
+      "max_year": 1992,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora verweyi",
+      "AphiaID": 288263,
+      "records": 3,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Acropora",
+      "species": "Acropora yongei",
+      "AphiaID": 207032,
+      "records": 3,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Dendrophylliidae",
+      "genus": "Cladopsammia",
+      "species": "Cladopsammia gracilis",
+      "AphiaID": 286958,
+      "records": 2,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Merulinidae",
+      "genus": "Hydnophora",
+      "species": "Hydnophora rigida",
+      "AphiaID": 207406,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Plerogyridae",
+      "genus": "Blastomussa",
+      "species": "Blastomussa wellsi",
+      "AphiaID": 207386,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleralcyonacea",
+      "family": "Briareidae",
+      "genus": "Briareum",
+      "species": "Briareum violaceum",
+      "AphiaID": 517640,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Colobometridae",
+      "genus": "Pontiometra",
+      "species": "Pontiometra andersoni",
+      "AphiaID": 711340,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Alloeocomatella",
+      "species": "Alloeocomatella pectinifera",
+      "AphiaID": 246720,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Alloeocomatella",
+      "species": "Alloeocomatella polycladia",
+      "AphiaID": 246721,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Clarkcomanthus",
+      "species": "Clarkcomanthus littoralis",
+      "AphiaID": 246738,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Clarkcomanthus",
+      "species": "Clarkcomanthus mirabilis",
+      "AphiaID": 829173,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Comanthus",
+      "species": "Comanthus gisleni",
+      "AphiaID": 246747,
+      "records": 3,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Comanthus",
+      "species": "Comanthus suavia",
+      "AphiaID": 246750,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Comatella",
+      "species": "Comatella stelligera",
+      "AphiaID": 246758,
+      "records": 3,
+      "max_year": 1997,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Phanogenia",
+      "species": "Phanogenia gracilis",
+      "AphiaID": 246804,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Comatulidae",
+      "genus": "Phanogenia",
+      "species": "Phanogenia multibrachiata",
+      "AphiaID": 246805,
+      "records": 3,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Mariametridae",
+      "genus": "Dichrometra",
+      "species": "Dichrometra bimaculata",
+      "AphiaID": 450513,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Mariametridae",
+      "genus": "Dichrometra",
+      "species": "Dichrometra flagellata",
+      "AphiaID": 213601,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Mariametridae",
+      "genus": "Dichrometra",
+      "species": "Dichrometra palmata",
+      "AphiaID": 213596,
+      "records": 1,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Crinoidea",
+      "order": "Comatulida",
+      "family": "Mariametridae",
+      "genus": "Stephanometra",
+      "species": "Stephanometra indica",
+      "AphiaID": 213594,
+      "records": 3,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Holothuriida",
+      "family": "Holothuriidae",
+      "genus": "Holothuria",
+      "species": "Holothuria (Theelothuria) turriscelsa",
+      "AphiaID": 210820,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Ophiuroidea",
+      "order": "Euryalida",
+      "family": "Gorgonocephalidae",
+      "genus": "Astroboa",
+      "species": "Astroboa nuda",
+      "AphiaID": 213439,
+      "records": 2,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Arcida",
+      "family": "Arcidae",
+      "genus": "Tegillarca",
+      "species": "Tegillarca nodifera",
+      "AphiaID": 504472,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Ostreida",
+      "family": "Pinnidae",
+      "genus": "Streptopinna",
+      "species": "Streptopinna saccata",
+      "AphiaID": 216656,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Pectinidae",
+      "genus": "Semipallium",
+      "species": "Semipallium fulvicostatum",
+      "AphiaID": 215400,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Placunidae",
+      "genus": "Placuna",
+      "species": "Placuna ephippium",
+      "AphiaID": 504274,
+      "records": 1,
+      "max_year": 1962,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Spondylidae",
+      "genus": "Spondylus",
+      "species": "Spondylus butleri",
+      "AphiaID": 506964,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Spondylidae",
+      "genus": "Spondylus",
+      "species": "Spondylus regius",
+      "AphiaID": 207858,
+      "records": 1,
+      "max_year": 1945,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Spondylidae",
+      "genus": "Spondylus",
+      "species": "Spondylus sinensis",
+      "AphiaID": 207871,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Spondylidae",
+      "genus": "Spondylus",
+      "species": "Spondylus varius",
+      "AphiaID": 207853,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Venerida",
+      "family": "Veneridae",
+      "genus": "Lioconcha",
+      "species": "Lioconcha castrensis",
+      "AphiaID": 216577,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Cephalopoda",
+      "order": "Nautilida",
+      "family": "Nautilidae",
+      "genus": "Nautilus",
+      "species": "Nautilus pompilius",
+      "AphiaID": 216384,
+      "records": 3,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Cycloneritida",
+      "family": "Neritidae",
+      "genus": "Smaragdia",
+      "species": "Smaragdia rangiana",
+      "AphiaID": 215198,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cymatiidae",
+      "genus": "Ranularia",
+      "species": "Ranularia pyrum",
+      "AphiaID": 476557,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Contradusta",
+      "species": "Contradusta walkeri",
+      "AphiaID": 530913,
+      "records": 1,
+      "max_year": 1983,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Cypraea",
+      "species": "Cypraea tigris",
+      "AphiaID": 216843,
+      "records": 1,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Eclogavena",
+      "species": "Eclogavena dayritiana",
+      "AphiaID": 530903,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Luria",
+      "species": "Luria isabella",
+      "AphiaID": 216862,
+      "records": 1,
+      "max_year": 1984,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Lyncina",
+      "species": "Lyncina carneola",
+      "AphiaID": 216866,
+      "records": 1,
+      "max_year": 1973,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Monetaria",
+      "species": "Monetaria annulus",
+      "AphiaID": 216875,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Naria",
+      "species": "Naria boivinii",
+      "AphiaID": 1079106,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Naria",
+      "species": "Naria labrolineata",
+      "AphiaID": 1079110,
+      "records": 1,
+      "max_year": 1984,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Nesiocypraea",
+      "species": "Nesiocypraea teramachii",
+      "AphiaID": 396647,
+      "records": 1,
+      "max_year": 2000,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Ovatipsa",
+      "species": "Ovatipsa chinensis",
+      "AphiaID": 530995,
+      "records": 1,
+      "max_year": 1972,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Purpuradusta",
+      "species": "Purpuradusta fimbriata",
+      "AphiaID": 1035203,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Purpuradusta",
+      "species": "Purpuradusta hammondae",
+      "AphiaID": 597621,
+      "records": 1,
+      "max_year": 1974,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Pustularia",
+      "species": "Pustularia bistrinotata",
+      "AphiaID": 527780,
+      "records": 1,
+      "max_year": 2004,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Strombidae",
+      "genus": "Canarium",
+      "species": "Canarium urceus",
+      "AphiaID": 532183,
+      "records": 1,
+      "max_year": 1980,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Strombidae",
+      "genus": "Lambis",
+      "species": "Lambis millepeda",
+      "AphiaID": 211099,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus araneosus",
+      "AphiaID": 428934,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus aulicus",
+      "AphiaID": 215471,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus bandanus",
+      "AphiaID": 215557,
+      "records": 3,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus boeticus",
+      "AphiaID": 426405,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus caracteristicus",
+      "AphiaID": 426443,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus daphne",
+      "AphiaID": 429110,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus eburneus",
+      "AphiaID": 215559,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus furvus",
+      "AphiaID": 428130,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus generalis",
+      "AphiaID": 215520,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus leopardus",
+      "AphiaID": 215464,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus magus",
+      "AphiaID": 215429,
+      "records": 2,
+      "max_year": 1966,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus nobilis",
+      "AphiaID": 428220,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus ochroleucus",
+      "AphiaID": 428224,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus tessulatus",
+      "AphiaID": 215519,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus tulipa",
+      "AphiaID": 215503,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus voluminalis",
+      "AphiaID": 428408,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Costellariidae",
+      "genus": "Vexillum",
+      "species": "Vexillum subdivisum",
+      "AphiaID": 754867,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Fasciolariidae",
+      "genus": "Marmorofusus",
+      "species": "Marmorofusus nicobaricus",
+      "AphiaID": 828289,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Mitridae",
+      "genus": "Imbricaria",
+      "species": "Imbricaria annulata",
+      "AphiaID": 1061519,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Mitridae",
+      "genus": "Nebularia",
+      "species": "Nebularia ferruginea",
+      "AphiaID": 1063207,
+      "records": 1,
+      "max_year": 1960,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Mitridae",
+      "genus": "Nebularia",
+      "species": "Nebularia incompta",
+      "AphiaID": 1063210,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Mitridae",
+      "genus": "Strigatella",
+      "species": "Strigatella paupercula",
+      "AphiaID": 217220,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Muricidae",
+      "genus": "Chicoreus",
+      "species": "Chicoreus brunneus",
+      "AphiaID": 208143,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Olividae",
+      "genus": "Oliva",
+      "species": "Oliva bulbosa",
+      "AphiaID": 208374,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Olividae",
+      "genus": "Oliva",
+      "species": "Oliva caerulea",
+      "AphiaID": 208388,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Olividae",
+      "genus": "Oliva",
+      "species": "Oliva guttata",
+      "AphiaID": 1321284,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Olividae",
+      "genus": "Oliva",
+      "species": "Oliva tricolor",
+      "AphiaID": 448160,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Olividae",
+      "genus": "Oliva",
+      "species": "Oliva vidua",
+      "AphiaID": 448164,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Pseudomelatomidae",
+      "genus": "Inquisitor",
+      "species": "Inquisitor lorenzi",
+      "AphiaID": 1258909,
+      "records": 1,
+      "max_year": 1994,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Turbinellidae",
+      "genus": "Vasum",
+      "species": "Vasum tubiferum",
+      "AphiaID": 211100,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Volutidae",
+      "genus": "Cymbiola",
+      "species": "Cymbiola imperialis",
+      "AphiaID": 220952,
+      "records": 2,
+      "max_year": 1963,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Chromodorididae",
+      "genus": "Chromodoris",
+      "species": "Chromodoris alcalai",
+      "AphiaID": 1533655,
+      "records": 1,
+      "max_year": 1984,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Chromodorididae",
+      "genus": "Chromodoris",
+      "species": "Chromodoris annae",
+      "AphiaID": 558229,
+      "records": 1,
+      "max_year": 1984,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Discodorididae",
+      "genus": "Asteronotus",
+      "species": "Asteronotus hepaticus",
+      "AphiaID": 872645,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Hexabranchidae",
+      "genus": "Hexabranchus",
+      "species": "Hexabranchus sanguineus",
+      "AphiaID": 220381,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Trochida",
+      "family": "Angariidae",
+      "genus": "Angaria",
+      "species": "Angaria delphinus",
+      "AphiaID": 367639,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Trochida",
+      "family": "Angariidae",
+      "genus": "Angaria",
+      "species": "Angaria melanacantha",
+      "AphiaID": 215204,
+      "records": 2,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Trochida",
+      "family": "Turbinidae",
+      "genus": "Turbo",
+      "species": "Turbo chrysostomus",
+      "AphiaID": 216368,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "[unassigned] Caenogastropoda",
+      "family": "Ampullinidae",
+      "genus": "Cernina",
+      "species": "Cernina fluctuata",
+      "AphiaID": 571870,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "[unassigned] Caenogastropoda",
+      "family": "Turritellidae",
+      "genus": "Turritella",
+      "species": "Turritella terebra",
+      "AphiaID": 215163,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "family": "Lottiidae",
+      "genus": "Patelloida",
+      "species": "Patelloida saccharina",
+      "AphiaID": 220948,
+      "records": 1,
+      "max_year": 2004,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Scaphopoda",
+      "order": "Dentaliida",
+      "family": "Calliodentaliidae",
+      "genus": "Calliodentalium",
+      "species": "Calliodentalium crocinum",
+      "AphiaID": 344491,
+      "records": 1,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Poecilosclerida",
+      "family": "Coelosphaeridae",
+      "genus": "Lissodendoryx",
+      "species": "Lissodendoryx (Lissodendoryx) grata",
+      "AphiaID": 168962,
+      "records": 1,
+      "max_year": 1995,
+      "obis": true,
+      "gbif": false
+    },
+    {
       "phylum": "Chordata",
-      "order": "Testudines",
-      "family": "Cheloniidae",
-      "genus": "Eretmochelys",
-      "species": "Eretmochelys imbricata",
-      "AphiaID": 137207,
-      "group": "turtle",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Arenaria",
+      "species": "Arenaria interpres",
+      "AphiaID": 147431,
       "obis": false,
-      "gbif": true,
-      "redlist_category": "CR"
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Anous",
+      "species": "Anous minutus",
+      "AphiaID": 344003,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Choriaster",
+      "species": "Choriaster granulatus",
+      "AphiaID": 213280,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -10963,62 +12428,46 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Syngnathiformes",
-      "family": "Syngnathidae",
-      "genus": "Hippocampus",
-      "species": "Hippocampus denise",
-      "AphiaID": 275193,
-      "group": "fish",
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Synallactida",
+      "family": "Stichopodidae",
+      "genus": "Thelenota",
+      "species": "Thelenota anax",
+      "AphiaID": 210915,
       "obis": false,
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Valenciennea",
-      "species": "Valenciennea puellaris",
-      "AphiaID": 219595,
-      "group": "fish",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Ocypodidae",
+      "genus": "Ocypode",
+      "species": "Ocypode ceratophthalmus",
+      "AphiaID": 207578,
       "obis": false,
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Fusigobius",
-      "species": "Fusigobius duospilus",
-      "AphiaID": 278766,
-      "group": "fish",
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Chromodorididae",
+      "genus": "Chromodoris",
+      "species": "Chromodoris lochi",
+      "AphiaID": 558198,
       "obis": false,
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Ctenogobiops",
-      "species": "Ctenogobiops tangaroai",
-      "AphiaID": 278353,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Perciformes",
-      "family": "Serranidae",
-      "genus": "Epinephelus",
-      "species": "Epinephelus maculatus",
-      "AphiaID": 273860,
-      "group": "fish",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Palinuridae",
+      "genus": "Panulirus",
+      "species": "Panulirus versicolor",
+      "AphiaID": 210359,
       "obis": false,
       "gbif": true
     },
@@ -11048,30 +12497,6 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiesociformes",
-      "family": "Gobiesocidae",
-      "genus": "Discotrema",
-      "species": "Discotrema monogrammum",
-      "AphiaID": 398426,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiesociformes",
-      "family": "Gobiesocidae",
-      "genus": "Discotrema",
-      "species": "Discotrema crinophilum",
-      "AphiaID": 398425,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Mammalia",
       "order": "Cetartiodactyla",
       "family": "Ziphiidae",
@@ -11091,6 +12516,195 @@
       "species": "Mesoplodon europaeus",
       "AphiaID": 137123,
       "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Pelecaniformes",
+      "family": "Fregatidae",
+      "genus": "Fregata",
+      "species": "Fregata minor",
+      "AphiaID": 212654,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Charadriidae",
+      "genus": "Pluvialis",
+      "species": "Pluvialis squatarola",
+      "AphiaID": 159137,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ardeidae",
+      "genus": "Butorides",
+      "species": "Butorides striata",
+      "AphiaID": 212661,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ardeidae",
+      "genus": "Egretta",
+      "species": "Egretta eulophotes",
+      "AphiaID": 446492,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Chlidonias",
+      "species": "Chlidonias leucopterus",
+      "AphiaID": 137136,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Numenius",
+      "species": "Numenius phaeopus",
+      "AphiaID": 159040,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Diogenidae",
+      "genus": "Dardanus",
+      "species": "Dardanus scutellatus",
+      "AphiaID": 208695,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Coelogorgiidae",
+      "genus": "Coelogorgia",
+      "species": "Coelogorgia palmosa",
+      "AphiaID": 212086,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Synallactida",
+      "family": "Stichopodidae",
+      "genus": "Thelenota",
+      "species": "Thelenota ananas",
+      "AphiaID": 210916,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Synallactida",
+      "family": "Stichopodidae",
+      "genus": "Stichopus",
+      "species": "Stichopus chloronotus",
+      "AphiaID": 149789,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Colubrariidae",
+      "genus": "Colubraria",
+      "species": "Colubraria nitidula",
+      "AphiaID": 208638,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Clathurellidae",
+      "genus": "Lienardia",
+      "species": "Lienardia rubida",
+      "AphiaID": 434279,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Cardiida",
+      "family": "Cardiidae",
+      "genus": "Tridacna",
+      "species": "Tridacna crocea",
+      "AphiaID": 207673,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Phyllidiidae",
+      "genus": "Phyllidiopsis",
+      "species": "Phyllidiopsis shireenae",
+      "AphiaID": 536717,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Polyceridae",
+      "genus": "Thecacera",
+      "species": "Thecacera picta",
+      "AphiaID": 527538,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cypraeidae",
+      "genus": "Blasicrura",
+      "species": "Blasicrura pallidula",
+      "AphiaID": 708938,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Holothuriida",
+      "family": "Holothuriidae",
+      "genus": "Bohadschia",
+      "species": "Bohadschia argus",
+      "AphiaID": 210768,
       "obis": false,
       "gbif": true
     },
@@ -11132,98 +12746,12 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Aulopiformes",
-      "family": "Synodontidae",
-      "genus": "Synodus",
-      "species": "Synodus jaculum",
-      "AphiaID": 217673,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Kurtiformes",
-      "family": "Apogonidae",
-      "genus": "Ostorhinchus",
-      "species": "Ostorhinchus monospilus",
-      "AphiaID": 712674,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Eviota",
-      "species": "Eviota atriventris",
-      "AphiaID": 712864,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Myliobatiformes",
-      "family": "Dasyatidae",
-      "genus": "Pastinachus",
-      "species": "Pastinachus ater",
-      "AphiaID": 1019891,
-      "group": "fish",
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Amblyeleotris",
-      "species": "Amblyeleotris randalli",
-      "AphiaID": 278980,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Eviota",
-      "species": "Eviota teresae",
-      "AphiaID": 889535,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Alectis",
-      "species": "Alectis ciliaris",
-      "AphiaID": 159629,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Trimma",
-      "species": "Trimma yanoi",
-      "AphiaID": 398667,
-      "group": "fish",
+      "class": "Thaliacea",
+      "order": "Salpida",
+      "family": "Salpidae",
+      "genus": "Thetys",
+      "species": "Thetys vagina",
+      "AphiaID": 137281,
       "obis": false,
       "gbif": true
     },
@@ -11240,6 +12768,17 @@
       "gbif": true
     },
     {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Holothuriida",
+      "family": "Holothuriidae",
+      "genus": "Pearsonothuria",
+      "species": "Pearsonothuria graeffei",
+      "AphiaID": 210772,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Carangaria incertae sedis",
@@ -11248,6 +12787,62 @@
       "species": "Sphyraena forsteri",
       "AphiaID": 212047,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Anous",
+      "species": "Anous tenuirostris",
+      "AphiaID": 212630,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Poecilosclerida",
+      "family": "Microcionidae",
+      "genus": "Clathria",
+      "species": "Clathria (Thalysias) reinwardti",
+      "AphiaID": 167774,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Plerogyridae",
+      "genus": "Physogyra",
+      "species": "Physogyra lichtensteini",
+      "AphiaID": 207497,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Agariciidae",
+      "genus": "Pavona",
+      "species": "Pavona clavus",
+      "AphiaID": 207318,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Malacalcyonacea",
+      "family": "Siphonogorgiidae",
+      "genus": "Siphonogorgia",
+      "species": "Siphonogorgia godeffroyi",
+      "AphiaID": 288739,
       "obis": false,
       "gbif": true
     },
@@ -11288,6 +12883,71 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Diogenidae",
+      "genus": "Calcinus",
+      "species": "Calcinus minutus",
+      "AphiaID": 367448,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Stomatopoda",
+      "family": "Odontodactylidae",
+      "genus": "Odontodactylus",
+      "species": "Odontodactylus scyllarus",
+      "AphiaID": 220297,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Chromodorididae",
+      "genus": "Chromodoris",
+      "species": "Chromodoris strigata",
+      "AphiaID": 558300,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Platyhelminthes",
+      "order": "Polycladida",
+      "family": "Pseudocerotidae",
+      "genus": "Pseudobiceros",
+      "species": "Pseudobiceros gloriosus",
+      "AphiaID": 878955,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Culcita",
+      "species": "Culcita novaeguineae",
+      "AphiaID": 212298,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Chromodorididae",
+      "genus": "Goniobranchus",
+      "species": "Goniobranchus leopardus",
+      "AphiaID": 833143,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
@@ -11300,6 +12960,17 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Palaemonidae",
+      "genus": "Actinimenes",
+      "species": "Actinimenes ornatellus",
+      "AphiaID": 957123,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Kurtiformes",
@@ -11308,6 +12979,17 @@
       "species": "Rhabdamia novaluna",
       "AphiaID": 1494068,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Aglaopheniidae",
+      "genus": "Pachyrhynchia",
+      "species": "Pachyrhynchia cuppressina",
+      "AphiaID": 1464472,
       "obis": false,
       "gbif": true
     }
