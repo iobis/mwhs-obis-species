@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:05",
+  "created": "2024-01-22T10:20:02",
   "species": [
     {
       "phylum": "Annelida",
@@ -8728,7 +8728,7 @@
       "records": 1,
       "max_year": 1986,
       "obis": true,
-      "gbif": false
+      "gbif": true
     },
     {
       "phylum": "Echinodermata",
@@ -11774,6 +11774,17 @@
       "gbif": true
     },
     {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Myrtales",
+      "family": "Combretaceae",
+      "genus": "Laguncularia",
+      "species": "Laguncularia racemosa",
+      "AphiaID": 235050,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Littorinimorpha",
@@ -11836,17 +11847,6 @@
       "genus": "Calidris",
       "species": "Calidris melanotos",
       "AphiaID": 159053,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Myrtales",
-      "family": "Combretaceae",
-      "genus": "Laguncularia",
-      "species": "Laguncularia racemosa",
-      "AphiaID": 235050,
       "obis": false,
       "gbif": true
     },
@@ -12949,17 +12949,6 @@
       "genus": "Naria",
       "species": "Naria spurca",
       "AphiaID": 1075013,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Echinodermata",
-      "class": "Ophiuroidea",
-      "order": "Ophiacanthida",
-      "family": "Ophiocomidae",
-      "genus": "Breviturma",
-      "species": "Breviturma pusilla",
-      "AphiaID": 1306676,
       "obis": false,
       "gbif": true
     },

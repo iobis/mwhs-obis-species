@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:04",
+  "created": "2024-01-22T10:20:02",
   "species": [
     {
       "phylum": "Annelida",
@@ -1691,8 +1691,7 @@
       "max_year": 2018,
       "group": "fish",
       "obis": true,
-      "gbif": true,
-      "redlist_category": "VU"
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -6647,6 +6646,18 @@
     {
       "phylum": "Cnidaria",
       "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Plumulariidae",
+      "genus": "Plumularia",
+      "species": "Plumularia sinuosa",
+      "AphiaID": 292367,
+      "records": 1,
+      "obis": true,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
       "order": "Narcomedusae",
       "family": "Cuninidae",
       "genus": "Solmissus",
@@ -7124,7 +7135,7 @@
       "records": 1,
       "max_year": 1949,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -17069,17 +17080,6 @@
       "phylum": "Cnidaria",
       "class": "Hydrozoa",
       "order": "Leptothecata",
-      "family": "Plumulariidae",
-      "genus": "Plumularia",
-      "species": "Plumularia sinuosa",
-      "AphiaID": 292367,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Leptothecata",
       "family": "Campanulariidae",
       "genus": "Obelia",
       "species": "Obelia geniculata",
@@ -17770,7 +17770,7 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Diogenidae",
+      "family": "Calcinidae",
       "genus": "Calcinus",
       "species": "Calcinus californiensis",
       "AphiaID": 367433,
@@ -18344,6 +18344,17 @@
       "genus": "Hyotissa",
       "species": "Hyotissa hyotis",
       "AphiaID": 216636,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Pectinida",
+      "family": "Pectinidae",
+      "genus": "Euvola",
+      "species": "Euvola perulus",
+      "AphiaID": 1728455,
       "obis": false,
       "gbif": true
     },

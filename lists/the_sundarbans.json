@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:09",
+  "created": "2024-01-22T10:20:12",
   "species": [
     {
       "phylum": "Chordata",
@@ -596,7 +596,7 @@
       "group": "fish",
       "obis": true,
       "gbif": false,
-      "redlist_category": "EN"
+      "redlist_category": "CR"
     },
     {
       "phylum": "Chordata",
@@ -992,7 +992,7 @@
       "genus": "Scatophagus",
       "species": "Scatophagus argus",
       "AphiaID": 276970,
-      "records": 6,
+      "records": 7,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -1216,7 +1216,7 @@
       "genus": "Muraenesox",
       "species": "Muraenesox cinereus",
       "AphiaID": 126296,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -1372,7 +1372,7 @@
       "genus": "Pisodonophis",
       "species": "Pisodonophis boro",
       "AphiaID": 217593,
-      "records": 11,
+      "records": 15,
       "max_year": 1937,
       "group": "fish",
       "obis": true,
@@ -1595,7 +1595,7 @@
       "genus": "Zenarchopterus",
       "species": "Zenarchopterus ectuntio",
       "AphiaID": 277915,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2219,7 +2219,7 @@
       "genus": "Scomberoides",
       "species": "Scomberoides tala",
       "AphiaID": 277037,
-      "records": 4,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2362,7 +2362,7 @@
       "genus": "Terapon",
       "species": "Terapon jarbua",
       "AphiaID": 218350,
-      "records": 6,
+      "records": 7,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -2505,7 +2505,7 @@
       "genus": "Hilsa",
       "species": "Hilsa kelee",
       "AphiaID": 212278,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2609,7 +2609,7 @@
       "genus": "Tenualosa",
       "species": "Tenualosa ilisha",
       "AphiaID": 278568,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2688,7 +2688,7 @@
       "genus": "Coilia",
       "species": "Coilia ramcarati",
       "AphiaID": 279085,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2740,7 +2740,7 @@
       "genus": "Setipinna",
       "species": "Setipinna taty",
       "AphiaID": 282768,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -2857,7 +2857,7 @@
       "genus": "Thryssa",
       "species": "Thryssa malabarica",
       "AphiaID": 212288,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -3065,7 +3065,7 @@
       "genus": "Labeo",
       "species": "Labeo calbasu",
       "AphiaID": 281238,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -3091,7 +3091,7 @@
       "genus": "Labeo",
       "species": "Labeo rohita",
       "AphiaID": 281240,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -3130,7 +3130,7 @@
       "genus": "Puntius",
       "species": "Puntius amphibius",
       "AphiaID": 282514,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -3182,7 +3182,7 @@
       "genus": "Salmostoma",
       "species": "Salmostoma bacaila",
       "AphiaID": 282655,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -4067,7 +4067,7 @@
       "genus": "Acanthopagrus",
       "species": "Acanthopagrus morrisonae",
       "AphiaID": 1577311,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -4158,7 +4158,7 @@
       "genus": "Eleotris",
       "species": "Eleotris fusca",
       "AphiaID": 219356,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -4574,7 +4574,7 @@
       "genus": "Periophthalmodon",
       "species": "Periophthalmodon septemradiatus",
       "AphiaID": 278674,
-      "records": 4,
+      "records": 5,
       "max_year": 1934,
       "group": "fish",
       "obis": true,
@@ -4770,7 +4770,7 @@
       "genus": "Taenioides",
       "species": "Taenioides cirratus",
       "AphiaID": 277223,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -4991,7 +4991,7 @@
       "genus": "Paramugil",
       "species": "Paramugil parmatus",
       "AphiaID": 398552,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -5056,7 +5056,7 @@
       "genus": "Planiliza",
       "species": "Planiliza subviridis",
       "AphiaID": 1043426,
-      "records": 7,
+      "records": 9,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -5069,7 +5069,7 @@
       "genus": "Planiliza",
       "species": "Planiliza tade",
       "AphiaID": 1509578,
-      "records": 4,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -5971,7 +5971,8 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": false
+      "gbif": false,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -5984,7 +5985,8 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": false
+      "gbif": false,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -6503,7 +6505,7 @@
       "genus": "Plotosus",
       "species": "Plotosus canius",
       "AphiaID": 278694,
-      "records": 4,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -6556,7 +6558,7 @@
       "genus": "Eutropiichthys",
       "species": "Eutropiichthys vacha",
       "AphiaID": 280759,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -6637,7 +6639,7 @@
       "genus": "Gagata",
       "species": "Gagata gagata",
       "AphiaID": 280807,
-      "records": 3,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -6689,7 +6691,7 @@
       "genus": "Macrognathus",
       "species": "Macrognathus pancalus",
       "AphiaID": 281481,
-      "records": 4,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -7002,7 +7004,7 @@
       "genus": "Takifugu",
       "species": "Takifugu oblongus",
       "AphiaID": 219959,
-      "records": 5,
+      "records": 6,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -7326,6 +7328,18 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Carnivora",
+      "family": "Mustelidae",
+      "genus": "Aonyx",
+      "species": "Aonyx cinerea",
+      "AphiaID": 404124,
+      "group": "mammal",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Laridae",
@@ -7510,7 +7524,8 @@
       "species": "Charadrius mongolus",
       "AphiaID": 212614,
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "EN"
     },
     {
       "phylum": "Chordata",

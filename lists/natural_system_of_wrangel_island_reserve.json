@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:07",
+  "created": "2024-01-22T10:20:10",
   "species": [
     {
       "phylum": "Arthropoda",
@@ -269,7 +269,7 @@
       "genus": "Boreogadus",
       "species": "Boreogadus saida",
       "AphiaID": 126433,
-      "records": 1,
+      "records": 2,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -283,7 +283,7 @@
       "genus": "Icelus",
       "species": "Icelus spatula",
       "AphiaID": 127200,
-      "records": 2,
+      "records": 4,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -310,7 +310,7 @@
       "genus": "Liparis",
       "species": "Liparis fabricii",
       "AphiaID": 127218,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -324,7 +324,7 @@
       "genus": "Liparis",
       "species": "Liparis tunicatus",
       "AphiaID": 154825,
-      "records": 4,
+      "records": 6,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -338,7 +338,7 @@
       "genus": "Anisarchus",
       "species": "Anisarchus medius",
       "AphiaID": 127070,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -352,7 +352,7 @@
       "genus": "Leptoclinus",
       "species": "Leptoclinus maculatus",
       "AphiaID": 127072,
-      "records": 3,
+      "records": 4,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -1332,6 +1332,17 @@
       "order": "Anseriformes",
       "family": "Anatidae",
       "genus": "Anas",
+      "species": "Anas crecca",
+      "AphiaID": 158943,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Anas",
       "species": "Anas platyrhynchos",
       "AphiaID": 148791,
       "obis": false,
@@ -1345,17 +1356,6 @@
       "genus": "Calidris",
       "species": "Calidris maritima",
       "AphiaID": 159052,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Anas",
-      "species": "Anas crecca",
-      "AphiaID": 158943,
       "obis": false,
       "gbif": true
     },
@@ -1529,17 +1529,6 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Philomachus",
-      "species": "Philomachus pugnax",
-      "AphiaID": 159046,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Mammalia",
       "order": "Carnivora",
       "family": "Phocidae",
@@ -1555,20 +1544,9 @@
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
-      "genus": "Calidris",
-      "species": "Calidris minuta",
-      "AphiaID": 212600,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Larus",
-      "species": "Larus fuscus",
-      "AphiaID": 137142,
+      "genus": "Philomachus",
+      "species": "Philomachus pugnax",
+      "AphiaID": 159046,
       "obis": false,
       "gbif": true
     },
@@ -1597,11 +1575,33 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Calidris",
+      "species": "Calidris minuta",
+      "AphiaID": 212600,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
       "order": "Gaviiformes",
       "family": "Gaviidae",
       "genus": "Gavia",
       "species": "Gavia pacifica",
       "AphiaID": 422575,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Larus",
+      "species": "Larus fuscus",
+      "AphiaID": 137142,
       "obis": false,
       "gbif": true
     },
@@ -1888,17 +1888,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Tringa",
-      "species": "Tringa erythropus",
-      "AphiaID": 159029,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Amphipoda",
@@ -1968,11 +1957,11 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Melanitta",
-      "species": "Melanitta nigra",
-      "AphiaID": 137073,
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Tringa",
+      "species": "Tringa erythropus",
+      "AphiaID": 159029,
       "obis": false,
       "gbif": true
     },
@@ -2059,6 +2048,17 @@
       "genus": "Spiophanes",
       "species": "Spiophanes kroyeri",
       "AphiaID": 131188,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Melanitta",
+      "species": "Melanitta nigra",
+      "AphiaID": 137073,
       "obis": false,
       "gbif": true
     },
@@ -2276,17 +2276,6 @@
       "genus": "Polycirrus",
       "species": "Polycirrus medusa",
       "AphiaID": 131531,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Anser",
-      "species": "Anser fabalis",
-      "AphiaID": 416685,
       "obis": false,
       "gbif": true
     },
@@ -2760,18 +2749,6 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Limosa",
-      "species": "Limosa lapponica",
-      "AphiaID": 159034,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
       "order": "Gaviiformes",
       "family": "Gaviidae",
       "genus": "Gavia",
@@ -2939,6 +2916,29 @@
       "genus": "Lanassa",
       "species": "Lanassa venusta",
       "AphiaID": 131494,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Limosa",
+      "species": "Limosa lapponica",
+      "AphiaID": 159034,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Anser",
+      "species": "Anser fabalis",
+      "AphiaID": 416685,
       "obis": false,
       "gbif": true
     },
@@ -3234,7 +3234,8 @@
       "AphiaID": 127186,
       "group": "fish",
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "NT"
     },
     {
       "phylum": "Mollusca",
@@ -4089,6 +4090,18 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes reticulatus",
+      "AphiaID": 127112,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Annelida",
       "class": "Polychaeta",
       "order": "Phyllodocida",
@@ -4430,6 +4443,18 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes eudipleurostictus",
+      "AphiaID": 127104,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Mollusca incertae sedis",
       "family": "Aldanellidae",
@@ -4591,17 +4616,6 @@
       "species": "Phoca vitulina",
       "AphiaID": 137084,
       "group": "mammal",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Aythya",
-      "species": "Aythya marila",
-      "AphiaID": 159172,
       "obis": false,
       "gbif": true
     },
@@ -6223,18 +6237,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Melanitta",
-      "species": "Melanitta fusca",
-      "AphiaID": 137072,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
       "phylum": "Priapulida",
       "order": "Priapulomorpha",
       "family": "Priapulidae",
@@ -6855,6 +6857,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Aythya",
+      "species": "Aythya marila",
+      "AphiaID": 159172,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Bryophyta",
       "class": "Bryopsida",
       "order": "Dicranales",
@@ -7286,7 +7299,7 @@
     {
       "phylum": "Foraminifera",
       "class": "Nodosariata",
-      "order": "Lagenida",
+      "order": "Nodosariida",
       "family": "Protonodosariidae",
       "genus": "Nodosinelloides",
       "species": "Nodosinelloides netschajewi",
@@ -7815,6 +7828,18 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Gadiformes",
+      "family": "Lotidae",
+      "genus": "Gaidropsarus",
+      "species": "Gaidropsarus ensis",
+      "AphiaID": 126453,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
       "family": "Gadidae",
       "genus": "Melanogrammus",
       "species": "Melanogrammus aeglefinus",
@@ -7866,17 +7891,6 @@
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
-      "family": "Charadriidae",
-      "genus": "Charadrius",
-      "species": "Charadrius morinellus",
-      "AphiaID": 232043,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
       "family": "Alcidae",
       "genus": "Aethia",
       "species": "Aethia cristatella",
@@ -7895,6 +7909,18 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Melanitta",
+      "species": "Melanitta fusca",
+      "AphiaID": 137072,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Charophyta",
@@ -8189,6 +8215,30 @@
       "genus": "Oncorhynchus",
       "species": "Oncorhynchus gorbuscha",
       "AphiaID": 127182,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes seminudus",
+      "AphiaID": 127115,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes vahlii",
+      "AphiaID": 127118,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -9041,18 +9091,6 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Gadiformes",
-      "family": "Lotidae",
-      "genus": "Gaidropsarus",
-      "species": "Gaidropsarus ensis",
-      "AphiaID": 126453,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gadiformes",
       "family": "Gadidae",
       "genus": "Gadus",
       "species": "Gadus chalcogrammus",
@@ -9070,6 +9108,17 @@
       "species": "Rajella fyllae",
       "AphiaID": 105894,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Charadriidae",
+      "genus": "Charadrius",
+      "species": "Charadrius morinellus",
+      "AphiaID": 232043,
       "obis": false,
       "gbif": true
     },
@@ -10140,6 +10189,17 @@
       "genus": "Scopelocheirus",
       "species": "Scopelocheirus hopei",
       "AphiaID": 102720,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Amathillopsidae",
+      "genus": "Amathillopsis",
+      "species": "Amathillopsis spinigera",
+      "AphiaID": 101881,
       "obis": false,
       "gbif": true
     },
@@ -12067,16 +12127,13 @@
       "redlist_category": "VU"
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Anseriformes",
-      "family": "Anatidae",
-      "genus": "Branta",
-      "species": "Branta ruficollis",
-      "AphiaID": 416687,
+      "phylum": "Ascomycota",
+      "class": "Pezizomycotina incertae sedis",
+      "genus": "Asteromyces",
+      "species": "Asteromyces cruciatus",
+      "AphiaID": 100499,
       "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
+      "gbif": true
     },
     {
       "phylum": "Bacillariophyta",
@@ -15880,6 +15937,18 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
+      "family": "Liparidae",
+      "genus": "Careproctus",
+      "species": "Careproctus kidoi",
+      "AphiaID": 398464,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
       "family": "Triglidae",
       "genus": "Eutrigla",
       "species": "Eutrigla gurnardus",
@@ -16559,6 +16628,17 @@
       "gbif": true
     },
     {
+      "phylum": "Ascomycota",
+      "class": "Sordariomycetes",
+      "order": "Microascales",
+      "family": "Halosphaeriaceae",
+      "genus": "Havispora",
+      "species": "Havispora longyearbyenensis",
+      "AphiaID": 438101,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Bacillariophyta",
       "class": "Bacillariophyceae",
       "order": "Chaetocerotanae incertae sedis",
@@ -16588,6 +16668,18 @@
       "genus": "Botrylloides",
       "species": "Botrylloides aureus",
       "AphiaID": 1307332,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gadiformes",
+      "family": "Gadidae",
+      "genus": "Gadiculus",
+      "species": "Gadiculus argenteus",
+      "AphiaID": 126435,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -17876,6 +17968,30 @@
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes luetkenii",
+      "AphiaID": 127108,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Zoarcidae",
+      "genus": "Lycodes",
+      "species": "Lycodes gracilis",
+      "AphiaID": 274100,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
       "family": "Stichaeidae",
       "genus": "Lumpenus",
       "species": "Lumpenus lampretaeformis",
@@ -17883,6 +17999,19 @@
       "group": "fish",
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Pleuronectidae",
+      "genus": "Glyptocephalus",
+      "species": "Glyptocephalus cynoglossus",
+      "AphiaID": 127136,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -17953,6 +18082,18 @@
       "AphiaID": 137203,
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Anseriformes",
+      "family": "Anatidae",
+      "genus": "Branta",
+      "species": "Branta ruficollis",
+      "AphiaID": 416687,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Bacillariophyta",
@@ -19362,7 +19503,7 @@
     {
       "phylum": "Foraminifera",
       "class": "Nodosariata",
-      "order": "Lagenida",
+      "order": "Nodosariida",
       "family": "Protonodosariidae",
       "genus": "Nodosinelloides",
       "species": "Nodosinelloides aequiampla",
@@ -19400,6 +19541,17 @@
       "genus": "Tosapecten",
       "species": "Tosapecten efimovae",
       "AphiaID": 1637929,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Annelida",
+      "class": "Polychaeta",
+      "order": "Terebellida",
+      "family": "Cirratulidae",
+      "genus": "Chaetozone",
+      "species": "Chaetozone artaspinosa",
+      "AphiaID": 1729705,
       "obis": false,
       "gbif": true
     },

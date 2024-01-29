@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:05",
+  "created": "2024-01-22T10:20:02",
   "species": [
     {
       "phylum": "Annelida",
@@ -5207,22 +5207,22 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Pelecaniformes",
-      "family": "Sulidae",
-      "genus": "Morus",
-      "species": "Morus bassanus",
-      "AphiaID": 148776,
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Larus",
+      "species": "Larus dominicanus",
+      "AphiaID": 212624,
       "obis": false,
       "gbif": true
     },
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Larus",
-      "species": "Larus dominicanus",
-      "AphiaID": 212624,
+      "order": "Pelecaniformes",
+      "family": "Sulidae",
+      "genus": "Morus",
+      "species": "Morus bassanus",
+      "AphiaID": 148776,
       "obis": false,
       "gbif": true
     },
@@ -5338,6 +5338,17 @@
       "gbif": true
     },
     {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Alismatales",
+      "family": "Zosteraceae",
+      "genus": "Nanozostera",
+      "species": "Nanozostera noltei",
+      "AphiaID": 669496,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Procellariiformes",
@@ -5377,9 +5388,9 @@
       "class": "Malacostraca",
       "order": "Decapoda",
       "family": "Epialtidae",
-      "genus": "Pisa",
-      "species": "Pisa carinimana",
-      "AphiaID": 107354,
+      "genus": "Afropisa",
+      "species": "Afropisa carinimana",
+      "AphiaID": 1725693,
       "obis": false,
       "gbif": true
     },
@@ -5670,7 +5681,7 @@
       "group": "mammal",
       "obis": false,
       "gbif": true,
-      "redlist_category": "EN"
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -5795,6 +5806,18 @@
       "group": "fish",
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Dermochelyidae",
+      "genus": "Dermochelys",
+      "species": "Dermochelys coriacea",
+      "AphiaID": 137209,
+      "group": "turtle",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -6591,6 +6614,17 @@
       "gbif": true
     },
     {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Echinolampadacea",
+      "family": "Rotulidae",
+      "genus": "Heliophora",
+      "species": "Heliophora orbiculus",
+      "AphiaID": 568097,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Bivalvia",
       "order": "Cardiida",
@@ -6700,6 +6734,18 @@
       "genus": "Cymbium",
       "species": "Cymbium cymbium",
       "AphiaID": 224552,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Chaetodontidae",
+      "genus": "Chaetodon",
+      "species": "Chaetodon hoefleri",
+      "AphiaID": 126836,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },

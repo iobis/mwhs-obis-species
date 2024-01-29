@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:09",
+  "created": "2024-01-22T10:20:12",
   "species": [
     {
       "phylum": "Annelida",
@@ -539,7 +539,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Arthropoda",
@@ -1137,7 +1137,7 @@
       "records": 45,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Bryozoa",
@@ -1254,7 +1254,7 @@
       "records": 38,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Bryozoa",
@@ -1722,7 +1722,7 @@
       "records": 40,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2391,7 +2391,7 @@
       "max_year": 2015,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -2429,7 +2429,7 @@
       "genus": "Pholis",
       "species": "Pholis gunnellus",
       "AphiaID": 126996,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -2596,7 +2596,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2881,7 +2881,7 @@
       "records": 3,
       "max_year": 2010,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2933,7 +2933,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2946,7 +2946,7 @@
       "records": 2,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2959,7 +2959,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2985,7 +2985,7 @@
       "records": 1,
       "max_year": 2011,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -2998,7 +2998,7 @@
       "records": 1,
       "max_year": 1979,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -3089,7 +3089,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -3193,7 +3193,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -3232,7 +3232,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Cnidaria",
@@ -3362,7 +3362,7 @@
       "records": 39,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3453,7 +3453,7 @@
       "records": 1,
       "max_year": 2011,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3479,7 +3479,7 @@
       "records": 2,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3492,7 +3492,7 @@
       "records": 4,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3570,7 +3570,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3583,7 +3583,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3661,7 +3661,7 @@
       "records": 31,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3687,7 +3687,7 @@
       "records": 51,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Echinodermata",
@@ -3713,7 +3713,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3726,7 +3726,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3752,7 +3752,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3765,7 +3765,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3817,7 +3817,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3868,7 +3868,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3881,7 +3881,7 @@
       "records": 1,
       "max_year": 2010,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3907,7 +3907,7 @@
       "records": 1,
       "max_year": 1970,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3920,7 +3920,7 @@
       "records": 28,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3946,7 +3946,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -3972,7 +3972,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4024,7 +4024,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4037,7 +4037,7 @@
       "records": 33,
       "max_year": 2011,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4063,7 +4063,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4193,7 +4193,7 @@
       "records": 1,
       "max_year": 2013,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4271,7 +4271,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4284,7 +4284,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4310,7 +4310,7 @@
       "records": 5,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4401,7 +4401,7 @@
       "records": 1,
       "max_year": 2010,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4565,7 +4565,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4591,7 +4591,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Mollusca",
@@ -4864,7 +4864,7 @@
       "records": 1,
       "max_year": 1970,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -4929,7 +4929,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -4955,7 +4955,7 @@
       "records": 34,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5111,7 +5111,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5162,7 +5162,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5188,7 +5188,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5279,7 +5279,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5305,7 +5305,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5344,7 +5344,7 @@
       "records": 1,
       "max_year": 2015,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -5370,7 +5370,7 @@
       "records": 1,
       "max_year": 1997,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Porifera",
@@ -6020,7 +6020,7 @@
       "records": 32,
       "max_year": 2014,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Rhodophyta",
@@ -6190,6 +6190,17 @@
       "gbif": true
     },
     {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Poales",
+      "family": "Poaceae",
+      "genus": "Festuca",
+      "species": "Festuca rubra",
+      "AphiaID": 431962,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
@@ -6235,6 +6246,17 @@
       "redlist_category": "VU"
     },
     {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Caryophyllales",
+      "family": "Plumbaginaceae",
+      "genus": "Armeria",
+      "species": "Armeria maritima",
+      "AphiaID": 182769,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
@@ -6269,17 +6291,6 @@
       "gbif": true
     },
     {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Poales",
-      "family": "Poaceae",
-      "genus": "Festuca",
-      "species": "Festuca rubra",
-      "AphiaID": 431962,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
@@ -6309,52 +6320,6 @@
       "genus": "Branta",
       "species": "Branta bernicla",
       "AphiaID": 159175,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Ascomycota",
-      "class": "Lecanoromycetes",
-      "order": "Pertusariales",
-      "family": "Ochrolechiaceae",
-      "genus": "Ochrolechia",
-      "species": "Ochrolechia parella",
-      "AphiaID": 147735,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Lamniformes",
-      "family": "Cetorhinidae",
-      "genus": "Cetorhinus",
-      "species": "Cetorhinus maximus",
-      "AphiaID": 105837,
-      "group": "fish",
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "EN"
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Caryophyllales",
-      "family": "Plumbaginaceae",
-      "genus": "Armeria",
-      "species": "Armeria maritima",
-      "AphiaID": 182769,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Ascomycota",
-      "class": "Lecanoromycetes",
-      "order": "Lecanorales",
-      "family": "Ramalinaceae",
-      "genus": "Ramalina",
-      "species": "Ramalina siliquosa",
-      "AphiaID": 147713,
       "obis": false,
       "gbif": true
     },
@@ -6447,17 +6412,6 @@
       "gbif": true
     },
     {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Brassicales",
-      "family": "Brassicaceae",
-      "genus": "Cochlearia",
-      "species": "Cochlearia officinalis",
-      "AphiaID": 425785,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
@@ -6498,6 +6452,17 @@
       "genus": "Xanthoria",
       "species": "Xanthoria parietina",
       "AphiaID": 147709,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Caryophyllales",
+      "family": "Chenopodiaceae",
+      "genus": "Atriplex",
+      "species": "Atriplex glabriuscula",
+      "AphiaID": 425960,
       "obis": false,
       "gbif": true
     },
@@ -6613,6 +6578,28 @@
       "gbif": true
     },
     {
+      "phylum": "Tracheophyta",
+      "class": "Polypodiopsida",
+      "order": "Equisetales",
+      "family": "Equisetaceae",
+      "genus": "Equisetum",
+      "species": "Equisetum palustre",
+      "AphiaID": 1523519,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Nudibranchia",
+      "family": "Goniodorididae",
+      "genus": "Okenia",
+      "species": "Okenia nodosa",
+      "AphiaID": 1723483,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Mammalia",
       "order": "Cetartiodactyla",
@@ -6632,17 +6619,6 @@
       "genus": "Pluvialis",
       "species": "Pluvialis dominica",
       "AphiaID": 159136,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Caryophyllales",
-      "family": "Chenopodiaceae",
-      "genus": "Atriplex",
-      "species": "Atriplex glabriuscula",
-      "AphiaID": 425960,
       "obis": false,
       "gbif": true
     },
@@ -6710,17 +6686,6 @@
       "genus": "Hennediella",
       "species": "Hennediella heimii",
       "AphiaID": 426103,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Polypodiopsida",
-      "order": "Equisetales",
-      "family": "Equisetaceae",
-      "genus": "Equisetum",
-      "species": "Equisetum palustre",
-      "AphiaID": 1523519,
       "obis": false,
       "gbif": true
     },
@@ -6815,6 +6780,17 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "VU"
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Poales",
+      "family": "Poaceae",
+      "genus": "Puccinellia",
+      "species": "Puccinellia maritima",
+      "AphiaID": 403907,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Ascomycota",
@@ -7083,60 +7059,6 @@
       "gbif": true
     },
     {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Poecilosclerida",
-      "family": "Microcionidae",
-      "genus": "Ophlitaspongia",
-      "species": "Ophlitaspongia papilla",
-      "AphiaID": 133090,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "family": "Synarachnactidae",
-      "genus": "Synarachnactis",
-      "species": "Synarachnactis lloydii",
-      "AphiaID": 1674631,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Pectinida",
-      "family": "Pectinidae",
-      "genus": "Pecten",
-      "species": "Pecten maximus",
-      "AphiaID": 140712,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Pectinida",
-      "family": "Anomiidae",
-      "genus": "Heteranomia",
-      "species": "Heteranomia squamula",
-      "AphiaID": 138749,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Nudibranchia",
-      "family": "Trinchesiidae",
-      "genus": "Catriona",
-      "species": "Catriona gymnota",
-      "AphiaID": 141611,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Annelida",
       "class": "Clitellata",
       "order": "Lumbriculida",
@@ -7296,7 +7218,7 @@
       "phylum": "Ctenophora",
       "class": "Tentaculata",
       "order": "Cydippida",
-      "family": "Pleurobrachiidae",
+      "family": "Cydippidae",
       "genus": "Hormiphora",
       "species": "Hormiphora cucumis",
       "AphiaID": 106382,

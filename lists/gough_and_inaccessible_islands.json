@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:05",
+  "created": "2024-01-22T10:20:04",
   "species": [
     {
       "phylum": "Annelida",
@@ -223,7 +223,7 @@
       "AphiaID": 237472,
       "records": 2,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Arthropoda",
@@ -1566,7 +1566,7 @@
       "genus": "Helicolenus",
       "species": "Helicolenus mouchezi",
       "AphiaID": 274769,
-      "records": 18,
+      "records": 20,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1594,7 +1594,7 @@
       "genus": "Lepidoperca",
       "species": "Lepidoperca coatsii",
       "AphiaID": 281298,
-      "records": 6,
+      "records": 7,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1608,7 +1608,7 @@
       "genus": "Arnoglossus",
       "species": "Arnoglossus capensis",
       "AphiaID": 219791,
-      "records": 3,
+      "records": 4,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1733,7 +1733,7 @@
       "genus": "Notopogon",
       "species": "Notopogon lilliei",
       "AphiaID": 217973,
-      "records": 6,
+      "records": 7,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -3029,6 +3029,17 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Ischyroceridae",
+      "genus": "Neoischyrocerus",
+      "species": "Neoischyrocerus longimanus",
+      "AphiaID": 1728899,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Platyhelminthes",
       "class": "Cestoda",
       "order": "Tetrabothriidea",
@@ -3169,6 +3180,17 @@
       "genus": "Paridotea",
       "species": "Paridotea apposita",
       "AphiaID": 257356,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Scleractinia",
+      "family": "Caryophylliidae",
+      "genus": "Caryophyllia",
+      "species": "Caryophyllia cyathus",
+      "AphiaID": 1726271,
       "obis": false,
       "gbif": true
     },
@@ -3728,17 +3750,6 @@
       "redlist_category": "VU"
     },
     {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Gigartinales",
-      "family": "Kallymeniaceae",
-      "genus": "Callophyllis",
-      "species": "Callophyllis variegata",
-      "AphiaID": 162919,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Myctophiformes",
@@ -3837,6 +3848,17 @@
       "genus": "Splachnidium",
       "species": "Splachnidium rugosum",
       "AphiaID": 221158,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Kallymeniaceae",
+      "genus": "Callophyllis",
+      "species": "Callophyllis variegata",
+      "AphiaID": 162919,
       "obis": false,
       "gbif": true
     },
@@ -4900,17 +4922,6 @@
       "gbif": true
     },
     {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Gigartinales",
-      "family": "Kallymeniaceae",
-      "genus": "Leniea",
-      "species": "Leniea kylinii",
-      "AphiaID": 1313630,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Annelida",
       "class": "Polychaeta",
       "order": "Phyllodocida",
@@ -4940,6 +4951,17 @@
       "genus": "Palmaria",
       "species": "Palmaria palmata",
       "AphiaID": 145771,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Kallymeniaceae",
+      "genus": "Leniea",
+      "species": "Leniea kylinii",
+      "AphiaID": 1313630,
       "obis": false,
       "gbif": true
     }

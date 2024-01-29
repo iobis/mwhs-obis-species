@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:05",
+  "created": "2024-01-22T10:20:02",
   "species": [
     {
       "phylum": "Arthropoda",
@@ -6287,22 +6287,22 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Pelecaniformes",
-      "family": "Phalacrocoracidae",
-      "genus": "Phalacrocorax",
-      "species": "Phalacrocorax brasilianus",
-      "AphiaID": 343939,
+      "order": "Coraciiformes",
+      "family": "Alcedinidae",
+      "genus": "Chloroceryle",
+      "species": "Chloroceryle aenea",
+      "AphiaID": 422618,
       "obis": false,
       "gbif": true
     },
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Coraciiformes",
-      "family": "Alcedinidae",
-      "genus": "Chloroceryle",
-      "species": "Chloroceryle aenea",
-      "AphiaID": 422618,
+      "order": "Pelecaniformes",
+      "family": "Phalacrocoracidae",
+      "genus": "Phalacrocorax",
+      "species": "Phalacrocorax brasilianus",
+      "AphiaID": 343939,
       "obis": false,
       "gbif": true
     },
@@ -7033,6 +7033,17 @@
       "gbif": true
     },
     {
+      "phylum": "Actinobacteria",
+      "class": "Actinobacteria",
+      "order": "Actinomycetales",
+      "family": "Streptomycetaceae",
+      "genus": "Streptomyces",
+      "species": "Streptomyces olivaceus",
+      "AphiaID": 1728350,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
@@ -7073,6 +7084,16 @@
       "genus": "Echinolittorina",
       "species": "Echinolittorina aspera",
       "AphiaID": 446852,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "family": "Lottiidae",
+      "genus": "Lottia",
+      "species": "Lottia filosa",
+      "AphiaID": 456592,
       "obis": false,
       "gbif": true
     },
@@ -7777,8 +7798,8 @@
       "order": "Pectinida",
       "family": "Pectinidae",
       "genus": "Euvola",
-      "species": "Euvola perula",
-      "AphiaID": 394069,
+      "species": "Euvola perulus",
+      "AphiaID": 1728455,
       "obis": false,
       "gbif": true
     },
@@ -9388,18 +9409,6 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Labridae",
-      "genus": "Halichoeres",
-      "species": "Halichoeres bivittatus",
-      "AphiaID": 158815,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Carangidae",
       "genus": "Alectis",
@@ -9581,8 +9590,8 @@
       "order": "Cardiida",
       "family": "Semelidae",
       "genus": "Semele",
-      "species": "Semele purpurascens",
-      "AphiaID": 420916,
+      "species": "Semele lamyi",
+      "AphiaID": 225272,
       "obis": false,
       "gbif": true
     },
@@ -9592,8 +9601,8 @@
       "order": "Cardiida",
       "family": "Semelidae",
       "genus": "Semele",
-      "species": "Semele lamyi",
-      "AphiaID": 225272,
+      "species": "Semele purpurascens",
+      "AphiaID": 420916,
       "obis": false,
       "gbif": true
     },
@@ -9857,9 +9866,9 @@
       "class": "Gastropoda",
       "order": "Neogastropoda",
       "family": "Cancellariidae",
-      "genus": "Trigonostoma",
-      "species": "Trigonostoma bullatum",
-      "AphiaID": 464847,
+      "genus": "Ventrilia",
+      "species": "Ventrilia bullata",
+      "AphiaID": 1721415,
       "obis": false,
       "gbif": true
     },
@@ -11217,6 +11226,17 @@
       "genus": "Halecium",
       "species": "Halecium wilsoni",
       "AphiaID": 284778,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Nidorellia",
+      "species": "Nidorellia armata",
+      "AphiaID": 254919,
       "obis": false,
       "gbif": true
     },

@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:08",
+  "created": "2024-01-22T10:20:11",
   "species": [
     {
       "phylum": "Chordata",
@@ -22,7 +22,7 @@
       "genus": "Sphyraena",
       "species": "Sphyraena barracuda",
       "AphiaID": 345843,
-      "records": 2,
+      "records": 3,
       "max_year": 1948,
       "group": "fish",
       "obis": true,
@@ -50,7 +50,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus decussatus",
       "AphiaID": 276530,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -1531,6 +1531,17 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Naticidae",
+      "genus": "Natica",
+      "species": "Natica fasciata",
+      "AphiaID": 570002,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
@@ -1724,8 +1735,8 @@
       "order": "Kurtiformes",
       "family": "Apogonidae",
       "genus": "Fowleria",
-      "species": "Fowleria punctulata",
-      "AphiaID": 277516,
+      "species": "Fowleria variegata",
+      "AphiaID": 209403,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -1882,9 +1893,9 @@
       "class": "Bivalvia",
       "order": "Myida",
       "family": "Teredinidae",
-      "genus": "Teredo",
-      "species": "Teredo clappi",
-      "AphiaID": 397192,
+      "genus": "Dicyathifer",
+      "species": "Dicyathifer mannii",
+      "AphiaID": 530847,
       "obis": false,
       "gbif": true
     },
@@ -1893,9 +1904,9 @@
       "class": "Bivalvia",
       "order": "Myida",
       "family": "Teredinidae",
-      "genus": "Dicyathifer",
-      "species": "Dicyathifer mannii",
-      "AphiaID": 530847,
+      "genus": "Teredo",
+      "species": "Teredo clappi",
+      "AphiaID": 397192,
       "obis": false,
       "gbif": true
     },
@@ -1962,17 +1973,6 @@
       "genus": "Pseudovertagus",
       "species": "Pseudovertagus aluco",
       "AphiaID": 473486,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Littorinimorpha",
-      "family": "Naticidae",
-      "genus": "Natica",
-      "species": "Natica fasciata",
-      "AphiaID": 570002,
       "obis": false,
       "gbif": true
     },

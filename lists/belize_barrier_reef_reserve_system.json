@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:05",
+  "created": "2024-01-22T10:20:02",
   "species": [
     {
       "phylum": "Annelida",
@@ -3697,7 +3697,7 @@
       "records": 1,
       "group": "fish",
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Chordata",
@@ -15222,7 +15222,7 @@
       "AphiaID": 623237,
       "records": 2,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Myzozoa",
@@ -17133,13 +17133,13 @@
       "gbif": true
     },
     {
-      "phylum": "Platyhelminthes",
-      "class": "Cestoda",
-      "order": "Rhinebothriidea",
-      "family": "Anindobothriidae",
-      "genus": "Anindobothrium",
-      "species": "Anindobothrium inexpectatum",
-      "AphiaID": 1427800,
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Actiniaria",
+      "family": "Actiniidae",
+      "genus": "Condylactis",
+      "species": "Condylactis gigantea",
+      "AphiaID": 283419,
       "obis": false,
       "gbif": true
     },
@@ -17162,6 +17162,17 @@
       "genus": "Okeanomyces",
       "species": "Okeanomyces cucullatus",
       "AphiaID": 437765,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Bryopsidales",
+      "family": "Caulerpaceae",
+      "genus": "Caulerpa",
+      "species": "Caulerpa cupressoides",
+      "AphiaID": 144467,
       "obis": false,
       "gbif": true
     },
@@ -17199,24 +17210,13 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Actiniaria",
-      "family": "Actiniidae",
-      "genus": "Condylactis",
-      "species": "Condylactis gigantea",
-      "AphiaID": 283419,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chlorophyta",
-      "class": "Ulvophyceae",
-      "order": "Bryopsidales",
-      "family": "Caulerpaceae",
-      "genus": "Caulerpa",
-      "species": "Caulerpa cupressoides",
-      "AphiaID": 144467,
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Palinuridae",
+      "genus": "Panulirus",
+      "species": "Panulirus argus",
+      "AphiaID": 382891,
       "obis": false,
       "gbif": true
     },
@@ -17261,17 +17261,6 @@
       "genus": "Sternula",
       "species": "Sternula antillarum",
       "AphiaID": 567797,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Palinuridae",
-      "genus": "Panulirus",
-      "species": "Panulirus argus",
-      "AphiaID": 382891,
       "obis": false,
       "gbif": true
     },
@@ -17382,6 +17371,17 @@
       "genus": "Limnodriloides",
       "species": "Limnodriloides anxius",
       "AphiaID": 475795,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Platyhelminthes",
+      "class": "Cestoda",
+      "order": "Rhinebothriidea",
+      "family": "Anindobothriidae",
+      "genus": "Anindobothrium",
+      "species": "Anindobothrium inexpectatum",
+      "AphiaID": 1427800,
       "obis": false,
       "gbif": true
     },
@@ -17872,7 +17872,7 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Diogenidae",
+      "family": "Calcinidae",
       "genus": "Calcinus",
       "species": "Calcinus tibicen",
       "AphiaID": 367457,
@@ -18262,6 +18262,18 @@
       "genus": "Syllis",
       "species": "Syllis cornuta",
       "AphiaID": 157583,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Bothidae",
+      "genus": "Bothus",
+      "species": "Bothus maculiferus",
+      "AphiaID": 274188,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -19384,18 +19396,6 @@
       "genus": "Leodice",
       "species": "Leodice antennata",
       "AphiaID": 336660,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Pleuronectiformes",
-      "family": "Bothidae",
-      "genus": "Bothus",
-      "species": "Bothus maculiferus",
-      "AphiaID": 274188,
-      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -20878,6 +20878,17 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Mithracidae",
+      "genus": "Thoe",
+      "species": "Thoe puella",
+      "AphiaID": 442143,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
       "class": "Anthozoa",
       "order": "Scleractinia",
@@ -21635,18 +21646,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Gobiiformes",
-      "family": "Gobiidae",
-      "genus": "Coryphopterus",
-      "species": "Coryphopterus kuna",
-      "AphiaID": 276430,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
       "order": "Bryopsidales",
@@ -21665,6 +21664,29 @@
       "genus": "Ceramium",
       "species": "Ceramium nitens",
       "AphiaID": 373059,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Coryphopterus",
+      "species": "Coryphopterus kuna",
+      "AphiaID": 276430,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Haplosclerida",
+      "family": "Niphatidae",
+      "genus": "Niphates",
+      "species": "Niphates erecta",
+      "AphiaID": 166776,
       "obis": false,
       "gbif": true
     },
@@ -21753,17 +21775,6 @@
       "genus": "Dichotomaria",
       "species": "Dichotomaria obtusata",
       "AphiaID": 376874,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Haplosclerida",
-      "family": "Niphatidae",
-      "genus": "Niphates",
-      "species": "Niphates erecta",
-      "AphiaID": 166776,
       "obis": false,
       "gbif": true
     },
@@ -22883,6 +22894,17 @@
     {
       "phylum": "Porifera",
       "class": "Demospongiae",
+      "order": "Haplosclerida",
+      "family": "Callyspongiidae",
+      "genus": "Callyspongia",
+      "species": "Callyspongia (Cladochalina) tenerrima",
+      "AphiaID": 166230,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
       "order": "Poecilosclerida",
       "family": "Microcionidae",
       "genus": "Antho",
@@ -23282,17 +23304,6 @@
     {
       "phylum": "Porifera",
       "class": "Demospongiae",
-      "order": "Haplosclerida",
-      "family": "Callyspongiidae",
-      "genus": "Callyspongia",
-      "species": "Callyspongia (Cladochalina) tenerrima",
-      "AphiaID": 166230,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
       "order": "Poecilosclerida",
       "family": "Microcionidae",
       "genus": "Clathria",
@@ -23386,18 +23397,6 @@
       "genus": "Amphelikturus",
       "species": "Amphelikturus dendriticus",
       "AphiaID": 316266,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
-      "family": "Scombridae",
-      "genus": "Acanthocybium",
-      "species": "Acanthocybium solandri",
-      "AphiaID": 127014,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -23928,10 +23927,32 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
+      "family": "Alpheidae",
+      "genus": "Synalpheus",
+      "species": "Synalpheus dominicensis",
+      "AphiaID": 515138,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
       "family": "Mithracidae",
       "genus": "Mithrax",
       "species": "Mithrax hispidus",
       "AphiaID": 158429,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Dictyoceratida",
+      "family": "Irciniidae",
+      "genus": "Ircinia",
+      "species": "Ircinia campana",
+      "AphiaID": 165009,
       "obis": false,
       "gbif": true
     },
@@ -23943,6 +23964,17 @@
       "genus": "Clathria",
       "species": "Clathria (Microciona) campecheae",
       "AphiaID": 167626,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Poecilosclerida",
+      "family": "Desmacididae",
+      "genus": "Desmapsamma",
+      "species": "Desmapsamma anchorata",
+      "AphiaID": 169121,
       "obis": false,
       "gbif": true
     },
@@ -24789,10 +24821,10 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Alpheidae",
-      "genus": "Synalpheus",
-      "species": "Synalpheus dominicensis",
-      "AphiaID": 515138,
+      "family": "Lysmatidae",
+      "genus": "Lysmata",
+      "species": "Lysmata intermedia",
+      "AphiaID": 107525,
       "obis": false,
       "gbif": true
     },
@@ -24826,17 +24858,6 @@
       "genus": "Panopeus",
       "species": "Panopeus herbstii",
       "AphiaID": 158436,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Dictyoceratida",
-      "family": "Irciniidae",
-      "genus": "Ircinia",
-      "species": "Ircinia campana",
-      "AphiaID": 165009,
       "obis": false,
       "gbif": true
     },
@@ -25309,6 +25330,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Acanthocybium",
+      "species": "Acanthocybium solandri",
+      "AphiaID": 127014,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Gobiiformes",
       "family": "Gobiidae",
       "genus": "Elacatinus",
@@ -25387,6 +25420,17 @@
       "species": "Tomicodon fasciatus",
       "AphiaID": 282993,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Threskiornithidae",
+      "genus": "Platalea",
+      "species": "Platalea ajaja",
+      "AphiaID": 422584,
       "obis": false,
       "gbif": true
     },
@@ -26002,6 +26046,17 @@
       "genus": "Echinolittorina",
       "species": "Echinolittorina tuberculata",
       "AphiaID": 419563,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Lysmatidae",
+      "genus": "Lysmata",
+      "species": "Lysmata pederseni",
+      "AphiaID": 421780,
       "obis": false,
       "gbif": true
     },
@@ -26737,6 +26792,17 @@
       "class": "Malacostraca",
       "order": "Decapoda",
       "family": "Palaemonidae",
+      "genus": "Palaemon",
+      "species": "Palaemon floridanus",
+      "AphiaID": 421689,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Palaemonidae",
       "genus": "Periclimenes",
       "species": "Periclimenes yucatanicus",
       "AphiaID": 421713,
@@ -26850,17 +26916,6 @@
       "genus": "Latreutes",
       "species": "Latreutes parvulus",
       "AphiaID": 240877,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Lysmatidae",
-      "genus": "Lysmata",
-      "species": "Lysmata intermedia",
-      "AphiaID": 107525,
       "obis": false,
       "gbif": true
     },
@@ -27076,17 +27131,6 @@
     {
       "phylum": "Porifera",
       "class": "Demospongiae",
-      "order": "Poecilosclerida",
-      "family": "Desmacididae",
-      "genus": "Desmapsamma",
-      "species": "Desmapsamma anchorata",
-      "AphiaID": 169121,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
       "order": "Haplosclerida",
       "family": "Niphatidae",
       "genus": "Amphimedon",
@@ -27235,6 +27279,17 @@
       "genus": "Gastrophanella",
       "species": "Gastrophanella cavernicola",
       "AphiaID": 171201,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Brachiopoda",
+      "class": "Rhynchonellata",
+      "order": "Thecideida",
+      "family": "Thecideidae",
+      "genus": "Lacazella",
+      "species": "Lacazella caribbeanensis",
+      "AphiaID": 235446,
       "obis": false,
       "gbif": true
     },
@@ -28190,17 +28245,6 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Ciconiiformes",
-      "family": "Threskiornithidae",
-      "genus": "Platalea",
-      "species": "Platalea ajaja",
-      "AphiaID": 422584,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
       "order": "Podicipediformes",
       "family": "Podicipedidae",
       "genus": "Tachybaptus",
@@ -28440,9 +28484,9 @@
       "class": "Malacostraca",
       "order": "Amphipoda",
       "family": "Photidae",
-      "genus": "Gammaropsis",
-      "species": "Gammaropsis chelifera",
-      "AphiaID": 214708,
+      "genus": "Audulla",
+      "species": "Audulla chelifera",
+      "AphiaID": 410793,
       "obis": false,
       "gbif": true
     },
@@ -28822,11 +28866,33 @@
     {
       "phylum": "Mollusca",
       "class": "Gastropoda",
+      "order": "Cephalaspidea",
+      "family": "Aglajidae",
+      "genus": "Chelidonura",
+      "species": "Chelidonura hirundinina",
+      "AphiaID": 420528,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
       "order": "Lepetellida",
       "family": "Fissurellidae",
       "genus": "Rimula",
       "species": "Rimula frenulata",
       "AphiaID": 419373,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Aplysiida",
+      "family": "Aplysiidae",
+      "genus": "Aplysia",
+      "species": "Aplysia brasiliana",
+      "AphiaID": 160029,
       "obis": false,
       "gbif": true
     },
@@ -29100,9 +29166,9 @@
       "class": "Gastropoda",
       "order": "Neogastropoda",
       "family": "Muricidae",
-      "genus": "Orania",
-      "species": "Orania nodosa",
-      "AphiaID": 408202,
+      "genus": "Semiricinula",
+      "species": "Semiricinula nodosa",
+      "AphiaID": 714215,
       "obis": false,
       "gbif": true
     },
@@ -29145,17 +29211,6 @@
       "genus": "Sinezona",
       "species": "Sinezona confusa",
       "AphiaID": 419379,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Lysmatidae",
-      "genus": "Lysmata",
-      "species": "Lysmata pederseni",
-      "AphiaID": 421780,
       "obis": false,
       "gbif": true
     },
@@ -29295,9 +29350,9 @@
       "class": "Malacostraca",
       "order": "Decapoda",
       "family": "Palaemonidae",
-      "genus": "Cuapetes",
-      "species": "Cuapetes americanus",
-      "AphiaID": 514508,
+      "genus": "Palaemonella",
+      "species": "Palaemonella americana",
+      "AphiaID": 1725645,
       "obis": false,
       "gbif": true
     },
@@ -29769,6 +29824,16 @@
       "genus": "Conus",
       "species": "Conus spurius",
       "AphiaID": 420223,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "family": "Hermaeidae",
+      "genus": "Caliphylla",
+      "species": "Caliphylla viridis",
+      "AphiaID": 1296132,
       "obis": false,
       "gbif": true
     },
@@ -30940,17 +31005,6 @@
       "gbif": true
     },
     {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Mithracidae",
-      "genus": "Thoe",
-      "species": "Thoe puella",
-      "AphiaID": 442143,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
@@ -31017,6 +31071,28 @@
       "gbif": true
     },
     {
+      "phylum": "Cnidaria",
+      "class": "Anthozoa",
+      "order": "Antipatharia",
+      "family": "Antipathidae",
+      "genus": "Antipathes",
+      "species": "Antipathes caribbeana",
+      "AphiaID": 283884,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Copepoda",
+      "order": "Calanoida",
+      "family": "Pontellidae",
+      "genus": "Calanopia",
+      "species": "Calanopia americana",
+      "AphiaID": 104723,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
@@ -31035,6 +31111,17 @@
       "genus": "Percnon",
       "species": "Percnon gibbesi",
       "AphiaID": 107458,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Nuculida",
+      "family": "Nuculidae",
+      "genus": "Nucula",
+      "species": "Nucula calcicola",
+      "AphiaID": 420658,
       "obis": false,
       "gbif": true
     },
@@ -31100,7 +31187,7 @@
       "phylum": "Cnidaria",
       "class": "Anthozoa",
       "order": "Scleractinia",
-      "family": "Oculinidae",
+      "family": "Bathyporidae",
       "genus": "Madrepora",
       "species": "Madrepora oculata",
       "AphiaID": 135209,

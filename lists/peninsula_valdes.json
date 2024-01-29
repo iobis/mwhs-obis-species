@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:08",
+  "created": "2024-01-22T10:20:11",
   "species": [
     {
       "phylum": "Annelida",
@@ -1052,7 +1052,7 @@
       "genus": "Callorhinchus",
       "species": "Callorhinchus callorynchus",
       "AphiaID": 278468,
-      "records": 6,
+      "records": 11,
       "max_year": 1995,
       "group": "fish",
       "obis": true,
@@ -1067,7 +1067,7 @@
       "genus": "Callorhinchus",
       "species": "Callorhinchus milii",
       "AphiaID": 278469,
-      "records": 2,
+      "records": 3,
       "max_year": 1996,
       "group": "fish",
       "obis": true,
@@ -1109,7 +1109,7 @@
       "genus": "Eubalaena",
       "species": "Eubalaena australis",
       "AphiaID": 220222,
-      "records": 403,
+      "records": 410,
       "max_year": 2023,
       "group": "mammal",
       "obis": true,
@@ -1233,7 +1233,7 @@
       "genus": "Odontesthes",
       "species": "Odontesthes argentinensis",
       "AphiaID": 281824,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1259,7 +1259,7 @@
       "genus": "Odontesthes",
       "species": "Odontesthes nigricans",
       "AphiaID": 281828,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1311,7 +1311,7 @@
       "genus": "Ribeiroclinus",
       "species": "Ribeiroclinus eigenmanni",
       "AphiaID": 282611,
-      "records": 10,
+      "records": 11,
       "max_year": 2019,
       "group": "fish",
       "obis": true,
@@ -1521,7 +1521,7 @@
       "genus": "Agonopsis",
       "species": "Agonopsis chiloensis",
       "AphiaID": 279520,
-      "records": 7,
+      "records": 10,
       "max_year": 1989,
       "group": "fish",
       "obis": true,
@@ -1719,7 +1719,7 @@
       "genus": "Acanthistius",
       "species": "Acanthistius patachonicus",
       "AphiaID": 278725,
-      "records": 5,
+      "records": 7,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1877,7 +1877,7 @@
       "genus": "Hippocampus",
       "species": "Hippocampus erectus",
       "AphiaID": 159445,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false,
@@ -4901,6 +4901,16 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "family": "Nacellidae",
+      "genus": "Nacella",
+      "species": "Nacella magellanica",
+      "AphiaID": 456657,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Podicipediformes",
@@ -4976,7 +4986,7 @@
       "AphiaID": 366876,
       "obis": false,
       "gbif": true,
-      "redlist_category": "NT"
+      "redlist_category": "VU"
     },
     {
       "phylum": "Nematoda",
@@ -5328,16 +5338,6 @@
       "genus": "Ampithoe",
       "species": "Ampithoe valida",
       "AphiaID": 102005,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "family": "Nacellidae",
-      "genus": "Nacella",
-      "species": "Nacella magellanica",
-      "AphiaID": 456657,
       "obis": false,
       "gbif": true
     },
@@ -6984,6 +6984,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Ascidiacea",
+      "order": "Aplousobranchia",
+      "family": "Polyclinidae",
+      "genus": "Aplidium",
+      "species": "Aplidium variabile",
+      "AphiaID": 173637,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
       "order": "Bryopsidales",
@@ -7046,17 +7057,6 @@
       "genus": "Ectopleura",
       "species": "Ectopleura crocea",
       "AphiaID": 117981,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Ascidiacea",
-      "order": "Aplousobranchia",
-      "family": "Polyclinidae",
-      "genus": "Aplidium",
-      "species": "Aplidium variabile",
-      "AphiaID": 173637,
       "obis": false,
       "gbif": true
     },

@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:07",
+  "created": "2024-01-22T10:20:10",
   "species": [
     {
       "phylum": "Annelida",
@@ -1635,7 +1635,7 @@
       "AphiaID": 237472,
       "records": 1,
       "obis": true,
-      "gbif": true
+      "gbif": false
     },
     {
       "phylum": "Arthropoda",
@@ -6250,7 +6250,7 @@
       "genus": "Hydrurga",
       "species": "Hydrurga leptonyx",
       "AphiaID": 231417,
-      "records": 5,
+      "records": 19,
       "max_year": 2019,
       "group": "mammal",
       "obis": true,
@@ -6362,7 +6362,7 @@
       "genus": "Rosenblattia",
       "species": "Rosenblattia robusta",
       "AphiaID": 282630,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -6542,7 +6542,7 @@
       "genus": "Sprattus",
       "species": "Sprattus novaehollandiae",
       "AphiaID": 272283,
-      "records": 2,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -6611,7 +6611,7 @@
       "genus": "Coelorinchus",
       "species": "Coelorinchus aspercephalus",
       "AphiaID": 280252,
-      "records": 7,
+      "records": 8,
       "max_year": 2001,
       "group": "fish",
       "obis": true,
@@ -6695,7 +6695,7 @@
       "genus": "Pseudophycis",
       "species": "Pseudophycis bachus",
       "AphiaID": 282468,
-      "records": 9,
+      "records": 10,
       "max_year": 2008,
       "group": "fish",
       "obis": true,
@@ -6709,7 +6709,7 @@
       "genus": "Galaxias",
       "species": "Galaxias brevipinnis",
       "AphiaID": 280809,
-      "records": 2,
+      "records": 3,
       "max_year": 1980,
       "group": "fish",
       "obis": true,
@@ -6723,7 +6723,7 @@
       "genus": "Gastrocymba",
       "species": "Gastrocymba quadriradiata",
       "AphiaID": 280818,
-      "records": 30,
+      "records": 45,
       "max_year": 1980,
       "group": "fish",
       "obis": true,
@@ -6765,7 +6765,7 @@
       "genus": "Acanthoclinus",
       "species": "Acanthoclinus littoreus",
       "AphiaID": 279471,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -6778,7 +6778,7 @@
       "genus": "Bovichtus",
       "species": "Bovichtus variegatus",
       "AphiaID": 279377,
-      "records": 4,
+      "records": 5,
       "max_year": 1989,
       "group": "fish",
       "obis": true,
@@ -6834,7 +6834,7 @@
       "genus": "Notothenia",
       "species": "Notothenia angustata",
       "AphiaID": 279349,
-      "records": 5,
+      "records": 6,
       "max_year": 1977,
       "group": "fish",
       "obis": true,
@@ -6848,7 +6848,7 @@
       "genus": "Notothenia",
       "species": "Notothenia microlepidota",
       "AphiaID": 234716,
-      "records": 38,
+      "records": 47,
       "max_year": 2001,
       "group": "fish",
       "obis": true,
@@ -6862,7 +6862,7 @@
       "genus": "Paranotothenia",
       "species": "Paranotothenia magellanica",
       "AphiaID": 234645,
-      "records": 4,
+      "records": 6,
       "max_year": 1980,
       "group": "fish",
       "obis": true,
@@ -6904,7 +6904,7 @@
       "genus": "Parapercis",
       "species": "Parapercis gilliesii",
       "AphiaID": 276997,
-      "records": 3,
+      "records": 4,
       "max_year": 1986,
       "group": "fish",
       "obis": true,
@@ -6946,7 +6946,7 @@
       "genus": "Helicolenus",
       "species": "Helicolenus percoides",
       "AphiaID": 274770,
-      "records": 2,
+      "records": 3,
       "max_year": 1965,
       "group": "fish",
       "obis": true,
@@ -7030,7 +7030,7 @@
       "genus": "Rhombosolea",
       "species": "Rhombosolea tapirina",
       "AphiaID": 282603,
-      "records": 4,
+      "records": 6,
       "max_year": 1980,
       "group": "fish",
       "obis": true,
@@ -11886,7 +11886,8 @@
       "genus": "Asthenothaerus",
       "species": "Asthenothaerus maxwelli",
       "AphiaID": 395494,
-      "records": 8,
+      "records": 12,
+      "max_year": 1963,
       "obis": true,
       "gbif": true
     },
@@ -17584,6 +17585,17 @@
     {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Ischyroceridae",
+      "genus": "Neoischyrocerus",
+      "species": "Neoischyrocerus longimanus",
+      "AphiaID": 1728899,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
       "order": "Isopoda",
       "family": "Serolidae",
       "genus": "Spinoserolis",
@@ -17644,6 +17656,17 @@
       "genus": "Durvillaea",
       "species": "Durvillaea poha",
       "AphiaID": 626384,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Foraminifera",
+      "class": "Tubothalamea",
+      "order": "Miliolida",
+      "family": "Hauerinidae",
+      "genus": "Quinqueloculina",
+      "species": "Quinqueloculina delicatula",
+      "AphiaID": 1724093,
       "obis": false,
       "gbif": true
     },
@@ -18000,17 +18023,6 @@
       "gbif": true
     },
     {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Nemaliales",
-      "family": "Scinaiaceae",
-      "genus": "Nothogenia",
-      "species": "Nothogenia fastigiata",
-      "AphiaID": 373489,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Blenniiformes",
@@ -18019,6 +18031,17 @@
       "species": "Forsterygion flavonigrum",
       "AphiaID": 280795,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Nemaliales",
+      "family": "Scinaiaceae",
+      "genus": "Nothogenia",
+      "species": "Nothogenia fastigiata",
+      "AphiaID": 373489,
       "obis": false,
       "gbif": true
     },
@@ -18242,6 +18265,17 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Polyplacophora",
+      "order": "Callochitonida",
+      "family": "Callochitonidae",
+      "genus": "Eudoxochiton",
+      "species": "Eudoxochiton nobilis",
+      "AphiaID": 832079,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Annelida",
       "class": "Polychaeta",
       "order": "Sabellida",
@@ -18426,17 +18460,6 @@
       "genus": "Pseudoboletia",
       "species": "Pseudoboletia indiana",
       "AphiaID": 214457,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Pectinida",
-      "family": "Cyclochlamydidae",
-      "genus": "Cyclochlamys",
-      "species": "Cyclochlamys pileolus",
-      "AphiaID": 390750,
       "obis": false,
       "gbif": true
     },
@@ -19313,17 +19336,6 @@
       "genus": "Dolichiscus",
       "species": "Dolichiscus hiemalis",
       "AphiaID": 174596,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Polyplacophora",
-      "order": "Callochitonida",
-      "family": "Callochitonidae",
-      "genus": "Eudoxochiton",
-      "species": "Eudoxochiton nobilis",
-      "AphiaID": 832079,
       "obis": false,
       "gbif": true
     },
@@ -20318,7 +20330,8 @@
       "AphiaID": 158656,
       "group": "fish",
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",

@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:09",
+  "created": "2024-01-22T10:20:12",
   "species": [
     {
       "phylum": "Chordata",
@@ -176,8 +176,8 @@
       "genus": "Dinophysis",
       "species": "Dinophysis acuta",
       "AphiaID": 109604,
-      "records": 7,
-      "max_year": 2018,
+      "records": 8,
+      "max_year": 2023,
       "obis": true,
       "gbif": true
     },
@@ -189,8 +189,8 @@
       "genus": "Dinophysis",
       "species": "Dinophysis norvegica",
       "AphiaID": 109637,
-      "records": 2,
-      "max_year": 2003,
+      "records": 3,
+      "max_year": 2023,
       "obis": true,
       "gbif": true
     },
@@ -243,7 +243,8 @@
       "AphiaID": 127186,
       "group": "fish",
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "NT"
     },
     {
       "phylum": "Chordata",

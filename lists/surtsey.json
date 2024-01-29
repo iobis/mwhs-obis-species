@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:09",
+  "created": "2024-01-22T10:20:12",
   "species": [
     {
       "phylum": "Arthropoda",
@@ -286,7 +286,8 @@
       "species": "Charadrius mongolus",
       "AphiaID": 212614,
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "EN"
     },
     {
       "phylum": "Chordata",

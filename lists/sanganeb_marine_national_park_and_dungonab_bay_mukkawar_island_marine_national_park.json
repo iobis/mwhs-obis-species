@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:08",
+  "created": "2024-01-22T10:20:11",
   "species": [
     {
       "phylum": "Annelida",
@@ -818,7 +818,7 @@
       "genus": "Siganus",
       "species": "Siganus luridus",
       "AphiaID": 127044,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -831,7 +831,7 @@
       "genus": "Siganus",
       "species": "Siganus rivulatus",
       "AphiaID": 127045,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -900,7 +900,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus bigibbus",
       "AphiaID": 218707,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -913,7 +913,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus cinerascens",
       "AphiaID": 218708,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -926,7 +926,7 @@
       "genus": "Terapon",
       "species": "Terapon jarbua",
       "AphiaID": 218350,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -939,7 +939,7 @@
       "genus": "Gerres",
       "species": "Gerres oyena",
       "AphiaID": 218535,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -952,7 +952,7 @@
       "genus": "Lethrinus",
       "species": "Lethrinus lentjan",
       "AphiaID": 212061,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -965,7 +965,7 @@
       "genus": "Lutjanus",
       "species": "Lutjanus fulviflamma",
       "AphiaID": 218490,
-      "records": 2,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -978,7 +978,7 @@
       "genus": "Feia",
       "species": "Feia nympha",
       "AphiaID": 219466,
-      "records": 2,
+      "records": 3,
       "max_year": 2009,
       "group": "fish",
       "obis": true,
@@ -992,7 +992,7 @@
       "genus": "Gobiodon",
       "species": "Gobiodon prolixus",
       "AphiaID": 276932,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1005,7 +1005,7 @@
       "genus": "Trimmatom",
       "species": "Trimmatom nanus",
       "AphiaID": 219592,
-      "records": 3,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1018,7 +1018,7 @@
       "genus": "Crenimugil",
       "species": "Crenimugil crenilabis",
       "AphiaID": 151498,
-      "records": 2,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1031,7 +1031,7 @@
       "genus": "Mugil",
       "species": "Mugil cephalus",
       "AphiaID": 126983,
-      "records": 2,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": false
@@ -1044,7 +1044,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis argus",
       "AphiaID": 218174,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1057,7 +1057,7 @@
       "genus": "Cephalopholis",
       "species": "Cephalopholis hemistiktos",
       "AphiaID": 218188,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1070,7 +1070,7 @@
       "genus": "Bothus",
       "species": "Bothus pantherinus",
       "AphiaID": 219795,
-      "records": 1,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -4597,6 +4597,18 @@
       "genus": "Ctenochaetus",
       "species": "Ctenochaetus striatus",
       "AphiaID": 219659,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Microdesmidae",
+      "genus": "Ptereleotris",
+      "species": "Ptereleotris microlepis",
+      "AphiaID": 219616,
       "group": "fish",
       "obis": false,
       "gbif": true

@@ -1,5 +1,5 @@
 {
-  "created": "2023-12-05T10:29:07",
+  "created": "2024-01-22T10:20:09",
   "species": [
     {
       "phylum": "Annelida",
@@ -440,6 +440,19 @@
       "AphiaID": 150894,
       "records": 26,
       "max_year": 2012,
+      "obis": true,
+      "gbif": false
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Hexapoda",
+      "order": "Ephemeroptera",
+      "family": "Baetidae",
+      "genus": "Baetis",
+      "species": "Baetis rhodani",
+      "AphiaID": 1714220,
+      "records": 1,
+      "max_year": 2007,
       "obis": true,
       "gbif": false
     },
@@ -4749,6 +4762,17 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Falconiformes",
+      "family": "Accipitridae",
+      "genus": "Haliaeetus",
+      "species": "Haliaeetus albicilla",
+      "AphiaID": 232053,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
       "order": "Gaviiformes",
       "family": "Gaviidae",
       "genus": "Gavia",
@@ -4776,17 +4800,6 @@
       "genus": "Potamogeton",
       "species": "Potamogeton berchtoldii",
       "AphiaID": 1297680,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Falconiformes",
-      "family": "Accipitridae",
-      "genus": "Haliaeetus",
-      "species": "Haliaeetus albicilla",
-      "AphiaID": 232053,
       "obis": false,
       "gbif": true
     },
@@ -7145,7 +7158,8 @@
       "AphiaID": 127186,
       "group": "fish",
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "NT"
     },
     {
       "phylum": "Mollusca",
