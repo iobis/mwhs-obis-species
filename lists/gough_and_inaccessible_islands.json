@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-22T10:20:04",
+  "created": "2024-04-22T02:33:47",
   "species": [
     {
       "phylum": "Annelida",
@@ -1057,7 +1057,7 @@
       "genus": "Puffinus",
       "species": "Puffinus gravis",
       "AphiaID": 137201,
-      "records": 25,
+      "records": 35,
       "max_year": 2020,
       "obis": true,
       "gbif": true
@@ -1070,7 +1070,7 @@
       "genus": "Eudyptes",
       "species": "Eudyptes chrysocome",
       "AphiaID": 212657,
-      "records": 8,
+      "records": 4,
       "max_year": 1988,
       "obis": true,
       "gbif": true,
@@ -1566,7 +1566,7 @@
       "genus": "Helicolenus",
       "species": "Helicolenus mouchezi",
       "AphiaID": 274769,
-      "records": 20,
+      "records": 18,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1594,7 +1594,7 @@
       "genus": "Lepidoperca",
       "species": "Lepidoperca coatsii",
       "AphiaID": 281298,
-      "records": 7,
+      "records": 6,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1608,7 +1608,7 @@
       "genus": "Arnoglossus",
       "species": "Arnoglossus capensis",
       "AphiaID": 219791,
-      "records": 4,
+      "records": 3,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -1733,7 +1733,7 @@
       "genus": "Notopogon",
       "species": "Notopogon lilliei",
       "AphiaID": 217973,
-      "records": 7,
+      "records": 6,
       "max_year": 2004,
       "group": "fish",
       "obis": true,
@@ -2691,6 +2691,17 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Puffinus",
+      "species": "Puffinus assimilis",
+      "AphiaID": 137200,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Myctophiformes",
       "family": "Myctophidae",
@@ -2706,20 +2717,56 @@
       "class": "Aves",
       "order": "Procellariiformes",
       "family": "Procellariidae",
-      "genus": "Puffinus",
-      "species": "Puffinus assimilis",
-      "AphiaID": 137200,
+      "genus": "Aphrodroma",
+      "species": "Aphrodroma brevirostris",
+      "AphiaID": 344020,
       "obis": false,
       "gbif": true
     },
     {
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Eudyptes",
+      "species": "Eudyptes moseleyi",
+      "AphiaID": 405087,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
       "order": "Procellariiformes",
       "family": "Procellariidae",
-      "genus": "Aphrodroma",
-      "species": "Aphrodroma brevirostris",
-      "AphiaID": 344020,
+      "genus": "Procellaria",
+      "species": "Procellaria conspicillata",
+      "AphiaID": 405096,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Procellaria",
+      "species": "Procellaria cinerea",
+      "AphiaID": 212652,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Pterodroma",
+      "species": "Pterodroma macroptera",
+      "AphiaID": 212644,
       "obis": false,
       "gbif": true
     },
@@ -2740,24 +2787,11 @@
       "class": "Aves",
       "order": "Procellariiformes",
       "family": "Procellariidae",
-      "genus": "Procellaria",
-      "species": "Procellaria cinerea",
-      "AphiaID": 212652,
+      "genus": "Macronectes",
+      "species": "Macronectes halli",
+      "AphiaID": 212637,
       "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Sphenisciformes",
-      "family": "Spheniscidae",
-      "genus": "Eudyptes",
-      "species": "Eudyptes moseleyi",
-      "AphiaID": 405087,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "EN"
+      "gbif": true
     },
     {
       "phylum": "Mollusca",
@@ -2854,31 +2888,42 @@
       "class": "Aves",
       "order": "Procellariiformes",
       "family": "Procellariidae",
-      "genus": "Pterodroma",
-      "species": "Pterodroma macroptera",
-      "AphiaID": 212644,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Macronectes",
-      "species": "Macronectes halli",
-      "AphiaID": 212637,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
       "genus": "Daption",
       "species": "Daption capense",
       "AphiaID": 212640,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Hydrobatidae",
+      "genus": "Fregetta",
+      "species": "Fregetta tropica",
+      "AphiaID": 212696,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Pachyptila",
+      "species": "Pachyptila salvini",
+      "AphiaID": 225961,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Hydrobatidae",
+      "genus": "Oceanites",
+      "species": "Oceanites oceanicus",
+      "AphiaID": 137190,
       "obis": false,
       "gbif": true
     },
@@ -2905,18 +2950,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Procellaria",
-      "species": "Procellaria conspicillata",
-      "AphiaID": 405096,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
       "phylum": "Ascomycota",
       "class": "Eurotiomycetes",
       "order": "Verrucariales",
@@ -2929,34 +2962,12 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Hydrobatidae",
-      "genus": "Oceanites",
-      "species": "Oceanites oceanicus",
-      "AphiaID": 137190,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Thaliacea",
       "order": "Salpida",
       "family": "Salpidae",
       "genus": "Salpa",
       "species": "Salpa fusiformis",
       "AphiaID": 137272,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Pachyptila",
-      "species": "Pachyptila salvini",
-      "AphiaID": 225961,
       "obis": false,
       "gbif": true
     },
@@ -3016,6 +3027,17 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Calidris",
+      "species": "Calidris fuscicollis",
+      "AphiaID": 159050,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Acanthocephala",
@@ -3154,17 +3176,6 @@
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Procellariiformes",
-      "family": "Hydrobatidae",
-      "genus": "Fregetta",
-      "species": "Fregetta tropica",
-      "AphiaID": 212696,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
       "family": "Procellariidae",
       "genus": "Pachyptila",
       "species": "Pachyptila desolata",
@@ -3185,7 +3196,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Caryophyllia",
@@ -3251,7 +3262,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Thouarella",
@@ -3268,17 +3279,6 @@
       "genus": "Thyroscyphus",
       "species": "Thyroscyphus torresii",
       "AphiaID": 292445,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Annelida",
-      "class": "Polychaeta",
-      "order": "Phyllodocida",
-      "family": "Polynoidae",
-      "genus": "Harmothoe",
-      "species": "Harmothoe magellanica",
-      "AphiaID": 174468,
       "obis": false,
       "gbif": true
     },
@@ -3341,16 +3341,15 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Diomedeidae",
-      "genus": "Diomedea",
-      "species": "Diomedea epomophora",
-      "AphiaID": 344000,
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Sphacelariales",
+      "family": "Stypocaulaceae",
+      "genus": "Halopteris",
+      "species": "Halopteris congesta",
+      "AphiaID": 373454,
       "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
+      "gbif": true
     },
     {
       "phylum": "Mollusca",
@@ -3393,6 +3392,17 @@
       "genus": "Gondwanorchestia",
       "species": "Gondwanorchestia scutigerula",
       "AphiaID": 1466473,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Laminariales",
+      "family": "Laminariaceae",
+      "genus": "Macrocystis",
+      "species": "Macrocystis pyrifera",
+      "AphiaID": 232231,
       "obis": false,
       "gbif": true
     },
@@ -3542,7 +3552,7 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Hapalidiaceae",
       "genus": "Synarthrophyton",
       "species": "Synarthrophyton neglectum",
@@ -4698,6 +4708,17 @@
       "genus": "Bostrychia",
       "species": "Bostrychia intricata",
       "AphiaID": 371757,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Laminariales",
+      "family": "Laminariaceae",
+      "genus": "Laminaria",
+      "species": "Laminaria pallida",
+      "AphiaID": 214346,
       "obis": false,
       "gbif": true
     },

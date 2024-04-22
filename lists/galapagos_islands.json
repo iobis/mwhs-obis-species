@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-22T10:20:04",
+  "created": "2024-04-22T02:33:47",
   "species": [
     {
       "phylum": "Arthropoda",
@@ -322,7 +322,7 @@
       "genus": "Pseudobatos",
       "species": "Pseudobatos planiceps",
       "AphiaID": 1043480,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true,
@@ -350,7 +350,7 @@
       "genus": "Acanthurus",
       "species": "Acanthurus triostegus",
       "AphiaID": 219630,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -363,7 +363,7 @@
       "genus": "Johnrandallia",
       "species": "Johnrandallia nigrirostris",
       "AphiaID": 281202,
-      "records": 3,
+      "records": 2,
       "max_year": 1951,
       "group": "fish",
       "obis": true,
@@ -377,7 +377,7 @@
       "genus": "Holacanthus",
       "species": "Holacanthus passer",
       "AphiaID": 276016,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -390,21 +390,8 @@
       "genus": "Anarchias",
       "species": "Anarchias galapagensis",
       "AphiaID": 271800,
-      "records": 3,
-      "max_year": 1938,
-      "group": "fish",
-      "obis": true,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Ophichthus",
-      "species": "Ophichthus rugifer",
-      "AphiaID": 271980,
       "records": 2,
+      "max_year": 1938,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -417,7 +404,7 @@
       "genus": "Fodiator",
       "species": "Fodiator acutus",
       "AphiaID": 280791,
-      "records": 3,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -430,7 +417,7 @@
       "genus": "Ophioblennius",
       "species": "Ophioblennius steindachneri",
       "AphiaID": 273126,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -443,7 +430,7 @@
       "genus": "Plagiotremus",
       "species": "Plagiotremus azaleus",
       "AphiaID": 278234,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -456,7 +443,7 @@
       "genus": "Dactyloscopus",
       "species": "Dactyloscopus lacteus",
       "AphiaID": 276400,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -469,7 +456,7 @@
       "genus": "Platygillellus",
       "species": "Platygillellus rubellulus",
       "AphiaID": 282274,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -482,7 +469,7 @@
       "genus": "Dialommus",
       "species": "Dialommus fuscus",
       "AphiaID": 280517,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -495,7 +482,7 @@
       "genus": "Gobioclinus",
       "species": "Gobioclinus dendriticus",
       "AphiaID": 1015359,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -508,7 +495,7 @@
       "genus": "Malacoctenus",
       "species": "Malacoctenus zonogaster",
       "AphiaID": 281507,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -521,7 +508,7 @@
       "genus": "Lepidonectes",
       "species": "Lepidonectes corallicola",
       "AphiaID": 281295,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -534,20 +521,7 @@
       "genus": "Sphyraena",
       "species": "Sphyraena idiastes",
       "AphiaID": 273981,
-      "records": 2,
-      "group": "fish",
-      "obis": true,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Echeneidae",
-      "genus": "Remora",
-      "species": "Remora remora",
-      "AphiaID": 126853,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -560,7 +534,7 @@
       "genus": "Girella",
       "species": "Girella freminvillii",
       "AphiaID": 280861,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -573,7 +547,7 @@
       "genus": "Kyphosus",
       "species": "Kyphosus vaigiensis",
       "AphiaID": 218706,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -586,7 +560,7 @@
       "genus": "Opisthonema",
       "species": "Opisthonema berlangai",
       "AphiaID": 275502,
-      "records": 8,
+      "records": 5,
       "max_year": 1951,
       "group": "fish",
       "obis": true,
@@ -600,7 +574,7 @@
       "genus": "Opisthonema",
       "species": "Opisthonema libertate",
       "AphiaID": 275504,
-      "records": 3,
+      "records": 2,
       "max_year": 1954,
       "group": "fish",
       "obis": true,
@@ -614,7 +588,7 @@
       "genus": "Brachygenys",
       "species": "Brachygenys jessiae",
       "AphiaID": 1577331,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true,
@@ -628,7 +602,7 @@
       "genus": "Microlepidotus",
       "species": "Microlepidotus lethopristis",
       "AphiaID": 1605278,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -641,7 +615,7 @@
       "genus": "Orthopristis",
       "species": "Orthopristis cantharinus",
       "AphiaID": 275740,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -654,7 +628,7 @@
       "genus": "Bodianus",
       "species": "Bodianus diplotaenia",
       "AphiaID": 273527,
-      "records": 3,
+      "records": 2,
       "max_year": 1932,
       "group": "fish",
       "obis": true,
@@ -668,7 +642,7 @@
       "genus": "Caulolatilus",
       "species": "Caulolatilus princeps",
       "AphiaID": 276217,
-      "records": 9,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -681,7 +655,7 @@
       "genus": "Heteropriacanthus",
       "species": "Heteropriacanthus cruentatus",
       "AphiaID": 127004,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -694,7 +668,7 @@
       "genus": "Pareques",
       "species": "Pareques perissa",
       "AphiaID": 282142,
-      "records": 3,
+      "records": 2,
       "max_year": 1980,
       "group": "fish",
       "obis": true,
@@ -708,7 +682,7 @@
       "genus": "Eleotrica",
       "species": "Eleotrica cableae",
       "AphiaID": 280635,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -721,7 +695,7 @@
       "genus": "Lythrypnus",
       "species": "Lythrypnus gilberti",
       "AphiaID": 281459,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -734,7 +708,7 @@
       "genus": "Lythrypnus",
       "species": "Lythrypnus rhizophora",
       "AphiaID": 281469,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -747,7 +721,7 @@
       "genus": "Myripristis",
       "species": "Myripristis murdjan",
       "AphiaID": 217925,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -760,7 +734,7 @@
       "genus": "Apogon",
       "species": "Apogon atradorsatus",
       "AphiaID": 272977,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -773,7 +747,7 @@
       "genus": "Ogcocephalus",
       "species": "Ogcocephalus darwini",
       "AphiaID": 275906,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -786,7 +760,7 @@
       "genus": "Dajaus",
       "species": "Dajaus monticola",
       "AphiaID": 1042835,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -799,7 +773,7 @@
       "genus": "Mugil",
       "species": "Mugil cephalus",
       "AphiaID": 126983,
-      "records": 7,
+      "records": 4,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -812,7 +786,7 @@
       "genus": "Mugil",
       "species": "Mugil thoburni",
       "AphiaID": 293658,
-      "records": 9,
+      "records": 6,
       "max_year": 1898,
       "group": "fish",
       "obis": true,
@@ -823,24 +797,10 @@
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
       "family": "Pomacentridae",
-      "genus": "Azurina",
-      "species": "Azurina eupalama",
-      "AphiaID": 279851,
-      "records": 2,
-      "group": "fish",
-      "obis": true,
-      "gbif": true,
-      "redlist_category": "CR"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
-      "family": "Pomacentridae",
       "genus": "Nexilosus",
       "species": "Nexilosus latifrons",
       "AphiaID": 281746,
-      "records": 3,
+      "records": 1,
       "max_year": 1898,
       "group": "fish",
       "obis": true,
@@ -854,25 +814,11 @@
       "genus": "Stegastes",
       "species": "Stegastes arcifrons",
       "AphiaID": 276662,
-      "records": 18,
+      "records": 4,
       "max_year": 1906,
       "group": "fish",
       "obis": true,
       "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
-      "family": "Pomacentridae",
-      "genus": "Stegastes",
-      "species": "Stegastes leucorus",
-      "AphiaID": 276673,
-      "records": 2,
-      "group": "fish",
-      "obis": true,
-      "gbif": true,
-      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -882,7 +828,7 @@
       "genus": "Patagonotothen",
       "species": "Patagonotothen tessellata",
       "AphiaID": 279346,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -895,7 +841,7 @@
       "genus": "Scorpaena",
       "species": "Scorpaena histrio",
       "AphiaID": 274716,
-      "records": 3,
+      "records": 2,
       "max_year": 1966,
       "group": "fish",
       "obis": true,
@@ -909,7 +855,7 @@
       "genus": "Scorpaenodes",
       "species": "Scorpaenodes xyris",
       "AphiaID": 274756,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -922,7 +868,7 @@
       "genus": "Dermatolepis",
       "species": "Dermatolepis dermatolepis",
       "AphiaID": 276919,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -935,7 +881,7 @@
       "genus": "Diplectrum",
       "species": "Diplectrum macropoma",
       "AphiaID": 276181,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -948,7 +894,7 @@
       "genus": "Epinephelus",
       "species": "Epinephelus labriformis",
       "AphiaID": 273858,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -961,7 +907,7 @@
       "genus": "Mycteroperca",
       "species": "Mycteroperca olfax",
       "AphiaID": 273881,
-      "records": 9,
+      "records": 5,
       "group": "fish",
       "obis": true,
       "gbif": true,
@@ -975,7 +921,7 @@
       "genus": "Paralabrax",
       "species": "Paralabrax albomaculatus",
       "AphiaID": 282051,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true,
@@ -989,7 +935,7 @@
       "genus": "Paralabrax",
       "species": "Paralabrax humeralis",
       "AphiaID": 282056,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1002,7 +948,7 @@
       "genus": "Paranthias",
       "species": "Paranthias furcifer",
       "AphiaID": 282084,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1015,7 +961,7 @@
       "genus": "Kathetostoma",
       "species": "Kathetostoma averruncus",
       "AphiaID": 275989,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1028,7 +974,7 @@
       "genus": "Trinectes",
       "species": "Trinectes fonsecensis",
       "AphiaID": 275999,
-      "records": 3,
+      "records": 2,
       "max_year": 1888,
       "group": "fish",
       "obis": true,
@@ -1042,7 +988,7 @@
       "genus": "Auxis",
       "species": "Auxis thazard",
       "AphiaID": 127016,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1055,7 +1001,7 @@
       "genus": "Katsuwonus",
       "species": "Katsuwonus pelamis",
       "AphiaID": 127018,
-      "records": 6,
+      "records": 3,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1068,7 +1014,7 @@
       "genus": "Scomber",
       "species": "Scomber colias",
       "AphiaID": 151174,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1081,7 +1027,7 @@
       "genus": "Benthodesmus",
       "species": "Benthodesmus tenuis",
       "AphiaID": 159834,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1094,7 +1040,7 @@
       "genus": "Notarius",
       "species": "Notarius kessleri",
       "AphiaID": 281768,
-      "records": 3,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1107,7 +1053,7 @@
       "genus": "Canthigaster",
       "species": "Canthigaster punctatissima",
       "AphiaID": 275264,
-      "records": 2,
+      "records": 1,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -1120,7 +1066,7 @@
       "genus": "Sphoeroides",
       "species": "Sphoeroides annulatus",
       "AphiaID": 275272,
-      "records": 4,
+      "records": 2,
       "group": "fish",
       "obis": true,
       "gbif": true
@@ -2967,7 +2913,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Hormathiidae",
       "genus": "Actinauge",
@@ -3304,7 +3250,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Psammocoridae",
       "genus": "Psammocora",
@@ -3316,7 +3262,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Rhizangiidae",
       "genus": "Oulangia",
@@ -3327,7 +3273,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -3338,7 +3284,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -3624,6 +3570,18 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Sphenisciformes",
+      "family": "Spheniscidae",
+      "genus": "Spheniscus",
+      "species": "Spheniscus mendiculus",
+      "AphiaID": 344001,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
       "order": "Procellariiformes",
       "family": "Hydrobatidae",
       "genus": "Oceanites",
@@ -3726,18 +3684,6 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Sphenisciformes",
-      "family": "Spheniscidae",
-      "genus": "Spheniscus",
-      "species": "Spheniscus mendiculus",
-      "AphiaID": 344001,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "EN"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
       "order": "Phoenicopteriformes",
       "family": "Phoenicopteridae",
       "genus": "Phoenicopterus",
@@ -3754,6 +3700,17 @@
       "genus": "Anas",
       "species": "Anas bahamensis",
       "AphiaID": 422573,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ardeidae",
+      "genus": "Ardea",
+      "species": "Ardea herodias",
+      "AphiaID": 159382,
       "obis": false,
       "gbif": true
     },
@@ -3782,46 +3739,13 @@
       "gbif": true
     },
     {
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
-      "family": "Schizoporellidae",
-      "genus": "Schizobrachiella",
-      "species": "Schizobrachiella verrilli",
-      "AphiaID": 607846,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Ciconiiformes",
-      "family": "Ardeidae",
-      "genus": "Ardea",
-      "species": "Ardea herodias",
-      "AphiaID": 159382,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
-      "genus": "Numenius",
-      "species": "Numenius phaeopus",
-      "AphiaID": 159040,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Valvatida",
-      "family": "Ophidiasteridae",
-      "genus": "Phataria",
-      "species": "Phataria unifascialis",
-      "AphiaID": 292797,
+      "genus": "Tringa",
+      "species": "Tringa incana",
+      "AphiaID": 567470,
       "obis": false,
       "gbif": true
     },
@@ -3841,9 +3765,31 @@
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
-      "genus": "Tringa",
-      "species": "Tringa incana",
-      "AphiaID": 567470,
+      "genus": "Numenius",
+      "species": "Numenius phaeopus",
+      "AphiaID": 159040,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Schizoporellidae",
+      "genus": "Schizobrachiella",
+      "species": "Schizobrachiella verrilli",
+      "AphiaID": 607846,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Ophidiasteridae",
+      "genus": "Phataria",
+      "species": "Phataria unifascialis",
+      "AphiaID": 292797,
       "obis": false,
       "gbif": true
     },
@@ -3951,17 +3897,6 @@
       "gbif": true
     },
     {
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Valvatida",
-      "family": "Oreasteridae",
-      "genus": "Pentaceraster",
-      "species": "Pentaceraster cumingi",
-      "AphiaID": 370899,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
@@ -3969,6 +3904,17 @@
       "genus": "Himantopus",
       "species": "Himantopus mexicanus",
       "AphiaID": 159131,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Pentaceraster",
+      "species": "Pentaceraster cumingi",
+      "AphiaID": 370899,
       "obis": false,
       "gbif": true
     },
@@ -3984,6 +3930,17 @@
       "gbif": true
     },
     {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Ophidiasteridae",
+      "genus": "Pharia",
+      "species": "Pharia pyramidata",
+      "AphiaID": 292795,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Annelida",
       "class": "Polychaeta",
       "order": "Sabellida",
@@ -3995,13 +3952,13 @@
       "gbif": true
     },
     {
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Valvatida",
-      "family": "Ophidiasteridae",
-      "genus": "Pharia",
-      "species": "Pharia pyramidata",
-      "AphiaID": 292795,
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Charadriidae",
+      "genus": "Charadrius",
+      "species": "Charadrius semipalmatus",
+      "AphiaID": 159126,
       "obis": false,
       "gbif": true
     },
@@ -4018,6 +3975,17 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Charadriidae",
+      "genus": "Haematopus",
+      "species": "Haematopus palliatus",
+      "AphiaID": 159128,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Labridae",
@@ -4025,17 +3993,6 @@
       "species": "Halichoeres nicholsi",
       "AphiaID": 275780,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Charadriidae",
-      "genus": "Charadrius",
-      "species": "Charadrius semipalmatus",
-      "AphiaID": 159126,
       "obis": false,
       "gbif": true
     },
@@ -4058,17 +4015,6 @@
       "genus": "Cliona",
       "species": "Cliona chilensis",
       "AphiaID": 170434,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Charadriidae",
-      "genus": "Haematopus",
-      "species": "Haematopus palliatus",
-      "AphiaID": 159128,
       "obis": false,
       "gbif": true
     },
@@ -4174,7 +4120,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Bunodosoma",
@@ -4210,6 +4156,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Thalassoma",
+      "species": "Thalassoma lucasanum",
+      "AphiaID": 273584,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Centrarchiformes",
       "family": "Cirrhitidae",
       "genus": "Cirrhitus",
@@ -4221,13 +4179,23 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Labridae",
-      "genus": "Thalassoma",
-      "species": "Thalassoma lucasanum",
-      "AphiaID": 273584,
-      "group": "fish",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Larus",
+      "species": "Larus pipixcan",
+      "AphiaID": 159077,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Podicipediformes",
+      "family": "Podicipedidae",
+      "genus": "Podilymbus",
+      "species": "Podilymbus podiceps",
+      "AphiaID": 159062,
       "obis": false,
       "gbif": true
     },
@@ -4244,23 +4212,12 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Pacifigorgia",
       "species": "Pacifigorgia darwinii",
       "AphiaID": 290574,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Podicipediformes",
-      "family": "Podicipedidae",
-      "genus": "Podilymbus",
-      "species": "Podilymbus podiceps",
-      "AphiaID": 159062,
       "obis": false,
       "gbif": true
     },
@@ -4312,17 +4269,6 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Leptothecata",
-      "family": "Haleciidae",
-      "genus": "Nemalecium",
-      "species": "Nemalecium lighti",
-      "AphiaID": 290449,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Myliobatiformes",
@@ -4334,6 +4280,17 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Haleciidae",
+      "genus": "Nemalecium",
+      "species": "Nemalecium lighti",
+      "AphiaID": 290449,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Echinodermata",
@@ -4384,7 +4341,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Phyllangia",
@@ -4399,8 +4356,8 @@
       "order": "Ceramiales",
       "family": "Delesseriaceae",
       "genus": "Dasya",
-      "species": "Dasya baillouviana",
-      "AphiaID": 144714,
+      "species": "Dasya pedicellata",
+      "AphiaID": 239192,
       "obis": false,
       "gbif": true
     },
@@ -4412,17 +4369,6 @@
       "genus": "Sargassum",
       "species": "Sargassum pacificum",
       "AphiaID": 495052,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Larus",
-      "species": "Larus pipixcan",
-      "AphiaID": 159077,
       "obis": false,
       "gbif": true
     },
@@ -4484,6 +4430,17 @@
       "gbif": true
     },
     {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Diadematoida",
+      "family": "Diadematidae",
+      "genus": "Diadema",
+      "species": "Diadema mexicanum",
+      "AphiaID": 513223,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Porifera",
       "class": "Demospongiae",
       "order": "Poecilosclerida",
@@ -4502,17 +4459,6 @@
       "genus": "Tethya",
       "species": "Tethya sarai",
       "AphiaID": 170990,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Diadematoida",
-      "family": "Diadematidae",
-      "genus": "Diadema",
-      "species": "Diadema mexicanum",
-      "AphiaID": 513223,
       "obis": false,
       "gbif": true
     },
@@ -4584,6 +4530,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Calidris",
+      "species": "Calidris minutilla",
+      "AphiaID": 159054,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Porifera",
       "class": "Demospongiae",
       "order": "Dendroceratida",
@@ -4614,17 +4571,6 @@
       "species": "Alphestes immaculatus",
       "AphiaID": 279568,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Calidris",
-      "species": "Calidris minutilla",
-      "AphiaID": 159054,
       "obis": false,
       "gbif": true
     },
@@ -4720,6 +4666,28 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Phalaropodidae",
+      "genus": "Phalaropus",
+      "species": "Phalaropus tricolor",
+      "AphiaID": 159043,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Phalaropodidae",
+      "genus": "Phalaropus",
+      "species": "Phalaropus fulicarius",
+      "AphiaID": 137168,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Gracilariales",
@@ -4727,6 +4695,17 @@
       "genus": "Gracilaria",
       "species": "Gracilaria subsecundata",
       "AphiaID": 375424,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Tringa",
+      "species": "Tringa semipalmata",
+      "AphiaID": 567466,
       "obis": false,
       "gbif": true
     },
@@ -4800,6 +4779,19 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Triaenodon",
+      "species": "Triaenodon obesus",
+      "AphiaID": 214557,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
       "class": "Aves",
       "order": "Procellariiformes",
       "family": "Procellariidae",
@@ -4814,21 +4806,10 @@
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
-      "family": "Phalaropodidae",
-      "genus": "Phalaropus",
-      "species": "Phalaropus tricolor",
-      "AphiaID": 159043,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Phalaropodidae",
-      "genus": "Phalaropus",
-      "species": "Phalaropus fulicarius",
-      "AphiaID": 137168,
+      "family": "Laridae",
+      "genus": "Larus",
+      "species": "Larus atricilla",
+      "AphiaID": 159074,
       "obis": false,
       "gbif": true
     },
@@ -4837,9 +4818,9 @@
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Laridae",
-      "genus": "Larus",
-      "species": "Larus atricilla",
-      "AphiaID": 159074,
+      "genus": "Sterna",
+      "species": "Sterna hirundo",
+      "AphiaID": 137162,
       "obis": false,
       "gbif": true
     },
@@ -4891,19 +4872,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Carcharhiniformes",
-      "family": "Carcharhinidae",
-      "genus": "Triaenodon",
-      "species": "Triaenodon obesus",
-      "AphiaID": 214557,
-      "group": "fish",
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
       "phylum": "Cnidaria",
       "class": "Hydrozoa",
       "order": "Leptothecata",
@@ -4917,7 +4885,7 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Mesophyllumaceae",
       "genus": "Mesophyllum",
       "species": "Mesophyllum laxum",
@@ -4959,17 +4927,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Sterna",
-      "species": "Sterna hirundo",
-      "AphiaID": 137162,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Ochrophyta",
       "class": "Phaeophyceae",
       "order": "Dictyotales",
@@ -4982,7 +4939,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Pacifigorgia",
@@ -5167,6 +5124,18 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Calidris",
+      "species": "Calidris pusilla",
+      "AphiaID": 159055,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
@@ -5190,7 +5159,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Paramuriceidae",
       "genus": "Heterogorgia",
@@ -5230,17 +5199,6 @@
       "genus": "Plocamium",
       "species": "Plocamium cartilagineum",
       "AphiaID": 145782,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Tringa",
-      "species": "Tringa semipalmata",
-      "AphiaID": 567466,
       "obis": false,
       "gbif": true
     },
@@ -5407,18 +5365,6 @@
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
-      "genus": "Calidris",
-      "species": "Calidris pusilla",
-      "AphiaID": 159055,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
       "genus": "Actitis",
       "species": "Actitis macularius",
       "AphiaID": 159081,
@@ -5429,10 +5375,10 @@
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Corallinales",
-      "family": "Lithophyllaceae",
-      "genus": "Pseudolithophyllum",
-      "species": "Pseudolithophyllum neofarlowii",
-      "AphiaID": 372167,
+      "family": "Corallinaceae",
+      "genus": "Chamberlainium",
+      "species": "Chamberlainium tumidum",
+      "AphiaID": 1731873,
       "obis": false,
       "gbif": true
     },
@@ -5477,6 +5423,28 @@
       "genus": "Ahnfeltiopsis",
       "species": "Ahnfeltiopsis smithii",
       "AphiaID": 375714,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Rhizophoraceae",
+      "genus": "Rhizophora",
+      "species": "Rhizophora racemosa",
+      "AphiaID": 235096,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Malpighiales",
+      "family": "Rhizophoraceae",
+      "genus": "Rhizophora",
+      "species": "Rhizophora mangle",
+      "AphiaID": 235094,
       "obis": false,
       "gbif": true
     },
@@ -5582,7 +5550,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Andvakiidae",
       "genus": "Telmatactis",
@@ -5593,7 +5561,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Astrangiidae",
       "genus": "Astrangia",
@@ -5604,7 +5572,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Balanophyllia",
@@ -5708,6 +5676,18 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Alosidae",
+      "genus": "Sardinops",
+      "species": "Sardinops sagax",
+      "AphiaID": 217452,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Myliobatiformes",
       "family": "Aetobatidae",
@@ -5760,28 +5740,6 @@
       "genus": "Sesuvium",
       "species": "Sesuvium portulacastrum",
       "AphiaID": 211508,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Malpighiales",
-      "family": "Rhizophoraceae",
-      "genus": "Rhizophora",
-      "species": "Rhizophora racemosa",
-      "AphiaID": 235096,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Malpighiales",
-      "family": "Rhizophoraceae",
-      "genus": "Rhizophora",
-      "species": "Rhizophora mangle",
-      "AphiaID": 235094,
       "obis": false,
       "gbif": true
     },
@@ -5934,7 +5892,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Plexauridae",
       "genus": "Muricea",
@@ -5978,7 +5936,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Anthopleura",
@@ -5989,8 +5947,8 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Spirularia",
+      "class": "Hexacorallia",
+      "order": "Ceriantharia",
       "family": "Botrucnidiferidae",
       "genus": "Botruanthus",
       "species": "Botruanthus benedeni",
@@ -6000,7 +5958,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Tubastraea",
@@ -6011,7 +5969,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Tubastraea",
@@ -6022,7 +5980,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Rhizopsammia",
@@ -6213,6 +6171,19 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Stegastes",
+      "species": "Stegastes leucorus",
+      "AphiaID": 276673,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Mugiliformes",
       "family": "Mugilidae",
       "genus": "Mugil",
@@ -6254,18 +6225,6 @@
       "genus": "Paralichthys",
       "species": "Paralichthys woolmani",
       "AphiaID": 275822,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Clupeiformes",
-      "family": "Alosidae",
-      "genus": "Sardinops",
-      "species": "Sardinops sagax",
-      "AphiaID": 217452,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -6556,6 +6515,19 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Rhinopteridae",
+      "genus": "Rhinoptera",
+      "species": "Rhinoptera steindachneri",
+      "AphiaID": 271498,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Corallinales",
@@ -6783,7 +6755,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Aiptasiidae",
       "genus": "Exaiptasia",
@@ -7038,11 +7010,11 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Pseudobalistes",
-      "species": "Pseudobalistes naufragium",
-      "AphiaID": 279161,
+      "order": "Anguilliformes",
+      "family": "Congridae",
+      "genus": "Heteroconger",
+      "species": "Heteroconger klausewitzi",
+      "AphiaID": 271780,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7061,11 +7033,23 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Congridae",
-      "genus": "Heteroconger",
-      "species": "Heteroconger klausewitzi",
-      "AphiaID": 271780,
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Pseudobalistes",
+      "species": "Pseudobalistes naufragium",
+      "AphiaID": 279161,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Melichthys",
+      "species": "Melichthys niger",
+      "AphiaID": 219881,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7083,26 +7067,16 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Sterna",
-      "species": "Sterna maxima",
-      "AphiaID": 137163,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Melichthys",
-      "species": "Melichthys niger",
-      "AphiaID": 219881,
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "species": "Carcharhinus limbatus",
+      "AphiaID": 105793,
       "group": "fish",
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Mollusca",
@@ -7112,6 +7086,17 @@
       "genus": "Conus",
       "species": "Conus diadema",
       "AphiaID": 426479,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Sterna",
+      "species": "Sterna maxima",
+      "AphiaID": 137163,
       "obis": false,
       "gbif": true
     },
@@ -7164,6 +7149,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrichthys",
+      "species": "Myrichthys xysturus",
+      "AphiaID": 275490,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Gobiesociformes",
       "family": "Gobiesocidae",
       "genus": "Tomicodon",
@@ -7175,16 +7172,14 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Carcharhiniformes",
-      "family": "Carcharhinidae",
-      "genus": "Carcharhinus",
-      "species": "Carcharhinus limbatus",
-      "AphiaID": 105793,
-      "group": "fish",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Charadriidae",
+      "genus": "Pluvialis",
+      "species": "Pluvialis dominica",
+      "AphiaID": 159136,
       "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
+      "gbif": true
     },
     {
       "phylum": "Tracheophyta",
@@ -7199,7 +7194,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -7247,11 +7242,11 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Myrichthys",
-      "species": "Myrichthys xysturus",
-      "AphiaID": 275490,
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Balistes",
+      "species": "Balistes polylepis",
+      "AphiaID": 275234,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7264,6 +7259,18 @@
       "genus": "Buskia",
       "species": "Buskia seriata",
       "AphiaID": 470654,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Azurina",
+      "species": "Azurina atrilobata",
+      "AphiaID": 1580692,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -7368,7 +7375,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Antipathidae",
       "genus": "Antipathes",
@@ -7379,7 +7386,19 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Pocilloporidae",
+      "genus": "Pocillopora",
+      "species": "Pocillopora inflata",
+      "AphiaID": 289250,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Endopsammia",
@@ -7415,11 +7434,35 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax panamensis",
+      "AphiaID": 271866,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Tetraodontiformes",
       "family": "Monacanthidae",
       "genus": "Aluterus",
       "species": "Aluterus scriptus",
       "AphiaID": 159491,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron hispidus",
+      "AphiaID": 219925,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7433,17 +7476,6 @@
       "species": "Arcos poecilophthalmos",
       "AphiaID": 279684,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Charadriidae",
-      "genus": "Pluvialis",
-      "species": "Pluvialis dominica",
-      "AphiaID": 159136,
       "obis": false,
       "gbif": true
     },
@@ -7472,11 +7504,11 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Ovalentaria incertae sedis",
-      "family": "Pomacentridae",
-      "genus": "Azurina",
-      "species": "Azurina atrilobata",
-      "AphiaID": 1580692,
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Trachinotus",
+      "species": "Trachinotus stilbe",
+      "AphiaID": 273298,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7570,7 +7602,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -7616,11 +7648,11 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Blenniiformes",
-      "family": "Blenniidae",
-      "genus": "Ophioblennius",
-      "species": "Ophioblennius atlanticus",
-      "AphiaID": 126769,
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Caranx",
+      "species": "Caranx melampygus",
+      "AphiaID": 218419,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7628,11 +7660,11 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Muraenidae",
-      "genus": "Gymnothorax",
-      "species": "Gymnothorax panamensis",
-      "AphiaID": 271866,
+      "order": "Blenniiformes",
+      "family": "Blenniidae",
+      "genus": "Ophioblennius",
+      "species": "Ophioblennius atlanticus",
+      "AphiaID": 126769,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -7706,16 +7738,15 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Myliobatiformes",
-      "family": "Rhinopteridae",
-      "genus": "Rhinoptera",
-      "species": "Rhinoptera steindachneri",
-      "AphiaID": 271498,
+      "class": "Teleostei",
+      "order": "Pleuronectiformes",
+      "family": "Bothidae",
+      "genus": "Bothus",
+      "species": "Bothus mancus",
+      "AphiaID": 219796,
       "group": "fish",
       "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
+      "gbif": true
     },
     {
       "phylum": "Chordata",
@@ -7831,19 +7862,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Pocilloporidae",
-      "genus": "Pocillopora",
-      "species": "Pocillopora inflata",
-      "AphiaID": 289250,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Cladopsammia",
@@ -7964,18 +7983,6 @@
       "order": "Carangiformes",
       "family": "Carangidae",
       "genus": "Caranx",
-      "species": "Caranx melampygus",
-      "AphiaID": 218419,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Caranx",
       "species": "Caranx sexfasciatus",
       "AphiaID": 218404,
       "group": "fish",
@@ -8002,30 +8009,6 @@
       "genus": "Myrichthys",
       "species": "Myrichthys tigrinus",
       "AphiaID": 275489,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Balistes",
-      "species": "Balistes polylepis",
-      "AphiaID": 275234,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Tetraodontidae",
-      "genus": "Arothron",
-      "species": "Arothron hispidus",
-      "AphiaID": 219925,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -8147,8 +8130,19 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Terebridae",
+      "genus": "Terebra",
+      "species": "Terebra gabbi",
+      "AphiaID": 1732218,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Poritidae",
       "genus": "Porites",
@@ -8206,18 +8200,6 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Trachinotus",
-      "species": "Trachinotus stilbe",
-      "AphiaID": 273298,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
       "order": "Anguilliformes",
       "family": "Muraenidae",
       "genus": "Echidna",
@@ -8241,18 +8223,6 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Pleuronectiformes",
-      "family": "Bothidae",
-      "genus": "Bothus",
-      "species": "Bothus mancus",
-      "AphiaID": 219796,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Leptocardii",
       "family": "Branchiostomatidae",
       "genus": "Branchiostoma",
@@ -8269,6 +8239,40 @@
       "genus": "Williamia",
       "species": "Williamia peltoides",
       "AphiaID": 559235,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Toxopneustidae",
+      "genus": "Toxopneustes",
+      "species": "Toxopneustes roseus",
+      "AphiaID": 513609,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Seriola",
+      "species": "Seriola peruana",
+      "AphiaID": 276650,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Cymatiidae",
+      "genus": "Reticutriton",
+      "species": "Reticutriton lineatus",
+      "AphiaID": 476565,
       "obis": false,
       "gbif": true
     },
@@ -8506,7 +8510,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Chrysogorgiidae",
       "genus": "Chrysogorgia",
@@ -8729,6 +8733,17 @@
       "phylum": "Arthropoda",
       "class": "Thecostraca",
       "order": "Balanomorpha",
+      "family": "Balanidae",
+      "genus": "Semibalanus",
+      "species": "Semibalanus balanoides",
+      "AphiaID": 106210,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Thecostraca",
+      "order": "Balanomorpha",
       "family": "Tetraclitidae",
       "genus": "Tetraclita",
       "species": "Tetraclita stalactifera",
@@ -8870,7 +8885,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Renillidae",
       "genus": "Renilla",
@@ -8881,7 +8896,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Turbinoliidae",
       "genus": "Sphenotrochus",
@@ -8892,7 +8907,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -8903,7 +8918,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Leptogorgia",
@@ -9091,6 +9106,17 @@
     {
       "phylum": "Mollusca",
       "class": "Gastropoda",
+      "order": "[unassigned] Caenogastropoda",
+      "family": "Epitoniidae",
+      "genus": "Janthina",
+      "species": "Janthina janthina",
+      "AphiaID": 140155,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
       "order": "Littorinimorpha",
       "family": "Eulimidae",
       "genus": "Vitreolina",
@@ -9206,6 +9232,18 @@
       "genus": "Situla",
       "species": "Situla rineharti",
       "AphiaID": 253843,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Pterois",
+      "species": "Pterois antennata",
+      "AphiaID": 218081,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -9332,6 +9370,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus tauvina",
+      "AphiaID": 218205,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Malacanthidae",
       "genus": "Caulolatilus",
@@ -9418,6 +9468,18 @@
       "class": "Teleostei",
       "order": "Anguilliformes",
       "family": "Congridae",
+      "genus": "Heteroconger",
+      "species": "Heteroconger hassi",
+      "AphiaID": 217552,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Congridae",
       "genus": "Paraconger",
       "species": "Paraconger californiensis",
       "AphiaID": 271789,
@@ -9481,6 +9543,18 @@
       "genus": "Uropterygius",
       "species": "Uropterygius polystictus",
       "AphiaID": 277954,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Uropterygius",
+      "species": "Uropterygius versutus",
+      "AphiaID": 277955,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -9573,6 +9647,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Balistidae",
+      "genus": "Canthidermis",
+      "species": "Canthidermis maculata",
+      "AphiaID": 127398,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Pleuronectiformes",
       "family": "Paralichthyidae",
       "genus": "Hippoglossina",
@@ -9657,6 +9743,18 @@
     {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "species": "Carcharhinus galapagensis",
+      "AphiaID": 105790,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
       "order": "Myliobatiformes",
       "family": "Aetobatidae",
       "genus": "Aetobatus",
@@ -9692,6 +9790,18 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Phoenicopteriformes",
+      "family": "Phoenicopteridae",
+      "genus": "Phoenicopterus",
+      "species": "Phoenicopterus chilensis",
+      "AphiaID": 990418,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
+      "phylum": "Chordata",
       "class": "Myxini",
       "order": "Myxiniformes",
       "family": "Myxinidae",
@@ -9717,7 +9827,7 @@
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Corallinales",
-      "family": "Spongitaceae",
+      "family": "Spongitidaceae",
       "genus": "Neogoniolithon",
       "species": "Neogoniolithon brassica-florida",
       "AphiaID": 145191,
@@ -10114,11 +10224,35 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Synanceiidae",
+      "genus": "Synanceia",
+      "species": "Synanceia verrucosa",
+      "AphiaID": 215627,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Scombriformes",
       "family": "Scombridae",
       "genus": "Euthynnus",
       "species": "Euthynnus lineatus",
       "AphiaID": 273806,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Acanthuridae",
+      "genus": "Acanthurus",
+      "species": "Acanthurus xanthopterus",
+      "AphiaID": 219634,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -10172,6 +10306,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Puffinus",
+      "species": "Puffinus nativitatis",
+      "AphiaID": 343987,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Ceramiales",
@@ -10206,6 +10351,18 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Scaridae",
+      "genus": "Cetoscarus",
+      "species": "Cetoscarus ocellatus",
+      "AphiaID": 712771,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Laridae",
@@ -10234,17 +10391,6 @@
       "genus": "Holothuria",
       "species": "Holothuria (Halodeima) inornata",
       "AphiaID": 529367,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Camarodonta",
-      "family": "Toxopneustidae",
-      "genus": "Toxopneustes",
-      "species": "Toxopneustes roseus",
-      "AphiaID": 513609,
       "obis": false,
       "gbif": true
     },
@@ -10308,22 +10454,21 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Xanthidae",
-      "genus": "Platyactaea",
-      "species": "Platyactaea dovii",
-      "AphiaID": 444058,
+      "family": "Porcellanidae",
+      "genus": "Petrolisthes",
+      "species": "Petrolisthes glasselli",
+      "AphiaID": 431849,
       "obis": false,
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Seriola",
-      "species": "Seriola peruana",
-      "AphiaID": 276650,
-      "group": "fish",
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Xanthidae",
+      "genus": "Platyactaea",
+      "species": "Platyactaea dovii",
+      "AphiaID": 444058,
       "obis": false,
       "gbif": true
     },
@@ -10401,17 +10546,6 @@
       "genus": "Lithodes",
       "species": "Lithodes galapagensis",
       "AphiaID": 550628,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Littorinimorpha",
-      "family": "Cymatiidae",
-      "genus": "Reticutriton",
-      "species": "Reticutriton lineatus",
-      "AphiaID": 476565,
       "obis": false,
       "gbif": true
     },
@@ -10507,6 +10641,17 @@
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "[unassigned] Caenogastropoda",
+      "family": "Epitoniidae",
+      "genus": "Epidendrium",
+      "species": "Epidendrium billeeanum",
+      "AphiaID": 523762,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "[unassigned] Caenogastropoda",
       "family": "Triphoridae",
       "genus": "Triphora",
       "species": "Triphora marshi",
@@ -10552,9 +10697,9 @@
       "class": "Gastropoda",
       "order": "[unassigned] Caenogastropoda",
       "family": "Turritellidae",
-      "genus": "Caviturritella",
-      "species": "Caviturritella broderipiana",
-      "AphiaID": 1672420,
+      "genus": "Broderiptella",
+      "species": "Broderiptella broderipiana",
+      "AphiaID": 1737379,
       "obis": false,
       "gbif": true
     },
@@ -10631,6 +10776,17 @@
       "genus": "Iselica",
       "species": "Iselica kochi",
       "AphiaID": 575812,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Systellommatophora",
+      "family": "Onchidiidae",
+      "genus": "Onchidella",
+      "species": "Onchidella steindachneri",
+      "AphiaID": 509949,
       "obis": false,
       "gbif": true
     },
@@ -11230,7 +11386,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -11253,18 +11409,6 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Carcharhiniformes",
-      "family": "Carcharhinidae",
-      "genus": "Carcharhinus",
-      "species": "Carcharhinus galapagensis",
-      "AphiaID": 105790,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Holocentriformes",
       "family": "Holocentridae",
@@ -11276,8 +11420,20 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus jordani",
+      "AphiaID": 276541,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11301,43 +11457,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Lutjanus",
-      "species": "Lutjanus jordani",
-      "AphiaID": 276541,
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus albacares",
+      "AphiaID": 127027,
       "group": "fish",
       "obis": false,
       "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Tetraodontiformes",
-      "family": "Balistidae",
-      "genus": "Canthidermis",
-      "species": "Canthidermis maculata",
-      "AphiaID": 127398,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Labridae",
-      "genus": "Halichoeres",
-      "species": "Halichoeres adustus",
-      "AphiaID": 275747,
-      "group": "fish",
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11371,20 +11502,45 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Scombriformes",
-      "family": "Scombridae",
-      "genus": "Thunnus",
-      "species": "Thunnus albacares",
-      "AphiaID": 127027,
-      "group": "fish",
+      "phylum": "Cnidaria",
+      "class": "Octocorallia",
+      "order": "Malacalcyonacea",
+      "family": "Gorgoniidae",
+      "genus": "Leptogorgia",
+      "species": "Leptogorgia alba",
+      "AphiaID": 286209,
       "obis": false,
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Halichoeres",
+      "species": "Halichoeres adustus",
+      "AphiaID": 275747,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Carcharhiniformes",
+      "family": "Carcharhinidae",
+      "genus": "Carcharhinus",
+      "species": "Carcharhinus falciformis",
+      "AphiaID": 105789,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Psammocoridae",
       "genus": "Psammocora",
@@ -11394,8 +11550,20 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "order": "Testudines",
+      "family": "Cheloniidae",
+      "genus": "Eretmochelys",
+      "species": "Eretmochelys imbricata",
+      "AphiaID": 137207,
+      "group": "turtle",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "CR"
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11406,7 +11574,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Cladopsammia",
@@ -11417,12 +11585,12 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Malacalcyonacea",
-      "family": "Gorgoniidae",
-      "genus": "Leptogorgia",
-      "species": "Leptogorgia alba",
-      "AphiaID": 286209,
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Agariciidae",
+      "genus": "Pavona",
+      "species": "Pavona maldivensis",
+      "AphiaID": 207309,
       "obis": false,
       "gbif": true
     },
@@ -11451,13 +11619,12 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Elasmobranchii",
-      "order": "Carcharhiniformes",
-      "family": "Carcharhinidae",
-      "genus": "Carcharhinus",
-      "species": "Carcharhinus falciformis",
-      "AphiaID": 105789,
-      "group": "fish",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Procellaria",
+      "species": "Procellaria parkinsoni",
+      "AphiaID": 225914,
       "obis": false,
       "gbif": true,
       "redlist_category": "VU"
@@ -11474,19 +11641,20 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Agariciidae",
-      "genus": "Pavona",
-      "species": "Pavona maldivensis",
-      "AphiaID": 207309,
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Uraspis",
+      "species": "Uraspis helvola",
+      "AphiaID": 218449,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11497,7 +11665,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Rhizangiidae",
       "genus": "Culicia",
@@ -11508,7 +11676,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Astrangiidae",
       "genus": "Astrangia",
@@ -11519,7 +11687,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11530,7 +11698,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -11542,12 +11710,23 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
       "species": "Pocillopora woodjonesi",
       "AphiaID": 289252,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Octocorallia",
+      "order": "Malacalcyonacea",
+      "family": "Melithaeidae",
+      "genus": "Melithaea",
+      "species": "Melithaea ochracea",
+      "AphiaID": 288139,
       "obis": false,
       "gbif": true
     },
@@ -11559,6 +11738,18 @@
       "genus": "Hemiramphus",
       "species": "Hemiramphus saltator",
       "AphiaID": 272178,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Stethojulis",
+      "species": "Stethojulis bandanensis",
+      "AphiaID": 277106,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -11620,18 +11811,6 @@
       "genus": "Coralliophila",
       "species": "Coralliophila violacea",
       "AphiaID": 208125,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Acanthuriformes",
-      "family": "Acanthuridae",
-      "genus": "Acanthurus",
-      "species": "Acanthurus xanthopterus",
-      "AphiaID": 219634,
-      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -11705,7 +11884,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Myriopathidae",
       "genus": "Myriopathes",
@@ -11716,12 +11895,34 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Pacifigorgia",
       "species": "Pacifigorgia dampieri",
       "AphiaID": 290573,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Coronatae",
+      "family": "Linuchidae",
+      "genus": "Linuche",
+      "species": "Linuche unguiculata",
+      "AphiaID": 221098,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Siphonophorae",
+      "family": "Diphyidae",
+      "genus": "Chelophyes",
+      "species": "Chelophyes appendiculata",
+      "AphiaID": 135417,
       "obis": false,
       "gbif": true
     },
@@ -11774,11 +11975,23 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Labridae",
-      "genus": "Stethojulis",
-      "species": "Stethojulis bandanensis",
-      "AphiaID": 277106,
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Remora",
+      "species": "Remora remora",
+      "AphiaID": 126853,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Kyphosidae",
+      "genus": "Kyphosus",
+      "species": "Kyphosus sectatrix",
+      "AphiaID": 303486,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -11816,18 +12029,6 @@
       "genus": "Decapterus",
       "species": "Decapterus muroadsi",
       "AphiaID": 273279,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Uraspis",
-      "species": "Uraspis helvola",
-      "AphiaID": 218449,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -11955,6 +12156,17 @@
       "gbif": true
     },
     {
+      "phylum": "Ctenophora",
+      "class": "Tentaculata",
+      "order": "Lobata",
+      "family": "Eurhamphaeidae",
+      "genus": "Eurhamphaea",
+      "species": "Eurhamphaea vexilligera",
+      "AphiaID": 106400,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Tetraodontiformes",
@@ -11963,6 +12175,17 @@
       "species": "Lagocephalus lagocephalus",
       "AphiaID": 127414,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Holothuriida",
+      "family": "Holothuriidae",
+      "genus": "Holothuria",
+      "species": "Holothuria (Mertensiothuria) hilla",
+      "AphiaID": 529402,
       "obis": false,
       "gbif": true
     },
@@ -11979,7 +12202,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Leptoseris",
@@ -12007,6 +12230,18 @@
       "genus": "Botryllus",
       "species": "Botryllus tuberatus",
       "AphiaID": 250109,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Grammatorcynus",
+      "species": "Grammatorcynus bilineatus",
+      "AphiaID": 278434,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -12047,6 +12282,39 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Puffinus",
+      "species": "Puffinus pacificus",
+      "AphiaID": 212634,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Thaliacea",
+      "order": "Pyrosomatida",
+      "family": "Pyrosomatidae",
+      "genus": "Pyrosoma",
+      "species": "Pyrosoma atlanticum",
+      "AphiaID": 137250,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ctenophora",
+      "class": "Nuda",
+      "order": "Beroida",
+      "family": "Beroidae",
+      "genus": "Beroe",
+      "species": "Beroe forskalii",
+      "AphiaID": 106360,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
@@ -12082,17 +12350,6 @@
     {
       "phylum": "Mollusca",
       "class": "Gastropoda",
-      "order": "[unassigned] Caenogastropoda",
-      "family": "Epitoniidae",
-      "genus": "Epidendrium",
-      "species": "Epidendrium billeeanum",
-      "AphiaID": 523762,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
       "order": "Nudibranchia",
       "family": "Chromodorididae",
       "genus": "Chromolaichma",
@@ -12114,7 +12371,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Pocillopora",
@@ -12158,7 +12415,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Isididae",
       "genus": "Isis",
@@ -12870,6 +13127,19 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Azurina",
+      "species": "Azurina eupalama",
+      "AphiaID": 279851,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "CR"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Sciaenidae",
       "genus": "Corvula",
@@ -13070,11 +13340,11 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Hapalidiaceae",
-      "genus": "Lithothamnion",
-      "species": "Lithothamnion phymatodeum",
-      "AphiaID": 372597,
+      "genus": "Boreolithothamnion",
+      "species": "Boreolithothamnion phymatodeum",
+      "AphiaID": 1736219,
       "obis": false,
       "gbif": true
     },
@@ -13356,17 +13626,6 @@
       "genus": "Dendostrea",
       "species": "Dendostrea rosacea",
       "AphiaID": 506712,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Porcellanidae",
-      "genus": "Petrolisthes",
-      "species": "Petrolisthes glasselli",
-      "AphiaID": 431849,
       "obis": false,
       "gbif": true
     },
@@ -13683,18 +13942,6 @@
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Procellaria",
-      "species": "Procellaria parkinsoni",
-      "AphiaID": 225914,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
       "family": "Hydrobatidae",
       "genus": "Oceanodroma",
       "species": "Oceanodroma markhami",
@@ -13738,7 +13985,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Bathyporidae",
       "genus": "Madrepora",
@@ -13760,7 +14007,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Flabellidae",
       "genus": "Javania",
@@ -13804,7 +14051,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Virgulariidae",
       "genus": "Virgularia",
@@ -14094,7 +14341,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Desmophyllum",
@@ -14134,6 +14381,17 @@
       "species": "Ophichthus arneutes",
       "AphiaID": 271940,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Polychelidae",
+      "genus": "Polycheles",
+      "species": "Polycheles tanneri",
+      "AphiaID": 382988,
       "obis": false,
       "gbif": true
     },
@@ -14436,18 +14694,6 @@
       "redlist_category": "EN"
     },
     {
-      "phylum": "Chordata",
-      "order": "Testudines",
-      "family": "Cheloniidae",
-      "genus": "Eretmochelys",
-      "species": "Eretmochelys imbricata",
-      "AphiaID": 137207,
-      "group": "turtle",
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "CR"
-    },
-    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Amphipoda",
@@ -14516,7 +14762,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Flabellidae",
       "genus": "Flabellum",
@@ -14634,6 +14880,18 @@
       "genus": "Sphoeroides",
       "species": "Sphoeroides rosenblatti",
       "AphiaID": 275283,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Ophichthus",
+      "species": "Ophichthus rugifer",
+      "AphiaID": 271980,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -14833,6 +15091,18 @@
       "genus": "Girella",
       "species": "Girella laevifrons",
       "AphiaID": 314470,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Haemulidae",
+      "genus": "Anisotremus",
+      "species": "Anisotremus surinamensis",
+      "AphiaID": 279623,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -15340,17 +15610,6 @@
       "gbif": true
     },
     {
-      "phylum": "Bacillariophyta",
-      "class": "Bacillariophyceae",
-      "order": "Naviculales",
-      "family": "Amphipleuraceae",
-      "genus": "Halamphora",
-      "species": "Halamphora coffeaeformis",
-      "AphiaID": 624065,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Amphipoda",
@@ -15380,6 +15639,18 @@
       "genus": "Melosira",
       "species": "Melosira moniliformis",
       "AphiaID": 418547,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Gerreidae",
+      "genus": "Eucinostomus",
+      "species": "Eucinostomus argenteus",
+      "AphiaID": 159732,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -15451,24 +15722,23 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Gerreidae",
-      "genus": "Eucinostomus",
-      "species": "Eucinostomus argenteus",
-      "AphiaID": 159732,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
       "genus": "Calidris",
       "species": "Calidris himantopus",
       "AphiaID": 159051,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Penaeidae",
+      "genus": "Penaeus",
+      "species": "Penaeus occidentalis",
+      "AphiaID": 584978,
       "obis": false,
       "gbif": true
     },
@@ -15480,18 +15750,6 @@
       "genus": "Diapterus",
       "species": "Diapterus peruvianus",
       "AphiaID": 276414,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Haemulidae",
-      "genus": "Anisotremus",
-      "species": "Anisotremus surinamensis",
-      "AphiaID": 279623,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -15511,12 +15769,35 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Oligoplites",
+      "species": "Oligoplites saurus",
+      "AphiaID": 159645,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Mugiliformes",
       "family": "Mugilidae",
       "genus": "Chaenomugil",
       "species": "Chaenomugil proboscideus",
       "AphiaID": 280101,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Limosa",
+      "species": "Limosa haemastica",
+      "AphiaID": 159033,
       "obis": false,
       "gbif": true
     },
@@ -15605,28 +15886,6 @@
       "genus": "Achnanthes",
       "species": "Achnanthes brevipes",
       "AphiaID": 149387,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Cycloneritida",
-      "family": "Neritidae",
-      "genus": "Nerita",
-      "species": "Nerita ornata",
-      "AphiaID": 1618593,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Cycloneritida",
-      "family": "Otostomidae",
-      "genus": "Otostoma",
-      "species": "Otostoma divaricatum",
-      "AphiaID": 1618827,
       "obis": false,
       "gbif": true
     },
@@ -15764,12 +16023,23 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Phymactis",
       "species": "Phymactis papillosa",
       "AphiaID": 290760,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Agariciidae",
+      "genus": "Gardineroseris",
+      "species": "Gardineroseris planulata",
+      "AphiaID": 207274,
       "obis": false,
       "gbif": true
     },
@@ -15922,6 +16192,19 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Scomberomorus",
+      "species": "Scomberomorus concolor",
+      "AphiaID": 273812,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Echeneidae",
       "genus": "Remora",
@@ -16020,9 +16303,9 @@
       "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Carangidae",
-      "genus": "Oligoplites",
-      "species": "Oligoplites saurus",
-      "AphiaID": 159645,
+      "genus": "Selene",
+      "species": "Selene orstedii",
+      "AphiaID": 273285,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -16032,9 +16315,9 @@
       "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Carangidae",
-      "genus": "Selene",
-      "species": "Selene orstedii",
-      "AphiaID": 273285,
+      "genus": "Caranx",
+      "species": "Caranx hippos",
+      "AphiaID": 126803,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -16239,20 +16522,20 @@
       "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
-      "genus": "Limosa",
-      "species": "Limosa haemastica",
-      "AphiaID": 159033,
+      "genus": "Calidris",
+      "species": "Calidris melanotos",
+      "AphiaID": 159053,
       "obis": false,
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Scolopacidae",
-      "genus": "Calidris",
-      "species": "Calidris melanotos",
-      "AphiaID": 159053,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Cystocloniaceae",
+      "genus": "Hypnea",
+      "species": "Hypnea nidulans",
+      "AphiaID": 220818,
       "obis": false,
       "gbif": true
     },
@@ -16377,6 +16660,29 @@
       "AphiaID": 394269,
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Gayliella",
+      "species": "Gayliella taylorii",
+      "AphiaID": 377239,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Fungiidae",
+      "genus": "Cycloseris",
+      "species": "Cycloseris curvata",
+      "AphiaID": 716444,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Mollusca",
@@ -17218,6 +17524,17 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Sterna",
+      "species": "Sterna paradisaea",
+      "AphiaID": 137165,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Blenniiformes",
       "family": "Labrisomidae",
@@ -17489,8 +17806,18 @@
       "gbif": true
     },
     {
+      "phylum": "Platyhelminthes",
+      "order": "Polycladida",
+      "family": "Pseudocerotidae",
+      "genus": "Pseudobiceros",
+      "species": "Pseudobiceros bajae",
+      "AphiaID": 879574,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Crispatotrochus",
@@ -17546,7 +17873,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Rhizopsammia",
@@ -17609,6 +17936,17 @@
       "genus": "Scinaia",
       "species": "Scinaia complanata",
       "AphiaID": 145742,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Poales",
+      "family": "Poaceae",
+      "genus": "Distichlis",
+      "species": "Distichlis spicata",
+      "AphiaID": 1433670,
       "obis": false,
       "gbif": true
     },
@@ -17768,7 +18106,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Pennatulidae",
       "genus": "Ptilella",
@@ -17779,7 +18117,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Dendrophyllia",
@@ -17836,7 +18174,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Caryophyllia",
@@ -17853,6 +18191,29 @@
       "genus": "Stylocheilus",
       "species": "Stylocheilus longicauda",
       "AphiaID": 217246,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Centrarchiformes",
+      "family": "Cirrhitidae",
+      "genus": "Cirrhitichthys",
+      "species": "Cirrhitichthys falco",
+      "AphiaID": 218854,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Toxopneustidae",
+      "genus": "Toxopneustes",
+      "species": "Toxopneustes pileolus",
+      "AphiaID": 212449,
       "obis": false,
       "gbif": true
     },
@@ -17945,6 +18306,17 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Palinuridae",
+      "genus": "Panulirus",
+      "species": "Panulirus versicolor",
+      "AphiaID": 210359,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Porifera",
       "class": "Hexactinellida",
       "order": "Lyssacinosida",
@@ -17952,6 +18324,17 @@
       "genus": "Aulosaccus",
       "species": "Aulosaccus mitsukurii",
       "AphiaID": 172023,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Dictyoceratida",
+      "family": "Dysideidae",
+      "genus": "Dysidea",
+      "species": "Dysidea avara",
+      "AphiaID": 132321,
       "obis": false,
       "gbif": true
     },
@@ -17985,6 +18368,28 @@
       "genus": "Zygophylax",
       "species": "Zygophylax cervicornis",
       "AphiaID": 292345,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Leptothecata",
+      "family": "Sertularellidae",
+      "genus": "Sertularella",
+      "species": "Sertularella diaphana",
+      "AphiaID": 285502,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Asteroidea",
+      "order": "Valvatida",
+      "family": "Oreasteridae",
+      "genus": "Pentaceraster",
+      "species": "Pentaceraster alveolatus",
+      "AphiaID": 370898,
       "obis": false,
       "gbif": true
     },
@@ -18037,6 +18442,18 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Lutjanidae",
+      "genus": "Lutjanus",
+      "species": "Lutjanus kasmira",
+      "AphiaID": 218482,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Carangidae",
       "genus": "Selar",
@@ -18069,6 +18486,30 @@
       "group": "fish",
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron mappa",
+      "AphiaID": 219930,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Pterodroma",
+      "species": "Pterodroma externa",
+      "AphiaID": 225933,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
     },
     {
       "phylum": "Chordata",
@@ -18116,6 +18557,29 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Pinguipedidae",
+      "genus": "Parapercis",
+      "species": "Parapercis cylindrica",
+      "AphiaID": 219155,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
+      "family": "Echinometridae",
+      "genus": "Heterocentrotus",
+      "species": "Heterocentrotus mamillatus",
+      "AphiaID": 568045,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Echinodermata",
       "class": "Echinoidea",
       "order": "Cidaroida",
@@ -18145,6 +18609,17 @@
       "genus": "Parapinnixa",
       "species": "Parapinnixa glasselli",
       "AphiaID": 445166,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Zoantharia",
+      "family": "Parazoanthidae",
+      "genus": "Antipathozoanthus",
+      "species": "Antipathozoanthus hickmani",
+      "AphiaID": 467543,
       "obis": false,
       "gbif": true
     },
@@ -18427,7 +18902,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Parastenella",
@@ -18449,7 +18924,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Calyptrophora",
@@ -18505,6 +18980,17 @@
       "gbif": true
     },
     {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Anthoathecata",
+      "family": "Eudendriidae",
+      "genus": "Eudendrium",
+      "species": "Eudendrium breve",
+      "AphiaID": 284653,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ovalentaria incertae sedis",
@@ -18539,13 +19025,13 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Anthoathecata",
-      "family": "Eudendriidae",
-      "genus": "Eudendrium",
-      "species": "Eudendrium breve",
-      "AphiaID": 284653,
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Ulvales",
+      "family": "Ulvaceae",
+      "genus": "Ulva",
+      "species": "Ulva adhaerens",
+      "AphiaID": 1731741,
       "obis": false,
       "gbif": true
     },
@@ -18576,6 +19062,17 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
+      "order": "Rhodymeniales",
+      "family": "Rhodymeniaceae",
+      "genus": "Rhodymenia",
+      "species": "Rhodymenia flabellifolia",
+      "AphiaID": 374403,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
       "order": "Corallinales",
       "family": "Lithophyllaceae",
       "genus": "Amphiroa",
@@ -18597,7 +19094,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Flabellidae",
       "genus": "Javania",
@@ -18676,11 +19173,11 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Rhodymeniales",
-      "family": "Rhodymeniaceae",
-      "genus": "Rhodymenia",
-      "species": "Rhodymenia flabellifolia",
-      "AphiaID": 374403,
+      "order": "Nemaliales",
+      "family": "Galaxauraceae",
+      "genus": "Galaxaura",
+      "species": "Galaxaura rugosa",
+      "AphiaID": 145739,
       "obis": false,
       "gbif": true
     },
@@ -18695,6 +19192,17 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "CR"
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gigartinales",
+      "family": "Gigartinaceae",
+      "genus": "Chondracanthus",
+      "species": "Chondracanthus chauvinii",
+      "AphiaID": 162918,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Tracheophyta",
@@ -18771,6 +19279,28 @@
       "genus": "Kirchenpaueria",
       "species": "Kirchenpaueria curvata",
       "AphiaID": 284914,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Bryopsidales",
+      "family": "Codiaceae",
+      "genus": "Codium",
+      "species": "Codium picturatum",
+      "AphiaID": 375765,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Bryopsidales",
+      "family": "Codiaceae",
+      "genus": "Codium",
+      "species": "Codium foveolatum",
+      "AphiaID": 375480,
       "obis": false,
       "gbif": true
     },
@@ -18996,7 +19526,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Pennatulidae",
       "genus": "Ptilosarcus",
@@ -19007,7 +19537,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Rhizangiidae",
       "genus": "Culicia",
@@ -19418,17 +19948,6 @@
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Gigartinales",
-      "family": "Gigartinaceae",
-      "genus": "Chondracanthus",
-      "species": "Chondracanthus chauvinii",
-      "AphiaID": 162918,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Gigartinales",
       "family": "Solieriaceae",
       "genus": "Sarcodiotheca",
       "species": "Sarcodiotheca gaudichaudii",
@@ -19604,22 +20123,11 @@
     {
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
-      "order": "Bryopsidales",
-      "family": "Codiaceae",
-      "genus": "Codium",
-      "species": "Codium picturatum",
-      "AphiaID": 375765,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chlorophyta",
-      "class": "Ulvophyceae",
-      "order": "Bryopsidales",
-      "family": "Codiaceae",
-      "genus": "Codium",
-      "species": "Codium foveolatum",
-      "AphiaID": 375480,
+      "order": "Ulvales",
+      "family": "Ulvaceae",
+      "genus": "Ulva",
+      "species": "Ulva ohnoi",
+      "AphiaID": 376562,
       "obis": false,
       "gbif": true
     },
@@ -19782,17 +20290,6 @@
       "genus": "Cleospira",
       "species": "Cleospira ochsneri",
       "AphiaID": 581136,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Systellommatophora",
-      "family": "Onchidiidae",
-      "genus": "Onchidella",
-      "species": "Onchidella steindachneri",
-      "AphiaID": 509949,
       "obis": false,
       "gbif": true
     },
@@ -20052,7 +20549,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Zoantharia",
       "family": "Hydrozoanthidae",
       "genus": "Terrazoanthus",
@@ -20206,7 +20703,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Enallopsammia",
@@ -20217,7 +20714,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Flabellidae",
       "genus": "Javania",
@@ -20259,17 +20756,6 @@
       "gbif": true
     },
     {
-      "phylum": "Echinodermata",
-      "class": "Holothuroidea",
-      "order": "Holothuriida",
-      "family": "Holothuriidae",
-      "genus": "Holothuria",
-      "species": "Holothuria (Mertensiothuria) hilla",
-      "AphiaID": 529402,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Porifera",
       "class": "Demospongiae",
       "order": "Tethyida",
@@ -20303,7 +20789,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Callogorgia",
@@ -20326,7 +20812,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Madracis",
@@ -20348,7 +20834,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Anthopleura",
@@ -20391,8 +20877,44 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrophis",
+      "species": "Myrophis vafer",
+      "AphiaID": 275496,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Paraletharchus",
+      "species": "Paraletharchus pacificus",
+      "AphiaID": 282062,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiesociformes",
+      "family": "Gobiesocidae",
+      "genus": "Arcos",
+      "species": "Arcos erythrops",
+      "AphiaID": 279682,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Dendrophyllia",
@@ -20403,7 +20925,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Dendrophyllia",
@@ -20420,6 +20942,17 @@
       "genus": "Chlidonias",
       "species": "Chlidonias niger",
       "AphiaID": 137137,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Lamiales",
+      "family": "Acanthaceae",
+      "genus": "Avicennia",
+      "species": "Avicennia germinans",
+      "AphiaID": 235037,
       "obis": false,
       "gbif": true
     },
@@ -20444,17 +20977,6 @@
       "species": "Hoplostethus pacificus",
       "AphiaID": 272236,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Lamiales",
-      "family": "Acanthaceae",
-      "genus": "Avicennia",
-      "species": "Avicennia germinans",
-      "AphiaID": 235037,
       "obis": false,
       "gbif": true
     },
@@ -20519,7 +21041,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Schizopathidae",
       "genus": "Bathypathes",
@@ -21039,7 +21561,7 @@
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Seguenziida",
-      "family": "[unassigned] Seguenzioidea",
+      "family": "Chilodontaidae",
       "genus": "Vetulonia",
       "species": "Vetulonia galapagana",
       "AphiaID": 871168,
@@ -21175,6 +21697,17 @@
       "species": "Diapterus brevirostris",
       "AphiaID": 398538,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Hydrobatidae",
+      "genus": "Fregetta",
+      "species": "Fregetta grallaria",
+      "AphiaID": 212695,
       "obis": false,
       "gbif": true
     },
@@ -21479,7 +22012,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Aphanipathidae",
       "genus": "Aphanostichopathes",
@@ -21489,8 +22022,19 @@
       "gbif": true
     },
     {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Poecilosclerida",
+      "family": "Crambeidae",
+      "genus": "Crambe",
+      "species": "Crambe panamensis",
+      "AphiaID": 169007,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Flabellidae",
       "genus": "Polymyces",
@@ -21602,17 +22146,6 @@
       "gbif": true
     },
     {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Poecilosclerida",
-      "family": "Crambeidae",
-      "genus": "Crambe",
-      "species": "Crambe panamensis",
-      "AphiaID": 169007,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
       "order": "Bryopsidales",
@@ -21625,7 +22158,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actinostolidae",
       "genus": "Antiparactis",
@@ -22077,18 +22610,6 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Phoenicopteriformes",
-      "family": "Phoenicopteridae",
-      "genus": "Phoenicopterus",
-      "species": "Phoenicopterus chilensis",
-      "AphiaID": 990418,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
       "order": "Charadriiformes",
       "family": "Scolopacidae",
       "genus": "Calidris",
@@ -22105,17 +22626,6 @@
       "genus": "Egretta",
       "species": "Egretta tricolor",
       "AphiaID": 159117,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Agariciidae",
-      "genus": "Gardineroseris",
-      "species": "Gardineroseris planulata",
-      "AphiaID": 207274,
       "obis": false,
       "gbif": true
     },
@@ -22301,6 +22811,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Ulvales",
+      "family": "Ulvaceae",
+      "genus": "Ulva",
+      "species": "Ulva lactuca",
+      "AphiaID": 145984,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
       "order": "Gracilariales",
@@ -22445,6 +22966,17 @@
     },
     {
       "phylum": "Mollusca",
+      "class": "Bivalvia",
+      "order": "Galeommatida",
+      "family": "Lasaeidae",
+      "genus": "Lasaea",
+      "species": "Lasaea subviridis",
+      "AphiaID": 575180,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Lepetellida",
       "family": "Fissurellidae",
@@ -22553,18 +23085,6 @@
       "class": "Teleostei",
       "order": "Anguilliformes",
       "family": "Ophichthidae",
-      "genus": "Myrophis",
-      "species": "Myrophis vafer",
-      "AphiaID": 275496,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
       "genus": "Phaenomonas",
       "species": "Phaenomonas pinnata",
       "AphiaID": 277572,
@@ -22614,17 +23134,6 @@
       "order": "Charadriiformes",
       "family": "Charadriidae",
       "genus": "Charadrius",
-      "species": "Charadrius wilsonia",
-      "AphiaID": 366844,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Charadriidae",
-      "genus": "Charadrius",
       "species": "Charadrius vociferus",
       "AphiaID": 159127,
       "obis": false,
@@ -22645,11 +23154,33 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Callithamniaceae",
+      "genus": "Callithamnion",
+      "species": "Callithamnion corymbosum",
+      "AphiaID": 144526,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
       "order": "Gelidiales",
       "family": "Gelidiaceae",
       "genus": "Gelidium",
       "species": "Gelidium sclerophyllum",
       "AphiaID": 375455,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gracilariales",
+      "family": "Gracilariaceae",
+      "genus": "Gracilariopsis",
+      "species": "Gracilariopsis panamensis",
+      "AphiaID": 503712,
       "obis": false,
       "gbif": true
     },
@@ -22854,7 +23385,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Actinostella",
@@ -22974,6 +23505,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Bryopsidales",
+      "family": "Codiaceae",
+      "genus": "Codium",
+      "species": "Codium arabicum",
+      "AphiaID": 211739,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Foraminifera",
       "class": "Monothalamea",
       "order": "Astrorhizida",
@@ -22999,21 +23541,10 @@
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
-      "family": "Columbellidae",
-      "genus": "Mitrella",
-      "species": "Mitrella elegans",
-      "AphiaID": 511500,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Columbellidae",
-      "genus": "Alcira",
-      "species": "Alcira elegans",
-      "AphiaID": 511808,
+      "family": "Mitridae",
+      "genus": "Swainsonia",
+      "species": "Swainsonia ocellata",
+      "AphiaID": 934804,
       "obis": false,
       "gbif": true
     },
@@ -23025,17 +23556,6 @@
       "genus": "Mitrella",
       "species": "Mitrella ocellata",
       "AphiaID": 139202,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Mitridae",
-      "genus": "Swainsonia",
-      "species": "Swainsonia ocellata",
-      "AphiaID": 934804,
       "obis": false,
       "gbif": true
     },
@@ -23073,17 +23593,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Hydrobatidae",
-      "genus": "Fregetta",
-      "species": "Fregetta grallaria",
-      "AphiaID": 212695,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Arthropoda",
       "class": "Hexapoda",
       "order": "Odonata",
@@ -23095,8 +23604,30 @@
       "gbif": true
     },
     {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Bryopsidales",
+      "family": "Bryopsidaceae",
+      "genus": "Bryopsis",
+      "species": "Bryopsis plumosa",
+      "AphiaID": 144457,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Ulvales",
+      "family": "Ulvaceae",
+      "genus": "Ulva",
+      "species": "Ulva paradoxa",
+      "AphiaID": 416996,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actiniidae",
       "genus": "Anthopleura",
@@ -23348,17 +23879,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Puffinus",
-      "species": "Puffinus nativitatis",
-      "AphiaID": 343987,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Echinodermata",
       "class": "Holothuroidea",
       "order": "Dendrochirotida",
@@ -23388,17 +23908,6 @@
       "genus": "Gemophos",
       "species": "Gemophos janellii",
       "AphiaID": 491013,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Columbellidae",
-      "genus": "Microcithara",
-      "species": "Microcithara uncinata",
-      "AphiaID": 511846,
       "obis": false,
       "gbif": true
     },
@@ -23485,6 +23994,17 @@
       "genus": "Homotrema",
       "species": "Homotrema rubrum",
       "AphiaID": 585257,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Arbacioida",
+      "family": "Arbaciidae",
+      "genus": "Arbacia",
+      "species": "Arbacia stellata",
+      "AphiaID": 513125,
       "obis": false,
       "gbif": true
     },
@@ -23582,6 +24102,17 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
+      "order": "Peyssonneliales",
+      "family": "Peyssonneliaceae",
+      "genus": "Peyssonnelia",
+      "species": "Peyssonnelia clarionensis",
+      "AphiaID": 374776,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
       "order": "Gigartinales",
       "family": "Caulacanthaceae",
       "genus": "Catenella",
@@ -23620,17 +24151,6 @@
       "genus": "Anachis",
       "species": "Anachis guerreroensis",
       "AphiaID": 511403,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Ellobiida",
-      "family": "Trimusculidae",
-      "genus": "Trimusculus",
-      "species": "Trimusculus stellatus",
-      "AphiaID": 414593,
       "obis": false,
       "gbif": true
     },
@@ -23910,17 +24430,6 @@
       "gbif": true
     },
     {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "[unassigned] Caenogastropoda",
-      "family": "Cerithiopsidae",
-      "genus": "Seila",
-      "species": "Seila assimilata",
-      "AphiaID": 574994,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chlorophyta",
       "class": "Ulvophyceae",
       "order": "Bryopsidales",
@@ -23967,7 +24476,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Caryophyllia",
@@ -24285,17 +24794,6 @@
       "gbif": true
     },
     {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Columbellidae",
-      "genus": "Euplica",
-      "species": "Euplica varians",
-      "AphiaID": 511782,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Platyhelminthes",
       "class": "Trematoda",
       "order": "Plagiorchiida",
@@ -24594,12 +25092,23 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Turbinoliidae",
       "genus": "Pseudocyathoceras",
       "species": "Pseudocyathoceras avis",
       "AphiaID": 290872,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hydrozoa",
+      "order": "Anthoathecata",
+      "family": "Balellidae",
+      "genus": "Balella",
+      "species": "Balella mirabilis",
+      "AphiaID": 289493,
       "obis": false,
       "gbif": true
     },
@@ -24622,17 +25131,6 @@
       "genus": "Reptadeonella",
       "species": "Reptadeonella tubulifera",
       "AphiaID": 469035,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Hydrozoa",
-      "order": "Anthoathecata",
-      "family": "Balellidae",
-      "genus": "Balella",
-      "species": "Balella mirabilis",
-      "AphiaID": 289493,
       "obis": false,
       "gbif": true
     },
@@ -24869,7 +25367,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Poritidae",
       "genus": "Porites",
@@ -24976,17 +25474,6 @@
       "genus": "Borsonella",
       "species": "Borsonella galapagana",
       "AphiaID": 433147,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Poales",
-      "family": "Poaceae",
-      "genus": "Distichlis",
-      "species": "Distichlis spicata",
-      "AphiaID": 1433670,
       "obis": false,
       "gbif": true
     },
@@ -25229,7 +25716,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Tubastraea",
@@ -25363,7 +25850,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Polycyathus",
@@ -25406,17 +25893,6 @@
       "genus": "Oncaea",
       "species": "Oncaea venusta",
       "AphiaID": 128954,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Munidopsidae",
-      "genus": "Munidopsis",
-      "species": "Munidopsis margarita",
-      "AphiaID": 392558,
       "obis": false,
       "gbif": true
     },
@@ -25477,8 +25953,19 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Munidopsidae",
+      "genus": "Munidopsis",
+      "species": "Munidopsis margarita",
+      "AphiaID": 392558,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Narella",
@@ -25511,7 +25998,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Dasmosmilia",
@@ -25607,6 +26094,29 @@
       "species": "Decapterus macrosoma",
       "AphiaID": 218426,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mugiliformes",
+      "family": "Mugilidae",
+      "genus": "Neomyxus",
+      "species": "Neomyxus leuciscus",
+      "AphiaID": 281693,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Apiales",
+      "family": "Apiaceae",
+      "genus": "Apium",
+      "species": "Apium graveolens",
+      "AphiaID": 426131,
       "obis": false,
       "gbif": true
     },
@@ -25733,7 +26243,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Concentrotheca",
@@ -25744,7 +26254,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Caryophyllia",
@@ -25755,7 +26265,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Desmophyllum",
@@ -25777,7 +26287,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Hormathiidae",
       "genus": "Calliactis",
@@ -25788,7 +26298,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Hormathiidae",
       "genus": "Calliactis",
@@ -25880,7 +26390,7 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Hapalidiaceae",
       "genus": "Lithothamnion",
       "species": "Lithothamnion cottonii",
@@ -25969,7 +26479,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Plexauridae",
       "genus": "Muricea",
@@ -26024,7 +26534,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Veretillidae",
       "genus": "Cavernulina",
@@ -26035,7 +26545,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Pacifigorgia",
@@ -26098,17 +26608,6 @@
       "genus": "Peyssonnelia",
       "species": "Peyssonnelia dubyi",
       "AphiaID": 145278,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Hydrobatidae",
-      "genus": "Oceanites",
-      "species": "Oceanites oceanicus",
-      "AphiaID": 137190,
       "obis": false,
       "gbif": true
     },
@@ -26182,7 +26681,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Oculinidae",
       "genus": "Oculina",
@@ -26270,17 +26769,6 @@
       "gbif": true
     },
     {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Polychelidae",
-      "genus": "Polycheles",
-      "species": "Polycheles tanneri",
-      "AphiaID": 382988,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Trochida",
@@ -26288,17 +26776,6 @@
       "genus": "Gaza",
       "species": "Gaza rathbuni",
       "AphiaID": 575616,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Scleractinia",
-      "family": "Caryophylliidae",
-      "genus": "Desmophyllum",
-      "species": "Desmophyllum crassum",
-      "AphiaID": 1286964,
       "obis": false,
       "gbif": true
     },
@@ -26391,8 +26868,19 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Domeciidae",
+      "genus": "Domecia",
+      "species": "Domecia hispida",
+      "AphiaID": 209146,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Plexauridae",
       "genus": "Muricea",
@@ -26403,7 +26891,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Adelogorgia",
@@ -26559,12 +27047,23 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Callogorgia",
       "species": "Callogorgia kinoshitai",
       "AphiaID": 1055877,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Dendroceratida",
+      "family": "Darwinellidae",
+      "genus": "Darwinella",
+      "species": "Darwinella pronzatoi",
+      "AphiaID": 1458680,
       "obis": false,
       "gbif": true
     },
@@ -26581,7 +27080,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Cladocoridae",
       "genus": "Cladocora",
@@ -26637,7 +27136,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Pocilloporidae",
       "genus": "Madracis",
@@ -26648,7 +27147,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Endopachys",
@@ -26715,7 +27214,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Pennatulidae",
       "genus": "Pennatula",
@@ -26726,7 +27225,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Funiculinidae",
       "genus": "Funiculina",
@@ -26859,7 +27358,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Umbellulidae",
       "genus": "Umbellula",
@@ -26924,6 +27423,17 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Cochlespiridae",
+      "genus": "Cochlespira",
+      "species": "Cochlespira cedonulli",
+      "AphiaID": 433318,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ophidiiformes",
@@ -26973,7 +27483,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Goniocorella",
@@ -26990,6 +27500,17 @@
       "genus": "Macronectes",
       "species": "Macronectes giganteus",
       "AphiaID": 212636,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Dictyotales",
+      "family": "Dictyotaceae",
+      "genus": "Dictyota",
+      "species": "Dictyota humifusa",
+      "AphiaID": 145370,
       "obis": false,
       "gbif": true
     },
@@ -27093,6 +27614,17 @@
       "gbif": true
     },
     {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Haplosclerida",
+      "family": "Chalinidae",
+      "genus": "Haliclona",
+      "species": "Haliclona (Soestella) caerulea",
+      "AphiaID": 166641,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Ascidiacea",
       "order": "Stolidobranchia",
@@ -27111,17 +27643,6 @@
       "genus": "Ridgewayia",
       "species": "Ridgewayia tunela",
       "AphiaID": 362454,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Porifera",
-      "class": "Demospongiae",
-      "order": "Haplosclerida",
-      "family": "Chalinidae",
-      "genus": "Haliclona",
-      "species": "Haliclona (Soestella) caerulea",
-      "AphiaID": 166641,
       "obis": false,
       "gbif": true
     },
@@ -27182,13 +27703,13 @@
       "gbif": true
     },
     {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "[unassigned] Caenogastropoda",
-      "family": "Epitoniidae",
-      "genus": "Janthina",
-      "species": "Janthina janthina",
-      "AphiaID": 140155,
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Portunidae",
+      "genus": "Callinectes",
+      "species": "Callinectes arcuatus",
+      "AphiaID": 442766,
       "obis": false,
       "gbif": true
     },
@@ -27306,13 +27827,13 @@
       "gbif": true
     },
     {
-      "phylum": "Chlorophyta",
-      "class": "Ulvophyceae",
-      "order": "Ulvales",
-      "family": "Ulvaceae",
-      "genus": "Ulva",
-      "species": "Ulva lactuca",
-      "AphiaID": 145984,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Ceramium",
+      "species": "Ceramium macilentum",
+      "AphiaID": 239114,
       "obis": false,
       "gbif": true
     },
@@ -27324,6 +27845,28 @@
       "genus": "Paradoris",
       "species": "Paradoris lopezi",
       "AphiaID": 388800,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Ceramium",
+      "species": "Ceramium prostratum",
+      "AphiaID": 377025,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Zoantharia",
+      "family": "Sphenopidae",
+      "genus": "Palythoa",
+      "species": "Palythoa mutuki",
+      "AphiaID": 288472,
       "obis": false,
       "gbif": true
     },
@@ -27472,7 +28015,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Caryophyllia",
@@ -27507,7 +28050,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Victorgorgiidae",
       "genus": "Victorgorgia",
@@ -27542,7 +28085,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Schizopathidae",
       "genus": "Dendropathes",
@@ -27594,18 +28137,6 @@
       "genus": "Lestidiops",
       "species": "Lestidiops pacificus",
       "AphiaID": 272095,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Ophichthidae",
-      "genus": "Paraletharchus",
-      "species": "Paraletharchus pacificus",
-      "AphiaID": 282062,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -27675,6 +28206,17 @@
       "genus": "Beella",
       "species": "Beella digitata",
       "AphiaID": 113433,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Cephalaspidea",
+      "family": "Aglajidae",
+      "genus": "Navanax",
+      "species": "Navanax aenigmaticus",
+      "AphiaID": 224593,
       "obis": false,
       "gbif": true
     },
@@ -27819,6 +28361,17 @@
       "genus": "Tegula",
       "species": "Tegula corvus",
       "AphiaID": 575628,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Terebridae",
+      "genus": "Neoterebra",
+      "species": "Neoterebra armillata",
+      "AphiaID": 1415971,
       "obis": false,
       "gbif": true
     },
@@ -28188,13 +28741,13 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Zoantharia",
-      "family": "Parazoanthidae",
-      "genus": "Antipathozoanthus",
-      "species": "Antipathozoanthus hickmani",
-      "AphiaID": 467543,
+      "phylum": "Chlorophyta",
+      "class": "Ulvophyceae",
+      "order": "Cladophorales",
+      "family": "Cladophoraceae",
+      "genus": "Lychaete",
+      "species": "Lychaete pellucida",
+      "AphiaID": 1311360,
       "obis": false,
       "gbif": true
     },
@@ -28217,17 +28770,6 @@
       "genus": "Calliostoma",
       "species": "Calliostoma jacquelinae",
       "AphiaID": 512117,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Cephalaspidea",
-      "family": "Aglajidae",
-      "genus": "Navanax",
-      "species": "Navanax aenigmaticus",
-      "AphiaID": 224593,
       "obis": false,
       "gbif": true
     },
@@ -28335,6 +28877,17 @@
       "redlist_category": "VU"
     },
     {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Peyssonneliales",
+      "family": "Peyssonneliaceae",
+      "genus": "Peyssonnelia",
+      "species": "Peyssonnelia mexicana",
+      "AphiaID": 375460,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Arthropoda",
       "class": "Copepoda",
       "order": "Calanoida",
@@ -28353,6 +28906,17 @@
       "genus": "Favartia",
       "species": "Favartia exigua",
       "AphiaID": 723950,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Ceramium",
+      "species": "Ceramium diaphanum",
+      "AphiaID": 144546,
       "obis": false,
       "gbif": true
     },
@@ -28402,7 +28966,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Capneidae",
       "genus": "Actinoporus",
@@ -28468,6 +29032,17 @@
       "redlist_category": "VU"
     },
     {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Dictyotales",
+      "family": "Dictyotaceae",
+      "genus": "Spatoglossum",
+      "species": "Spatoglossum ecuadoreanum",
+      "AphiaID": 375486,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Littorinimorpha",
@@ -28475,17 +29050,6 @@
       "genus": "Natica",
       "species": "Natica grayi",
       "AphiaID": 575224,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Apiales",
-      "family": "Apiaceae",
-      "genus": "Apium",
-      "species": "Apium graveolens",
-      "AphiaID": 426131,
       "obis": false,
       "gbif": true
     },
@@ -28652,12 +29216,23 @@
     },
     {
       "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Palaemonidae",
-      "genus": "Palaemon",
-      "species": "Palaemon serrifer",
-      "AphiaID": 514465,
+      "class": "Pycnogonida",
+      "order": "Pantopoda",
+      "family": "Pycnogonidae",
+      "genus": "Pycnogonum",
+      "species": "Pycnogonum cessaci",
+      "AphiaID": 239700,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Pycnogonida",
+      "order": "Pantopoda",
+      "family": "Ammotheidae",
+      "genus": "Tanystylum",
+      "species": "Tanystylum duospinum",
+      "AphiaID": 240357,
       "obis": false,
       "gbif": true
     },
@@ -28665,10 +29240,10 @@
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
-      "family": "Portunidae",
-      "genus": "Callinectes",
-      "species": "Callinectes arcuatus",
-      "AphiaID": 442766,
+      "family": "Palaemonidae",
+      "genus": "Palaemon",
+      "species": "Palaemon serrifer",
+      "AphiaID": 514465,
       "obis": false,
       "gbif": true
     },
@@ -28695,8 +29270,19 @@
       "gbif": true
     },
     {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Dendroceratida",
+      "family": "Darwinellidae",
+      "genus": "Aplysilla",
+      "species": "Aplysilla rosea",
+      "AphiaID": 132296,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Boloceroididae",
       "genus": "Bunodeopsis",
@@ -28707,7 +29293,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Pacifigorgia",
@@ -28724,6 +29310,17 @@
       "genus": "Ophidiaster",
       "species": "Ophidiaster lorioli",
       "AphiaID": 368987,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Ophiuroidea",
+      "order": "Amphilepidida",
+      "family": "Amphiuridae",
+      "genus": "Ophiophragmus",
+      "species": "Ophiophragmus chilensis",
+      "AphiaID": 243922,
       "obis": false,
       "gbif": true
     },
@@ -28974,30 +29571,6 @@
       "genus": "Lutjanus",
       "species": "Lutjanus colorado",
       "AphiaID": 276529,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Eupercaria incertae sedis",
-      "family": "Lutjanidae",
-      "genus": "Lutjanus",
-      "species": "Lutjanus kasmira",
-      "AphiaID": 218482,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
-      "order": "Carangiformes",
-      "family": "Carangidae",
-      "genus": "Caranx",
-      "species": "Caranx hippos",
-      "AphiaID": 126803,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -29347,13 +29920,24 @@
       "gbif": true
     },
     {
-      "phylum": "Ochrophyta",
-      "class": "Phaeophyceae",
-      "order": "Dictyotales",
-      "family": "Dictyotaceae",
-      "genus": "Spatoglossum",
-      "species": "Spatoglossum ecuadoreanum",
-      "AphiaID": 375486,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Rhodymeniales",
+      "family": "Lomentariaceae",
+      "genus": "Ceratodictyon",
+      "species": "Ceratodictyon variabile",
+      "AphiaID": 498200,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Peyssonneliales",
+      "family": "Peyssonneliaceae",
+      "genus": "Peyssonnelia",
+      "species": "Peyssonnelia rubra",
+      "AphiaID": 145287,
       "obis": false,
       "gbif": true
     },
@@ -29456,6 +30040,17 @@
       "gbif": true
     },
     {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Gayliella",
+      "species": "Gayliella flaccida",
+      "AphiaID": 377234,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
@@ -29485,6 +30080,17 @@
       "genus": "Antisabia",
       "species": "Antisabia foliacea",
       "AphiaID": 598655,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Agariciidae",
+      "genus": "Leptoseris",
+      "species": "Leptoseris explanata",
+      "AphiaID": 207289,
       "obis": false,
       "gbif": true
     },
@@ -29624,13 +30230,24 @@
       "gbif": true
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Anthozoa",
-      "order": "Zoantharia",
-      "family": "Sphenopidae",
-      "genus": "Palythoa",
-      "species": "Palythoa mutuki",
-      "AphiaID": 288472,
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Corallinales",
+      "family": "Lithophyllaceae",
+      "genus": "Lithophyllum",
+      "species": "Lithophyllum canescens",
+      "AphiaID": 373880,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus aristophanes",
+      "AphiaID": 426364,
       "obis": false,
       "gbif": true
     },
@@ -29967,17 +30584,6 @@
       "genus": "Hipponix",
       "species": "Hipponix planatus",
       "AphiaID": 575163,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Littorinimorpha",
-      "family": "Eulimidae",
-      "genus": "Eulimostraca",
-      "species": "Eulimostraca galapagensis",
-      "AphiaID": 536977,
       "obis": false,
       "gbif": true
     },
@@ -30444,7 +31050,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Plexauridae",
       "genus": "Muricea",
@@ -30521,17 +31127,6 @@
     },
     {
       "phylum": "Arthropoda",
-      "class": "Pycnogonida",
-      "order": "Pantopoda",
-      "family": "Ammotheidae",
-      "genus": "Tanystylum",
-      "species": "Tanystylum duospinum",
-      "AphiaID": 240357,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Isopoda",
       "family": "Cirolanidae",
@@ -30543,7 +31138,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Antipatharia",
       "family": "Antipathidae",
       "genus": "Antipathes",
@@ -30594,6 +31189,18 @@
       "species": "Sphyraena ensis",
       "AphiaID": 273979,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Mammalia",
+      "order": "Cetartiodactyla",
+      "family": "Balaenopteridae",
+      "genus": "Balaenoptera",
+      "species": "Balaenoptera acutorostrata",
+      "AphiaID": 137087,
+      "group": "mammal",
       "obis": false,
       "gbif": true
     },
@@ -30649,6 +31256,18 @@
       "genus": "Ophidion",
       "species": "Ophidion exul",
       "AphiaID": 272819,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Exocoetidae",
+      "genus": "Cypselurus",
+      "species": "Cypselurus simus",
+      "AphiaID": 312479,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -31369,18 +31988,6 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
-      "order": "Anguilliformes",
-      "family": "Muraenidae",
-      "genus": "Uropterygius",
-      "species": "Uropterygius versutus",
-      "AphiaID": 277955,
-      "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Teleostei",
       "order": "Tetraodontiformes",
       "family": "Ostraciidae",
       "genus": "Lactoria",
@@ -31416,13 +32023,13 @@
     },
     {
       "phylum": "Chordata",
-      "class": "Mammalia",
-      "order": "Cetartiodactyla",
-      "family": "Balaenopteridae",
-      "genus": "Balaenoptera",
-      "species": "Balaenoptera acutorostrata",
-      "AphiaID": 137087,
-      "group": "mammal",
+      "class": "Teleostei",
+      "order": "Gobiesociformes",
+      "family": "Gobiesocidae",
+      "genus": "Arcos",
+      "species": "Arcos rhodospilus",
+      "AphiaID": 279685,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -31440,11 +32047,22 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Hapalidiaceae",
       "genus": "Choreonema",
       "species": "Choreonema thuretii",
       "AphiaID": 145103,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Wrangeliaceae",
+      "genus": "Wrangelia",
+      "species": "Wrangelia dumontii",
+      "AphiaID": 374653,
       "obis": false,
       "gbif": true
     },
@@ -31649,17 +32267,6 @@
     {
       "phylum": "Annelida",
       "class": "Polychaeta",
-      "order": "Phyllodocida",
-      "family": "Nereididae",
-      "genus": "Nereis",
-      "species": "Nereis callaona",
-      "AphiaID": 334177,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Annelida",
-      "class": "Polychaeta",
       "order": "Amphinomida",
       "family": "Amphinomidae",
       "genus": "Chloeia",
@@ -31698,6 +32305,18 @@
       "genus": "Trachurus",
       "species": "Trachurus symmetricus",
       "AphiaID": 273305,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Carangoides",
+      "species": "Carangoides otrynter",
+      "AphiaID": 276243,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -31747,6 +32366,17 @@
       "genus": "Bryopsis",
       "species": "Bryopsis pennata var. minor",
       "AphiaID": 551074,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Stylonematophyceae",
+      "order": "Stylonematales",
+      "family": "Stylonemataceae",
+      "genus": "Stylonema",
+      "species": "Stylonema alsidii",
+      "AphiaID": 145688,
       "obis": false,
       "gbif": true
     },
@@ -31930,11 +32560,33 @@
     {
       "phylum": "Mollusca",
       "class": "Gastropoda",
+      "order": "Littorinimorpha",
+      "family": "Eulimidae",
+      "genus": "Eulimostraca",
+      "species": "Eulimostraca galapagensis",
+      "AphiaID": 536977,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
       "order": "Neogastropoda",
       "family": "Nassariidae",
       "genus": "Metaphos",
       "species": "Metaphos articulatus",
       "AphiaID": 491098,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Columbellidae",
+      "genus": "Microcithara",
+      "species": "Microcithara uncinata",
+      "AphiaID": 511846,
       "obis": false,
       "gbif": true
     },
@@ -32256,17 +32908,6 @@
       "gbif": true
     },
     {
-      "phylum": "Echinodermata",
-      "class": "Echinoidea",
-      "order": "Arbacioida",
-      "family": "Arbaciidae",
-      "genus": "Arbacia",
-      "species": "Arbacia stellata",
-      "AphiaID": 513125,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Bryozoa",
       "class": "Gymnolaemata",
       "order": "Cheilostomatida",
@@ -32285,17 +32926,6 @@
       "genus": "Pseudorhizoclonium",
       "species": "Pseudorhizoclonium africanum",
       "AphiaID": 1312602,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Gastropoda",
-      "order": "Neogastropoda",
-      "family": "Terebridae",
-      "genus": "Neoterebra",
-      "species": "Neoterebra armillata",
-      "AphiaID": 1415971,
       "obis": false,
       "gbif": true
     },
@@ -32477,17 +33107,6 @@
       "phylum": "Bryozoa",
       "class": "Gymnolaemata",
       "order": "Cheilostomatida",
-      "family": "Onychocellidae",
-      "genus": "Smittipora",
-      "species": "Smittipora americana",
-      "AphiaID": 470137,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Bryozoa",
-      "class": "Gymnolaemata",
-      "order": "Cheilostomatida",
       "family": "Microporellidae",
       "genus": "Microporella",
       "species": "Microporella cribrosa",
@@ -32552,18 +33171,6 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "NT"
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Pterodroma",
-      "species": "Pterodroma externa",
-      "AphiaID": 225933,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "VU"
     },
     {
       "phylum": "Platyhelminthes",
@@ -32879,7 +33486,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actinostolidae",
       "genus": "Antholoba",
@@ -33202,7 +33809,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Cladocoridae",
       "genus": "Cladocora",
@@ -33450,6 +34057,17 @@
       "gbif": true
     },
     {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
+      "order": "Decapoda",
+      "family": "Polychelidae",
+      "genus": "Pentacheles",
+      "species": "Pentacheles laevis",
+      "AphiaID": 382979,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Echinodermata",
       "class": "Ophiuroidea",
       "order": "Ophiurida",
@@ -33540,7 +34158,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Umbellulidae",
       "genus": "Umbellula",
@@ -33766,6 +34384,41 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax javanicus",
+      "AphiaID": 217502,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Dasyatidae",
+      "genus": "Taeniura",
+      "species": "Taeniura lymma",
+      "AphiaID": 217422,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Corallinales",
+      "family": "Lithophyllaceae",
+      "genus": "Amphiroa",
+      "species": "Amphiroa valonioides",
+      "AphiaID": 372140,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Porifera",
       "class": "Demospongiae",
       "order": "Tetractinellida",
@@ -33810,17 +34463,6 @@
       "gbif": true
     },
     {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Domeciidae",
-      "genus": "Domecia",
-      "species": "Domecia hispida",
-      "AphiaID": 209146,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Cnidaria",
       "class": "Hydrozoa",
       "order": "Leptothecata",
@@ -33846,6 +34488,42 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Eupercaria incertae sedis",
+      "family": "Labridae",
+      "genus": "Choerodon",
+      "species": "Choerodon fasciatus",
+      "AphiaID": 277268,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus hexagonatus",
+      "AphiaID": 218232,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Serranidae",
+      "genus": "Epinephelus",
+      "species": "Epinephelus coeruleopunctatus",
+      "AphiaID": 218247,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Carangiformes",
       "family": "Carangidae",
       "genus": "Uraspis",
@@ -33854,6 +34532,55 @@
       "group": "fish",
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax richardsonii",
+      "AphiaID": 271882,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax nudivomer",
+      "AphiaID": 217488,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Muraenidae",
+      "genus": "Gymnothorax",
+      "species": "Gymnothorax favagineus",
+      "AphiaID": 217509,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Aetomylaeus",
+      "species": "Aetomylaeus vespertilio",
+      "AphiaID": 217427,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "EN"
     },
     {
       "phylum": "Chlorophyta",
@@ -33889,13 +34616,13 @@
       "gbif": true
     },
     {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Ceramiales",
-      "family": "Ceramiaceae",
-      "genus": "Gayliella",
-      "species": "Gayliella flaccida",
-      "AphiaID": 377234,
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Muricidae",
+      "genus": "Chicoreus",
+      "species": "Chicoreus ramosus",
+      "AphiaID": 558787,
       "obis": false,
       "gbif": true
     },
@@ -33930,17 +34657,6 @@
       "species": "Howella pammelas",
       "AphiaID": 273683,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Rhodophyta",
-      "class": "Florideophyceae",
-      "order": "Corallinales",
-      "family": "Lithophyllaceae",
-      "genus": "Amphiroa",
-      "species": "Amphiroa valonioides",
-      "AphiaID": 372140,
       "obis": false,
       "gbif": true
     },
@@ -34007,6 +34723,18 @@
       "genus": "Caecum",
       "species": "Caecum chilense",
       "AphiaID": 743055,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Scombriformes",
+      "family": "Scombridae",
+      "genus": "Thunnus",
+      "species": "Thunnus alalunga",
+      "AphiaID": 127026,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -34155,7 +34883,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Eugorgia",
@@ -34201,10 +34929,10 @@
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Neogastropoda",
-      "family": "Turbinellidae",
-      "genus": "Vasum",
-      "species": "Vasum capitellum",
-      "AphiaID": 533593,
+      "family": "Vasidae",
+      "genus": "Globivasum",
+      "species": "Globivasum capitellum",
+      "AphiaID": 1735856,
       "obis": false,
       "gbif": true
     },
@@ -34230,6 +34958,50 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "VU"
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Compsopogonophyceae",
+      "order": "Erythropeltales",
+      "family": "Erythrotrichiaceae",
+      "genus": "Erythrotrichia",
+      "species": "Erythrotrichia carnea",
+      "AphiaID": 145490,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Gelidiales",
+      "family": "Gelidiellaceae",
+      "genus": "Gelidiella",
+      "species": "Gelidiella machrisiana",
+      "AphiaID": 145570,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Fucales",
+      "family": "Sargassaceae",
+      "genus": "Sargassum",
+      "species": "Sargassum cymosum",
+      "AphiaID": 494799,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Fucales",
+      "family": "Sargassaceae",
+      "genus": "Sargassum",
+      "species": "Sargassum lendigerum",
+      "AphiaID": 211957,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Mollusca",
@@ -34627,6 +35399,17 @@
       "gbif": true
     },
     {
+      "phylum": "Cyanobacteria",
+      "class": "Cyanophyceae",
+      "order": "Leptolyngbyales",
+      "family": "Leptolyngbyaceae",
+      "genus": "Leptolyngbya",
+      "species": "Leptolyngbya terebrans",
+      "AphiaID": 156201,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Stomiiformes",
@@ -34640,7 +35423,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Faxiella",
@@ -34651,7 +35434,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Keratoisididae",
       "genus": "Isidella",
@@ -34673,7 +35456,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Chrysogorgiidae",
       "genus": "Chrysogorgia",
@@ -34745,6 +35528,17 @@
       "species": "Haemulon parra",
       "AphiaID": 275731,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Procellariidae",
+      "genus": "Pterodroma",
+      "species": "Pterodroma neglecta",
+      "AphiaID": 343978,
       "obis": false,
       "gbif": true
     },
@@ -35478,6 +36272,17 @@
       "phylum": "Echinodermata",
       "class": "Echinoidea",
       "order": "Camarodonta",
+      "family": "Strongylocentrotidae",
+      "genus": "Strongylocentrotus",
+      "species": "Strongylocentrotus droebachiensis",
+      "AphiaID": 124321,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Echinodermata",
+      "class": "Echinoidea",
+      "order": "Camarodonta",
       "family": "Toxopneustidae",
       "genus": "Lytechinus",
       "species": "Lytechinus pictus",
@@ -35586,6 +36391,30 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Perciformes",
+      "family": "Scorpaenidae",
+      "genus": "Scorpaenodes",
+      "species": "Scorpaenodes guamensis",
+      "AphiaID": 218094,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Beloniformes",
+      "family": "Belonidae",
+      "genus": "Tylosurus",
+      "species": "Tylosurus pacificus",
+      "AphiaID": 272147,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Blenniiformes",
       "family": "Labrisomidae",
       "genus": "Malacoctenus",
@@ -35603,6 +36432,30 @@
       "genus": "Calotomus",
       "species": "Calotomus spinidens",
       "AphiaID": 219075,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Pomacanthus",
+      "species": "Pomacanthus arcuatus",
+      "AphiaID": 159287,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Acanthuriformes",
+      "family": "Pomacanthidae",
+      "genus": "Pomacanthus",
+      "species": "Pomacanthus paru",
+      "AphiaID": 276025,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -35721,7 +36574,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Polycyathus",
@@ -35782,6 +36635,17 @@
       "genus": "Herdmania",
       "species": "Herdmania pallida",
       "AphiaID": 250697,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Hydrobatidae",
+      "genus": "Oceanites",
+      "species": "Oceanites oceanicus",
+      "AphiaID": 137190,
       "obis": false,
       "gbif": true
     },
@@ -36392,9 +37256,9 @@
       "class": "Gastropoda",
       "order": "Pleurobranchida",
       "family": "Pleurobranchidae",
-      "genus": "Berthella",
-      "species": "Berthella californica",
-      "AphiaID": 534374,
+      "genus": "Boreoberthella",
+      "species": "Boreoberthella californica",
+      "AphiaID": 1736480,
       "obis": false,
       "gbif": true
     },
@@ -36446,6 +37310,40 @@
       "gbif": true
     },
     {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Lobophylliidae",
+      "genus": "Oxypora",
+      "species": "Oxypora lacera",
+      "AphiaID": 207374,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Acroporidae",
+      "genus": "Astreopora",
+      "species": "Astreopora myriophthalma",
+      "AphiaID": 207128,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Poritidae",
+      "genus": "Porites",
+      "species": "Porites cylindrica",
+      "AphiaID": 207229,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Acanthuriformes",
@@ -36454,6 +37352,17 @@
       "species": "Naso vlamingii",
       "AphiaID": 219672,
       "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Porifera",
+      "class": "Demospongiae",
+      "order": "Poecilosclerida",
+      "family": "Coelosphaeridae",
+      "genus": "Celtodoryx",
+      "species": "Celtodoryx ciocalyptoides",
+      "AphiaID": 559274,
       "obis": false,
       "gbif": true
     },
@@ -36480,6 +37389,18 @@
       "gbif": true
     },
     {
+      "phylum": "Cnidaria",
+      "class": "Hexacorallia",
+      "order": "Scleractinia",
+      "family": "Dendrophylliidae",
+      "genus": "Duncanopsammia",
+      "species": "Duncanopsammia peltata",
+      "AphiaID": 1469809,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
       "phylum": "Bryozoa",
       "class": "Gymnolaemata",
       "order": "Cheilostomatida",
@@ -36487,6 +37408,18 @@
       "genus": "Palliocella",
       "species": "Palliocella palliolata",
       "AphiaID": 1516260,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Carangidae",
+      "genus": "Decapterus",
+      "species": "Decapterus macarellus",
+      "AphiaID": 126807,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -36856,7 +37789,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Callozostron",
@@ -37055,7 +37988,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Chrysogorgiidae",
       "genus": "Parachrysogorgia",
@@ -37066,7 +37999,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Chrysogorgiidae",
       "genus": "Parachrysogorgia",
@@ -37093,6 +38026,18 @@
       "genus": "Ciona",
       "species": "Ciona pomponiae",
       "AphiaID": 250291,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Carangiformes",
+      "family": "Echeneidae",
+      "genus": "Phtheirichthys",
+      "species": "Phtheirichthys lineatus",
+      "AphiaID": 126849,
+      "group": "fish",
       "obis": false,
       "gbif": true
     },
@@ -37135,11 +38080,35 @@
     {
       "phylum": "Chordata",
       "class": "Teleostei",
+      "order": "Ovalentaria incertae sedis",
+      "family": "Pomacentridae",
+      "genus": "Abudefduf",
+      "species": "Abudefduf taurus",
+      "AphiaID": 273701,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
       "order": "Eupercaria incertae sedis",
       "family": "Sciaenidae",
       "genus": "Umbrina",
       "species": "Umbrina coroides",
       "AphiaID": 159338,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Mugiliformes",
+      "family": "Mugilidae",
+      "genus": "Mugil",
+      "species": "Mugil setosus",
+      "AphiaID": 273659,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -37164,6 +38133,18 @@
       "genus": "Etrumeus",
       "species": "Etrumeus micropus",
       "AphiaID": 217442,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Clupeiformes",
+      "family": "Dorosomatidae",
+      "genus": "Lile",
+      "species": "Lile stolifera",
+      "AphiaID": 281353,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -37447,7 +38428,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Tubastraea",
@@ -37458,7 +38439,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Calyptrophora",
@@ -37478,6 +38459,42 @@
       "group": "fish",
       "obis": false,
       "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Anguilliformes",
+      "family": "Ophichthidae",
+      "genus": "Myrichthys",
+      "species": "Myrichthys maculosus",
+      "AphiaID": 217578,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Tetraodontiformes",
+      "family": "Tetraodontidae",
+      "genus": "Arothron",
+      "species": "Arothron stellatus",
+      "AphiaID": 219928,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Procellariiformes",
+      "family": "Diomedeidae",
+      "genus": "Phoebastria",
+      "species": "Phoebastria nigripes",
+      "AphiaID": 344106,
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "NT"
     },
     {
       "phylum": "Platyhelminthes",
@@ -37558,17 +38575,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chlorophyta",
-      "class": "Ulvophyceae",
-      "order": "Ulvales",
-      "family": "Ulvaceae",
-      "genus": "Ulva",
-      "species": "Ulva lobata",
-      "AphiaID": 211467,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Platyhelminthes",
       "order": "Rhabdocoela",
       "family": "Schizorhynchidae",
@@ -37585,17 +38591,6 @@
       "genus": "Graffiellus",
       "species": "Graffiellus manusferrea",
       "AphiaID": 1062766,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Decapoda",
-      "family": "Polychelidae",
-      "genus": "Pentacheles",
-      "species": "Pentacheles laevis",
-      "AphiaID": 382979,
       "obis": false,
       "gbif": true
     },
@@ -38013,6 +39008,17 @@
       "gbif": true
     },
     {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Ceramium",
+      "species": "Ceramium serpens",
+      "AphiaID": 211688,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Mollusca",
       "class": "Bivalvia",
       "order": "Venerida",
@@ -38020,6 +39026,17 @@
       "genus": "Leukoma",
       "species": "Leukoma lima",
       "AphiaID": 507741,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Rhodophyta",
+      "class": "Florideophyceae",
+      "order": "Ceramiales",
+      "family": "Ceramiaceae",
+      "genus": "Corallophila",
+      "species": "Corallophila huysmansii",
+      "AphiaID": 214097,
       "obis": false,
       "gbif": true
     },
@@ -38158,8 +39175,19 @@
       "gbif": true
     },
     {
+      "phylum": "Bryozoa",
+      "class": "Gymnolaemata",
+      "order": "Cheilostomatida",
+      "family": "Onychocellidae",
+      "genus": "Smittipora",
+      "species": "Smittipora americana",
+      "AphiaID": 470137,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Plexauridae",
       "genus": "Muricea",
@@ -38334,7 +39362,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Amphianthidae",
       "genus": "Stephanauge",
@@ -38367,7 +39395,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actinostolidae",
       "genus": "Actinostola",
@@ -38542,7 +39570,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Hormathiidae",
       "genus": "Paracalliactis",
@@ -39454,7 +40482,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Protoptilidae",
       "genus": "Distichoptilum",
@@ -39677,18 +40705,6 @@
       "gbif": true
     },
     {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Diomedeidae",
-      "genus": "Phoebastria",
-      "species": "Phoebastria nigripes",
-      "AphiaID": 344106,
-      "obis": false,
-      "gbif": true,
-      "redlist_category": "NT"
-    },
-    {
       "phylum": "Mollusca",
       "class": "Gastropoda",
       "order": "Cephalaspidea",
@@ -39815,6 +40831,19 @@
     },
     {
       "phylum": "Chordata",
+      "class": "Elasmobranchii",
+      "order": "Myliobatiformes",
+      "family": "Myliobatidae",
+      "genus": "Myliobatis",
+      "species": "Myliobatis longirostris",
+      "AphiaID": 271489,
+      "group": "fish",
+      "obis": false,
+      "gbif": true,
+      "redlist_category": "VU"
+    },
+    {
+      "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Ophidiiformes",
       "family": "Bythitidae",
@@ -39851,7 +40880,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Primnoidae",
       "genus": "Paracalyptrophora",
@@ -39868,17 +40897,6 @@
       "genus": "Styela",
       "species": "Styela psoliformis",
       "AphiaID": 251411,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Procellariiformes",
-      "family": "Procellariidae",
-      "genus": "Puffinus",
-      "species": "Puffinus pacificus",
-      "AphiaID": 212634,
       "obis": false,
       "gbif": true
     },
@@ -39918,7 +40936,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Funiculinidae",
       "genus": "Funiculina",
@@ -40017,7 +41035,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Chrysogorgiidae",
       "genus": "Chrysogorgia",
@@ -40318,6 +41336,17 @@
       "gbif": true
     },
     {
+      "phylum": "Mollusca",
+      "class": "Gastropoda",
+      "order": "Neogastropoda",
+      "family": "Conidae",
+      "genus": "Conus",
+      "species": "Conus orion",
+      "AphiaID": 428226,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
@@ -40396,7 +41425,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Anthoptilidae",
       "genus": "Anthoptilum",
@@ -40615,17 +41644,6 @@
       "gbif": true
     },
     {
-      "phylum": "Echinodermata",
-      "class": "Asteroidea",
-      "order": "Forcipulatida",
-      "family": "Heliasteridae",
-      "genus": "Heliaster",
-      "species": "Heliaster microbrachius",
-      "AphiaID": 255075,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Platyhelminthes",
       "order": "Rhabdocoela",
       "family": "Cheliplanidae",
@@ -40657,7 +41675,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Gorgoniidae",
       "genus": "Adelogorgia",

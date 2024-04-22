@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-22T10:20:12",
+  "created": "2024-04-22T02:33:54",
   "species": [
     {
       "phylum": "Bryozoa",
@@ -2619,7 +2619,7 @@
       "genus": "Tylosurus",
       "species": "Tylosurus melanotus",
       "AphiaID": 213650,
-      "records": 3,
+      "records": 2,
       "max_year": 1947,
       "group": "fish",
       "obis": true,
@@ -7216,7 +7216,7 @@
       "genus": "Sargocentron",
       "species": "Sargocentron rubrum",
       "AphiaID": 126400,
-      "records": 4,
+      "records": 3,
       "max_year": 1947,
       "group": "fish",
       "obis": true,
@@ -7659,7 +7659,7 @@
       "genus": "Myctophum",
       "species": "Myctophum aurolaternatum",
       "AphiaID": 217715,
-      "records": 4,
+      "records": 3,
       "max_year": 1948,
       "group": "fish",
       "obis": true,
@@ -7673,7 +7673,7 @@
       "genus": "Myctophum",
       "species": "Myctophum nitidulum",
       "AphiaID": 126626,
-      "records": 3,
+      "records": 2,
       "max_year": 1948,
       "group": "fish",
       "obis": true,
@@ -8311,7 +8311,7 @@
       "genus": "Dascyllus",
       "species": "Dascyllus trimaculatus",
       "AphiaID": 212846,
-      "records": 11,
+      "records": 9,
       "max_year": 1995,
       "group": "fish",
       "obis": true,
@@ -12440,17 +12440,6 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "order": "Ciconiiformes",
-      "family": "Ardeidae",
-      "genus": "Egretta",
-      "species": "Egretta sacra",
-      "AphiaID": 446493,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
       "order": "Pelecaniformes",
       "family": "Sulidae",
       "genus": "Sula",
@@ -12460,8 +12449,19 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ardeidae",
+      "genus": "Egretta",
+      "species": "Egretta sacra",
+      "AphiaID": 446493,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Melithaeidae",
       "genus": "Melithaea",
@@ -12596,7 +12596,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Subergorgiidae",
       "genus": "Subergorgia",
@@ -12650,6 +12650,17 @@
       "gbif": true
     },
     {
+      "phylum": "Echinodermata",
+      "class": "Holothuroidea",
+      "order": "Holothuriida",
+      "family": "Holothuriidae",
+      "genus": "Bohadschia",
+      "species": "Bohadschia argus",
+      "AphiaID": 210768,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Syngnathiformes",
@@ -12674,7 +12685,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Ellisellidae",
       "genus": "Ellisella",
@@ -12696,7 +12707,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Stichodactylidae",
       "genus": "Radianthus",
@@ -12729,7 +12740,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Stichodactylidae",
       "genus": "Stichodactyla",
@@ -12740,7 +12751,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Stichodactylidae",
       "genus": "Radianthus",
@@ -12751,7 +12762,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Actinodendridae",
       "genus": "Megalactis",
@@ -12762,7 +12773,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Dendrophylliidae",
       "genus": "Tubastraea",
@@ -12773,7 +12784,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Euphylliidae",
       "genus": "Galaxea",
@@ -12785,7 +12796,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Astrogorgiidae",
       "genus": "Astrogorgia",
@@ -12796,7 +12807,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Paramuriceidae",
       "genus": "Villogorgia",
@@ -13026,6 +13037,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Actitis",
+      "species": "Actitis hypoleucos",
+      "AphiaID": 212603,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
       "order": "Decapoda",
@@ -13038,7 +13060,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Coelogorgiidae",
       "genus": "Coelogorgia",
@@ -13133,17 +13155,6 @@
       "genus": "Blasicrura",
       "species": "Blasicrura pallidula",
       "AphiaID": 708938,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Echinodermata",
-      "class": "Holothuroidea",
-      "order": "Holothuriida",
-      "family": "Holothuriidae",
-      "genus": "Bohadschia",
-      "species": "Bohadschia argus",
-      "AphiaID": 210768,
       "obis": false,
       "gbif": true
     },
@@ -13353,7 +13364,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Lobophylliidae",
       "genus": "Lobophyllia",
@@ -13388,7 +13399,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Thalassianthidae",
       "genus": "Cryptodendrum",
@@ -13590,6 +13601,17 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Ciconiiformes",
+      "family": "Ardeidae",
+      "genus": "Egretta",
+      "species": "Egretta garzetta",
+      "AphiaID": 159115,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Echinodermata",
       "class": "Holothuroidea",
       "order": "Holothuriida",
@@ -13636,7 +13658,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Plerogyridae",
       "genus": "Physogyra",
@@ -13648,7 +13670,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Agariciidae",
       "genus": "Pavona",
@@ -13659,7 +13681,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Siphonogorgiidae",
       "genus": "Siphonogorgia",

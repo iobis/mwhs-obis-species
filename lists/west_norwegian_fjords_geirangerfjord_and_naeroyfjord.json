@@ -1,5 +1,5 @@
 {
-  "created": "2024-01-22T10:20:12",
+  "created": "2024-04-22T02:33:54",
   "species": [
     {
       "phylum": "Chordata",
@@ -392,17 +392,6 @@
       "gbif": true
     },
     {
-      "phylum": "Tracheophyta",
-      "class": "Magnoliopsida",
-      "order": "Poales",
-      "family": "Poaceae",
-      "genus": "Elymus",
-      "species": "Elymus repens",
-      "AphiaID": 577506,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Anseriformes",
@@ -410,6 +399,17 @@
       "genus": "Mergus",
       "species": "Mergus merganser",
       "AphiaID": 159097,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Tracheophyta",
+      "class": "Magnoliopsida",
+      "order": "Poales",
+      "family": "Poaceae",
+      "genus": "Elymus",
+      "species": "Elymus repens",
+      "AphiaID": 577506,
       "obis": false,
       "gbif": true
     },
@@ -426,7 +426,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Pennatulidae",
       "genus": "Pennatula",
@@ -492,7 +492,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Kophobelemnidae",
       "genus": "Kophobelemnon",
@@ -544,6 +544,17 @@
       "genus": "Pluvialis",
       "species": "Pluvialis apricaria",
       "AphiaID": 159135,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
+      "order": "Fucales",
+      "family": "Fucaceae",
+      "genus": "Fucus",
+      "species": "Fucus vesiculosus",
+      "AphiaID": 145548,
       "obis": false,
       "gbif": true
     },
@@ -637,7 +648,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Funiculinidae",
       "genus": "Funiculina",
@@ -709,6 +720,18 @@
       "genus": "Scomber",
       "species": "Scomber scombrus",
       "AphiaID": 127023,
+      "group": "fish",
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Teleostei",
+      "order": "Gobiiformes",
+      "family": "Gobiidae",
+      "genus": "Pomatoschistus",
+      "species": "Pomatoschistus flavescens",
+      "AphiaID": 1526389,
       "group": "fish",
       "obis": false,
       "gbif": true
@@ -892,7 +915,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Scleralcyonacea",
       "family": "Virgulariidae",
       "genus": "Virgularia",
@@ -903,7 +926,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Octocorallia",
       "order": "Malacalcyonacea",
       "family": "Alcyoniidae",
       "genus": "Alcyonium",
@@ -928,9 +951,9 @@
       "class": "Bivalvia",
       "order": "Carditida",
       "family": "Astartidae",
-      "genus": "Astarte",
-      "species": "Astarte elliptica",
-      "AphiaID": 138821,
+      "genus": "Tridonta",
+      "species": "Tridonta elliptica",
+      "AphiaID": 152282,
       "obis": false,
       "gbif": true
     },
@@ -1128,9 +1151,9 @@
       "class": "Coccolithophyceae",
       "order": "Isochrysidales",
       "family": "Noelaerhabdaceae",
-      "genus": "Emiliania",
-      "species": "Emiliania huxleyi",
-      "AphiaID": 115104,
+      "genus": "Gephyrocapsa",
+      "species": "Gephyrocapsa huxleyi",
+      "AphiaID": 236056,
       "obis": false,
       "gbif": true
     },
@@ -1311,6 +1334,10 @@
       "gbif": true
     },
     {
+      "phylum": "Bigyra",
+      "class": "Nanomonadea",
+      "order": "Uniciliatida",
+      "family": "Solenicolidae",
       "genus": "Solenicola",
       "species": "Solenicola setigera",
       "AphiaID": 118073,
@@ -1320,7 +1347,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophysiales",
+      "order": "Dinophysales",
       "family": "Oxyphysaceae",
       "genus": "Phalacroma",
       "species": "Phalacroma rotundatum",
@@ -1342,8 +1369,8 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Peridiniales",
-      "family": "Peridiniaceae",
+      "order": "Thoracosphaerales",
+      "family": "Thoracosphaeraceae",
       "genus": "Scrippsiella",
       "species": "Scrippsiella acuminata",
       "AphiaID": 1321853,
@@ -1354,7 +1381,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Gonyaulacaceae",
+      "family": "Protoceratiaceae",
       "genus": "Protoceratium",
       "species": "Protoceratium reticulatum",
       "AphiaID": 110321,
@@ -1516,8 +1543,8 @@
     },
     {
       "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
+      "class": "Pyramimonadophyceae",
+      "order": "Pyramimonadales",
       "family": "Pterospermataceae",
       "genus": "Pterosperma",
       "species": "Pterosperma cristatum",
@@ -1672,7 +1699,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Ostreopsidaceae",
+      "family": "Pyrocystaceae",
       "genus": "Alexandrium",
       "species": "Alexandrium ostenfeldii",
       "AphiaID": 109712,
@@ -1770,7 +1797,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophysiales",
+      "order": "Dinophysales",
       "family": "Dinophysaceae",
       "genus": "Dinophysis",
       "species": "Dinophysis odiosa",
@@ -1785,6 +1812,17 @@
       "genus": "Telonema",
       "species": "Telonema subtile",
       "AphiaID": 118075,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Chrysophyceae",
+      "order": "Chromulinales",
+      "family": "Dinobryaceae",
+      "genus": "Ollicola",
+      "species": "Ollicola vangoorii",
+      "AphiaID": 162740,
       "obis": false,
       "gbif": true
     },
@@ -1923,7 +1961,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Pyrocystales",
+      "order": "Gonyaulacales",
       "family": "Pyrocystaceae",
       "genus": "Dissodinium",
       "species": "Dissodinium pseudolunula",
@@ -1943,7 +1981,8 @@
       "gbif": true
     },
     {
-      "class": "Ebriophyceae",
+      "phylum": "Cercozoa",
+      "class": "Thecofilosea",
       "order": "Ebriales",
       "family": "Ebriaceae",
       "genus": "Ebria",
@@ -1976,8 +2015,8 @@
     },
     {
       "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
+      "class": "Pyramimonadophyceae",
+      "order": "Pyramimonadales",
       "family": "Pterospermataceae",
       "genus": "Pterosperma",
       "species": "Pterosperma vanhoeffenii",
@@ -2055,7 +2094,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gymnodiniales",
-      "family": "Brachidiniaceae",
+      "family": "Kareniaceae",
       "genus": "Karenia",
       "species": "Karenia mikimotoi",
       "AphiaID": 233024,
@@ -2209,7 +2248,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Ostreopsidaceae",
+      "family": "Pyrocystaceae",
       "genus": "Alexandrium",
       "species": "Alexandrium pseudogonyaulax",
       "AphiaID": 109713,
@@ -2218,8 +2257,8 @@
     },
     {
       "phylum": "Euglenozoa",
-      "class": "Euglenoidea",
-      "order": "Eutreptiida",
+      "class": "Euglenophyceae",
+      "order": "Eutreptiales",
       "family": "Eutreptiaceae",
       "genus": "Eutreptiella",
       "species": "Eutreptiella gymnastica",
@@ -2235,6 +2274,17 @@
       "genus": "Chaetoceros",
       "species": "Chaetoceros subtilis",
       "AphiaID": 156621,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Laridae",
+      "genus": "Sterna",
+      "species": "Sterna paradisaea",
+      "AphiaID": 137165,
       "obis": false,
       "gbif": true
     },
@@ -2274,22 +2324,11 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophysiales",
+      "order": "Dinophysales",
       "family": "Dinophysaceae",
       "genus": "Dinophysis",
       "species": "Dinophysis dens",
       "AphiaID": 109616,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Ochrophyta",
-      "class": "Phaeophyceae",
-      "order": "Fucales",
-      "family": "Fucaceae",
-      "genus": "Fucus",
-      "species": "Fucus vesiculosus",
-      "AphiaID": 145548,
       "obis": false,
       "gbif": true
     },
@@ -2615,7 +2654,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gonyaulacales",
-      "family": "Ostreopsidaceae",
+      "family": "Pyrocystaceae",
       "genus": "Alexandrium",
       "species": "Alexandrium minutum",
       "AphiaID": 109711,
@@ -2680,7 +2719,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophyceae incertae sedis",
+      "order": "Gonyaulacales",
       "family": "Amphidomataceae",
       "genus": "Azadinium",
       "species": "Azadinium spinosum",
@@ -2749,17 +2788,6 @@
       "genus": "Bradabyssa",
       "species": "Bradabyssa villosa",
       "AphiaID": 1355594,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chordata",
-      "class": "Aves",
-      "order": "Charadriiformes",
-      "family": "Laridae",
-      "genus": "Sterna",
-      "species": "Sterna paradisaea",
-      "AphiaID": 137165,
       "obis": false,
       "gbif": true
     },
@@ -3466,9 +3494,9 @@
       "phylum": "Annelida",
       "class": "Polychaeta",
       "family": "Oweniidae",
-      "genus": "Myrioglobula",
-      "species": "Myrioglobula malmgreni",
-      "AphiaID": 390394,
+      "genus": "Myriochele",
+      "species": "Myriochele malmgreni",
+      "AphiaID": 1741797,
       "obis": false,
       "gbif": true
     },
@@ -4013,7 +4041,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophyceae incertae sedis",
+      "order": "Gonyaulacales",
       "family": "Amphidomataceae",
       "genus": "Azadinium",
       "species": "Azadinium caudatum",
@@ -4057,7 +4085,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophysiales",
+      "order": "Dinophysales",
       "family": "Dinophysaceae",
       "genus": "Dinophysis",
       "species": "Dinophysis tripos",
@@ -4068,7 +4096,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Pyrocystales",
+      "order": "Gonyaulacales",
       "family": "Pyrocystaceae",
       "genus": "Dissodinium",
       "species": "Dissodinium pseudocalani",
@@ -4116,8 +4144,8 @@
       "order": "Gymnodiniales",
       "family": "Gymnodiniaceae",
       "genus": "Gymnodinium",
-      "species": "Gymnodinium irregulare",
-      "AphiaID": 232792,
+      "species": "Gymnodinium uberrimum",
+      "AphiaID": 109834,
       "obis": false,
       "gbif": true
     },
@@ -4127,8 +4155,8 @@
       "order": "Gymnodiniales",
       "family": "Gymnodiniaceae",
       "genus": "Gymnodinium",
-      "species": "Gymnodinium uberrimum",
-      "AphiaID": 109834,
+      "species": "Gymnodinium irregulare",
+      "AphiaID": 232792,
       "obis": false,
       "gbif": true
     },
@@ -4321,7 +4349,9 @@
     },
     {
       "phylum": "Euglenozoa",
-      "class": "Kinetoplastea",
+      "class": "Diplonemea",
+      "order": "Diplonemida",
+      "family": "Hemistasiidae",
       "genus": "Hemistasia",
       "species": "Hemistasia phaeocysticola",
       "AphiaID": 146166,
@@ -4386,28 +4416,6 @@
       "redlist_category": "NT"
     },
     {
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Cyaneidae",
-      "genus": "Cyanea",
-      "species": "Cyanea capillata",
-      "AphiaID": 135301,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Cnidaria",
-      "class": "Scyphozoa",
-      "order": "Semaeostomeae",
-      "family": "Ulmaridae",
-      "genus": "Aurelia",
-      "species": "Aurelia aurita",
-      "AphiaID": 135306,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Clupeiformes",
@@ -4420,17 +4428,6 @@
       "gbif": true
     },
     {
-      "phylum": "Arthropoda",
-      "class": "Malacostraca",
-      "order": "Amphipoda",
-      "family": "Gammaridae",
-      "genus": "Gammarus",
-      "species": "Gammarus lacustris",
-      "AphiaID": 234085,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Elasmobranchii",
       "order": "Carcharhiniformes",
@@ -4439,17 +4436,6 @@
       "species": "Galeus melastomus",
       "AphiaID": 105812,
       "group": "fish",
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Mollusca",
-      "class": "Bivalvia",
-      "order": "Mytilida",
-      "family": "Mytilidae",
-      "genus": "Modiolus",
-      "species": "Modiolus modiolus",
-      "AphiaID": 140467,
       "obis": false,
       "gbif": true
     },
@@ -4549,17 +4535,6 @@
       "gbif": true
     },
     {
-      "phylum": "Ochrophyta",
-      "class": "Phaeophyceae",
-      "order": "Fucales",
-      "family": "Fucaceae",
-      "genus": "Pelvetia",
-      "species": "Pelvetia canaliculata",
-      "AphiaID": 145550,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Teleostei",
       "order": "Pleuronectiformes",
@@ -4620,6 +4595,17 @@
     {
       "phylum": "Arthropoda",
       "class": "Malacostraca",
+      "order": "Amphipoda",
+      "family": "Gammaridae",
+      "genus": "Gammarus",
+      "species": "Gammarus lacustris",
+      "AphiaID": 234085,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Arthropoda",
+      "class": "Malacostraca",
       "order": "Decapoda",
       "family": "Paguridae",
       "genus": "Pagurus",
@@ -4636,17 +4622,6 @@
       "genus": "Nephrops",
       "species": "Nephrops norvegicus",
       "AphiaID": 107254,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Arthropoda",
-      "class": "Branchiopoda",
-      "order": "Onychopoda",
-      "family": "Polyphemidae",
-      "genus": "Polyphemus",
-      "species": "Polyphemus pediculus",
-      "AphiaID": 409915,
       "obis": false,
       "gbif": true
     },
@@ -4724,17 +4699,6 @@
       "genus": "Littorina",
       "species": "Littorina littorea",
       "AphiaID": 140262,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Annelida",
-      "class": "Clitellata",
-      "order": "Lumbriculida",
-      "family": "Lumbriculidae",
-      "genus": "Lumbriculus",
-      "species": "Lumbriculus variegatus",
-      "AphiaID": 177538,
       "obis": false,
       "gbif": true
     },
@@ -5006,6 +4970,17 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Numenius",
+      "species": "Numenius phaeopus",
+      "AphiaID": 159040,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Chordata",
+      "class": "Aves",
       "order": "Gaviiformes",
       "family": "Gaviidae",
       "genus": "Gavia",
@@ -5040,7 +5015,7 @@
     {
       "phylum": "Rhodophyta",
       "class": "Florideophyceae",
-      "order": "Corallinales",
+      "order": "Hapalidiales",
       "family": "Hapalidiaceae",
       "genus": "Phymatolithon",
       "species": "Phymatolithon lenormandii",
@@ -5135,16 +5110,6 @@
       "genus": "Alona",
       "species": "Alona affinis",
       "AphiaID": 412807,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Annelida",
-      "class": "Polychaeta",
-      "family": "Arenicolidae",
-      "genus": "Arenicola",
-      "species": "Arenicola marina",
-      "AphiaID": 129868,
       "obis": false,
       "gbif": true
     },
@@ -5335,7 +5300,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Scleractinia",
       "family": "Caryophylliidae",
       "genus": "Desmophyllum",
@@ -5359,7 +5324,7 @@
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
       "order": "Gymnodiniales",
-      "family": "Gymnodiniaceae",
+      "family": "Gyrodiniaceae",
       "genus": "Gyrodinium",
       "species": "Gyrodinium fusiforme",
       "AphiaID": 109856,
@@ -5368,8 +5333,8 @@
     },
     {
       "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
+      "class": "Pyramimonadophyceae",
+      "order": "Pyramimonadales",
       "family": "Pterospermataceae",
       "genus": "Pterosperma",
       "species": "Pterosperma moebii",
@@ -5444,17 +5409,6 @@
       "gbif": true
     },
     {
-      "phylum": "Myzozoa",
-      "class": "Dinophyceae",
-      "order": "Gymnodiniales",
-      "family": "Gymnodiniaceae",
-      "genus": "Gyrodinium",
-      "species": "Gyrodinium spirale",
-      "AphiaID": 109876,
-      "obis": false,
-      "gbif": true
-    },
-    {
       "phylum": "Chordata",
       "class": "Aves",
       "order": "Charadriiformes",
@@ -5465,6 +5419,17 @@
       "obis": false,
       "gbif": true,
       "redlist_category": "VU"
+    },
+    {
+      "phylum": "Myzozoa",
+      "class": "Dinophyceae",
+      "order": "Gymnodiniales",
+      "family": "Gyrodiniaceae",
+      "genus": "Gyrodinium",
+      "species": "Gyrodinium spirale",
+      "AphiaID": 109876,
+      "obis": false,
+      "gbif": true
     },
     {
       "phylum": "Bryozoa",
@@ -5589,8 +5554,8 @@
     },
     {
       "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
+      "class": "Pyramimonadophyceae",
+      "order": "Pyramimonadales",
       "family": "Pterospermataceae",
       "genus": "Pterosperma",
       "species": "Pterosperma undulatum",
@@ -5743,6 +5708,15 @@
       "gbif": true
     },
     {
+      "phylum": "Chordata",
+      "class": "Aves",
+      "genus": "Gulosus",
+      "species": "Gulosus aristotelis",
+      "AphiaID": 1704278,
+      "obis": false,
+      "gbif": true
+    },
+    {
       "phylum": "Annelida",
       "order": "Sipuncula",
       "family": "Golfingiidae",
@@ -5793,17 +5767,6 @@
       "genus": "Chaetoceros",
       "species": "Chaetoceros castracanei",
       "AphiaID": 341473,
-      "obis": false,
-      "gbif": true
-    },
-    {
-      "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
-      "family": "Pterospermataceae",
-      "genus": "Pterosperma",
-      "species": "Pterosperma rotondum",
-      "AphiaID": 376688,
       "obis": false,
       "gbif": true
     },
@@ -5953,7 +5916,7 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
       "order": "Actiniaria",
       "family": "Edwardsiidae",
       "genus": "Paraedwardsia",
@@ -5964,11 +5927,23 @@
     },
     {
       "phylum": "Cnidaria",
-      "class": "Anthozoa",
+      "class": "Hexacorallia",
+      "order": "Ceriantharia",
       "family": "Synarachnactidae",
       "genus": "Synarachnactis",
       "species": "Synarachnactis lloydii",
       "AphiaID": 1674631,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Cnidaria",
+      "class": "Scyphozoa",
+      "order": "Semaeostomeae",
+      "family": "Cyaneidae",
+      "genus": "Cyanea",
+      "species": "Cyanea capillata",
+      "AphiaID": 135301,
       "obis": false,
       "gbif": true
     },
@@ -6024,6 +5999,17 @@
       "genus": "Lacuna",
       "species": "Lacuna vincta",
       "AphiaID": 140170,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Annelida",
+      "class": "Clitellata",
+      "order": "Lumbriculida",
+      "family": "Lumbriculidae",
+      "genus": "Lumbriculus",
+      "species": "Lumbriculus variegatus",
+      "AphiaID": 177538,
       "obis": false,
       "gbif": true
     },
@@ -6119,11 +6105,14 @@
     {
       "phylum": "Chordata",
       "class": "Aves",
-      "genus": "Gulosus",
-      "species": "Gulosus aristotelis",
-      "AphiaID": 1704278,
+      "order": "Charadriiformes",
+      "family": "Scolopacidae",
+      "genus": "Gallinago",
+      "species": "Gallinago media",
+      "AphiaID": 416701,
       "obis": false,
-      "gbif": true
+      "gbif": true,
+      "redlist_category": "NT"
     },
     {
       "phylum": "Chordata",
@@ -6236,6 +6225,17 @@
     {
       "phylum": "Ochrophyta",
       "class": "Phaeophyceae",
+      "order": "Fucales",
+      "family": "Fucaceae",
+      "genus": "Pelvetia",
+      "species": "Pelvetia canaliculata",
+      "AphiaID": 145550,
+      "obis": false,
+      "gbif": true
+    },
+    {
+      "phylum": "Ochrophyta",
+      "class": "Phaeophyceae",
       "order": "Ectocarpales",
       "family": "Ectocarpaceae",
       "genus": "Ectocarpus",
@@ -6322,8 +6322,8 @@
     },
     {
       "phylum": "Chlorophyta",
-      "class": "Prasinophyceae",
-      "order": "Halosphaerales",
+      "class": "Pyramimonadophyceae",
+      "order": "Pyramimonadales",
       "family": "Pterospermataceae",
       "genus": "Pterosperma",
       "species": "Pterosperma porosum",
@@ -6484,7 +6484,7 @@
     {
       "phylum": "Myzozoa",
       "class": "Dinophyceae",
-      "order": "Dinophysiales",
+      "order": "Dinophysales",
       "family": "Dinophysaceae",
       "genus": "Dinophysis",
       "species": "Dinophysis ovata",
