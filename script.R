@@ -121,9 +121,17 @@ worms_for_names <- possibly(function(x) {
 
 gbif_species_for_site <- function(site) {
   cells <- polygon_to_cells(site$geom, h3_res)
-  if (all(is.na(cells))) {
+  if (all(is.na(cells)) | site$name_simplified == "natural_system_of_wrangel_island_reserve") {
     return(data.frame())
   }
+  # polys <- cell_to_polygon(cells) # %>% st_wrap_dateline() %>% st_as_text()
+  # res <- map(polys, function(poly) {
+  #   wkts <- poly %>% st_wrap_dateline() %>% st_cast("POLYGON") %>% st_make_valid() %>% st_as_text()
+  #   map(wkts, function(wkt) {
+  #     message(wkt)
+  #     occ_search(geometry = wkt, facet = "speciesKey", facetLimit = 10000, limit = 0)$facets$speciesKey
+  #   })
+  # }, .progress = TRUE)
   polys <- cell_to_polygon(cells) %>% st_as_text()
   res <- map(polys, function(wkt) {
     occ_search(geometry = wkt, facet = "speciesKey", facetLimit = 10000, limit = 0)$facets$speciesKey
