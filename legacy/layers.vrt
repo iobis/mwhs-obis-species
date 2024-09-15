@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="world_h3">
+        <SrcDataSource>data/world_h3_wrap_valid_explode.gpkg</SrcDataSource>
+    </OGRVRTLayer>
+    <OGRVRTLayer name="marine_world_heritage_union">
+        <SrcDataSource>data/marine_world_heritage_union.shp</SrcDataSource>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
